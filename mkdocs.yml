@@ -1,0 +1,41 @@
+site_name: HBO Max Wiki
+
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: indigo
+
+nav:
+  - Início: index.md
+  - Planejamento:
+      - Heatmap: Heatmap.md
+      - Metodologia: Metodologia.md
+  - Pré-Rastreabilidade:
+      - Rich Picture: Rich-Picture.md
+  - Elicitação:
+      - Análise de Protocolo: Análise-de-Protocolo.md
+      - Brainstorming: Brainstorming.md
+      - Entrevista: Entrevista.md
+      - Introspecção: introspecção.md
+      - Questionário: Questionário.md
+      - Storytelling: Storytelling.md
+      - Requisitos Elicitados: Requisitos-Elicitados.md
+  - Modelagem: 
+      - Cenários: Cenários.md
+      - Léxicos: Léxicos.md
+      - Casos de Uso: Casos-de-Uso.md
+      - Especificação Suplementar: Especificacao.md
+      - NFR Framework: NFR-Framework.md
+      - Àgil: Àgil.md
+  - Análise: 
+      - Veríficação: Veríficação.md
+      - Validação: Validação.md
+
+  - Pós-Rastreabilidade:
+      - Backward From: Backward-From.md
+      - Forward From: Forward-From.md
+
+extra_css:
+  - stylesheets/extra.css
+  
