@@ -2,7 +2,7 @@
 
 <div aling="center"> 
    <a href="https://www.hbomax.com/br/pt" target="_blank">
-        <img src="https://i.postimg.cc/0yT2v637/HBO-Max-logo.jpg"  width="200" alt="Logo"/>
+        <img src="https://i.postimg.cc/0yT2v637/HBO-Max-logo.jpg"  height="260px"  width="100%" alt="Logo"/>
     </a>
 </div>
 
