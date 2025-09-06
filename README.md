@@ -1,8 +1,10 @@
-# Aplicativo
+# HBO Max - Grupo 5
 
-<p aling="center"> 
-<img src="https://i.postimg.cc/pLN4s280/hbo-max.jpg" alt="logo" width="180">
-</p>
+<div aling="center"> 
+   <a href="https://www.hbomax.com/br/pt" target="_blank">
+        <img src="https://i.postimg.cc/pLN4s280/hbo-max.jpg" height="170px" alt="Logo"/>
+    </a>
+</div>
 
 ## 💡 Introdução
 ESte repositório foi desenvolvido para documentar o trabalho da disciplina de Requisitos de Software da FGA - UnB. Nosso projeto consiste em um estudo aprofundado 
@@ -18,9 +20,10 @@ Além de permitir que os usuários assistam a seus títulos favoritos a qualquer
 ---
 
 ## 👨‍💻 Integrantes da Equipe
-| [Camila Cavalvante](https://github.com/CamilaSilvaC) | [Geovanna Umbelino](https://github.com/GeovannaUmbelino) | [Lara Mota](https://github.com/mel14-hub) | [Luísa Ferreira](https://github.com/luisa12ll) | [Pedro Henrique Pereira](https://github.com/pedrohpsantos) | [Yan Matheus Aguiar](https://github.com/Yanmatheus0812) | 
+| <span style="color:black;">[Camila Cavalvante](https://github.com/CamilaSilvaC)</span> | <span style="color:black;">[Geovanna Umbelino](https://github.com/GeovannaUmbelino)</span> | <span style="color:black;">[Lara Mota](https://github.com/mel14-hub)</span> | <span style="color:black;">[Luísa Ferreira](https://github.com/luisa12ll)</span> | <span style="color:black;">[Pedro Henrique Pereira](https://github.com/pedrohpsantos)</span> | <span style="color:black;">[Yan Matheus Aguiar](https://github.com/Yanmatheus0812)</span> |
 |---|---|---|---|---|---|
-| <img src="https://github.com/CamilaSilvaC.png" width="90"> | <img src="https://github.com/GeovannaUmbelino.png" width="90"> | <img src="https://github.com/mel14-hub.png" width="90"> | <img src="https://github.com/luisa12ll.png" width="90"> | <img src="https://github.com/pedrohpsantos.png" width="90"> | <img src="https://github.com/Yanmatheus0812.png" width="90"> |
+| <div align="center"><img src="https://github.com/CamilaSilvaC.png" width="90"></div> | <div align="center"><img src="https://github.com/GeovannaUmbelino.png" width="90"></div> | <div align="center"><img src="https://github.com/mel14-hub.png" width="90"></div> | <div align="center"><img src="https://github.com/luisa12ll.png" width="90"></div> | <div align="center"><img src="https://github.com/pedrohpsantos.png" width="90"></div> | <div align="center"><img src="https://github.com/Yanmatheus0812.png" width="90"></div> |
+
 
 
 
