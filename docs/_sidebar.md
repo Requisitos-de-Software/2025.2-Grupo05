@@ -1,4 +1,4 @@
-- [Sobre](/README.md)
+- [Sobre](Homepage.md)
 - [Apresentações](apresentacoes.md)
 - **Planejamento**
   - [Heatmap](planejamento/Heatmap.md)
