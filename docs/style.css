@@ -1,0 +1,1091 @@
+/* ==========================================================================
+   1. Importações e Estilos Globais
+   ========================================================================== */
+
+@import url("https://fonts.googleapis.com/css?family=PT+Sans&Source+Sans+Pro&Roboto+Mono&display=swap");
+
+/* Reset e Configurações Globais */
+* {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-text-size-adjust: none;
+    -webkit-touch-callout: none;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: var(--siteFont), Helvetica Neue, Arial, sans-serif;
+    font-size: var(--bodyFontSize);
+    color: var(--textColor);
+    letter-spacing: 0;
+    overflow-x: hidden;
+    background-color: var(--background);
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    transition: background-image .15s ease-in-out .15s;
+}
+
+/* Estado de carregamento inicial */
+body:not(.ready) {
+    overflow: hidden;
+}
+
+body:not(.ready) .app-nav,
+body:not(.ready) > nav,
+body:not(.ready) [data-cloak] {
+    display: none;
+}
+
+div#app {
+    font-size: 30px;
+    font-weight: lighter;
+    margin: 40vh auto;
+    text-align: center;
+}
+
+div#app:empty:before {
+    content: "Loading...";
+}
+
+img {
+    max-width: 100%;
+}
+
+/* ==========================================================================
+   2. Componentes da Interface (UI)
+   ========================================================================== */
+
+/* Barra de Progresso de Carregamento */
+.progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    width: 0;
+    background-color: #000000;
+    transition: width .2s, opacity .4s;
+    z-index: 999999;
+}
+
+/* Barra de Navegação Superior */
+.app-nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 25px 60px 0 0;
+    text-align: right;
+    z-index: 10;
+}
+
+.app-nav.no-badge {
+    margin-right: 25px;
+}
+
+.app-nav p {
+    margin: 0;
+}
+
+.app-nav > a {
+    margin: 0 1rem;
+    padding: 5px 0;
+}
+
+.app-nav ul,
+.app-nav li {
+    display: inline-block;
+    list-style: none;
+    margin: 0;
+}
+
+.app-nav a {
+    color: inherit;
+    font-size: 16px;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+.app-nav a:hover,
+.app-nav a.active {
+    color: #000000;
+}
+
+.app-nav a.active {
+    border-bottom: 2px solid #000000;
+}
+
+/* Dropdown da Navegação */
+.app-nav li {
+    position: relative;
+    margin: 0 1rem;
+    padding: 5px 0;
+    cursor: pointer;
+}
+
+.app-nav li:hover ul {
+    display: block;
+}
+
+.app-nav li ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: -15px;
+    max-height: calc(100vh - 61px);
+    padding: 10px 0;
+    background-color: #fff;
+    border: 1px solid;
+    border-color: #ddd #ddd #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    overflow-y: auto;
+    text-align: left;
+    white-space: nowrap;
+}
+
+.app-nav li ul li {
+    display: block;
+    font-size: 14px;
+    line-height: 1rem;
+    margin: 8px 14px;
+    white-space: nowrap;
+}
+
+.app-nav li ul a {
+    display: block;
+    font-size: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+.app-nav li ul a.active {
+    border-bottom: 0;
+}
+
+/* Campo de Busca */
+.search {
+    border-bottom: none !important;
+}
+
+.search .input-wrap {
+    margin-top: 20px !important;
+}
+
+.search input {
+    width: 90% !important;
+    margin: 0 auto;
+    padding-left: 15px; /* Substituído text-indent */
+    border: 1px solid var(--borderColor) !important;
+    border-radius: 15px;
+    background-color: var(--background) !important;
+    color: var(--textColor);
+}
+
+.search .search-keyword,
+.search a:hover {
+    color: #000000;
+}
+
+.search .search-keyword {
+    font-style: normal;
+    font-weight: 700;
+}
+
+
+/* ==========================================================================
+   3. Layout Principal (Sidebar, Conteúdo)
+   ========================================================================== */
+
+main {
+    display: block;
+    position: relative;
+    width: 100vw;
+    height: 100%;
+    z-index: 0;
+}
+
+main.hidden {
+    display: none;
+}
+
+/* Sidebar (Menu Lateral) */
+.sidebar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 300px;
+    padding: 40px 0 0;
+    border-right: 1px solid var(--borderColor);
+    color: var(--textColor);
+    overflow-y: auto;
+    transition: transform .25s ease-out;
+    z-index: 20;
+}
+
+.sidebar > h1 {
+    margin: 0 auto 1rem;
+    font-size: 1.5rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+.sidebar > h1 a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.sidebar > h1 .app-nav {
+    display: block;
+    position: static;
+}
+
+.sidebar .sidebar-nav {
+    line-height: 2em;
+    padding-bottom: 40px;
+}
+
+.sidebar ul {
+    margin: 0 0 0 15px;
+    padding: 0;
+    list-style: none;
+}
+
+.sidebar ul li {
+    list-style: none;
+    margin: 6px 0;
+}
+
+.sidebar li > p {
+    font-weight: 700;
+    margin: 0;
+}
+
+.sidebar ul li a {
+    display: block;
+    border-bottom: none;
+    color: var(--sidebarSublink);
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.sidebar ul li a:hover {
+    text-decoration: underline;
+}
+
+.sidebar ul li.active > a {
+    border-right: 2px solid;
+    color: #000000;
+    font-weight: 600;
+}
+
+.sidebar li.collapse .app-sub-sidebar {
+    display: none;
+}
+
+.sidebar ul li ul {
+    padding-left: 20px;
+}
+
+.app-sub-sidebar li:before {
+    content: "-";
+    float: left;
+    padding-right: 4px;
+}
+
+/* Botão de alternância da Sidebar */
+.sidebar-toggle {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 284px;
+    padding: 10px;
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    text-align: center;
+    transition: opacity .3s;
+    cursor: pointer;
+    z-index: 30;
+}
+
+.sidebar-toggle:hover .sidebar-toggle-button {
+    opacity: .4;
+}
+
+.sidebar-toggle span {
+    display: block;
+    width: 16px;
+    height: 2px;
+    margin-bottom: 4px;
+    background-color: #000000;
+}
+
+/* Estado "sticky" para sidebar fixa */
+body.sticky .sidebar,
+body.sticky .sidebar-toggle {
+    position: fixed;
+}
+
+/* Estado "close" para sidebar oculta */
+body.close .sidebar {
+    transform: translateX(-300px);
+}
+
+body.close .content {
+    left: 0;
+}
+
+body.close .sidebar-toggle {
+    width: auto;
+}
+
+/* Área de Conteúdo Principal */
+.content {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 300px;
+    padding-top: 60px;
+    transition: left .25s ease;
+}
+
+.markdown-section {
+    position: relative;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 30px 15px 40px;
+}
+
+.markdown-section > * {
+    box-sizing: border-box;
+    font-size: inherit;
+}
+
+.markdown-section > :first-child {
+    margin-top: 0 !important;
+}
+
+
+/* ==========================================================================
+   4. Estilos de Conteúdo (Markdown)
+   ========================================================================== */
+
+/* Títulos */
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section strong {
+    color: var(--textColor);
+    font-weight: 600;
+}
+
+.markdown-section h1 {
+    font-size: 2rem;
+    margin: 0 0 1rem;
+}
+
+.markdown-section h2 {
+    font-size: 1.75rem;
+    margin: 45px 0 .8rem;
+    color: #fff; /* Estilo específico do código original */
+}
+
+.markdown-section h3 {
+    font-size: 1.5rem;
+    margin: 40px 0 .6rem;
+}
+
+.markdown-section h4 {
+    font-size: 1.25rem;
+}
+
+.markdown-section h5 {
+    font-size: 1rem;
+}
+
+.markdown-section h6 {
+    font-size: 1rem;
+    color: #777;
+}
+
+/* Parágrafos e Listas */
+.markdown-section p,
+.markdown-section figure,
+.markdown-section ol,
+.markdown-section ul {
+    margin: 1.2em 0;
+    line-height: 1.6rem;
+    word-spacing: .05rem;
+}
+
+.markdown-section ol,
+.markdown-section ul {
+    padding-left: 1.5rem;
+}
+
+.markdown-section ul.task-list > li {
+    list-style-type: none;
+}
+
+li input[type=checkbox] {
+    margin: 0 .2em .25em 0;
+    vertical-align: middle;
+}
+
+/* Links */
+.markdown-section a {
+    color: #000000;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+a[disabled] {
+    cursor: not-allowed;
+    opacity: .6;
+}
+
+.anchor {
+    display: inline-block;
+    text-decoration: none;
+    transition: all .3s;
+}
+
+.anchor span {
+    color: var(--textColor);
+}
+
+.anchor:hover {
+    text-decoration: underline;
+}
+
+/* Citações (Blockquotes) */
+.markdown-section blockquote {
+    margin: 2em 0;
+    padding-left: 20px;
+    border-left: 4px solid #000000;
+    color: var(--blockQuoteColor);
+}
+
+.markdown-section blockquote p {
+    font-weight: 600;
+    margin-left: 0;
+}
+
+/* Outros elementos */
+.markdown-section hr {
+    margin: 2em 0;
+    border: none;
+    border-bottom: 1px solid #eee;
+}
+
+.markdown-section iframe {
+    margin: 1em 0;
+    border: 1px solid #eee;
+    width: 1px;
+    min-width: 100%;
+}
+
+.emoji {
+    height: 1.2rem;
+    vertical-align: middle;
+}
+
+kbd {
+    display: inline-block;
+    margin-bottom: 3px;
+    padding: 3px 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 12px !important;
+    line-height: 12px;
+    vertical-align: middle;
+}
+
+/* Tabelas */
+.markdown-section table {
+    display: block;
+    width: 100%;
+    margin-bottom: 1rem;
+    border-collapse: collapse;
+    border-spacing: 0;
+    overflow: auto;
+}
+
+.markdown-section th {
+    font-weight: 700;
+}
+
+.markdown-section th,
+.markdown-section td {
+    padding: 6px 13px;
+    border: 1px solid #ddd;
+}
+
+.markdown-section tr {
+    border-top: 1px solid #ccc;
+}
+
+.markdown-section tr:nth-child(2n) {
+    background-color: var(--codeBackgroundColor);
+}
+
+/* Avisos (Tips & Warns) */
+.markdown-section p.tip {
+    position: relative;
+    margin: 2em 0;
+    padding: 12px 24px 12px 30px;
+    border-left: 4px solid #f66;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    background-color: var(--codeBackgroundColor);
+}
+
+.markdown-section p.tip:before {
+    content: "!";
+    position: absolute;
+    top: 14px;
+    left: -12px;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: #f66;
+    color: #fff;
+    font-family: Dosis, Source Sans Pro, Helvetica Neue, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: center;
+}
+
+.markdown-section p.tip code {
+    background-color: #efefef;
+}
+
+.markdown-section p.tip em {
+    color: #34495e;
+}
+
+.markdown-section p.warn {
+    padding: 1rem;
+    background: rgba(0, 0, 0, .1);
+    border-radius: 2px;
+}
+
+
+/* ==========================================================================
+   5. Estilos de Código e Syntax Highlighting
+   ========================================================================== */
+
+.markdown-section code,
+.markdown-section pre {
+    font-family: var(--codeFontFamily);
+    background-color: var(--codeBackgroundColor);
+}
+
+.markdown-section code {
+    margin: 0 2px;
+    padding: 3px 5px;
+    border-radius: 2px;
+    color: var(--highlightColor);
+    font-size: .9rem;
+    font-weight: bold;
+    white-space: pre-wrap;
+}
+
+.markdown-section pre {
+    position: relative;
+    margin: 1.2em 0;
+    padding: 0 1.4rem;
+    line-height: 1.5rem;
+    overflow: auto;
+    word-wrap: normal;
+    -webkit-font-smoothing: initial;
+    -moz-osx-font-smoothing: initial;
+}
+
+.markdown-section pre > code {
+    display: block;
+    margin: 0 2px;
+    padding: 2.2em 5px;
+    max-width: inherit;
+    border-radius: 2px;
+    color: var(--codeTextColor);
+    background-color: var(--codeBackgroundColor);
+    font-family: Roboto Mono, Monaco, courier, monospace;
+    font-size: .8rem;
+    line-height: inherit;
+    white-space: inherit;
+    overflow: inherit;
+    -webkit-font-smoothing: initial;
+    -moz-osx-font-smoothing: initial;
+}
+
+.markdown-section code:before,
+.markdown-section code:after {
+    letter-spacing: .05rem;
+}
+
+pre:after {
+    content: attr(data-lang);
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 15px;
+    padding: 5px 10px 0;
+    color: var(--codeTypeColor);
+    font-size: .6rem;
+    font-weight: 600;
+    line-height: 15px;
+    text-align: right;
+}
+
+/* Estilos de Token (Prism.js) */
+code .token {
+    position: relative;
+    left: auto;
+    min-height: 1.5rem;
+    -webkit-font-smoothing: initial;
+    -moz-osx-font-smoothing: initial;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+    color: #8e908c;
+}
+
+.token.punctuation {
+    color: #525252;
+}
+
+.token.namespace {
+    opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.deleted {
+    color: #c08b30;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+    color: #000000;
+}
+
+.language-css .token.string,
+.style .token.string,
+.token.entity,
+.token.url {
+    color: #22a2c9;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+    color: #e96900;
+}
+
+.token.function,
+.token.class-name {
+    color: #2973b7;
+}
+
+.token.regex,
+.token.important,
+.token.variable {
+    color: #3d8fd1;
+}
+
+.token.important,
+.token.bold {
+    font-weight: 700;
+}
+
+.token.italic {
+    font-style: italic;
+}
+
+.token.entity {
+    cursor: help;
+}
+
+/* ==========================================================================
+ /* 6. Página de Capa (Cover)
+   ========================================================================== */
+
+section.cover {
+    display: none;
+    align-items: center;
+    height: 100vh;
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+
+section.cover.show {
+    display: flex;
+    background: #000000 !important; /* Fundo preto garantido */
+    align-items: center; /* Centraliza verticalmente o conteúdo (logo, título, botão) */
+    justify-content: center; /* Centraliza horizontalmente o conteúdo */
+    flex-direction: column; /* Organiza os itens em coluna (logo em cima, título no meio, botão embaixo) */
+}
+
+section.cover.has-mask .mask {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fff; /* Mantém branco para o efeito de máscara se houver */
+    opacity: .8;
+}
+
+section.cover .cover-main {
+    flex: 1; /* Permite que o cover-main ocupe o espaço disponível */
+    margin: -20px 16px 0; /* Ajuste se necessário para o espaçamento */
+    text-align: center;
+    z-index: 1;
+}
+
+section.cover a {
+    color: inherit; /* Manterá a cor de texto herdada */
+    text-decoration: none;
+}
+
+section.cover a:hover {
+    text-decoration: none;
+}
+
+section.cover p {
+    margin: 1em 0;
+    line-height: 1.5rem;
+}
+
+section.cover h1 {
+    position: relative;
+    margin: .625rem 0 2.5rem; /* Ajuste o margin-bottom se precisar de mais espaço */
+    color: #ffffff; /* **IMPORTANTE**: Define a cor do título "HBO Max" como branco */
+    font-size: 2.5rem; /* Tamanho do título */
+    font-weight: 300; /* Peso da fonte para parecer mais leve */
+    text-align: center;
+}
+
+section.cover h1 a {
+    display: block;
+}
+
+section.cover h1 small {
+    position: absolute;
+    bottom: -.4375rem;
+    font-size: 1rem;
+}
+
+section.cover blockquote {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+section.cover blockquote > p > a {
+    border-bottom: 2px solid #000000; /* Borda preta para links de citação */
+    transition: color .3s;
+}
+
+section.cover blockquote > p > a:hover {
+    color: #000000; /* Cor preta ao passar o mouse em links de citação */
+}
+
+section.cover ul {
+    max-width: 500px;
+    margin: 1em auto;
+    padding: 0;
+    line-height: 1.8;
+    list-style-type: none;
+}
+
+/* --- ESTILOS ADICIONADOS OU MODIFICADOS PARA O BOTÃO E TÍTULO --- */
+
+/* Estilo para o título "HBO Max" */
+/* Este foi movido e ajustado diretamente no h1 acima para melhor controle */
+
+/* Estilos para o botão "Conheça o projeto" */
+.cover-main-button a.button-orange {
+    border-radius: 2rem; /* Bordas arredondadas */
+    border: 1px solid #800080; /* Borda roxa */
+    background-color: #800080; /* Fundo roxo */
+    color: #fff; /* Texto branco */
+    display: inline-block;
+    font-size: 1.05rem;
+    letter-spacing: .1rem;
+    margin: .5rem 1rem;
+    padding: .75em 2rem;
+    text-decoration: none;
+    transition: all .15s ease; /* Efeito de transição ao passar o mouse */
+}
+
+.cover-main-button a.button-orange:hover {
+    opacity: 0.8; /* Pequena opacidade ao passar o mouse */
+    color: #fff; /* Mantém o texto branco ao passar o mouse */
+}
+
+/* Os estilos abaixo do seu código original para os botões foram substituídos ou consolidado acima. */
+/* Remova ou ignore este bloco do seu CSS original se ele estiver duplicado após adicionar o `.button-orange` */
+/*
+section.cover .cover-main > p:last-child a {
+    display: inline-block;
+    margin: .5rem 1rem;
+    padding: .75em 2rem;
+    border: 1px solid #000000;
+    border-radius: 2rem;
+    box-sizing: border-box;
+    color: #000000;
+    font-size: 1.05rem;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    transition: all .15s ease;
+}
+
+section.cover .cover-main > p:last-child a:hover {
+    color: inherit;
+}
+
+section.cover .cover-main > p:last-child a:last-child {
+    background-color: #000000;
+    color: #fff;
+}
+
+section.cover .cover-main > p:last-child a:last-child:hover {
+    color: inherit;
+    opacity: .8;
+}
+*/
+/* ==========================================================================
+   7. Plugins e Widgets
+   ========================================================================== */
+
+/* Botão Tema Dark/Light */
+#docsify-darklight-theme {
+    position: absolute;
+    right: 10px;
+    top: 15px;
+    width: 25px;
+    height: 25px;
+    background-image: var(--toogleImage);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    cursor: pointer;
+    user-select: none;
+    transition: background-image .15s ease-in-out .15s;
+}
+
+#docsify-darklight-theme p {
+    visibility: hidden;
+}
+
+/* "Corner" do GitHub */
+.github-corner {
+    position: fixed;
+    top: 0;
+    right: 0;
+    border-bottom: 0;
+    text-decoration: none;
+    z-index: 1;
+}
+
+.github-corner:hover .octo-arm {
+    animation: octocat-wave .56s ease-in-out;
+    -webkit-animation: octocat-wave .56s ease-in-out;
+}
+
+.github-corner svg {
+    width: 70px;
+    height: 70px;
+    fill: #000000;
+    color: #fff;
+}
+
+
+/* ==========================================================================
+   8. Animações
+   ========================================================================== */
+
+@keyframes octocat-wave {
+    0%, 100% {
+        transform: rotate(0);
+    }
+    20%, 60% {
+        transform: rotate(-25deg);
+    }
+    40%, 80% {
+        transform: rotate(10deg);
+    }
+}
+
+@-webkit-keyframes octocat-wave {
+    0%, 100% {
+        transform: rotate(0);
+    }
+    20%, 60% {
+        transform: rotate(-25deg);
+    }
+    40%, 80% {
+        transform: rotate(10deg);
+    }
+}
+
+
+/* ==========================================================================
+   9. Estilos Responsivos (Media Queries)
+   ========================================================================== */
+
+@media print {
+    .app-nav,
+    .sidebar,
+    .sidebar-toggle,
+    .github-corner {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .sidebar,
+    .sidebar-toggle,
+    .github-corner {
+        position: fixed;
+    }
+
+    .sidebar {
+        left: -300px;
+        transition: transform .25s ease-out;
+    }
+    
+    .content {
+        position: static;
+        left: 0;
+        max-width: 100vw;
+        padding-top: 20px;
+        transition: transform .25s ease;
+    }
+    
+    main {
+        height: auto;
+        overflow-x: hidden;
+    }
+
+    .app-nav {
+        margin-top: 16px;
+        transition: transform .25s ease-out;
+    }
+    
+    .app-nav li ul {
+        top: 30px;
+    }
+    
+    .github-corner {
+        transition: transform .25s ease-out;
+    }
+
+    .sidebar-toggle {
+        width: auto;
+        padding: 30px 30px 10px 10px;
+        background-color: transparent;
+    }
+
+    /* Estado "close" em telas menores */
+    body.close .sidebar {
+        transform: translateX(300px);
+    }
+    
+    body.close .content {
+        transform: translateX(300px);
+    }
+    
+    body.close .app-nav,
+    body.close .github-corner {
+        display: none;
+    }
+    
+    body.close .sidebar-toggle {
+        width: 284px;
+        padding: 10px;
+        transition: background-color 1s;
+    }
+    
+    /* Animação do Octocat em mobile */
+    .github-corner:hover .octo-arm {
+        animation: none;
+        -webkit-animation: none;
+    }
+    
+    .github-corner .octo-arm {
+        animation: octocat-wave .56s ease-in-out;
+        -webkit-animation: octocat-wave .56s ease-in-out;
+    }
+
+    /* Posição do Trocador de Tema em mobile */
+    #docsify-darklight-theme {
+        position: absolute;
+        top: 15px;
+        left: 10px;
+    }
+}
+
+/* ==========================================================================
+   10. Código Comentado (Legacy/Debug)
+   ========================================================================== */
+
+/* .tooltip {
+    position: relative;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0.3s linear 1s, opacity 0.3s linear 1s;
+    -webkit-transition: visibility 0.3s linear 1s, opacity 0.3s linear 1s;
+    -o-transition: visibility 0.3s linear 1s, opacity 0.3s linear 1s;
+    -moz-transition: visibility 0.3s linear 1s, opacity 0.3s linear 1s;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 5px;
+    position: absolute;
+    z-index: 21;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -105px;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+.tooltip .tooltiptext:hover {
+    visibility: hidden;
+} 
+*/
