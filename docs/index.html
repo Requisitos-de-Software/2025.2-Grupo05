@@ -2,66 +2,53 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Notion</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-  <link id="favicon" href="https://i.postimg.cc/0yT2v637/HBO-Max-logo.jpg" rel="shortcut icon" type="image/x-icon">
-
-  <style> 
-    :root {
-        --duration-medium : 0.5s;
-        --cover-background-color: #000000;
-        --cover-blockquote-color: white;
-        --cover-color: black;
-    }
-  </style>
-
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HBO Max</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="img/hbo-max-logo.jpg" type="image/png">
 </head>
 <body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      auto2top: true,
-        repo: 'https://github.com/Requisitos-de-Software/2025.2-Grupo05.git',
-        coverpage: true,
-        executeScript: true,
-        loadSidebar: true,
-        loadNavbar: true,
-        mergeNavbar: true,
-        maxLevel: 4,
-        subMaxLevel: 2,
-        logo: 'img/HBO Max logo.jpg',
-        ga: 'UA-106147152-1',
-        matomo: {
-          host: '//matomo.thunderwave.de',
-          id: 6,
-        },
-        name: 'Notion',
-        search: {
-          noData: {
-            '/es/': '¡No hay resultados!',
-            '/de-de/': 'Keine Ergebnisse!',
-            '/ru-ru/': 'Никаких результатов!',
-            '/zh-cn/': '没有结果!',
-            '/': 'No results!',
-            '/pt-br/': 'Sem Resultados!',
-          },
-          paths: 'auto',
-          placeholder: {
-            '/pt-br/': 'Buscar',
-            '/es/': 'Buscar',
-            '/de-de/': 'Suche',
-            '/ru-ru/': 'Поиск',
-            '/zh-cn/': '搜索',
-            '/': 'Search',
-          },
-        },
+  <div class="container">
+    <!-- MENU LATERAL -->
+    <aside class="sidebar">
+      <div class="logo">
+        <img src="img/hbo-max-logo.jpg" alt="Logo">
+        <h2>HBO Max</h2>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="Homepage.html">Sobre</a></li>
+          <li><a href="#">Apresentações</a></li>
+          <li class="section">Planejamento</li>
+          <li><a href="#">Cronograma das Atividades</a></li>
+          <li><a href="#">Ferramentas</a></li>
+          <li><a href="#">Heatmap</a></li>
+          <li><a href="#">Metodologia</a></li>
+          <li class="section">Pré-rastreabilidade</li>
+          <li><a href="#">Rich Picture</a></li>
+          <li class="section">Elicitação</li>
+          <li><a href="#">Perfil e Personas</a></li>
+          <li><a href="#">Técnicas</a></li>
+        </ul>
+      </nav>
+    </aside>
 
-    }
-  </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <!-- CONTEÚDO -->
+    <main class="content">
+      <header>
+        <img src="img/hbo-max-logo.jpg" alt="Logo" class="logo-main">
+        <h1>HBO Max</h1>
+      </header>
+
+      <section>
+        <h2>Sobre o Projeto</h2>
+        <p>
+          Este repositório é destinado ao projeto da disciplina de Requisitos de Software da FGA - UnB.
+          Nele, aplicaremos os conhecimentos adquiridos ao longo da disciplina a respeito de gerência
+          (pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem, análise etc no estudo e documentação do aplicativo HBO Max.
+        </p>
+      </section>
+    </main>
+  </div>
 </body>
 </html>
