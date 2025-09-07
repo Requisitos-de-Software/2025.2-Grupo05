@@ -1,78 +1,98 @@
-section.cover.show {
-    display: flex;
-    background: #000000 !important;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-section.cover h1 {
-    color: #ffffff;
-    font-weight: 300;
+body {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  color: #333;
 }
 
-.cover-main-button a.button-orange {
-    border-radius: 2rem;
-    border: 1px solid #800080; /* Roxo */
-    background-color: #800080; /* Roxo */
-    color: #fff;
-    display: inline-block;
-    font-size: 1.05rem;
-    letter-spacing: .1rem;
-    margin: .5rem 1rem;
-    padding: .75em 2rem;
-    text-decoration: none;
-    transition: all .15s ease;
+.container {
+  display: flex;
 }
 
-.cover-main-button a.button-orange:hover {
-    opacity: 0.8;
-    color: #fff;
+/* MENU LATERAL */
+.sidebar {
+  width: 250px;
+  background: #f7f7f7;
+  padding: 20px;
+  height: 100vh;
+  overflow-y: auto;
+  border-right: 1px solid #ddd;
 }
 
-/* --- ESTILOS GERAIS PARA O TEMA --- */
-
-:root {
-    --cover-background-color: #000000;
-    --cover-blockquote-color: #ffffff;
-    --cover-color: #ffffff;
-    color: #ffffff;
-    background-color: #000000;
+.sidebar .logo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
 }
 
-/* Garante que links e outros elementos interativos fiquem pretos */
-.progress,
-.search .search-keyword,
-.search a:hover,
-.app-nav a.active,
-.app-nav a:hover,
-.app-nav a.active,
-.github-corner svg,
-.sidebar-toggle span,
-section.cover blockquote > p > a,
-section.cover blockquote > p > a:hover,
-.sidebar ul li.active > a,
-.markdown-section a,
-.token.string,
-.token.attr-value,
-.token.control,
-.token.directive,
-.token.unit {
-    color: #000000 !important;
-    border-color: #000000 !important;
-    background-color: #000000 !important;
+.sidebar .logo img {
+  width: 40px;
+  margin-right: 10px;
 }
 
-/* Correções específicas para o tema escuro */
-.github-corner svg {
-    fill: #000000 !important;
+.sidebar h2 {
+  font-size: 20px;
 }
-.app-nav a.active {
-    border-bottom: 2px solid #000000 !important;
+
+.sidebar ul {
+  list-style: none;
 }
-.sidebar ul li.active>a {
-    color: #000000 !important;
+
+.sidebar li {
+  margin: 10px 0;
 }
-.markdown-section blockquote {
-    border-left: 4px solid #000000;
+
+.sidebar a {
+  text-decoration: none;
+  color: #333;
+  font-size: 14px;
+}
+
+.sidebar a:hover {
+  color: #0078d7;
+}
+
+.sidebar .section {
+  font-weight: bold;
+  margin-top: 15px;
+  font-size: 13px;
+  color: #555;
+}
+
+/* CONTEÚDO */
+.content {
+  flex: 1;
+  padding: 40px;
+}
+
+.content header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.logo-main {
+  width: 80px;
+  margin-right: 15px;
+}
+
+.content h1 {
+  font-size: 40px;
+}
+
+.content h2 {
+  font-size: 24px;
+  margin: 20px 0 10px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.content p {
+  line-height: 1.6;
+  margin-bottom: 20px;
 }
