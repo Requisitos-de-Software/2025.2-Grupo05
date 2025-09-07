@@ -1,12 +1,13 @@
 <div class="cover-main">
-    <img src="docs/img/HBO Max logo.jpg" alt="HBO Max Logo" style="max-width: 250px; margin-bottom: 20px;">
+    <img src="img/HBO Max logo.jpg" alt="HBO Max Logo" style="max-width: 250px; margin-bottom: 20px;">
 
     # HBO Max
 
     <p class="cover-main-button">
-        <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05.git" class="button-orange">Conheça o projeto</a>
+        <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05" class="button-orange">Conheça o projeto</a>
     </p>
 </div>
+
 ---
 
 # Bem-vindo(a) ao Projeto HBO Max!
@@ -19,34 +20,38 @@ Esta é a documentação completa do nosso projeto de Requisitos de Software, fo
 
 Use a barra lateral à esquerda para explorar todos os tópicos, desde o planejamento até a rastreabilidade dos requisitos.
 
-- [Sobre](homepage.md)
-- [Apresentações](apresentacoes.md)
-- **Planejamento**
-  - [Heatmap](planejamento/heatmap.md)
-  - [Metodologia](planejamento/metodologia.md)
-  - [Pontos de Controle](planejamento/ponto-de-controle.md)
-  - [Roadmap](planejamento/roadmap.md)
-- **Pré-rastreabilidade**
-  - [Rich Picture](pre-rastreabilidade/rich-picture.md)
-- **Elicitação**
-  - [Perfil e Personas](elicitacao/personas.md)
-  - [Análise de Protocolo](elicitacao/analise-de-protocolo.md)
-  - [Braintorming](elicitacao/brainstorming.md)
-  - [Entrevista](elicitacao/entrevista.md)
-  - [Introspecção](elicitacao/introspeccao.md)
-  - [Questionário](elicitacao/questionario.md)
-  - [Requisitos-Elicitados](elicitacao/requisitos-elicitados.md)
-  - [Storytelling](elicitacao/storytelling.md)
-- **Modelagem**
-  - [Cenários](modelagem/cenarios.md)
-  - [Léxicos](modelagem/lexicos.md)
-  - [Casos de Uso](modelagem/casos-de-uso.md)
-  - [Especificação](modelagem/especificacao.md)
-  - [NFR Framework](modelagem/nfr-framework.md)
-  - [Ágil](modelagem/agil.md)
-- **Análise**
-  - [Verificação](analise/verificacao.md)
-  - [Validação](analise/validacao.md)
-- **Pós-Rastreabilidade**
-  - [Forward-From](pos-rastreabilidade/forward-from.md)
-  - [Backward-From](pos-rastreabilidade/backward-from.md)
+* [Sobre](README.md)
+* [Apresentações](Apresentacoes.md)
+
+- Planejamento
+  * [Heatmap](Planejamento/Heatmap.md)
+  * [Metodologia](Planejamento/Metodologia.md)
+  * [Pontos de Controle](Planejamento/PontosDeControle.md)
+  * [Roadmap](Planejamento/Roadmap.md)
+
+- Elicitação
+  * [Pré-rastreabilidade](Elicitacao/Pre-Rastreabilidade.md)
+  * [Rich Picture](Elicitacao/Rich-Picture.md)
+  * [Análise de Protocolo](Elicitacao/Analise-de-Protocolo.md)
+  * [Brainstorming](Elicitacao/Brainstorming.md)
+  * [Entrevista](Elicitacao/Entrevista.md)
+  * [Introspecção](Elicitacao/Introspeccao.md)
+  * [Questionário](Elicitacao/Questionario.md)
+  * [Requisitos-Elicitados](Elicitacao/Requisitos-Elicitados.md)
+  * [Storytelling](Elicitacao/Storytelling.md)
+
+- Modelagem
+  * [Cenários](Modelagem/Cenarios.md)
+  * [Léxicos](Modelagem/Lexicos.md)
+  * [Casos de Uso](Modelagem/Casos-de-Uso.md)
+  * [Especificação](Modelagem/Especificacao.md)
+
+- NFR Framework
+  * [Ágil](NFR/Agil.md)
+  * [Análise](NFR/Analise.md)
+  * [Verificação](NFR/Verificacao.md)
+  * [Validação](NFR/Validacao.md)
+
+- Rastreabilidade
+  * [Pós-Rastreabilidade](Rastreabilidade/Pos-Rastreabilidade.md)
+  * [Forward-From](Rastreabilidade/Forward-From.md)
