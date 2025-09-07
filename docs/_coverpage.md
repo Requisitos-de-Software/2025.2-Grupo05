@@ -20,39 +20,34 @@ Esta é a documentação completa do nosso projeto de Requisitos de Software, fo
 
 Use a barra lateral à esquerda para explorar todos os tópicos, desde o planejamento até a rastreabilidade dos requisitos.
 
-* [Sobre](README.md)
-* [Apresentações](Apresentacoes.md)
-
-- Planejamento
-  * [Heatmap](Planejamento/Heatmap.md)
-  * [Metodologia](Planejamento/Metodologia.md)
-  * [Pontos de Controle](Planejamento/PontosDeControle.md)
-  * [Roadmap](Planejamento/Roadmap.md)
-
-- Elicitação
-  * [Pré-rastreabilidade](Elicitacao/Pre-Rastreabilidade.md)
-  * [Rich Picture](Elicitacao/Rich-Picture.md)
-  * [Análise de Protocolo](Elicitacao/Analise-de-Protocolo.md)
-  * [Brainstorming](Elicitacao/Brainstorming.md)
-  * [Entrevista](Elicitacao/Entrevista.md)
-  * [Introspecção](Elicitacao/Introspeccao.md)
-  * [Questionário](Elicitacao/Questionario.md)
-  * [Requisitos-Elicitados](Elicitacao/Requisitos-Elicitados.md)
-  * [Storytelling](Elicitacao/Storytelling.md)
-
-- Modelagem
-  * [Cenários](Modelagem/Cenarios.md)
-  * [Léxicos](Modelagem/Lexicos.md)
-  * [Casos de Uso](Modelagem/Casos-de-Uso.md)
-  * [Especificação](Modelagem/Especificacao.md)
-
-- NFR Framework
-  * [Ágil](NFR/Agil.md)
-  * [Análise](NFR/Analise.md)
-  * [Verificação](NFR/Verificacao.md)
-  * [Validação](NFR/Validacao.md)
-
-- Rastreabilidade
-  * [Pós-Rastreabilidade](Rastreabilidade/Pos-Rastreabilidade.md)
-  * [Forward-From](Rastreabilidade/Forward-From.md)
-  * [Backward-From](Rastreabilidade/Backward-From.md)
+- [Sobre](Homepage.md)
+- [Apresentações](apresentacoes.md)
+- **Planejamento**
+  - [Heatmap](planejamento/Heatmap.md)
+  - [Metodologia](planejamento/Metodologia.md)
+  - [Pontos de Controle](planejamento/Ponto-de-controle.md)
+  - [Roadmap](planejamento/Roadmap.md)
+- **Pré-rastreabilidade**
+  - [Rich Picture](Pré-Rastreabilidade/Rich-Picture.md)
+- **Elicitação**
+  - [Perfil e Personas](Elicitação/personas.md)
+  - [Análise de Protocolo](Elicitação/Análise-de-Protocolo.md)
+  - [Braintorming](Elicitação/Braintorming.md)
+  - [Entrevista](Elicitação/Entrevista.md)
+  - [Introspecção](ElicitaÇão/Introspecção.md)
+  - [Questinário](Elicitação/Questionário.md)
+  - [Requisitos-Elicitados](Elicitação/Requisitos-Elicitados.md)
+  - [Storytelling](Elicitação/Storytelling.md)
+- **Modelagem**
+  - [Cenários](modelagem/Cenários.md)
+  - [Léxicos](modelagem/Léxicos.md)
+  - [Casos de Uso](modelagem/Casos-de-uso.md)
+  - [Especificação ](modelagem/Especificacao.md)
+  - [NFR Framework](modelagem/NFR-Framework.md)
+  - [Ágil](modelagem/Ágil.md)
+- **Análise**
+  - [Verificação](Análise/Validação.md)
+  - [Validação](Análise/Verificação.md)
+- **Pós-Rastreabilidade**
+  - [Forward-From](Pós-Rastreabilidade/Foward-From.md)
+  - [Backward-From](Pós-Rastreabilidade/Backward-From.md)
