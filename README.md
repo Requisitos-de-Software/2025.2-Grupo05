@@ -8,8 +8,8 @@
 
 
 
-## 💡 Introdução
-ESte repositório foi desenvolvido para documentar o trabalho da disciplina de Requisitos de Software da FGA - UnB. Nosso projeto consiste em um estudo aprofundado 
+## ✨ Introdução
+Este repositório foi desenvolvido para documentar o trabalho da disciplina de Requisitos de Software da Universidade de Brasília - UnB. Nosso projeto consiste em um estudo aprofundado 
 do aplicativo HBO Max, com foco na aplicação de técnicas de gerência, elicitação, modelagem e análise de requisitos, conforme a metodologia abordada em sala de aula.
 
 ---
