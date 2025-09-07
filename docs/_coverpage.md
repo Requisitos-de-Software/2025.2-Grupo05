@@ -4,7 +4,7 @@
     # HBO Max
 
     <p class="cover-main-button">
-        <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05" class="button-orange">Conheça o projeto</a>
+        <a href="#/README" class="button-orange">Conheça o projeto</a>
     </p>
 </div>
 
