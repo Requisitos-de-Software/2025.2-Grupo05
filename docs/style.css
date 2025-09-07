@@ -620,9 +620,10 @@ section.cover {
 	display: none
 }
 
-section.cover.show {
-	display: flex;
-	background: linear-gradient(to left bottom, hsl(35, 100%, 71%) 0%,hsl(35, 96%, 90%) 100%)!important;
+	section.cover.show {
+    display: flex;
+    background: #000000 !important; 
+    
 }
 
 section.cover.has-mask .mask {
