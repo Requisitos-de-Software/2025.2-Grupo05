@@ -1,31 +1,37 @@
 - [Sobre](/README.md)
-- [Apresentações](apresentacoes.md)
+- [Apresentações](Apresentações.md)
+
 - **Planejamento**
-  - [Heatmap](planejamento/Heatmap.md)
-  - [Metodologia](planejamento/Metodologia.md)
-  - [Pontos de Controle](planejamento/Ponto-de-controle.md)
-  - [Roadmap](planejamento/Roadmap.md)
-- **Pré-rastreabilidade**
+  - [Heatmap](Planejamento/Heatmap.md)
+  - [Metodologia](Planejamento/Metodologia.md)
+  - [Pontos de Controle](Planejamento/Pontos-de-Controle.md)
+  - [Roadmap](Planejamento/Roadmap.md)
+
+- **Pré-Rastreabilidade**
   - [Rich Picture](Pré-Rastreabilidade/Rich-Picture.md)
+
 - **Elicitação**
-  - [Perfil e Personas](Elicitação/personas.md)
+  - [Perfil e Personas](Elicitação/Personas.md)
   - [Análise de Protocolo](Elicitação/Análise-de-Protocolo.md)
-  - [Braintorming](Elicitação/Braintorming.md)
+  - [Brainstorming](Elicitação/Brainstorming.md)
   - [Entrevista](Elicitação/Entrevista.md)
-  - [Introspecção](ElicitaÇão/Introspecção.md)
-  - [Questinário](Elicitação/Questionário.md)
-  - [Requisitos-Elicitados](Elicitação/Requisitos-Elicitados.md)
+  - [Introspecção](Elicitação/Introspecção.md)
+  - [Questionário](Elicitação/Questionário.md)
+  - [Requisitos Elicitados](Elicitação/Requisitos-Elicitados.md)
   - [Storytelling](Elicitação/Storytelling.md)
+
 - **Modelagem**
-  - [Cenários](modelagem/Cenários.md)
-  - [Léxicos](modelagem/Léxicos.md)
-  - [Casos de Uso](modelagem/Casos-de-uso.md)
-  - [Especificação ](modelagem/Especificacao.md)
-  - [NFR Framework](modelagem/NFR-Framework.md)
-  - [Ágil](modelagem/Ágil.md)
+  - [Cenários](Modelagem/Cenários.md)
+  - [Léxicos](Modelagem/Léxicos.md)
+  - [Casos de Uso](Modelagem/Casos-de-Uso.md)
+  - [Especificação](Modelagem/Especificação.md)
+  - [NFR Framework](Modelagem/NFR-Framework.md)
+  - [Ágil](Modelagem/Ágil.md)
+
 - **Análise**
-  - [Verificação](Análise/Validação.md)
-  - [Validação](Análise/Verificação.md)
+  - [Verificação](Análise/Verificação.md)
+  - [Validação](Análise/Validação.md)
+
 - **Pós-Rastreabilidade**
-  - [Forward-From](Pós-Rastreabilidade/Foward-From.md)
+  - [Forward-From](Pós-Rastreabilidade/Forward-From.md)
   - [Backward-From](Pós-Rastreabilidade/Backward-From.md)
