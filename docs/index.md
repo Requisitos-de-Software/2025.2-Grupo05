@@ -1,26 +1,76 @@
-# HBO Max Wiki
+<!DOCTYPE html> 
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>HBO Max</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description"  content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link id="favicon" href="https://i.postimg.cc/0yT2v637/HBO-Max-logo.jpg" rel="shortcut icon" type="image/x-icon">
 
-<img src="./img/icone-hbo.jpg" alt="Logo da HBO Max" width="500">
+  <style> 
+    :root {
+        --duration-medium : 0.5s;
 
-# Sobre
-Documentação que deposita os artefatos dos requisitos levantados da aplicação HBO Max, com o intuito de analisar e consolidar o estudo da disciplina de Requisitos de Software, ministrada pelo Dr. Profº André Barros na Universidade de Brasília – FCTE.ocumentação que deposita os artefatos dos requisitos levantados da aplicação HBO Max, com o intuito de analisar e consolidar o estudo da disciplina de Requisitos de Software, ministrada pelo Dr. Profº André Barros na Universidade de Brasília – FCTE.
+        /* Fundo preto */
+        --cover-background-color: #000000;
 
-A disciplina de Requisitos de Software tem como objetivo introduzir conceitos e práticas voltados à investigação, modelagem e definição de escopo de sistemas de software. O processo é desenvolvido de forma cooperativa, resultando em artefatos que documentam e validam funções, características e restrições do sistema estudado.
+        /* Texto branco */
+        --cover-blockquote-color: #ffffff;
+        --cover-color: #ffffff;
+        color: #ffffff;
+        background-color: #000000;
+    }
 
-No presente trabalho, o grupo aplicará esses conceitos no contexto do HBO Max, produzindo artefatos que consolidam a análise e organização dos requisitos do sistema.
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      auto2top: true,
+      repo: 'Requisitos-de-Software/2025.2-Grupo05',
+      coverpage: true,
+      executeScript: true,
+      loadSidebar: true,
+      loadNavbar: true,
+      mergeNavbar: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
+      logo: 'https://i.postimg.cc/0yT2v637/HBO-Max-logo.jpg',
+      ga: 'UA-106147152-1',
+      matomo: {
+        host: '//matomo.thunderwave.de',
+        id: 6,
+      },
+      name: 'HBO Max',
+      search: {
+        noData: {
+          '/pt-br/': 'Sem Resultados!',
+          '/es/': '¡No hay resultados!',
+          '/de-de/': 'Keine Ergebnisse!',
+          '/ru-ru/': 'Никаких результатов!',
+          '/zh-cn/': '没有结果!',
+          '/': 'No results!',
+        },
+        paths: 'auto',
+        placeholder: {
+          '/pt-br/': 'Buscar',
+          '/es/': 'Buscar',
+          '/de-de/': 'Suche',
+          '/ru-ru/': 'Поиск',
+          '/zh-cn/': '搜索',
+          '/': 'Search',
+        },
+      },
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+</body>
+</html>
 
-
-
-# O que é a HBO MAX
-
-O HBO Max é um serviço de streaming por assinatura que oferece um vasto catálogo de filmes, séries, documentários e produções originais. Lançado em 2020 pela WarnerMedia, o serviço reúne conteúdo icônico de marcas como HBO, Warner Bros., DC Comics, Cartoon Network e Looney Tunes. Além de permitir que os usuários assistam seus títulos favoritos a qualquer hora e em qualquer lugar, o aplicativo também se destaca por recursos como criação de perfis, listas de favoritos e recomendações personalizadas.
-
-# Contribuidores
-
-<img src="https://github.com/mel14-hub.png" alt="Lara Souza" width="90">  <img src="https://github.com/CamilaSilvaC.png" alt="Camila" width="90">  <img src="https://github.com/GeovannaUmbelino.png" alt="Geovanna" width="90"><img src="https://github.com/luisa12ll.png" alt="Luisa" width="90"><img src="https://github.com/pedrohpsantos.png" alt="Pedro" width="90"> <img src="https://github.com/Yanmatheus0812.png" alt="Yan" width="90">
-   
- 
- 
 
 
 
