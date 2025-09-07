@@ -1,3 +1,8 @@
+<div class="coverpage-logo">
+  ![HBO Max Logo](img/logo.jpg)
+</div>
+
+
 # HBO Max - Grupo 5
 
 <div aling="center"> 
