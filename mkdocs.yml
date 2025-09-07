@@ -1,4 +1,4 @@
-site_name: HBO Max Wiki
+/*site_name: HBO Max Wiki
 
 theme:
   name: material
@@ -34,6 +34,6 @@ nav:
 
   - Pós-Rastreabilidade:
       - Backward From: Backward-From.md
-      - Forward From: Forward-From.md
+      - Forward From: Forward-From.md*/
 
 
