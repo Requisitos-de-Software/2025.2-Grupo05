@@ -6,7 +6,7 @@ theme:
     primary: deep purple
     accent: indigo
 
-/* nav:
+nav:
   - Início: index.md
   - Planejamento:
       - Heatmap: Heatmap.md
@@ -36,6 +36,4 @@ theme:
       - Backward From: Backward-From.md
       - Forward From: Forward-From.md
 
-extra_css:
-  - stylesheets/extra.css */
-  
+
