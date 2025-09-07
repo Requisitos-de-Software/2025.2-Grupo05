@@ -1,0 +1,129 @@
+:root {
+  --base-font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --base-font-size: 16px;
+  --heading-font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --heading-font-weight: 700;
+  --heading-color: #ffffff;
+  --text-color: #ffffff;
+  --link-color: #000000;
+  --background-color: #000000;
+}
+
+body {
+  font-family: var(--base-font-family);
+  font-size: var(--base-font-size);
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--heading-font-family);
+  font-weight: var(--heading-font-weight);
+  color: var(--heading-color);
+  margin: 1em 0 0.5em;
+}
+
+h1 { font-size: 2.2em; }
+h2 { font-size: 1.8em; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.3em; }
+h5 { font-size: 1.1em; }
+h6 { font-size: 1em; }
+
+/* Links */
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Sidebar */
+.sidebar {
+  background-color: #111111;
+  color: #ffffff;
+}
+.sidebar ul li a {
+  color: #ffffff;
+}
+.sidebar ul li.active>a {
+  color: #000000;
+  font-weight: bold;
+}
+
+/* Navegação */
+.app-nav a {
+  color: #ffffff;
+}
+.app-nav a.active,
+.app-nav a:hover {
+  color: #000000;
+}
+.app-nav a.active {
+  border-bottom: 2px solid #000000;
+}
+
+/* Botão toggle */
+.sidebar-toggle span {
+  background-color: #000000;
+}
+
+/* Progresso */
+.progress {
+  background-color: #000000;
+  height: 2px;
+}
+
+/* Blocos */
+.markdown-section blockquote {
+  border-left: 4px solid #000000;
+  color: #ffffff;
+  padding-left: 1em;
+}
+
+.markdown-section p.warn {
+  background: rgba(0, 0, 0, .2);
+  padding: 1em;
+  border-radius: 4px;
+  color: #ffffff;
+}
+
+/* Código */
+pre, code {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  font-family: 'Courier New', monospace;
+  font-size: 0.9em;
+  padding: 0.5em;
+  border-radius: 4px;
+}
+
+.token.string,
+.token.attr-value,
+.token.control,
+.token.directive,
+.token.unit {
+  color: #000000;
+}
+
+/* Cover page */
+section.cover {
+  background-color: #000000;
+  color: #ffffff;
+}
+section.cover .cover-main>p:last-child a {
+  border: 1px solid #000000;
+  color: #000000;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+}
+section.cover .cover-main>p:last-child a:last-child {
+  background-color: #000000;
+  color: #ffffff;
+}
+section.cover blockquote>p>a {
+  border-bottom: 2px solid #000000;
+  color: #000000;
+}
