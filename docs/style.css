@@ -732,124 +732,153 @@ code .token {
 }
 
 /* ==========================================================================
-   6. Página de Capa (Cover)
-   ========================================================================== */
+ /* 6. Página de Capa (Cover)
+   ========================================================================== */
 
 section.cover {
-    display: none;
-    align-items: center;
-    height: 100vh;
-    background-size: cover;
-    background-position: 50%;
-    background-repeat: no-repeat;
+    display: none;
+    align-items: center;
+    height: 100vh;
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
 }
 
 section.cover.show {
-    display: flex;
-    background: #000000 !important;
+    display: flex;
+    background: #000000 !important; /* Fundo preto garantido */
+    align-items: center; /* Centraliza verticalmente o conteúdo (logo, título, botão) */
+    justify-content: center; /* Centraliza horizontalmente o conteúdo */
+    flex-direction: column; /* Organiza os itens em coluna (logo em cima, título no meio, botão embaixo) */
 }
 
 section.cover.has-mask .mask {
-    position: absolute;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: #fff;
-    opacity: .8;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fff; /* Mantém branco para o efeito de máscara se houver */
+    opacity: .8;
 }
 
 section.cover .cover-main {
-    flex: 1;
-    margin: -20px 16px 0;
-    text-align: center;
-    z-index: 1;
+    flex: 1; /* Permite que o cover-main ocupe o espaço disponível */
+    margin: -20px 16px 0; /* Ajuste se necessário para o espaçamento */
+    text-align: center;
+    z-index: 1;
 }
 
 section.cover a {
-    color: inherit;
-    text-decoration: none;
+    color: inherit; /* Manterá a cor de texto herdada */
+    text-decoration: none;
 }
 
 section.cover a:hover {
-    text-decoration: none;
+    text-decoration: none;
 }
 
 section.cover p {
-    margin: 1em 0;
-    line-height: 1.5rem;
+    margin: 1em 0;
+    line-height: 1.5rem;
 }
 
 section.cover h1 {
-    position: relative;
-    margin: .625rem 0 2.5rem;
-    color: inherit;
-    font-size: 2.5rem;
-    font-weight: 300;
-    text-align: center;
+    position: relative;
+    margin: .625rem 0 2.5rem; /* Ajuste o margin-bottom se precisar de mais espaço */
+    color: #ffffff; /* **IMPORTANTE**: Define a cor do título "HBO Max" como branco */
+    font-size: 2.5rem; /* Tamanho do título */
+    font-weight: 300; /* Peso da fonte para parecer mais leve */
+    text-align: center;
 }
 
 section.cover h1 a {
-    display: block;
+    display: block;
 }
 
 section.cover h1 small {
-    position: absolute;
-    bottom: -.4375rem;
-    font-size: 1rem;
+    position: absolute;
+    bottom: -.4375rem;
+    font-size: 1rem;
 }
 
 section.cover blockquote {
-    font-size: 1.5rem;
-    text-align: center;
+    font-size: 1.5rem;
+    text-align: center;
 }
 
 section.cover blockquote > p > a {
-    border-bottom: 2px solid #000000;
-    transition: color .3s;
+    border-bottom: 2px solid #000000; /* Borda preta para links de citação */
+    transition: color .3s;
 }
 
 section.cover blockquote > p > a:hover {
-    color: #000000;
+    color: #000000; /* Cor preta ao passar o mouse em links de citação */
 }
 
 section.cover ul {
-    max-width: 500px;
-    margin: 1em auto;
-    padding: 0;
-    line-height: 1.8;
-    list-style-type: none;
+    max-width: 500px;
+    margin: 1em auto;
+    padding: 0;
+    line-height: 1.8;
+    list-style-type: none;
 }
 
-/* Botões da Capa */
-section.cover .cover-main > p:last-child a {
+/* --- ESTILOS ADICIONADOS OU MODIFICADOS PARA O BOTÃO E TÍTULO --- */
+
+/* Estilo para o título "HBO Max" */
+/* Este foi movido e ajustado diretamente no h1 acima para melhor controle */
+
+/* Estilos para o botão "Conheça o projeto" */
+.cover-main-button a.button-orange {
+    border-radius: 2rem; /* Bordas arredondadas */
+    border: 1px solid #800080; /* Borda roxa */
+    background-color: #800080; /* Fundo roxo */
+    color: #fff; /* Texto branco */
     display: inline-block;
-    margin: .5rem 1rem;
-    padding: .75em 2rem;
-    border: 1px solid #000000;
-    border-radius: 2rem;
-    box-sizing: border-box;
-    color: #000000;
     font-size: 1.05rem;
     letter-spacing: .1rem;
+    margin: .5rem 1rem;
+    padding: .75em 2rem;
     text-decoration: none;
-    transition: all .15s ease;
+    transition: all .15s ease; /* Efeito de transição ao passar o mouse */
+}
+
+.cover-main-button a.button-orange:hover {
+    opacity: 0.8; /* Pequena opacidade ao passar o mouse */
+    color: #fff; /* Mantém o texto branco ao passar o mouse */
+}
+
+/* Os estilos abaixo do seu código original para os botões foram substituídos ou consolidado acima. */
+/* Remova ou ignore este bloco do seu CSS original se ele estiver duplicado após adicionar o `.button-orange` */
+/*
+section.cover .cover-main > p:last-child a {
+    display: inline-block;
+    margin: .5rem 1rem;
+    padding: .75em 2rem;
+    border: 1px solid #000000;
+    border-radius: 2rem;
+    box-sizing: border-box;
+    color: #000000;
+    font-size: 1.05rem;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    transition: all .15s ease;
 }
 
 section.cover .cover-main > p:last-child a:hover {
-    color: inherit;
+    color: inherit;
 }
 
 section.cover .cover-main > p:last-child a:last-child {
-    background-color: #000000;
-    color: #fff;
+    background-color: #000000;
+    color: #fff;
 }
 
 section.cover .cover-main > p:last-child a:last-child:hover {
-    color: inherit;
-    opacity: .8;
+    color: inherit;
+    opacity: .8;
 }
-
-
+*/
 /* ==========================================================================
    7. Plugins e Widgets
    ========================================================================== */
