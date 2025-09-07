@@ -691,7 +691,7 @@ section.cover .cover-main>p:last-child a {
 	border-radius: 2rem;
 	border: 1px solid #000000;
 	box-sizing: border-box;
-	color: #000000;
+	color: rgb(244, 139, 0);
 	display: inline-block;
 	font-size: 1.05rem;
 	letter-spacing: .1rem;
@@ -702,7 +702,7 @@ section.cover .cover-main>p:last-child a {
 }
 
 section.cover .cover-main>p:last-child a:last-child {
-	background-color: #000000;
+	background-color: rgb(244, 139, 0);
 	color: #fff
 }
 
@@ -716,12 +716,12 @@ section.cover .cover-main>p:last-child a:hover {
 }
 
 section.cover blockquote>p>a {
-	border-bottom: 2px solid #000000;
+	border-bottom: 2px solid rgb(244, 139, 0);
 	transition: color .3s
 }
 
 section.cover blockquote>p>a:hover {
-	color: #000000
+	color: rgb(244, 139, 0)
 }
 
 .sidebar,
