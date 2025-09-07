@@ -1,31 +1,55 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <title>HBO Max</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Documentação do Projeto HBO Max">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="style.css" title="docsify-darklight-theme" type="text/css" />
-  <link rel="shortcut icon" href="img/HBO Max logo.jpg"/>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HBO Max</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="img/HBO Max logo.jpg" type="image/png">
 </head>
 <body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: 'HBO Max',
-      logo: 'img/HBO Max logo.jpg',
-      loadNavbar: true,
-      loadSidebar: true,
-      coverpage: true,
-      homepage: 'Homepage.md',
-      themeColor: '#000000',
-      repo: 'https://github.com/Requisitos-de-Software/2025.2-Grupo05.git',
-      subMaxLevel: 2,
-      auto2top: true
-    }
-  </script>
-    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="index.js" type="text/javascript"></script>
+  <div class="container">
+    <!-- MENU LATERAL -->
+    <aside class="sidebar">
+      <div class="logo">
+        <img src="img/HBO Max logo.jpg" alt="Logo">
+        <h2>HBO Max</h2>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="Homepage.md">Sobre</a></li>
+          <li><a href="#">Apresentações</a></li>
+          <li class="section">Planejamento</li>
+          <li><a href="#">Cronograma das Atividades</a></li>
+          <li><a href="#">Ferramentas</a></li>
+          <li><a href="#">Heatmap</a></li>
+          <li><a href="#">Metodologia</a></li>
+          <li class="section">Pré-rastreabilidade</li>
+          <li><a href="#">Rich Picture</a></li>
+          <li class="section">Elicitação</li>
+          <li><a href="#">Perfil e Personas</a></li>
+          <li><a href="#">Técnicas</a></li>
+        </ul>
+      </nav>
+    </aside>
+
+    <!-- CONTEÚDO -->
+    <main class="content">
+      <header>
+        <img src="img/HBO Max logo.jpg" alt="Logo" class="logo-main">
+        <h1>HBO Max</h1>
+      </header>
+
+      <section>
+        <h2>Sobre o Projeto</h2>
+        <p>
+          Este repositório é destinado ao projeto da disciplina de Requisitos de Software da FGA - UnB.
+          Nele, aplicaremos os conhecimentos adquiridos ao longo da disciplina a respeito de gerência
+          (pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem, análise etc no estudo e documentação do aplicativo Notion.
+        </p>
+      </section>
+
+    </main>
+  </div>
 </body>
 </html>
