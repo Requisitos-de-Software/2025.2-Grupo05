@@ -1,39 +1,67 @@
-/*site_name: HBO Max Wiki
-
+site_name: HBO Max Wiki
+repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo05 # Link do seu repositório
 theme:
   name: material
+  custom_dir: overrides
+  logo: img/logo.jpg
+  favicon: img/icone-hbo.jpg
+  features:
+    - navigation.tabs
+    - navigation.top
   palette:
-    primary: deep purple
-    accent: indigo
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: 'deep purple'
+      accent: 'indigo'
+      toggle:
+        icon: material/brightness-4
+        name: Alternar para modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: 'grey'
+      accent: 'purple'
+      toggle:
+        icon: material/brightness-7
+        name: Alternar para modo claro
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
+# --- SEÇÃO CORRIGIDA ---
 nav:
-  - Início: index.md
-  - Planejamento:
-      - Heatmap: Heatmap.md
-      - Metodologia: Metodologia.md
-  - Pré-Rastreabilidade:
-      - Rich Picture: Rich-Picture.md
-  - Elicitação:
-      - Análise de Protocolo: Análise-de-Protocolo.md
-      - Brainstorming: Brainstorming.md
-      - Entrevista: Entrevista.md
-      - Introspecção: introspecção.md
-      - Questionário: Questionário.md
-      - Storytelling: Storytelling.md
-      - Requisitos Elicitados: Requisitos-Elicitados.md
-  - Modelagem: 
-      - Cenários: Cenários.md
-      - Léxicos: Léxicos.md
-      - Casos de Uso: Casos-de-Uso.md
-      - Especificação Suplementar: Especificacao.md
-      - NFR Framework: NFR-Framework.md
-      - Àgil: Àgil.md
-  - Análise: 
-      - Veríficação: Veríficação.md
-      - Validação: Validação.md
-
-  - Pós-Rastreabilidade:
-      - Backward From: Backward-From.md
-      - Forward From: Forward-From.md*/
-
-
+    - Home: index.md
+    - Apresentações: Apresentações/Apresentações.md # AVISO: Verifique se este arquivo existe em 'docs/'
+    - Planejamento:
+      - Heatmap: Planejamento/Heatmap.md
+      - Metodologia: Planejamento/Metodologia.md
+      - Pontos de Controle: Planejamento/Pontos-de-Controle.md # AVISO: Verifique se este arquivo existe
+      - Roadmap: Planejamento/Roadmap.md
+      - Ferramentas: Planejamento/Ferramentas.md
+    - Pré-Rastreabilidade:
+      - Rich Picture: Pré-Rastriabilidade/Rich-picture.md # Corrigido: 'picture' minúsculo
+    - Elicitação:
+      - Perfil e Personas: Elicitação/Personas.md # AVISO: Verifique se este arquivo existe
+      - Análise de Protocolo: Elicitação/Análise-de-Protocolo.md
+      - Brainstorming: Elicitação/Braintorming.md # Corrigido: 'Braintorming' com 't'
+      - Entrevista: Elicitação/Entrevista.md
+      - Introspecção: Elicitação/Introspecção.md
+      - Questionário: Elicitação/Questionário.md
+      - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.md
+      - Storytelling: Elicitação/Storytelling.md
+    - Modelagem:
+      - Cenários: Modelagem/Cenários.md
+      - Léxicos: Modelagem/Léxicos.md
+      - Casos de Uso: Modelagem/Casos-de-uso.md # Corrigido: 'uso' minúsculo
+      - Especificação: Modelagem/Especificacao.md # Corrigido: Sem acentos
+      - NFR Framework: Modelagem/NFR-Framework.md
+      - Ágil: Modelagem/Àgil.md # Corrigido: Acento grave
+    - Análise:
+      - Verificação: Análise/Verificação.md
+      - Validação: Análise/Validação.md
+    - Pós-Rastreabilidade:
+      - Forward-From: Pós-Rastreabilidade/Forward-From.md
+      - Backward-From: Pós-Rastreabilidade/Backward-From.md
