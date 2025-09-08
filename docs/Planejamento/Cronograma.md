@@ -2,7 +2,7 @@
 
 O cronograma funciona como um instrumento para planejar e distribuir tarefas, recursos e prazos de um projeto de maneira visual, neste caso, por meio de tabelas. Os cronogramas a seguir foram elaborados considerando as datas e prazos estabelecidos no calendário do semestre letivo (2022.2) da disciplina.
 
-## 1. Cronograma Geral das Atividades
+## Cronograma Geral 
 
 A _tabela 1_ apresenta todas as atividades e apresentações programadas para o decorrer da disciplina.
 
@@ -25,7 +25,11 @@ A _tabela 1_ apresenta todas as atividades e apresentações programadas para o 
 
 _Tabela 1: Cronograma geral de atividades. Fonte: autoria própria._
 
-### Etapa 1 - Planejamento
+## Cronograma Específico
+
+Nessa seção, serão encontradas as atividades específicas que foram trabalhadas para cada entrega da disciplina.
+
+### Etapa 1 e 2 - Planejamento e Inspeção do Grupo + 1
 A _Figura 2_ aborda as atividades feitas para a primeira entrega.
 
 ![cronograma_planej](../img/cronograma_planejamento.jpeg)
