@@ -1,0 +1,15 @@
+name: build and deploy
+on:
+  push:
+    branches:
+      - main  # ou a branch que você usa como principal
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material
+      - run: mkdocs gh-deploy --force
