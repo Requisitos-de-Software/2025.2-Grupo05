@@ -37,11 +37,11 @@ nav:
     - Sobre: Sobre/Sobre.md
     - Apresentações: Apresentações/Apresentações.md # AVISO: Verifique se este arquivo existe em 'docs/'
     - Planejamento:
-      - Heatmap: Planejamento/Heatmap.md
       - Metodologia: Planejamento/Metodologia.md
+      - Aplicativo Selecionado: Planejamento/Aplicativo_selecionado.md
       - Pontos de Controle: Planejamento/Pontos-de-Controle.md # AVISO: Verifique se este arquivo existe
-      - Roadmap: Planejamento/Roadmap.md
       - Ferramentas: Planejamento/Ferramentas.md
+      - Heatmap: Planejamento/Heatmap.md
     - Pré-Rastreabilidade:
       - Rich Picture: Pré-Rastriabilidade/Rich-picture.md # Corrigido: 'picture' minúsculo
     - Elicitação:
