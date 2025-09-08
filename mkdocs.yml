@@ -38,9 +38,10 @@ nav:
     - Apresentações: Apresentações/Apresentações.md # AVISO: Verifique se este arquivo existe em 'docs/'
     - Planejamento:
       - Metodologia: Planejamento/Metodologia.md
-      - Aplicativo Selecionado: Planejamento/Aplicativo_selecionado.md
-      - Pontos de Controle: Planejamento/Pontos-de-Controle.md # AVISO: Verifique se este arquivo existe
       - Ferramentas: Planejamento/Ferramentas.md
+      - Aplicativo Selecionado: Planejamento/Aplicativo_selecionado.md
+      - Aplicativos Analisados: Planejamento/Aplicativo_analisado.md
+      - Pontos de Controle: Planejamento/Pontos-de-Controle.md # AVISO: Verifique se este arquivo existe
       - Heatmap: Planejamento/Heatmap.md
     - Pré-Rastreabilidade:
       - Rich Picture: Pré-Rastriabilidade/Rich-picture.md # Corrigido: 'picture' minúsculo
