@@ -1,17 +1,28 @@
 site_name: HBO Max Wiki
-repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo05 # Substitua pelo link correto do repositório do Grupo 5
+repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo05 # Link do seu repositório
 theme:
   name: material
   custom_dir: overrides
-  logo: img/icone-hbo.jpg # Caminho para o logo
-  favicon: img/icone-hbo.jpg # Caminho para o favicon
+  logo: img/icone-hbo.jpg
+  favicon: img/icone-hbo.jpg
   features:
     - navigation.tabs
     - navigation.top
   palette:
-    # Paleta de cores inspirada na HBO Max
-    primary: 'deep purple'
-    accent: 'indigo'
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: 'deep purple'
+      accent: 'indigo'
+      toggle:
+        icon: material/brightness-4
+        name: Alternar para modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: 'grey'
+      accent: 'purple'
+      toggle:
+        icon: material/brightness-7
+        name: Alternar para modo claro
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
@@ -20,21 +31,22 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
+# --- SEÇÃO CORRIGIDA ---
 nav:
     - Home: index.md
-    - Apresentações: Apresentações.md
+    - Apresentações: Apresentações/Apresentações.md # AVISO: Verifique se este arquivo existe em 'docs/'
     - Planejamento:
       - Heatmap: Planejamento/Heatmap.md
       - Metodologia: Planejamento/Metodologia.md
-      - Pontos de Controle: Planejamento/Pontos-de-Controle.md
+      - Pontos de Controle: Planejamento/Pontos-de-Controle.md # AVISO: Verifique se este arquivo existe
       - Roadmap: Planejamento/Roadmap.md
-      - Ferramentas: Planejamento/ferramentas.md
+      - Ferramentas: Planejamento/Ferramentas.md
     - Pré-Rastreabilidade:
-      - Rich Picture: Pré-Rastreabilidade/Rich-Picture.md
+      - Rich Picture: Pré-Rastriabilidade/Rich-picture.md # Corrigido: 'picture' minúsculo
     - Elicitação:
-      - Perfil e Personas: Elicitação/Personas.md
+      - Perfil e Personas: Elicitação/Personas.md # AVISO: Verifique se este arquivo existe
       - Análise de Protocolo: Elicitação/Análise-de-Protocolo.md
-      - Brainstorming: Elicitação/Brainstorming.md
+      - Brainstorming: Elicitação/Braintorming.md # Corrigido: 'Braintorming' com 't'
       - Entrevista: Elicitação/Entrevista.md
       - Introspecção: Elicitação/Introspecção.md
       - Questionário: Elicitação/Questionário.md
@@ -43,10 +55,10 @@ nav:
     - Modelagem:
       - Cenários: Modelagem/Cenários.md
       - Léxicos: Modelagem/Léxicos.md
-      - Casos de Uso: Modelagem/Casos-de-Uso.md
-      - Especificação: Modelagem/Especificação.md
+      - Casos de Uso: Modelagem/Casos-de-uso.md # Corrigido: 'uso' minúsculo
+      - Especificação: Modelagem/Especificacao.md # Corrigido: Sem acentos
       - NFR Framework: Modelagem/NFR-Framework.md
-      - Ágil: Modelagem/Ágil.md
+      - Ágil: Modelagem/Àgil.md # Corrigido: Acento grave
     - Análise:
       - Verificação: Análise/Verificação.md
       - Validação: Análise/Validação.md
