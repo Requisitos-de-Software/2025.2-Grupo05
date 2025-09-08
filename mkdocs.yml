@@ -41,6 +41,7 @@ nav:
       - Ferramentas: Planejamento/Ferramentas.md
       - Aplicativo Selecionado: Planejamento/Aplicativo_selecionado.md
       - Aplicativos Analisados: Planejamento/Aplicativo_analisado.md
+      - Cronograma: Planejamento/Cronograma.md
       - Pontos de Controle: Planejamento/Pontos-de-Controle.md # AVISO: Verifique se este arquivo existe
       - Heatmap: Planejamento/Heatmap.md
     - Pré-Rastreabilidade:
