@@ -25,6 +25,8 @@
 
 <p>Figura 2 - App HBO Max </p>
 
+## Termo de uso
+
 
 
 ## Bibliografia
