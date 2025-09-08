@@ -19,15 +19,19 @@ A ferramenta Draw.io foi fundamental para a elaboração de elementos visuais-ch
 
 A construção das Rich Pictures foi elaborada com base em cinco elementos principais, conforme destacado por Revadi (2018, p. 4): atores, operações, armazenamentos de dados, setas e o limite do sistema. Esses elementos, essenciais para a representação do contexto do projeto, podem ser observados na *Imagem 2*
 
-<center>
 
-![Legenda Rich Picture](../img/RichPicture-leg.png "Rich Picture Micro Version 1")
+<font size="3"><p style="text-align: center">Figura 1: Legenda versão 1.</p></font>
+
+![Legendav1](../img/RichPicture-leg.png)
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+
 
 <figcaption>Imagem 4: Legenda Rich Pictures; Fonte: autoria própria.</figcaption>
 
-</center>
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
 
 
 ## Histórico de Versões
