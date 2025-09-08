@@ -3,7 +3,7 @@ repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo05 # Link do seu
 theme:
   name: material
   custom_dir: overrides
-  logo: img/logo.jpg
+  logo: img/logo (1).png
   favicon: img/icone-hbo.jpg
   features:
     - navigation.tabs
@@ -34,6 +34,7 @@ markdown_extensions:
 # --- SEÇÃO CORRIGIDA ---
 nav:
     - Home: index.md
+    - Sobre: Sobre/Sobre.md
     - Apresentações: Apresentações/Apresentações.md # AVISO: Verifique se este arquivo existe em 'docs/'
     - Planejamento:
       - Heatmap: Planejamento/Heatmap.md
