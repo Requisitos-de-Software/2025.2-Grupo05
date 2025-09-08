@@ -1,72 +1,83 @@
-{% extends "main.html" %}
-{% block tabs %}
-  {{ super() }}
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
-    :root {
-      /* Cores adaptadas para o tema escuro */
-      --hbo-dark-bg: #1A1A1A; /* Fundo escuro */
-      --hbo-text-color: #E0E0E0; /* Texto claro */
-      --hbo-logo-float-animation: float 10s ease-in-out infinite;
-      --hbo-fade-in-animation: fadeIn 2s ease-in;
+{% extends "main.html" %} {% block tabs %} {{ super() }}
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
+  :root {
+    /* Cores adaptadas para o tema escuro */
+    --hbo-dark-bg: #1a1a1a; /* Fundo escuro */
+    --hbo-text-color: #e0e0e0; /* Texto claro */
+    --hbo-logo-float-animation: float 10s ease-in-out infinite;
+    --hbo-fade-in-animation: fadeIn 2s ease-in;
+  }
+
+  body {
+    background-color: var(--hbo-dark-bg);
+  }
+
+  .background {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    background-color: var(--hbo-dark-bg); /* Fundo da seção inicial */
+    color: var(--hbo-text-color); /* Cor do texto */
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    text-align: center;
+  }
+
+  .logo {
+    width: 300px;
+    height: auto;
+    margin: 10vh 0 0 0;
+    padding: 0;
+    animation: var(
+      --hbo-logo-float-animation
+    ); /* Aplica a animação flutuante */
+  }
+
+  .description {
+    margin: 20px;
+    font-size: 1.5rem;
+    color: var(--hbo-text-color);
+    max-width: 600px;
+    padding: 0;
+    animation: var(--hbo-fade-in-animation); /* Animação de entrada */
+  }
+
+  @keyframes float {
+    0%,
+    100% {
+      transform: translateY(0);
     }
-    
-    body {
-      background-color: var(--hbo-dark-bg);
+    50% {
+      transform: translateY(-10px);
+    } /* Sobe e desce suavemente */
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
     }
-
-    .background {
-      margin: 0;
-      padding: 0;
-      font-family: 'Roboto', sans-serif;
-      font-weight: 700;
-      background-color: var(--hbo-dark-bg); /* Fundo da seção inicial */
-      color: var(--hbo-text-color); /* Cor do texto */
-      display: flex;
-      justify-content: start;
-      align-items: center;
-      flex-direction: column;
-      height: 100vh;
-      text-align: center;
+    to {
+      opacity: 1;
+      transform: translateY(0);
     }
+  }
+</style>
 
-    .logo {
-      width: 300px;
-      height: auto;
-      margin: 10vh 0 0 0;
-      padding: 0;
-      animation: var(--hbo-logo-float-animation); /* Aplica a animação flutuante */
-    }
+<body>
+  <div class="background">
+    <img src="img/logo.jpg" alt="Logo HBO Max" class="logo" />
+    <p class="description">
+      Documentação do projeto de Requisitos de Software sobre o aplicativo HBO
+      Max.
+    </p>
+  </div>
+</body>
 
-    .description {
-      margin: 20px;
-      font-size: 1.5rem;
-      color: var(--hbo-text-color);
-      max-width: 600px;
-      padding: 0;
-      animation: var(--hbo-fade-in-animation); /* Animação de entrada */
-    }
-
-    @keyframes float {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-10px); } /* Sobe e desce suavemente */
-    }
-
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(30px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-  </style>
-
-  <body>
-    <div class="background">
-      <img src="img/logo.jpg" alt="Logo HBO Max" class="logo" />
-      <p class="description">Documentação do projeto de Requisitos de Software sobre o aplicativo HBO Max.</p>
-    </div>
-  </body>
-
-{% endblock %}
-
-{% block content %}{% endblock %}
-
-{% block footer %}{% endblock %}
+{% endblock %} {% block content %}{% endblock %} {% block footer %}{% endblock
+%}
