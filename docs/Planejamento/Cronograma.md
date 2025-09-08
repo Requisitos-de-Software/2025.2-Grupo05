@@ -33,3 +33,8 @@ A _Figura 2_ aborda as atividades feitas para a primeira entrega.
 _Figura 2: cronograma da primeira entrega. Fonte: autoria própria._
 
 ### Etapa 2 - Elicitação de Requisitos
+
+
+| Versão | Data       | Descrição                   | Autor             | Revisor         |
+|--------|------------|-----------------------------|-------------------|-----------------|
+| 1.0    | 07/09/2025 | Criação da página           |  Geovanna Alves   |    Todos        |
