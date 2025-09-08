@@ -1,0 +1,71 @@
+{% extends "main.html" %}
+{% block tabs %}
+  {{ super() }}
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+    :root {
+      --hbo-purple: #4B0082; /* Roxo escuro da HBO */
+      --hbo-black: #000000;
+      --hbo-white: #FFFFFF;
+      --hbo-accent: #9400D3; /* Roxo mais claro para acentos */
+    }
+    
+    body{
+      background-color: var(--hbo-black)
+    }
+
+    .background {
+      margin: 0;
+      padding: 0;
+      font-family: 'Roboto', sans-serif;
+      font-weight: 700;
+      background-color: var(--hbo-black);
+      color: var(--hbo-white);
+      display: flex;
+      justify-content: start;
+      align-items: center;
+      flex-direction: column;
+      height: 100vh;
+      text-align: center;
+    }
+
+    .logo {
+      width: 300px;
+      height: auto;
+      margin: 10vh 0 0 0;
+      padding: 0;
+      animation: float 10s ease-in-out infinite;
+    }
+
+    .description {
+      margin: 20px;
+      font-size: 1.5rem;
+      color: var(--hbo-white);
+      max-width: 600px;
+      padding: 0;
+      animation: fadeIn 2s ease-in;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+
+  <body>
+    <div class="background">
+      <img src="img/logo.jpg" alt="Logo HBO Max" class="logo" />
+      <p class="description">Documentação do projeto de Requisitos de Software sobre o aplicativo HBO Max.</p>
+    </div>
+  </body>
+
+{% endblock %}
+
+{% block content %}{% endblock %}
+
+{% block footer %}{% endblock %}
