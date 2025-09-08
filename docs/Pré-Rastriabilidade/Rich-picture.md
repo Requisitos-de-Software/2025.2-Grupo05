@@ -27,13 +27,6 @@ A construção das Rich Pictures foi elaborada com base em cinco elementos princ
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
 
-
-<figcaption>Imagem 4: Legenda Rich Pictures; Fonte: autoria própria.</figcaption>
-
-
-
-
-
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                   | Autor             | Revisor         |
