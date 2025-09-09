@@ -78,3 +78,7 @@ _Figura 6: cronograma da sexta entrega. Fonte: autoria própria._
 | Versão | Data       | Descrição                   | Autor             | Revisor         |
 |--------|------------|-----------------------------|-------------------|-----------------|
 | 1.0    | 08/09/2025 | Criação da página           |  Geovanna Alves   |    Todos        |
+
+## Bibliografia
+
+SALES, A. B. Plano_de_Ensino RE 2025.02 Turma 3. Aprender3. Disponível em: https://aprender3.unb.br/pluginfile.php/3210494/mod_resource/content/66/FGA0313%20-%20T03%20Assinado.pdf. Acesso em 08 de setembro de 2025.

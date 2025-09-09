@@ -33,12 +33,12 @@ O aplicativo permite criar perfis personalizados, adicionar conteúdos aos favor
 ## Termo de Uso
 
 
-
-## Bibliografia
-[1] HBO Max. Disponível em: [HBO Max na Google Play](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em 08 de setembro de 2025.
-
 ## Histórico de Versões
 
 | Versão   | Data       | Descrição                                | Autor                    | Revisor |
 |----------|------------|------------------------------------------|--------------------------|---------|
 | 1.0      | 07/09/2025 | Criação do documento     | Geovanna Alves           | Todos   |
+
+
+## Bibliografia
+[1] HBO Max. Disponível em: [HBO Max na Google Play](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em 08 de setembro de 2025.
