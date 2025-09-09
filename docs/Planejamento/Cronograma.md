@@ -29,47 +29,107 @@ _Tabela 1: Cronograma geral de atividades. Fonte: autoria própria._
 
  Esta seção apresenta as atividades desenvolvidas ao longo de cada entrega da disciplina.
 
-### Etapa 1  - Planejamento 
-A _Figura 1_ aborda as atividades feitas para a primeira entrega.
+### Etapa 1  - Pre-Rastreabilidade
+A _Tabela 2_ aborda as atividades feitas para a primeira entrega.
 
-![cronograma_planej](../img/cronograma_planejamento.jpeg)
+| **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| Selecionar aplicativo | 02/09 | 04/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 05/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Página do planejamento do projeto | 05/09 | 08/09 | Geovanna Alves, Lara Souza e Pedro Henrique | 09/09 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Página da equipe | 05/09 | 08/09 | Geovanna Alves, Lara Souza e Pedro Henrique | 09/09 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Página do heatmap de disponibilidade dos integrantes | 05/09 | 08/09 | Geovanna Alves, Lara Souza e Pedro Henrique | 09/09 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Página dos aplicativos selecionados | 05/09 | 08/09 | Geovanna Alves, Lara Souza e Pedro Henrique | 09/09 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Página do termo de uso do aplicativo | 05/09 | 08/09 | Geovanna Alves, Lara Souza e Pedro Henrique | 09/09 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Selecionar ferramentas do projeto | 05/09 | 08/09 | Geovanna Alves, Lara Souza e Pedro Henrique | 09/09 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Criar lista de verificação do rich picture | 06/09 | 08/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 09/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Criar rich picture do aplicativo | 06/09 | 08/08 | Camila Silva, Luísa de Souza e Yan Matheus | 09/09 | Geovanna Alves, Lara Souza e Pedro Henrique |
+| Criar molde da lista de inspeção | 08/09 | 09/09 | Lara Souza e Pedro Henrique | 10/09 | Geovanna Alves, Lara Souza e Pedro Henrique |
+| Gravar apresentação do projeto | 09/09 | 09/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan | 09/09 | Geovanna Alves, Lara Souza e Pedro Henrique |
+| Gravar inspeção do grupo 6 | 10/09 | 10/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 10/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Apresentação do projeto etapa 1: Apresentação | 11/09 | 11/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 11/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
-_Figura 1: cronograma da primeira entrega. Fonte: autoria própria._
+_Tabela 2: cronograma da primeira entrega. Fonte: autoria própria._
 
-### Etapa 2 - Elicitação de Requisitos
-A _Figura 2_ aborda as atividades feitas para a segunda entrega.
+### Etapa 2 - Elicitação e Priorização de Requisitos
+A _Tabela 3_ aborda as atividades feitas para a segunda entrega.
 
-![cronograma_planej](../img/cronograma_elicitacao.jpeg)
+| **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| Entendimento das técnicas de elicitação usadas e que serão usadas | 07/09 | 08/09 | Camila Silva e Luísa de Souza | 08/09 | Geovanna Alves e Yan Matheus |
+| Entendimento das técnicas de priorização usadas e que serão usadas | 07/09 | 08/09 | Camila Silva e Luísa de Souza | 08/09 | Geovanna Alves e Yan Matheus |
+| Escolha das técnicas | 08/09 | 09/09 | Camila Silva e Luísa de Souza | 09/09 | Geovanna Alves e Yan Matheus |
+| Pesquisa dos perfis dos usuários | 15/09 | 22/09 | Geovanna Alves, Lara Souza e Pedro Henrique | 22/09 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Criação das personas | 15/09 | 22/09 | Camila Silva, Luísa de Souza e Yan Matheus | 22/09 | Geovanna Alves, Lara Souza e Pedro Henrique |
+| Criação dos cenários | 15/09 | 22/09 | Camila Silva, Luísa de Souza e Yan Matheus | 22/09 | Geovanna Alves, Lara Souza e Pedro Henrique |
+| Técnica de Elicitação: Brainstorm | 21/09 | 21/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 21/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Elicitação: Entrevista | 22/09 | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Elicitação: Observação | 22/09 | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Elicitação: Storytelling	 | 22/09 | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Priorização: First Things First | 22/09 | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Priorização: $100 Test | 22/09 | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Priorização: Three-Level Scale | 22/09 | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Priorização: In or Out | 22/09 | 27/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 27/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Entendimento das técnicas de priorização usadas e que serão usadas | 22/09 | 29/09 | Geovanna Alves, Lara Souza e Pedro Henrique | 29/09 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Criação da elicitação dos requisitos | 25/09 | 29/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 29/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Gravar apresentação do projeto | 30/09 | 30/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 30/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Gravar inspeção do grupo 6 | 01/10 | 01/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 01/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Apresentação do projeto etapa 2: Elicitação – Técnicas e Priorização | 02/10 | 02/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 02/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
-_Figura 2: cronograma da segunda entrega. Fonte: autoria própria._
+_Tabela 3: cronograma da segunda entrega. Fonte: autoria própria._
 
 ### Etapa 3 - Modelagem de Requisitos
-A _Figura 3_ aborda as atividades feitas para a terceira entrega.
+A _Tabela 4_ aborda as atividades feitas para a terceira entrega.
 
-![cronograma_planej](../img/cronograma_modelagem_requisitos.jpeg)
+| **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| Modelagem de Requisitos: Cenários | 02/10 | 06/10 | Geovanna Alves, Lara Souza e Pedro Henrique | 06/10 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Modelagem de Requisitos: Léxico | 02/10 | 06/10 | Camila Silva, Luísa de Souza e Yan Matheus | 06/10 | Geovanna Alves, Lara Souza e Pedro Henrique |
+| Modelagem de Requisitos: Use Case | 06/10 | 11/10 | Geovanna Alves, Lara Souza e Pedro Henrique | 11/10 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Modelagem de Requisitos: Especificação Suplementar | 06/10 | 11/10 | Camila Silva, Luísa de Souza e Yan Matheus | 11/10 | Geovanna Alves, Lara Souza e Pedro Henrique |
+| Gravar apresentação do projeto | 12/10 | 12/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 12/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Gravar inspeção do grupo 6 | 13/10 | 13/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 13/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Apresentação do projeto etapa 3: Modelagem de Requisitos | 14/10 | 14/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 14/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
-_Figura 3: cronograma da terceira entrega. Fonte: autoria própria._
+_Tabela 4: cronograma da terceira entrega. Fonte: autoria própria._
 
 ### Etapa 4 - Modelagem de Requisitos - Ágil
-A _Figura 4_ aborda as atividades feitas para a quarta entrega.
+A _Tabela 5_ aborda as atividades feitas para a quarta entrega.
 
-![cronograma_planej](../img/cronograma_modelagem_requisitos_ageis.jpeg)
+| **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| Modelagem de Requisitos \- Ágil: Histórias de Usuários | 14/10 | 16/10 | Camila Silva, Luísa de Souza e Yan Matheus | 16/10 | Geovanna Alves, Lara Souza e Pedro Henrique |
+| Modelagens de Requisitos \- Ágil: Backlogs | 16/10 | 18/10 | Camila Silva, Luísa de Souza e Yan Matheus | 18/10 | Geovanna Alves, Lara Souza e Pedro Henrique |
+| Modelagens de Requisitos \- Ágil: NFR Framework | 18/10 | 20/10 | Geovanna Alves, Lara Souza e Pedro Henrique | 20/10 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Gravar apresentação do projeto | 21/10 | 21/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 21/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Gravar inspeção do grupo 6 | 22/10 | 22/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 22/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Apresentação do projeto etapa 4: Modelagem de Requisitos \- Ágil | 23/10 | 23/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 23/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
-_Figura 4: cronograma da quarta entrega. Fonte: autoria própria._
+_Tabela 5: cronograma da quarta entrega. Fonte: autoria própria._
 
-### Etapa 5 - Pós-Rastreabilidade  
-A _Figura 5_ aborda as atividades feitas para a quinta entrega.
+### Etapa 5 - Análise de Requisitos 
+A _Tabela 6_ aborda as atividades feitas para a quinta entrega.
 
-![cronograma_planej](../img/cronograma_pos_rastrabilidade.jpeg)
+| **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| Análise de Requisitos: Verificação | 23/10 | 02/11 | Camila Silva, Luísa de Souza e Yan Matheus | 02/11 | Geovanna Alves, Lara Souza e Pedro Henrique |
+| Análise de Requisitos: Validação | 02/11 | 11/11 | Geovanna Alves, Lara Souza e Pedro Henrique | 11/11 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Gravar apresentação do projeto | 12/11 | 12/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 12/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Apresentação do projeto etapa 5: Análise de Requisitos: Verificação e Validação | 13/11 | 13/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 13/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
-_Figura 5: cronograma da quinta entrega. Fonte: autoria própria._
+_Tabela 6: cronograma da quinta entrega. Fonte: autoria própria._
 
-### Etapa 6 - Análise de Requisitos 
-A _Figura 6_ aborda as atividades feitas para a sexta entrega.
+### Etapa 6 - Pós-Rastreabilidade 
+A _Tabela 7_ aborda as atividades feitas para a sexta entrega.
 
-![cronograma_planej](../img/cronograma_verificao_validacao.jpeg)
+| **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| Pós-rastreabilidade: Backward-form | 24/10 | 27/10 | Camila Silva, Luísa de Souza e Yan Matheus | 27/10 | Geovanna Alves, Lara Souza e Pedro Henrique |
+| Pós-rastreabilidade: Forward-form | 24/10 | 27/10 | Geovanna Alves, Lara Souza e Pedro Henrique | 27/10 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Gravar apresentação do projeto | 28/10 | 28/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 28/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Gravar inspeção do grupo 6 | 29/10 | 29/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 29/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Apresentação do projeto etapa 6: Pós-rastreabilidade | 30/10 | 30/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 30/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
-_Figura 6: cronograma da sexta entrega. Fonte: autoria própria._
+_Tabela 7: cronograma da sexta entrega. Fonte: autoria própria._
 
 ### Etapa 7 - Projeto Final
 
@@ -77,7 +137,7 @@ _Figura 6: cronograma da sexta entrega. Fonte: autoria própria._
 
 | Versão | Data       | Descrição                   | Autor             | Revisor         |
 |--------|------------|-----------------------------|-------------------|-----------------|
-| 1.0    | 08/09/2025 | Criação da página           |  Geovanna Alves   |    Todos        |
+| 1.0    | 08/09/2025 | Adição do Cronograma           |  Camila Silva e Luísa de Souza  |       Geovanna Alves, Lara Souza, Pedro Henrique e Yan Matheus |    |
 
 ## Bibliografia
 
