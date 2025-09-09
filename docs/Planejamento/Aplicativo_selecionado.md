@@ -32,6 +32,14 @@ O aplicativo permite criar perfis personalizados, adicionar conteúdos aos favor
 
 ## Termo de Uso
 
+Para desenvolver o projeto de requisitos de software do HBO Max de forma ética e responsável, o grupo decidiu, antes de tudo, consultar os termos de uso da plataforma. Essa verificação foi importante para garantir que a análise fosse feita dentro dos limites permitidos.
+
+Durante a leitura dos termos, ficou evidente que todo o conteúdo do HBO Max é protegido por direitos autorais, patentes, segredos comerciais e outras leis de propriedade intelectual. Além disso, o acesso oferecido aos usuários é apenas uma “licença limitada, revogável e intransferível”, destinada exclusivamente ao uso pessoal e não comercial. Em nenhum momento os termos mencionam permissão para análises acadêmicas ou para práticas como engenharia reversa.
+
+Diante disso, e com o compromisso de respeitar as regras da plataforma, o grupo decidiu restringir a análise apenas ao que pode ser observado na interface pública do aplicativo. Assim, o trabalho será baseado na experiência do usuário, nas funcionalidades visíveis e no comportamento do serviço, sem envolver acesso ao código-fonte ou qualquer prática que possa infringir as políticas da HBO Max. Com essa escolha, o projeto mantém a integridade acadêmica e segue um caminho transparente e ético.
+
+Termo de Uso: [https://hbomax.com/terms-of-use](https://hbomax.com/terms-of-use)
+
 
 ## Histórico de Versões
 
@@ -42,3 +50,4 @@ O aplicativo permite criar perfis personalizados, adicionar conteúdos aos favor
 
 ## Bibliografia
 [1] HBO Max. Disponível em: [HBO Max na Google Play](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em 08 de setembro de 2025.
+[2] WarnerMedia Direct, LLC. Terms of Use - HBO Max. Disponível em: [https://www.max.com/terms-of-use/en-us](https://www.max.com/terms-of-use/en-us). Acesso em 09 de setembro de 2025.
