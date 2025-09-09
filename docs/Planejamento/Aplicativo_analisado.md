@@ -8,9 +8,9 @@ Os aplicativos inicialmente analisados e seus respectivos Rich Pictures foram:
 
 O ID - Jovem é um aplicativo que conecta jovens a oportunidades de educação, cultura e lazer, facilitando o acesso a programas e benefícios voltados para essa faixa etária.
 
-<font size="3"><p style="text-align: center">Figura 1: Richpicture .</p></font>
+<font size="3"><p style="text-align: center">Figura 1: Richpicture id jovem.</p></font>
 
-![Richpicturev1](../img/RichPicture.png)
+![Richpicturev1](../img/Richpicture_camila.jpeg)
 
 <font size="3"><p style="text-align: center">Fonte: Camila Silva Cavalcante.</p></font>
 
