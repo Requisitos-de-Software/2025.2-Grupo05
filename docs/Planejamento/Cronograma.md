@@ -27,16 +27,21 @@ _Tabela 1: Cronograma geral de atividades. Fonte: autoria própria._
 
 ## Cronograma Específico
 
-Nessa seção, serão encontradas as atividades específicas que foram trabalhadas para cada entrega da disciplina.
+ Esta seção apresenta as atividades desenvolvidas ao longo de cada entrega da disciplina.
 
 ### Etapa 1 e 2 - Planejamento e Inspeção do Grupo + 1
-A _Figura 2_ aborda as atividades feitas para a primeira entrega.
+A _Figura 1_ aborda as atividades feitas para a primeira entrega.
 
 ![cronograma_planej](../img/cronograma_planejamento.jpeg)
 
-_Figura 2: cronograma da primeira entrega. Fonte: autoria própria._
+_Figura 1: cronograma da primeira entrega. Fonte: autoria própria._
 
 ### Etapa 2 - Elicitação de Requisitos
+A _Figura 2_ aborda as atividades feitas para a segunda entrega.
+
+![cronograma_planej](../img/cronograma_elicitacao.jpeg)
+
+_Figura 2: cronograma da segunda entrega. Fonte: autoria própria._
 
 
 | Versão | Data       | Descrição                   | Autor             | Revisor         |

@@ -4,11 +4,15 @@ Na primeira fase do projeto, cada estudante teve a oportunidade de escolher indi
 
 Os aplicativos inicialmente analisados e seus respectivos Rich Pictures foram:
 
+### 
+
 <font size="3"><p style="text-align: center">Figura 1: Richpicture .</p></font>
 
 ![Richpicturev1](../img/RichPicture.png)
 
 <font size="3"><p style="text-align: center">Fonte: Camila Silva Cavalcante.</p></font>
+
+### FGTS
 
 <font size="3"><p style="text-align: center">Figura 2: Richpicture FGTS.</p></font>
 
@@ -16,11 +20,14 @@ Os aplicativos inicialmente analisados e seus respectivos Rich Pictures foram:
 
 <font size="3"><p style="text-align: center">Fonte: Geovanna Alves Umbelino.</p></font>
 
+### Sinesp Cidadão
+
 <font size="3"><p style="text-align: center">Figura 3: Richpicture versão 1.</p></font>
 
-![Richpicturev1](../img/RichPicture.png)
+![Richpicturev1](../img/richpicture_lara.jpeg)
 
-<font size="3"><p style="text-align: center">Fonte: Lara .</p></font>
+<font size="3"><p style="text-align: center">Fonte: Lara Souza Mota.</p></font>
+
 
 <font size="3"><p style="text-align: center">Figura 4: Richpicture versão 1.</p></font>
 
@@ -34,11 +41,13 @@ Os aplicativos inicialmente analisados e seus respectivos Rich Pictures foram:
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+### 
+
 <font size="3"><p style="text-align: center">Figura 6: Richpicture versão 1.</p></font>
 
-![Richpicturev1](../img/RichPicture.png)
+![Richpicturev1](../img/richpicture_yan.jpeg)
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Yan Matheus Santa Brígida de Aguiar.</p></font>
 
 Após análise e discussão, o grupo decidiu que o aplicativo a ser estudado durante a disciplina seria o HBO Max, considerando sua popularidade, diversidade de funcionalidades e relevância no mercado de streaming. Assim, embora os Rich Pictures iniciais tenham servido como referência, o estudo final do grupo será baseado no HBO Max.
 
