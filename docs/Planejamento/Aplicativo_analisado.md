@@ -4,7 +4,9 @@ Na primeira fase do projeto, cada estudante teve a oportunidade de escolher indi
 
 Os aplicativos inicialmente analisados e seus respectivos Rich Pictures foram:
 
-### 
+### ID - Jovem
+
+O ID - Jovem é um aplicativo que conecta jovens a oportunidades de educação, cultura e lazer, facilitando o acesso a programas e benefícios voltados para essa faixa etária.
 
 <font size="3"><p style="text-align: center">Figura 1: Richpicture .</p></font>
 
@@ -14,7 +16,9 @@ Os aplicativos inicialmente analisados e seus respectivos Rich Pictures foram:
 
 ### FGTS
 
-<font size="3"><p style="text-align: center">Figura 2: Richpicture FGTS.</p></font>
+O FGTS permite que o trabalhador acompanhe de forma prática o saldo e os movimentos do Fundo de Garantia do Tempo de Serviço, trazendo mais transparência e controle sobre seus direitos.
+
+<font size="3"><p style="text-align: center">Figura 2: Richpicture fgts.</p></font>
 
 ![Richpicturev1](../img/richpicture.Geovanna.png)
 
@@ -22,28 +26,40 @@ Os aplicativos inicialmente analisados e seus respectivos Rich Pictures foram:
 
 ### Sinesp Cidadão
 
-<font size="3"><p style="text-align: center">Figura 3: Richpicture versão 1.</p></font>
+O Sinesp Cidadão permite a consulta de veículos roubados, pessoas desaparecidas e outras informações importantes para a proteção do cidadão.
+
+<font size="3"><p style="text-align: center">Figura 3: Richpicture sinesp cidadão</p></font>
 
 ![Richpicturev1](../img/richpicture_lara.jpeg)
 
 <font size="3"><p style="text-align: center">Fonte: Lara Souza Mota.</p></font>
 
+### CIN - Carteira Identidade Nacional
 
-<font size="3"><p style="text-align: center">Figura 4: Richpicture versão 1.</p></font>
+O CIN oferece a praticidade de consultar e gerenciar a Carteira de Identidade Nacional digitalmente, facilitando o acesso aos documentos pessoais sem complicações.
 
-![Richpicturev1](../img/RichPicture.png)
+<font size="3"><p style="text-align: center">Figura 4: Richpicture CIN.</p></font>
+
+![Richpicturev1](../img/richpicture_luisa.jpeg)
 
 <font size="3"><p style="text-align: center">Fonte: Luísa de Souza Ferreira.</p></font>
 
-<font size="3"><p style="text-align: center">Figura 5: Richpicture versão 1.</p></font>
+### Conexão DNIT
 
-![Richpicturev1](../img/RichPicture.png)
+O Conexão DNIT mantém os cidadãos informados sobre obras, serviços e condições das rodovias, aproximando a população do trabalho do Departamento Nacional de Infraestrutura de Transportes.
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Figura 5: Richpicture conexão dnit.</p></font>
 
-### 
+![Richpicturev1](../img/richpicture_pedro.jpeg)
 
-<font size="3"><p style="text-align: center">Figura 6: Richpicture versão 1.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Pedro Henrique Pereira Santos.
+</p></font>
+
+### Metro DF
+
+O Metrô DF oferece as informações sobre horários, linhas e serviços do metro de forma simples e acessível.
+
+<font size="3"><p style="text-align: center">Figura 6: Richpicture metro DF.</p></font>
 
 ![Richpicturev1](../img/richpicture_yan.jpeg)
 
