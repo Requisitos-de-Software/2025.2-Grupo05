@@ -11,4 +11,4 @@ O objetivo dessa página é armazenar as reuniões gravadas ao longo do projeto 
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
-1.0 | 09/09/2025 | Documentação da playlist de gravações | Yan Matheus | Todos
+1.0 | 09/09/2025 | Documentação da playlist de gravações | Yan Matheus | Pedro Henrique
