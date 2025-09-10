@@ -19,4 +19,4 @@ _Tabela 1: Tabela de Ferramentas utilizadas. Fonte: autoria própria._
 
 | Versão   | Data       | Descrição                                | Autor                    | Revisor |
 |----------|------------|------------------------------------------|--------------------------|---------|
-| 1.0      | 07/09/2025 | Transcrição da tabela de ferramentas     | Geovanna Alves           | Todos   |
+| 1.0      | 07/09/2025 | Transcrição da tabela de ferramentas     | Geovanna Alves           | Camila Silva |
