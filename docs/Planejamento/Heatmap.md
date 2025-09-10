@@ -10,4 +10,4 @@ O heatmap da _Figura 1_ tem por objetivo transparecer os horários livres dos me
 
 | Versão | Data       | Descrição                   | Autor             | Revisor         |
 |--------|------------|-----------------------------|-------------------|-----------------|
-| 1.0    | 07/09/2025 | Criação da página           |  Geovanna Alves   | Pedro Henrique  |
+| 1.0    | 07/09/2025 | Definição do heatmap da equipe           |  Geovanna Alves   | Pedro Henrique  |
