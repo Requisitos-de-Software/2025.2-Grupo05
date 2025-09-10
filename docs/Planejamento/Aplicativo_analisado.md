@@ -71,4 +71,4 @@ Após análise e discussão, o grupo decidiu que o aplicativo a ser estudado dur
 
 | Versão   | Data       | Descrição                                | Autor                    | Revisor |
 |----------|------------|------------------------------------------|--------------------------|---------|
-| 1.0      | 07/09/2025 | Criação do documento     | Geovanna Alves           | Todos   |
+| 1.0      | 07/09/2025 | Análise inicial dos aplicativos     | Geovanna Alves           | Yan Matheus   |
