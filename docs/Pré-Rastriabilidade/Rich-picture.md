@@ -31,4 +31,4 @@ A construção das Rich Pictures foi elaborada com base em cinco elementos princ
 
 | Versão | Data       | Descrição                   | Autor             | Revisor         |
 |--------|------------|-----------------------------|-------------------|-----------------|
-| 1.0    | 07/09/2025 | Criação da página           |  Geovanna Alves   | Pedro Henrique  |
+| 1.0    | 07/09/2025 | Elaboração do Rich picture do aplicativo           |  Geovanna Alves   | Pedro Henrique  |
