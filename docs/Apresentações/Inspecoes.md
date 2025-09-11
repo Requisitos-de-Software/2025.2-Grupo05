@@ -7,6 +7,38 @@ O objetivo dessa página é armazenar os vídeo das inspeções. Se não for pos
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/uXs-pqlbXPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
+## Lista de Verificação - Itens do Planejamento Geral do projeto Grupo 6
+
+| O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
+| :---- | ----- | :---: |
+| 1 – Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Conforme | Versão 1.0 \- 10/09/2025 |
+| 2 \- o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Conforme | Versão 1.0.2 \- 10/09/2025 |
+| 3 \- o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa. | Conforme | Versão 1.0.2 \- 10/09/2025 |
+| 4 \- O cronograma prevê um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?  | Não conforme | Versão 1.0.2 \- 10/09/2025 |
+| 5 \- O cronograma prevê cada uma das técnicas de elicitação de requisitos que serão usadas no projeto?  | Conforme | Versão 1.0.2 \- 10/09/2025 |
+| 6 \- O cronograma prevê cada uma das técnicas de priorização de requisitos que serão usadas no projeto? | Conforme | Versão 1.0.2 \- 10/09/2025 |
+| 7 \- A motivação e os critérios para a escolha do App?  | Conforme | Versão 1.0 \- 10/09/2025 |
+| 8 \- Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | Conforme | Versão 1.0 \- 10/09/2025 |
+| 9 \- Possui opção de contraste de cores? | Conforme | Versão 1.0 \- 10/09/2025 |
+| 10 \- Uma página com as atas de reunião com o acesso a gravação (vídeo), quando houver. | Conforme | Versão 1.0 \- 10/09/2025 |
+
+
+## Lista de Verificação - Itens do Desenvolvimento do projeto Grupo 6
+
+| O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
+| :---- | :---- | :---- |
+| 1 \- O histórico de versão padronizado? | Sugestão de melhoria | **Versão 1.0 \- 10/09/2025** |
+| 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sugestão de melhoria | **Versão 1.0 \- 10/09/2025** |
+| 3 \- Referências bibliográficas e/ou bibliografia em todos os artefatos? | Conforme | **Versão 1.0 \- 10/09/2025** |
+| 4 \- As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sugestão de melhoria | **Versão 1.0 \- 10/09/2025** |
+| 5 \- Um texto fazendo uma introdução dos artefatos? | Conforme | **Versão 1.0 \- 10/09/2025** |
+ 6 \- o cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | Conforme | **Versão 1.0.2 \- 10/09/2025** |
+| 7 \- Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Conforme | **Versão 1.0 \- 10/09/2025** |
+| 8 – A gravação da reunião do grupo. | Conforme | **Versão 1.0 \- 10/09/2025** |
+| 9 \- Vídeo de apresentação na categoria “não listado” no youtube? | Conforme | **Versão 1.0 \- 10/09/2025** |
+| 10 \- . Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | Conforme | **Versão 1.0 \- 10/09/2025** |
+
+
 ## Lista de Verificação - Reach Picture Grupo 6
 
 | Item | Descrição | Verificação | Descrição do problema | Sugestão de Ação Corretiva | Observação |
