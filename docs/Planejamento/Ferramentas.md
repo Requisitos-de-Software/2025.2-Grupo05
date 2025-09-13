@@ -13,7 +13,7 @@ Para assegurar a eficiência e promover a colaboração contínua da equipe, nos
 ![Canva](../img/canva.png){ width="90" } | [Canva](https://www.canva.com/pt_br/) | Criação de apresentações |
 ![Figma](../img/figma_icon.png){ width="90" } | [Figma](https://www.figma.com/pt-br/sites/) | Criação de representações gráficas  |
 ![Vscode](../img/vs_code.png){ width="90" } | [Vscode](https://code.visualstudio.com/download) | Atualização de  documentos do projeto|
-![Chat-gpt](../img/chat_gpt.png){ width="90" } | [Chat-gpt](https://chatgpt.com/) | Ferramento de auxílio de resolução de duvidas|
+![Chat-gpt](../img/chat_gpt.png){ width="90" } | [Chat-gpt](https://chatgpt.com/) | Ferramento de auxílio na resolução de dúvidas|
 
 _Tabela 1: Tabela de Ferramentas utilizadas. Fonte: autoria própria._
 
