@@ -10,15 +10,12 @@
 
 ## ✨ Introdução
 Este repositório foi desenvolvido para documentar o trabalho da disciplina de Requisitos de Software da Universidade de Brasília - UnB. Nosso projeto consiste em um estudo aprofundado 
-do aplicativo HBO Max, com foco na aplicação de técnicas de gerência, elicitação, modelagem e análise de requisitos, conforme a metodologia abordada em sala de aula.
+sobre a **Jornada do Estudante**, iniciativa do Ministério da Educação (MEC), com foco na aplicação de técnicas de gerência, elicitação, modelagem e análise de requisitos, conforme a metodologia abordada em sala de aula.
 
 ---
 
-## 📽️ Sobre o HBO Max
-O HBO Max é um serviço de streaming por assinatura que oferece um vasto catálogo de filmes, séries, documentários e produções originais.
-Lançado em 2020 pela WarnerMedia,o serviço reúne o conteúdo icônico de marcas como HBO, Warner Bros., DC Comics, Cartoon Network e Looney Tunes. 
-Além de permitir que os usuários assistam a seus títulos favoritos a qualquer hora e em qualquer lugar, o aplicativo também se destaca por features como criação de perfis, listas de favoritos e recomendações personalizadas.
-
+## 📽️ Sobre a Jornada do Estudante
+Jornada do Estudante é uma iniciativa do MEC, em parceria com órgãos do Governo Federal, desenvolvida dentro do programa Startup Gov.br. O projeto busca unificar informações acadêmicas dos estudantes ao longo da vida escolar e servir como canal direto de comunicação entre o MEC e a sociedade, alinhado à Estratégia de Governo Digital, ao Plano Nacional de Educação e às legislações de acesso à informação e proteção de dados. A Jornada do Estudante busca facilitar o acesso às políticas educacionais, apoiar a tomada de decisão e promover a inclusão digital, tornando-se um instrumento essencial para a vida acadêmica do estudante no Brasil.
 ---
 
 ## 👨‍💻 Integrantes da Equipe
