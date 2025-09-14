@@ -81,6 +81,7 @@ O objetivo dessa página é armazenar os vídeo das inspeções. Se não for pos
 
 ## Histórico de Versões
 
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
--------- | ------ | ------ | ---------- | ----------
-1.0 | 10/04/2023 | Documentação da inspeção 1 | Yan Matheus | Pedro Henrique
+| Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
+|--------|------------|------------------------------|-----------------------------------|-------------------------------------|
+| 1.0    | 10/04/2023 | Documentação da inspeção 1    | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
+
