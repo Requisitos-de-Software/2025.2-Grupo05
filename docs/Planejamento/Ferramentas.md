@@ -16,6 +16,8 @@ Para assegurar a eficiência e promover a colaboração contínua da equipe, nos
 ![Chat-gpt](../img/chat_gpt.png){ width="90" } | [Chat-gpt](https://chatgpt.com/) | Ferramento de auxílio na resolução de dúvidas.|
 ![YouTube](../img/youtube.png){ width="100" } | [YouTube](https://www.youtube.com/) | Hospedagem dos vídeos produzidos.|
 ![Gemini](../img/gemini.png){ width="110" } | [Gemini](https://gemini.google.com/app?hl=pt-BR) | Ferramenta de suporte na busca por respostas e soluções.|
+![ Google Planilhas](../img/planilha.png){ width="110" } | [ Google Planilhas](https://docs.google.com/spreadsheets/d/1Dn7wHJTtDGpoTeniDzyaBDI22cEpsHxgWJLEC7jW7b4/edit?hl=pt-br&gid=0#gid=0) | Ferramenta para elaboração de listas de verificação e cronogramas .|
+
 
 
 
