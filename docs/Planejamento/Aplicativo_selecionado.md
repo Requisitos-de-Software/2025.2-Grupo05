@@ -31,10 +31,7 @@ A primeira versão do aplicativo, lançada em junho de 2022, disponibilizou info
 
 Fonte:  [Jornada do estudante na Play Store](https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante&hl=pt-BR).
 
-## Termo de Uso
 
-
-Termo de uso:
 
 
 ## Histórico de Versões
