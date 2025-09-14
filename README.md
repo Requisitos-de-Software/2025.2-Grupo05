@@ -1,8 +1,8 @@
-# HBO Max - Grupo 5
+# Jornada do Estudante - Grupo 5
 
-<div aling="center"> 
-   <a href="https://www.hbomax.com/br/pt" target="_blank">
-        <img src="https://i.postimg.cc/0yT2v637/HBO-Max-logo.jpg"  height="290x"  width="100%" alt="Logo"/>
+<div align="center"> 
+   <a href="https://www.gov.br/mec/pt-br/jornadadoestudante" target="_blank">
+        <img src="https://i.postimg.cc/7Y3y8CPW/jornada-do-est-removebg-preview.png" height="290" alt="Jornada do Estudante"/>
     </a>
 </div>
 
