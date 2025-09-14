@@ -15,7 +15,9 @@ sobre a **Jornada do Estudante**, iniciativa do Ministério da Educação (MEC),
 ---
 
 ## 📽️ Sobre a Jornada do Estudante
+
 Jornada do Estudante é uma iniciativa do MEC, em parceria com órgãos do Governo Federal, desenvolvida dentro do programa Startup Gov.br. O projeto busca unificar informações acadêmicas dos estudantes ao longo da vida escolar e servir como canal direto de comunicação entre o MEC e a sociedade, alinhado à Estratégia de Governo Digital, ao Plano Nacional de Educação e às legislações de acesso à informação e proteção de dados. A Jornada do Estudante busca facilitar o acesso às políticas educacionais, apoiar a tomada de decisão e promover a inclusão digital, tornando-se um instrumento essencial para a vida acadêmica do estudante no Brasil.
+
 ---
 
 ## 👨‍💻 Integrantes da Equipe
