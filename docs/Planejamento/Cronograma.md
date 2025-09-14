@@ -137,7 +137,7 @@ _Tabela 7: cronograma da sexta entrega. Fonte: autoria própria._
 
 | Versão | Data       | Descrição            | Autor                                                     | Revisor                                                                 |
 |--------|------------|--------------------|-----------------------------------------------------------|------------------------------------------------------------------------|
-| 1.0    | 08/09/2025 | Adição do Cronograma | [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) | [Geovanna Alves](https://github.com/GeovannaUmbelino), [Mel](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
+| 1.0    | 08/09/2025 | Adição do Cronograma | [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) | [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
 
 ## Bibliografia
 
