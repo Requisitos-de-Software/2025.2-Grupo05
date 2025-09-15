@@ -87,5 +87,5 @@ O objetivo dessa página é armazenar os vídeo das inspeções e demais documen
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
 | 1.0    | 10/09/2023 | Documentação da inspeção 1    | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
-| 1.1    | 15/09/2025 | Correção nas fontes          | [Yan Matheus] (https://github.com/Yanmatheus0812) | [Luísa Ferreira] (https://github.com/luisa12ll) |
+| 1.1    | 15/09/2025 | Correção nas fontes          | [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa Ferreira](https://github.com/luisa12ll) |
 
