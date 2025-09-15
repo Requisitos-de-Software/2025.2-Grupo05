@@ -11,8 +11,8 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: 'deep blue'
-      accent: 'blue'
+      primary: 'blue'
+      accent: 'green'
       toggle:
         icon: material/brightness-4
         name: Alternar para modo escuro
@@ -79,3 +79,4 @@ nav:
     - Pós-Rastreabilidade:
       - Forward-From: Pós-Rastreabilidade/Forward-From.md
       - Backward-From: Pós-Rastreabilidade/Backward-From.md
+
