@@ -36,7 +36,6 @@ nav:
     - Home: index.md
     - Sobre: Sobre/Sobre.md
     - Apresentações: # AVISO: Verifique se este arquivo existe em 'docs/'
-      - Apresentações: Apresentações/Apresentações.md
       - Reuniões: Apresentações/Reunioes.md
       - Inspeções: Apresentações/Inspecoes.md
     - Planejamento:
