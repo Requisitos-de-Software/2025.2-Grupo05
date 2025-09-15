@@ -1,6 +1,6 @@
 ## Introdução
 
-O objetivo dessa página é armazenar os vídeo das inspeções. Se não for possível acessar o vídeo pela própria página, clique no link correspondente.
+O objetivo dessa página é armazenar os vídeo das inspeções e demais documentos relacionados. Se não for possível acessar o vídeo pela própria página, clique no link correspondente.
 
 ## Inspeção 1
 <p style="text-align: center"><a href="https://youtu.be/uXs-pqlbXPA" target="blanket">Clique aqui</a></p>
@@ -37,6 +37,8 @@ O objetivo dessa página é armazenar os vídeo das inspeções. Se não for pos
 | 8 – A gravação da reunião do grupo. | Conforme | **Versão 1.0 \- 10/09/2025** |
 | 9 \- Vídeo de apresentação na categoria “não listado” no youtube? | Conforme | **Versão 1.0 \- 10/09/2025** |
 | 10 \- . Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | Conforme | **Versão 1.0 \- 10/09/2025** |
+
+<font size="3"><p style="text-align: center">Fonte: Elaboração própria, Camila Cavalcante, Geovanna Umbelino e Luísa Ferreira.</p></font>
 
 
 ## Lista de Verificação - Reach Picture Grupo 6
@@ -76,12 +78,13 @@ O objetivo dessa página é armazenar os vídeo das inspeções. Se não for pos
 | 31 | O Rich Picture contém imagens, figuras ou rótulos descritivos? | Conforme | Contém tudo descritivo |  |  |
 
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria dos integrantes da equipe.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaboração própria, Lara Mota, Pedro Henrique e Yan Matheus.</p></font>
 
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
-| 1.0    | 10/04/2023 | Documentação da inspeção 1    | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
+| 1.0    | 10/09/2023 | Documentação da inspeção 1    | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
+| 1.1    | 15/09/2025 | Correção nas fontes          | [Yan Matheus] (https://github.com/Yanmatheus0812) | [Luísa Ferreira] (https://github.com/luisa12ll) |
 
