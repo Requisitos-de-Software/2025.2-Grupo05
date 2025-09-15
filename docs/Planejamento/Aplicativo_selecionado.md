@@ -1,15 +1,15 @@
 # Aplicativo Selecionado 
 
-## HBO Max
+## Jornada do Estudante 
 
-![logo_HBOmax](../img/icons8-hbo-max-240.png)
+![logo_jornadaestudante](https://i.postimg.cc/7Y3y8CPW/jornada-do-est-removebg-preview.png)
 
-**Figura 1 – Logo do HBO Max**
+**Figura 1 – Logo do Jornada do Estudante **
 
 ## Introdução
 
 <div style="text-align: justify;"> 
-No início da disciplina, cada integrante do grupo apresentou sugestões de aplicativos, acompanhadas de argumentos que justificavam suas escolhas. Em seguida, realizamos uma revisão coletiva, aplicando critérios definidos para avaliar cada proposta e alcançar um consenso. Após essa análise e um longo debate, o aplicativo selecionado foi o HBO Max, escolhido por sua popularidade, variedade de funcionalidades e relevância no mercado de streaming, características que o tornam adequado para ser estudado nesta disciplina.
+No início da disciplina, cada integrante do grupo apresentou sugestões de aplicativos, acompanhadas de argumentos para justificar suas escolhas. Em seguida, realizamos uma revisão coletiva, utilizando critérios previamente definidos para avaliar cada proposta e chegar a um consenso. Após essa análise e debate, o aplicativo escolhido foi a Jornada do Estudante, por sua relevância no contexto educacional, potencial de impacto social e diversidade de funcionalidades que o tornam adequado para ser estudado nesta disciplina.
 </div>
 
 ## Critérios para escolha
@@ -18,37 +18,31 @@ No início da disciplina, cada integrante do grupo apresentou sugestões de apli
 - Complexidade do aplicativo.
 - Disponibilidade de informações.
 
-## Sobre o HBO Max
+## Sobre o Jornada do estudante
 
 <div style="text-align: justify;"> 
-O HBO Max é uma plataforma de streaming que oferece filmes, séries, documentários, animações e produções originais da HBO e de outras produtoras. Possui conteúdos exclusivos e populares, além de séries clássicas e entretenimento para toda a família.
-
-O aplicativo permite criar perfis personalizados, adicionar conteúdos aos favoritos, baixar vídeos para assistir offline, continuar de onde parou e usar o recurso Minha Lista. Está disponível em diversos dispositivos, suporta reprodução em alta qualidade até 4K e oferece som surround, incluindo Dolby Atmos em planos específicos. A disponibilidade de conteúdos e recursos pode variar por região. A interface do aplicativo pode ser observada na Figura 2.
+Jornada do estudante é uma iniciativa do MEC, em parceria com órgãos do Governo Federal, desenvolvida dentro do programa Startup Gov.br. O projeto busca unificar informações acadêmicas dos estudantes ao longo da vida escolar e servir como canal direto de comunicação entre o MEC e a sociedade, alinhado à estratégia de Governo Digital, ao plano nacional de educação e às legislações de acesso à informação e proteção de dados. A jornada do estudante busca facilitar o acesso às políticas educacionais, apoiar a tomada de decisão e promover a inclusão digital, tornando-se um instrumento essencial para a vida acadêmica do estudante no Brasil. A disponibilidade de conteúdos e recursos pode variar por região.
+A primeira versão do aplicativo, lançada em junho de 2022, disponibilizou informações acadêmicas para alunos da UTFPR e UFMS, além de serviços digitais e comunicados do MEC para os demais estudantes. Futuras atualizações incluirão outras instituições e níveis de ensino, abrangendo desde a educação básica até a técnica. A interface do aplicativo pode ser observada na Figura 2.
 </div>
 
-![logo_HBOmax](https://i.postimg.cc/V6tt1sbJ/play-google-hbomax-com.jpg)
+<font size="3"><p style="text-align: center">Figura 2 – Aplicativo Jornada do estudante </p></font>
 
-**Figura 2 – Aplicativo HBO Max**
+![logo_Jornadaestudante](../img/jornadaestudanteplaystore.jpeg)
 
-## Termo de Uso
+Fonte:  [Jornada do estudante na Play Store](https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante&hl=pt-BR).
 
-Para desenvolver o projeto de requisitos de software do HBO Max de forma ética e responsável, o grupo decidiu, antes de tudo, consultar os termos de uso da plataforma. Essa verificação foi importante para garantir que a análise fosse feita dentro dos limites permitidos.
 
-Durante a leitura dos termos, ficou evidente que todo o conteúdo do HBO Max é protegido por direitos autorais, patentes, segredos comerciais e outras leis de propriedade intelectual. Além disso, o acesso oferecido aos usuários é apenas uma “licença limitada, revogável e intransferível”, destinada exclusivamente ao uso pessoal e não comercial. Em nenhum momento os termos mencionam permissão para análises acadêmicas ou para práticas como engenharia reversa.
-
-Diante disso, e com o compromisso de respeitar as regras da plataforma, o grupo decidiu restringir a análise apenas ao que pode ser observado na interface pública do aplicativo. Assim, o trabalho será baseado na experiência do usuário, nas funcionalidades visíveis e no comportamento do serviço, sem envolver acesso ao código-fonte ou qualquer prática que possa infringir as políticas da HBO Max. Com essa escolha, o projeto mantém a integridade acadêmica e segue um caminho transparente e ético.
-
-Termo de Uso: [https://hbomax.com/terms-of-use](https://hbomax.com/terms-of-use)
 
 
 ## Histórico de Versões
 
-| Versão   | Data       | Descrição                                | Autor                    | Revisor |
+| Versão   | Data       | Descrição                                | Autor(es)                   | Revisor(es) |
 |----------|------------|------------------------------------------|--------------------------|---------|
 | 1.0      | 07/09/2025 | Seleção dos aplicativos    | Geovanna Alves           | Lara Souza   |
-| 1.1      | 09/09/2025 | Adicionando termo de uso     | Geovanna Alves           | Luisa de Souza   |
+| 1.1      | 09/09/2025 | Adicionando termo de uso     | Geovanna Alves         | Luisa de Souza   |
+| 1.2      | 13/09/2025 | Atualização do aplicativo selecionado    | Geovanna Alves    e Luisa de Souza     | Yan Matheus  |
 
 
 ## Bibliografia
-[1] HBO Max. Disponível em: [HBO Max na Google Play](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em 08 de setembro de 2025.
-[2] WarnerMedia Direct, LLC. Terms of Use - HBO Max. Disponível em: [https://www.max.com/terms-of-use/en-us](https://www.max.com/terms-of-use/en-us). Acesso em 09 de setembro de 2025.
+[1] Jornada do estudante. Disponível em: [Jornada do estudante na Google Play](https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante&hl=pt-BR). Acesso em 19 de setembro de 2025.
+

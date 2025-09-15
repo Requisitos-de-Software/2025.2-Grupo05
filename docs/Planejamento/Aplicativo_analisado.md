@@ -12,7 +12,7 @@ O ID - Jovem é um aplicativo que conecta jovens a oportunidades de educação, 
 
 ![Richpicturev1](../img/Richpicture_camila.jpeg)
 
-<font size="3"><p style="text-align: center">Fonte: Camila Silva Cavalcante.</p></font>
+<font size="3"><p style="text-align: center">Fonte: <span style="color:black;">[Camila Cavalcante(2025).](https://github.com/CamilaSilvaC)</span></p></font>
 
 ### FGTS
 
@@ -22,7 +22,7 @@ O FGTS permite que o trabalhador acompanhe de forma prática o saldo e os movime
 
 ![Richpicturev1](../img/richpicture.Geovanna.png)
 
-<font size="3"><p style="text-align: center">Fonte: Geovanna Alves Umbelino.</p></font>
+<font size="3"><p style="text-align: center">Fonte: <span style="color:black;">[Geovanna Umbelino(2025).](https://github.com/GeovannaUmbelino)</span></p></font>
 
 ### Sinesp Cidadão
 
@@ -32,7 +32,7 @@ O Sinesp Cidadão permite a consulta de veículos roubados, pessoas desaparecida
 
 ![Richpicturev1](../img/richpicture_lara.jpeg)
 
-<font size="3"><p style="text-align: center">Fonte: Lara Souza Mota.</p></font>
+<font size="3"><p style="text-align: center">Fonte: <span style="color:black;">[Lara Mota(2025).](https://github.com/mel14-hub)</span></p></font>
 
 ### CIN - Carteira Identidade Nacional
 
@@ -42,7 +42,7 @@ O CIN oferece a praticidade de consultar e gerenciar a Carteira de Identidade Na
 
 ![Richpicturev1](../img/richpicture_luisa.jpeg)
 
-<font size="3"><p style="text-align: center">Fonte: Luísa de Souza Ferreira.</p></font>
+<font size="3"><p style="text-align: center">Fonte: <span style="color:black;">[Luísa Ferreira(2025).](https://github.com/luisa12ll)</span></p></font>
 
 ### Conexão DNIT
 
@@ -52,7 +52,7 @@ O Conexão DNIT mantém os cidadãos informados sobre obras, serviços e condiç
 
 ![Richpicturev1](../img/richpicture_pedro.jpeg)
 
-<font size="3"><p style="text-align: center">Fonte: Pedro Henrique Pereira Santos.
+<font size="3"><p style="text-align: center">Fonte: <span style="color:black;">[Pedro Henrique Pereira(2025).](https://github.com/pedrohpsantos)</span> 
 </p></font>
 
 ### Metro DF
@@ -63,7 +63,7 @@ O Metrô DF oferece as informações sobre horários, linhas e serviços do metr
 
 ![Richpicturev1](../img/richpicture_yan.jpeg)
 
-<font size="3"><p style="text-align: center">Fonte: Yan Matheus Santa Brígida de Aguiar.</p></font>
+<font size="3"><p style="text-align: center">Fonte: <span style="color:black;">[Yan Matheus Aguiar(2025).](https://github.com/Yanmatheus0812)</span></p></font>
 
 Após análise e discussão, o grupo decidiu que o aplicativo a ser estudado durante a disciplina seria o HBO Max, considerando sua popularidade, diversidade de funcionalidades e relevância no mercado de streaming. Assim, embora os Rich Pictures iniciais tenham servido como referência, o estudo final do grupo será baseado no HBO Max.
 
