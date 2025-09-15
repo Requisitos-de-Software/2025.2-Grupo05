@@ -1,17 +1,17 @@
-site_name: HBO Max Wiki
+site_name: Jornada do Estudante
 repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo05 # Link do seu repositório
 theme:
   name: material
   custom_dir: overrides
-  logo: img/logo (1).png
-  favicon: img/icone-hbo.jpg
+  logo: img/logo-jornada.png
+  favicon: img/logo-jornada.png
   features:
     - navigation.tabs
     - navigation.top
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: 'deep purple'
+      primary: 'deep blue'
       accent: 'indigo'
       toggle:
         icon: material/brightness-4
