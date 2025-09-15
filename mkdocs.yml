@@ -3,8 +3,8 @@ repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo05 # Link do seu
 theme:
   name: material
   custom_dir: overrides
-  logo: img/logo (1).png
-  favicon: img/icone-hbo.jpg
+  logo: img/logo-jornada.png
+  favicon: img/logo-jornada.png
   features:
     - navigation.tabs
     - navigation.top
@@ -19,7 +19,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: 'grey'
-      accent: 'purple'
+      accent: 'blue'
       toggle:
         icon: material/brightness-7
         name: Alternar para modo claro
