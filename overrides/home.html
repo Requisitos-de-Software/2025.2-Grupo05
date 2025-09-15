@@ -1,16 +1,20 @@
-{% extends "main.html" %} {% block tabs %} {{ super() }}
+{% extends "main.html" %}
+
+{% block tabs %}
+{{ super() }}
+
 <style>
   @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
+
   :root {
-    /* Cores adaptadas para o tema escuro */
-    --hbo-dark-bg: #000; /* Fundo escuro */
-    --hbo-text-color: #e0e0e0; /* Texto claro */
-    --hbo-logo-float-animation: float 10s ease-in-out infinite;
-    --hbo-fade-in-animation: fadeIn 2s ease-in;
+    --jornada-bg: #021427; /*Azul escuro*/
+    --jornada-text: #ffffff; /*Branco*/
+    --jornada-float-animation: float 10s ease-in-out infinite;
+    --jornada-fade-in-animation: fadeIn 2s ease-in;
   }
 
   body {
-    background-color: var(--hbo-dark-bg);
+    background-color: var(--jornada-bg);
   }
 
   .background {
@@ -18,10 +22,10 @@
     padding: 0;
     font-family: "Roboto", sans-serif;
     font-weight: 700;
-    background-color: var(--hbo-dark-bg); /* Fundo da seção inicial */
-    color: var(--hbo-text-color); /* Cor do texto */
+    background-color: var(--jornada-bg);
+    color: var(--jornada-text);
     display: flex;
-    justify-content: start;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
     height: 100vh;
@@ -31,30 +35,26 @@
   .logo {
     width: 300px;
     height: auto;
-    margin: 10vh 0 0 0;
-    padding: 0;
-    animation: var(
-      --hbo-logo-float-animation
-    ); /* Aplica a animação flutuante */
+    margin-top: 10vh;
+    animation: var(--jornada-float-animation);
   }
 
   .description {
     margin: 20px;
     font-size: 1.5rem;
-    color: var(--hbo-text-color);
+    color: var(--jornada-text);
     max-width: 600px;
     padding: 0;
-    animation: var(--hbo-fade-in-animation); /* Animação de entrada */
+    animation: var(--jornada-fade-in-animation);
   }
 
   @keyframes float {
-    0%,
-    100% {
+    0%, 100% {
       transform: translateY(0);
     }
     50% {
       transform: translateY(-10px);
-    } /* Sobe e desce suavemente */
+    }
   }
 
   @keyframes fadeIn {
@@ -71,13 +71,13 @@
 
 <body>
   <div class="background">
-    <img src="img/logo.jpg" alt="Logo HBO Max" class="logo" />
+    <img src="img/logo-jornada-branco.png" alt="Logo Jornada do Estudante" class="logo" />
     <p class="description">
-      Documentação do projeto de Requisitos de Software sobre o aplicativo HBO
-      Max.
+      Documentação do projeto de Requisitos de Software sobre o aplicativo <strong>Jornada do Estudante</strong>
     </p>
   </div>
 </body>
 
-{% endblock %} {% block content %}{% endblock %} {% block footer %}{% endblock
-%}
+{% endblock %}
+{% block content %}{% endblock %}
+{% block footer %}{% endblock %}

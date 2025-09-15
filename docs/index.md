@@ -1,4 +1,4 @@
 ---
-title: HBO Max Wiki
+title: Jornada do Estudante
 template: home.html
 ---
