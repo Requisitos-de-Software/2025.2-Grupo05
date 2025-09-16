@@ -42,7 +42,7 @@ O objetivo dessa página é armazenar os vídeo das inspeções e demais documen
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, Camila Cavalcante, Geovanna Umbelino e Luísa Ferreira.</p></font>
 
 
-## Lista de Verificação - Reach Picture Grupo 6
+## Lista de Verificação - Rich Picture Grupo 6
 
 | Item | Descrição | Verificação | Descrição do problema | Sugestão de Ação Corretiva | Observação |
 |------|-----------|-------------|------------------------|-----------------------------|-------------|

@@ -79,4 +79,9 @@ nav:
     - Pós-Rastreabilidade:
       - Forward-From: Pós-Rastreabilidade/Forward-From.md
       - Backward-From: Pós-Rastreabilidade/Backward-From.md
+    - Aplicativo Anterior:
+      - Sobre: Aplicativo_anterior/Sobre_hbo.md
+      - Rich Picture: Aplicativo_anterior/Rich_picture_hbo.md
+      - Aplicativo Selecionado: Aplicativo_anterior/Aplicativo_selecionado_hbo.md
+      
 
