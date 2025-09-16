@@ -23,7 +23,7 @@ A _tabela 1_ apresenta todas as atividades e apresentações programadas para o 
 |   6.1   |    Inspeção do Grupo + 1   |              Inspeção do Grupo 6 - Análise de Requisitos       |  11/12  |   -    |
 |   7  |      Projeto Final     |       Entrega e apresentação do Projeto final             |  24/11  |      -       |
 
-_Tabela 1: Cronograma geral de atividades. Fonte: autoria própria._
+_Tabela 1: Cronograma geral de atividades. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
 ## Cronograma Específico
 
@@ -48,7 +48,7 @@ A _Tabela 2_ aborda as atividades feitas para a primeira entrega.
 | Gravar inspeção do grupo 6 | 10/09 | 10/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 10/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Apresentação do projeto etapa 1: Apresentação | 11/09 | 11/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 11/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
-_Tabela 2: cronograma da primeira entrega. Fonte: autoria própria._
+_Tabela 2: cronograma da primeira entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
 
 ### Etapa 1  - Pre-Rastreabilidade (cronograma realizado)
@@ -70,7 +70,7 @@ A _Tabela 2_ aborda as atividades feitas para a primeira entrega.
 | Gravar inspeção do grupo 6 | 10/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 10/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Apresentação do projeto etapa 1: Apresentação | 11/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 11/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
-_Tabela 2: cronograma da primeira entrega. Fonte: autoria própria._
+_Tabela 2: cronograma da primeira entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
 ### Etapa 2 - Elicitação e Priorização de Requisitos
 A _Tabela 3_ aborda as atividades feitas para a segunda entrega.
@@ -98,7 +98,7 @@ A _Tabela 3_ aborda as atividades feitas para a segunda entrega.
 | Gravar inspeção do grupo 6 | 01/10 | 01/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 01/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Apresentação do projeto etapa 2: Elicitação – Técnicas e Priorização | 02/10 | 02/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 02/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
-_Tabela 3: cronograma da segunda entrega. Fonte: autoria própria._
+_Tabela 3: cronograma da segunda entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
 ### Etapa 3 - Modelagem de Requisitos
 A _Tabela 4_ aborda as atividades feitas para a terceira entrega.
@@ -114,7 +114,7 @@ A _Tabela 4_ aborda as atividades feitas para a terceira entrega.
 | Gravar inspeção do grupo 6 | 13/10 | 13/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 13/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Apresentação do projeto etapa 3: Modelagem de Requisitos | 14/10 | 14/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 14/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
-_Tabela 4: cronograma da terceira entrega. Fonte: autoria própria._
+_Tabela 4: cronograma da terceira entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
 ### Etapa 4 - Modelagem de Requisitos - Ágil
 A _Tabela 5_ aborda as atividades feitas para a quarta entrega.
@@ -129,20 +129,20 @@ A _Tabela 5_ aborda as atividades feitas para a quarta entrega.
 | Gravar inspeção do grupo 6 | 22/10 | 22/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 22/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Apresentação do projeto etapa 4: Modelagem de Requisitos \- Ágil | 23/10 | 23/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 23/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
-_Tabela 5: cronograma da quarta entrega. Fonte: autoria própria._
+_Tabela 5: cronograma da quarta entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
 ### Etapa 5 - Análise de Requisitos 
 A _Tabela 6_ aborda as atividades feitas para a quinta entrega.
 
 | **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| Correção da etapa anterior | 23/10 | 26/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 26/10 |  Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus
 | Análise de Requisitos: Verificação | 23/10 | 02/11 | Camila Silva, Luísa de Souza e Yan Matheus | 02/11 | Geovanna Alves, Lara Souza e Pedro Henrique |
+| Correção da etapa anterior | 30/10 | 02/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 26/10 |  Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus
 | Análise de Requisitos: Validação | 02/11 | 10/11 | Geovanna Alves, Lara Souza e Pedro Henrique | 11/11 | Camila Silva, Luísa de Souza e Yan Matheus |
 | Gravar apresentação do projeto | 11/11 | 11/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 11/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Apresentação do projeto etapa 5: Análise de Requisitos: Verificação e Validação | 13/11 | 13/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 13/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
-_Tabela 6: cronograma da quinta entrega. Fonte: autoria própria._
+_Tabela 6: cronograma da quinta entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
 ### Etapa 6 - Pós-Rastreabilidade 
 A _Tabela 7_ aborda as atividades feitas para a sexta entrega.
@@ -156,9 +156,19 @@ A _Tabela 7_ aborda as atividades feitas para a sexta entrega.
 | Gravar inspeção do grupo 6 | 29/10 | 29/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 29/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Apresentação do projeto etapa 6: Pós-rastreabilidade | 30/10 | 30/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 30/10 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
-_Tabela 7: cronograma da sexta entrega. Fonte: autoria própria._
+_Tabela 7: cronograma da sexta entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
 ### Etapa 7 - Projeto Final
+A _Tabela 8_ aborda as atividades feitas para o projeto final.
+
+| **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
+|-----------|----------|-----------------|--------------|---------|-----------|
+| Correção da etapa anterior | 13/11 | 18/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 18/11 |  Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus
+| Revisão e ajustes finais do projeto | 18/11 | 20/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 21/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Entrega do projeto final | 24/11 | 24/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 24/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Avaliação final | 25/11 | 25/11 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | - | André Barros |
+
+_Tabela 8: cronograma do projeto final. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
 ## Histórico de Versões
 
@@ -166,6 +176,7 @@ _Tabela 7: cronograma da sexta entrega. Fonte: autoria própria._
 |--------|------------|--------------------|-----------------------------------------------------------|------------------------------------------------------------------------|
 | 1.0    | 08/09/2025 | Adição do Cronograma | [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) | [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
 | 1.1    | 15/09/2025 | Correção nas entregas das apresentações | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
+| 1.2    | 15/09/2025 | Criação da tabela do projeto final | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
 
 ## Bibliografia
 
