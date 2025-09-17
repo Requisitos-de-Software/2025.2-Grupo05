@@ -49,4 +49,4 @@ Termo de Uso: [https://hbomax.com/terms-of-use](https://hbomax.com/terms-of-use)
 | Versão   | Data       | Descrição                                | Autor                    | Revisor |
 |----------|------------|------------------------------------------|--------------------------|---------|
 | 1.0      | 07/09/2025 | Seleção de aplicativo     |  [Geovanna Alves](https://github.com/GeovannaUmbelino)          |  [Camila Silva](https://github.com/CamilaSilvaC)   |
-| 1.1      | 09/09/2025 | Adicionando termo de uso     |  [Geovanna Alves](https://github.com/GeovannaUmbelino)                  | [Luísa de Souza](https://github.com/luisa12ll)   |
+| 1.1      | 09/09/2025 | Adicionando termo de uso     |  [Geovanna Alves](https://github.com/GeovannaUmbelino)                  |  [Camila Silva](https://github.com/CamilaSilvaC)  |

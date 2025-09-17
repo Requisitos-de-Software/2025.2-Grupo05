@@ -21,7 +21,7 @@ Para assegurar a eficiência e promover a colaboração contínua da equipe, nos
 
 
 
-_Tabela 1: Tabela de Ferramentas utilizadas. Fonte: autoria própria._
+_Tabela 1: Tabela de Ferramentas utilizadas. Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)  e [Lara Souza](https://github.com/mel14-hub)
 
 
 
@@ -31,3 +31,4 @@ _Tabela 1: Tabela de Ferramentas utilizadas. Fonte: autoria própria._
 | Versão | Data       | Descrição                           | Autor                                                     | Revisor                              |
 |--------|------------|------------------------------------|-----------------------------------------------------------|-------------------------------------|
 | 1.0    | 07/09/2025 | Transcrição da tabela de ferramentas | [Geovanna Alves](https://github.com/GeovannaUmbelino)     | [Camila Silva](https://github.com/CamilaSilvaC) |
+| 1.1    | 15/09/2025 | Atualizar as  ferramenta   |  |  |
