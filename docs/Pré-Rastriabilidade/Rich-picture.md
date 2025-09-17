@@ -3,7 +3,7 @@
 ##  Introdução
 As Rich Pictures são representações visuais que ilustram os principais elementos de uma situação e seus relacionamentos. Elas podem ser utilizadas tanto para apoiar a compreensão de um contexto quanto para identificar pontos de melhoria. Na prática, consistem em uma combinação de imagens, textos, símbolos e ícones organizados de forma integrada.
 
-No caso do HBO Max, a Rich Picture representa a plataforma, suas principais funcionalidades e a forma como os usuários interagem com seus recursos.
+No caso da Jornada do Estudante, a Rich Picture representa a plataforma, suas principais funcionalidades e a forma como os usuários interagem com seus recursos.
 
 ## Metodologia e Ferramentas
 A ferramenta Draw.io foi fundamental para a elaboração de elementos visuais-chave do projeto. Com ela, criamos o Rich Picture e sua legenda correspondente. Esses diagramas, mostrados na Figura 1 e Figura 2, são essenciais para uma visão completa do escopo e do contexto do nosso trabalho.
@@ -31,4 +31,6 @@ A construção das Rich Pictures foi elaborada com base em cinco elementos princ
 
 | Versão | Data       | Descrição                   | Autor             | Revisor         |
 |--------|------------|-----------------------------|-------------------|-----------------|
-| 1.0    | 07/09/2025 | Elaboração do Rich picture do aplicativo           |  Geovanna Alves   | Pedro Henrique  |
+| 1.0    | 07/09/2025 | Elaboração do Rich picture do aplicativo           | [Geovanna Alves](https://github.com/GeovannaUmbelino)   | [Pedro Henrique](https://github.com/pedrohpsantos)  |
+| 1.1    | 13/09/2025 | Elaboração do Rich picture do novo aplicativo      | [Luisa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812)  | [Pedro Henrique](https://github.com/pedrohpsantos)  |
+
