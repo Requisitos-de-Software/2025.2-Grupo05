@@ -72,4 +72,4 @@ Após análise e discussão, o grupo decidiu que o aplicativo a ser estudado dur
 | Versão   | Data       | Descrição                                | Autor                    | Revisor |
 |----------|------------|------------------------------------------|--------------------------|---------|
 | 1.0      | 07/09/2025 | Análise inicial dos aplicativos     | [Geovanna Alves](https://github.com/GeovannaUmbelino)           |  [Yan Matheus](https://github.com/Yanmatheus0812)   |
- 
+ | 1.1      | 16/09/2025 | Atualizando as fontes do rich picture     | [Geovanna Alves](https://github.com/GeovannaUmbelino)           | [Camila Silva](https://github.com/CamilaSilvaC)  |
