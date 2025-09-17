@@ -53,7 +53,7 @@ Esse ciclo se repete até a conclusão do projeto, respeitando sempre as entrega
 
 ---
 
-## Vantagens do Scrum para o projeto HBO Max
+## Vantagens do Scrum para o projeto Jornada do Estudante
 
 - **Entrega frequente e incremental:** possibilita entregar partes funcionais da plataforma rapidamente e com qualidade.  
 - **Transparência e adaptação:** todos acompanham o progresso e podem sugerir ajustes, tornando o processo flexível.  
