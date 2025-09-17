@@ -1,6 +1,7 @@
+# .github/workflows/lint.yml
+
 name: Markdown Linting
 
-# Gatilho: Rodar em Pull Requests para 'main' OU 'dev'
 on:
   pull_request:
     branches:
@@ -14,7 +15,23 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # Passo que verifica os arquivos. Se encontrar erros, ele vai falhar.
       - name: Run markdownlint
         uses: DavidAnson/markdownlint-cli2-action@v11
         with:
           globs: '**/*.md'
+
+      # NOVO PASSO ADICIONADO AQUI!
+      # Este passo só roda se o "Run markdownlint" acima falhar.
+      - name: Show fix command on error
+        if: failure()
+        run: |
+          echo " "
+          echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+          echo "ERRO: Problemas de formatação de Markdown foram encontrados."
+          echo "Para corrigi-los automaticamente, rode o seguinte comando"
+          echo "no seu terminal local e envie os arquivos corrigidos:"
+          echo " "
+          echo "npx markdownlint-cli2 '**/*.md' --fix"
+          echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+          echo " "
