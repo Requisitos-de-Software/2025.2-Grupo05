@@ -38,11 +38,12 @@ Fonte:  [Jornada do estudante na Play Store](https://play.google.com/store/apps/
 
 | Versão   | Data       | Descrição                                | Autor(es)                   | Revisor(es) |
 |----------|------------|------------------------------------------|--------------------------|---------|
-| 1.0      | 07/09/2025 | Seleção dos aplicativos    |     [Geovanna Alves](https://github.com/GeovannaUmbelino)      | [Lara Souza](https://github.com/mel14-hub)   |
-| 1.1      | 09/09/2025 | Adicionando termo de uso     |         |[Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luísa de Souza](https://github.com/luisa12ll)|
-| 1.2      | 13/09/2025 | Atualização do aplicativo selecionado    |   [Geovanna Alves](https://github.com/GeovannaUmbelino)  e [Luísa de Souza](https://github.com/luisa12ll)  |  [Yan Matheus](https://github.com/Yanmatheus0812) |
 
-[Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll)
+| 1.0      | 07/09/2025 | Seleção dos aplicativos  |[Geovanna Alves](https://github.com/GeovannaUmbelino) | [Lara Souza](https://github.com/mel14-hub) |
+| 1.1      | 09/09/2025 | Adicionando termo de uso | [Geovanna Alves](https://github.com/GeovannaUmbelino) | [Luisa de Souza](https://github.com/luisa12ll) |
+| 1.2      | 13/09/2025 | Atualização do aplicativo selecionado    | [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luisa de Souza](https://github.com/luisa12ll) | [Yan Matheus](https://github.com/Yanmatheus0812) |
+
+
 ## Bibliografia
 [1] Jornada do estudante. Disponível em: [Jornada do estudante na Google Play](https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante&hl=pt-BR). Acesso em 19 de setembro de 2025.
 

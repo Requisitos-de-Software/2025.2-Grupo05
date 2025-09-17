@@ -31,4 +31,3 @@ _Tabela 1: Tabela de Ferramentas utilizadas. Fonte: [Geovanna Alves](https://git
 | Versão | Data       | Descrição                           | Autor                                                     | Revisor                              |
 |--------|------------|------------------------------------|-----------------------------------------------------------|-------------------------------------|
 | 1.0    | 07/09/2025 | Transcrição da tabela de ferramentas | [Geovanna Alves](https://github.com/GeovannaUmbelino)     | [Camila Silva](https://github.com/CamilaSilvaC) |
-| 1.1    | 15/09/2025 | Atualizar as  ferramenta   |  |  |

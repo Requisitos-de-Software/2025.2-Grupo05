@@ -1,8 +1,8 @@
 # Metodologias
 
-## Metodologia Scrum aplicada ao projeto HBO Max
+## Metodologia Scrum aplicada ao projeto Jornada do Estudante
 
-No desenvolvimento do projeto **HBO Max**, adotaremos o **Scrum** como base para organizar e gerenciar as entregas. Essa abordagem ágil é ideal para projetos digitais dinâmicos, pois valoriza a flexibilidade, a colaboração e a entrega final.
+No desenvolvimento do projeto **Jornada do Estudante**, adotaremos o **Scrum** como base para organizar e gerenciar as entregas. Essa abordagem ágil é ideal para projetos digitais dinâmicos, pois valoriza a flexibilidade, a colaboração e a entrega final.
 
 ---
 
@@ -22,10 +22,10 @@ Ele é especialmente indicado para projetos como o nosso, pois pode ser dividido
 ## Papéis no Scrum
 
 - **Scrum Master (SM):** garante que o time siga as práticas do Scrum, facilita reuniões, ajuda a remover impedimentos e mantém o foco da equipe.  
-  - **Responsável:** Yan Matheus Aguiar
+  - **Responsável:** [Yan Matheus](https://github.com/Yanmatheus0812)
 
 - **Time de Desenvolvimento:** equipe multidisciplinar, autônoma e colaborativa, responsável por entregar os incrementos do produto.  
-  - **Responsáveis:** Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus
+  - **Responsáveis:** [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ---
 
@@ -53,7 +53,7 @@ Esse ciclo se repete até a conclusão do projeto, respeitando sempre as entrega
 
 ---
 
-## Vantagens do Scrum para o projeto HBO Max
+## Vantagens do Scrum para o projeto Jornada do Estudante
 
 - **Entrega frequente e incremental:** possibilita entregar partes funcionais da plataforma rapidamente e com qualidade.  
 - **Transparência e adaptação:** todos acompanham o progresso e podem sugerir ajustes, tornando o processo flexível.  
@@ -76,7 +76,7 @@ Essa combinação de metodologias e práticas nos permite trabalhar de forma din
 
 | Versão | Data       | Descrição                   | Autor             | Revisor         |
 |--------|------------|-----------------------------|-------------------|-----------------|
-| 1.0    | 08/09/2025 | Adição da metodologia SCRUM	|  [Camila Silva](https://github.com/CamilaSilvaC) e  [Luísa de Souza](https://github.com/luisa12ll) [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
+| 1.0    | 08/09/2025 | Adição da metodologia SCRUM	|  Camila Silva e Luísa de Souza |Geovanna Alves, Lara Souza, Pedro Henrique e Yan Matheus |
 
 [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
