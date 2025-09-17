@@ -22,10 +22,10 @@ Ele é especialmente indicado para projetos como o nosso, pois pode ser dividido
 ## Papéis no Scrum
 
 - **Scrum Master (SM):** garante que o time siga as práticas do Scrum, facilita reuniões, ajuda a remover impedimentos e mantém o foco da equipe.  
-  - **Responsável:** Yan Matheus Aguiar
+  - **Responsável:** [Yan Matheus](https://github.com/Yanmatheus0812)
 
 - **Time de Desenvolvimento:** equipe multidisciplinar, autônoma e colaborativa, responsável por entregar os incrementos do produto.  
-  - **Responsáveis:** Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus
+  - **Responsáveis:** [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ---
 
