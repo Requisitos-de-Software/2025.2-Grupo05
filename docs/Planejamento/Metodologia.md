@@ -1,8 +1,8 @@
 # Metodologias
 
-## Metodologia Scrum aplicada ao projeto HBO Max
+## Metodologia Scrum aplicada ao projeto Jornada do Estudante
 
-No desenvolvimento do projeto **HBO Max**, adotaremos o **Scrum** como base para organizar e gerenciar as entregas. Essa abordagem ágil é ideal para projetos digitais dinâmicos, pois valoriza a flexibilidade, a colaboração e a entrega final.
+No desenvolvimento do projeto **Jornada do Estudante**, adotaremos o **Scrum** como base para organizar e gerenciar as entregas. Essa abordagem ágil é ideal para projetos digitais dinâmicos, pois valoriza a flexibilidade, a colaboração e a entrega final.
 
 ---
 
@@ -76,7 +76,7 @@ Essa combinação de metodologias e práticas nos permite trabalhar de forma din
 
 | Versão | Data       | Descrição                   | Autor             | Revisor         |
 |--------|------------|-----------------------------|-------------------|-----------------|
-| 1.0    | 08/09/2025 | Adição da metodologia SCRUM	|  Camila Silva e Luísa de Souza |Geovanna Alves, Lara Souza, Pedro Henrique e Yan Matheus |
+| 1.0    | 08/09/2025 | Adição da metodologia SCRUM	|  [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) | [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)|
 
 
 
