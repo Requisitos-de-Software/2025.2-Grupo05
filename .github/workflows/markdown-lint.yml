@@ -1,0 +1,46 @@
+# .github/workflows/markdown-lint.yml
+
+name: Lint Markdown
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Rodar o verificador de Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: |
+            **/*.md
+
+  fix-suggestions:
+    runs-on: ubuntu-latest
+    # A linha abaixo faz com que este job SÓ RODE SE o job 'markdown-lint' FALHAR.
+    if: failure() && needs.markdown-lint.result == 'failure'
+    needs: markdown-lint # Depende do job anterior
+    name: "Fix 🧰🛠️" # Nome que aparecerá na interface do GitHub
+    steps:
+      - name: Mostrar comando de correção
+        run: |
+          echo "################################################################"
+          echo "#                                                              #"
+          echo "#         ERROS DE FORMATAÇÃO DE MARKDOWN ENCONTRADOS!         #"
+          echo "#                                                              #"
+          echo "################################################################"
+          echo ""
+          echo "Para corrigir automaticamente, instale a ferramenta (se não tiver):"
+          echo "npm install -g markdownlint-cli2"
+          echo ""
+          echo "E depois rode o seguinte comando na raiz do seu projeto:"
+          echo "markdownlint-cli2 \"**/*.md\" --fix"
+          echo ""
