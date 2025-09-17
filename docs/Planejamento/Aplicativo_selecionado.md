@@ -4,7 +4,7 @@
 
 ![logo_jornadaestudante](https://i.postimg.cc/7Y3y8CPW/jornada-do-est-removebg-preview.png)
 
-**Figura 1 – Logo do Jornada do Estudante **
+**Figura 1 – Logo do Jornada do Estudante**
 
 ## Introdução
 
