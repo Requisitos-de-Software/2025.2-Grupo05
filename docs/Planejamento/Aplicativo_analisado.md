@@ -52,7 +52,7 @@ O Conexão DNIT mantém os cidadãos informados sobre obras, serviços e condiç
 
 ![Richpicturev1](../img/richpicture_pedro.jpeg)
 
-<font size="3"><p style="text-align: center">Fonte: <span style="color:black;">[Pedro Henrique Pereira(2025).](https://github.com/pedrohpsantos)</span> 
+<font size="3"><p style="text-align: center">Fonte: <span style="color:black;">[Pedro Henrique Pereira(2025).](https://github.com/pedrohpsantos)</span>
 </p></font>
 
 ### Metro DF

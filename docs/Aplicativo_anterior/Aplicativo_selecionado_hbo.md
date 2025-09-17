@@ -1,4 +1,4 @@
-# Aplicativo Selecionado 
+# Aplicativo Selecionado
 
 ## HBO Max
 
@@ -8,11 +8,12 @@
 
 ## Introdução
 
-<div style="text-align: justify;"> 
+<div style="text-align: justify;">
 No início da disciplina, cada integrante do grupo apresentou sugestões de aplicativos, acompanhadas de argumentos que justificavam suas escolhas. Em seguida, realizamos uma revisão coletiva, aplicando critérios definidos para avaliar cada proposta e alcançar um consenso. Após essa análise e um longo debate, o aplicativo selecionado foi o HBO Max, escolhido por sua popularidade, variedade de funcionalidades e relevância no mercado de streaming, características que o tornam adequado para ser estudado nesta disciplina.
 </div>
 
 ## Critérios para escolha
+
 - Aplicativo não ter sido trabalhado anteriormente na disciplina.
 - Facilidade de contato com o público-alvo.
 - Complexidade do aplicativo.
@@ -20,7 +21,7 @@ No início da disciplina, cada integrante do grupo apresentou sugestões de apli
 
 ## Sobre o HBO Max
 
-<div style="text-align: justify;"> 
+<div style="text-align: justify;">
 O HBO Max é uma plataforma de streaming que oferece filmes, séries, documentários, animações e produções originais da HBO e de outras produtoras. Possui conteúdos exclusivos e populares, além de séries clássicas e entretenimento para toda a família.
 
 O aplicativo permite criar perfis personalizados, adicionar conteúdos aos favoritos, baixar vídeos para assistir offline, continuar de onde parou e usar o recurso Minha Lista. Está disponível em diversos dispositivos, suporta reprodução em alta qualidade até 4K e oferece som surround, incluindo Dolby Atmos em planos específicos. A disponibilidade de conteúdos e recursos pode variar por região. A interface do aplicativo pode ser observada na Figura 2.
@@ -31,6 +32,7 @@ O aplicativo permite criar perfis personalizados, adicionar conteúdos aos favor
 **Figura 2 – Aplicativo HBO Max**
 
 ## Termo de Uso
+
 Para desenvolver o projeto de requisitos de software do HBO Max de forma ética e responsável, o grupo decidiu, antes de tudo, consultar os termos de uso da plataforma. Essa verificação foi importante para garantir que a análise fosse feita dentro dos limites permitidos.
 
 Durante a leitura dos termos, ficou evidente que todo o conteúdo do HBO Max é protegido por direitos autorais, patentes, segredos comerciais e outras leis de propriedade intelectual. Além disso, o acesso oferecido aos usuários é apenas uma “licença limitada, revogável e intransferível”, destinada exclusivamente ao uso pessoal e não comercial. Em nenhum momento os termos mencionam permissão para análises acadêmicas ou para práticas como engenharia reversa.
@@ -38,10 +40,6 @@ Durante a leitura dos termos, ficou evidente que todo o conteúdo do HBO Max é 
 Diante disso, e com o compromisso de respeitar as regras da plataforma, o grupo decidiu restringir a análise apenas ao que pode ser observado na interface pública do aplicativo. Assim, o trabalho será baseado na experiência do usuário, nas funcionalidades visíveis e no comportamento do serviço, sem envolver acesso ao código-fonte ou qualquer prática que possa infringir as políticas da HBO Max. Com essa escolha, o projeto mantém a integridade acadêmica e segue um caminho transparente e ético.
 
 Termo de Uso: [https://hbomax.com/terms-of-use](https://hbomax.com/terms-of-use)
-
-
-
-
 
 ## Histórico de Versões
 
