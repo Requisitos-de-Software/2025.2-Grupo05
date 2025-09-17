@@ -22,7 +22,7 @@ O objetivo dessa página é armazenar os vídeo das inspeções e demais documen
 | 9 \- Possui opção de contraste de cores? | Conforme | Versão 1.0 \- 10/09/2025 |
 | 10 \- Uma página com as atas de reunião com o acesso a gravação (vídeo), quando houver. | Conforme | Versão 1.0 \- 10/09/2025 |
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria, Camila Cavalcante, Geovanna Umbelino e Luísa Ferreira.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaboração própria, Camila Cavalcante, Geovanna Umbelino e Luísa de Souza.</p></font>
 
 ## Lista de Verificação - Itens do Desenvolvimento do projeto Grupo 6
 
@@ -39,7 +39,7 @@ O objetivo dessa página é armazenar os vídeo das inspeções e demais documen
 | 9 \- Vídeo de apresentação na categoria “não listado” no youtube? | Conforme | **Versão 1.0 \- 10/09/2025** |
 | 10 \- . Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | Conforme | **Versão 1.0 \- 10/09/2025** |
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria, Camila Cavalcante, Geovanna Umbelino e Luísa Ferreira.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaboração própria, Camila Cavalcante, Geovanna Umbelino e Luísa de Souza.</p></font>
 
 
 ## Lista de Verificação - Rich Picture Grupo 6
