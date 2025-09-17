@@ -23,7 +23,7 @@ jobs:
 
       # NOVO PASSO ADICIONADO AQUI!
       # Este passo só roda se o "Run markdownlint" acima falhar.
-      - name: Show fix command on error
+      - name: Fix 🧰🛠️
         if: failure()
         run: |
           echo " "
