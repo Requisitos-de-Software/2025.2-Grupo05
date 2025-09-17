@@ -41,8 +41,7 @@ Termo de Uso: [https://hbomax.com/terms-of-use](https://hbomax.com/terms-of-use)
 
 
 
-## Bibliografia
-[1] HBO Max. Disponível em: [HBO Max na Google Play](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em 08 de setembro de 2025.
+
 
 ## Histórico de Versões
 
@@ -50,3 +49,7 @@ Termo de Uso: [https://hbomax.com/terms-of-use](https://hbomax.com/terms-of-use)
 |----------|------------|------------------------------------------|--------------------------|---------|
 | 1.0      | 07/09/2025 | Seleção de aplicativo     |  [Geovanna Alves](https://github.com/GeovannaUmbelino)          |  [Camila Silva](https://github.com/CamilaSilvaC)   |
 | 1.1      | 09/09/2025 | Adicionando termo de uso     |  [Geovanna Alves](https://github.com/GeovannaUmbelino)                  |  [Camila Silva](https://github.com/CamilaSilvaC)  |
+
+## Bibliografia
+
+[1] HBO Max. Disponível em: [HBO Max na Google Play](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em 08 de setembro de 2025.
