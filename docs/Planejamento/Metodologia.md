@@ -50,7 +50,7 @@ Esse ciclo se repete até a conclusão do projeto, respeitando sempre as entrega
 ## Representação Visual do Ciclo da Sprint
 A _Figura 1_ apresenta as etapas do Scrum, desde o Product Backlog até a entrega do trabalho concluído, destacando o ciclo iterativo das sprints.
 ![Scrum Process](https://i.postimg.cc/Dy3SjSKh/0-Jes-SIn0-Qt-DE0-Fu-Py-removebg-preview.png)
-_Figura 1_: Processo Scrum. Fonte: [mshowto.org] (https://www.mshowto.org/agile-ve-scrum-nedir.html).
+_Figura 1_: Processo Scrum. Fonte: [mshowto.org](https://www.mshowto.org/agile-ve-scrum-nedir.html).
 
 ---
 
@@ -93,5 +93,5 @@ Essa combinação de metodologias e práticas nos permite trabalhar de forma din
    Disponível em: [sebrae.com.br](https://sebrae.com.br/sites/PortalSebrae/cursosonline/inovacao-e-agilidade-o-futuro-do-empreendedorismo,c269f07e6fb5c710VgnVCM100000d701210aRCRD). Acesso em 07 de Setembro de 2025.
 
 [4] MSHOWTO. Agile ve Scrum Nedir? 
-    Disponível em: [mshowto.org] (https://www.mshowto.org/agile-ve-scrum-nedir.html). Acesso em: 16 set. 2025.
+    Disponível em: [mshowto.org](https://www.mshowto.org/agile-ve-scrum-nedir.html). Acesso em: 16 set. 2025.
  
