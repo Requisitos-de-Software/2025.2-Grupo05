@@ -43,3 +43,12 @@ Figura 7 – Termo de uso do aplicativo do jornada de estudante. Fonte: [Aplicat
 ![logo_Jornadaestudante](../img/termo_de_uso8.jpg)
 
 Figura 8 – Termo de uso do aplicativo do jornada de estudante. Fonte: [Aplicativo do Jornada do estudante ](https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante&hl=pt-BR).
+
+
+## Histórico de Versões
+| Versão | Data       | Descrição                           | Autor(es)                                                    | Revisor(es)                             |
+|--------|------------|------------------------------------|-----------------------------------------------------------|-------------------------------------|
+| 1.0    | 16/09/2025 | Transcrição da tabela de ferramentas | [Geovanna Alves](https://github.com/GeovannaUmbelino)   e [Luisa de Souza](https://github.com/luisa12ll)  | [Camila Silva](https://github.com/CamilaSilvaC) |
+
+## Bibliografia
+[1] Aplicativo Jornada do estudante. Disponível em: [Jornada do estudante na Google Play](https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante&hl=pt-BR). Acesso em 15 de setembro de 2025.

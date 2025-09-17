@@ -75,11 +75,11 @@ Essa combinação de metodologias e práticas nos permite trabalhar de forma din
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                   | Autor             | Revisor         |
+| Versão | Data       | Descrição                   | Autor(es)             | Revisor(es)        |
 |--------|------------|-----------------------------|-------------------|-----------------|
-| 1.0    | 08/09/2025 | Adição da metodologia SCRUM	|  Camila Silva e Luísa de Souza |Geovanna Alves, Lara Souza, Pedro Henrique e Yan Matheus |
+| 1.0    | 08/09/2025 | Adição da metodologia SCRUM	|  [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) | [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
 
-[Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)
+
 
 ## Bibliografia
 [1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; [www.computer.org.](https://www.computer.org/education/bodies-of-knowledge/software-engineering
