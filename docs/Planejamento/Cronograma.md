@@ -2,10 +2,9 @@
 
 O cronograma funciona como um instrumento para planejar e distribuir tarefas, recursos e prazos de um projeto de maneira visual, neste caso, por meio de tabelas. Os cronogramas a seguir foram elaborados considerando as datas e prazos estabelecidos no calendário do semestre letivo (2025.2) da disciplina.
 
-## Cronograma Geral 
+## Cronograma Geral
 
 A _tabela 1_ apresenta todas as atividades e apresentações programadas para o decorrer da disciplina.
-
 
 | Etapa |             Título             |                       Descrição                       | Entrega | Apresentação |
 | :---: | :----------------------------: | :---------------------------------------------------: | :-----: | :----------: |
@@ -30,6 +29,7 @@ _Tabela 1: Cronograma geral de atividades. Fonte: [Camila Silva](https://github.
  Esta seção apresenta as atividades desenvolvidas ao longo de cada entrega da disciplina.
 
 ### Etapa 1  - Pre-Rastreabilidade (cronograma previsto)
+
 A _Tabela 2_ aborda as atividades feitas para a primeira entrega.
 
 | **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
@@ -50,8 +50,8 @@ A _Tabela 2_ aborda as atividades feitas para a primeira entrega.
 
 _Tabela 2: cronograma da primeira entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
-
 ### Etapa 1  - Pre-Rastreabilidade (cronograma realizado)
+
 A _Tabela 2_ aborda as atividades feitas para a primeira entrega.
 
 | **Atividade** | **Período de desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
@@ -73,6 +73,7 @@ A _Tabela 2_ aborda as atividades feitas para a primeira entrega.
 _Tabela 2: cronograma da primeira entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
 ### Etapa 2 - Elicitação e Priorização de Requisitos
+
 A _Tabela 3_ aborda as atividades feitas para a segunda entrega.
 
 | **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
@@ -87,7 +88,7 @@ A _Tabela 3_ aborda as atividades feitas para a segunda entrega.
 | Técnica de Elicitação: Brainstorm | 21/09 | 21/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 21/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Técnica de Elicitação: Entrevista | 22/09 | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Técnica de Elicitação: Observação | 22/09 | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
-| Técnica de Elicitação: Storytelling	 | 22/09 | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Elicitação: Storytelling  | 22/09 | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Técnica de Priorização: First Things First | 22/09 | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Técnica de Priorização: $100 Test | 22/09 | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Técnica de Priorização: Three-Level Scale | 22/09 | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
@@ -101,6 +102,7 @@ A _Tabela 3_ aborda as atividades feitas para a segunda entrega.
 _Tabela 3: cronograma da segunda entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
 ### Etapa 3 - Modelagem de Requisitos
+
 A _Tabela 4_ aborda as atividades feitas para a terceira entrega.
 
 | **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
@@ -117,6 +119,7 @@ A _Tabela 4_ aborda as atividades feitas para a terceira entrega.
 _Tabela 4: cronograma da terceira entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
 ### Etapa 4 - Modelagem de Requisitos - Ágil
+
 A _Tabela 5_ aborda as atividades feitas para a quarta entrega.
 
 | **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
@@ -131,7 +134,8 @@ A _Tabela 5_ aborda as atividades feitas para a quarta entrega.
 
 _Tabela 5: cronograma da quarta entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
-### Etapa 5 - Análise de Requisitos 
+### Etapa 5 - Análise de Requisitos
+
 A _Tabela 6_ aborda as atividades feitas para a quinta entrega.
 
 | **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
@@ -144,7 +148,8 @@ A _Tabela 6_ aborda as atividades feitas para a quinta entrega.
 
 _Tabela 6: cronograma da quinta entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
-### Etapa 6 - Pós-Rastreabilidade 
+### Etapa 6 - Pós-Rastreabilidade
+
 A _Tabela 7_ aborda as atividades feitas para a sexta entrega.
 
 | **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
@@ -159,6 +164,7 @@ A _Tabela 7_ aborda as atividades feitas para a sexta entrega.
 _Tabela 7: cronograma da sexta entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
 ### Etapa 7 - Projeto Final
+
 A _Tabela 8_ aborda as atividades feitas para o projeto final.
 
 | **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |

@@ -3,6 +3,7 @@
 O objetivo dessa página é armazenar os vídeo das inspeções e demais documentos relacionados. Se não for possível acessar o vídeo pela própria página, clique no link correspondente.
 
 ## Inspeção 1
+
 <p style="text-align: center"><a href="https://youtu.be/uXs-pqlbXPA" target="blanket">Clique aqui para assistir o vídeo da inspeção 1</a></p>
 
 ## Lista de Verificação - Itens do Planejamento Geral do projeto Grupo 6
@@ -38,7 +39,6 @@ O objetivo dessa página é armazenar os vídeo das inspeções e demais documen
 | 10 \- . Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | Conforme | **Versão 1.0 \- 10/09/2025** |
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, Camila Cavalcante, Geovanna Umbelino e Luísa de Souza.</p></font>
-
 
 ## Lista de Verificação - Rich Picture Grupo 6
 
@@ -76,9 +76,7 @@ O objetivo dessa página é armazenar os vídeo das inspeções e demais documen
 | 30 | Utilizou balões de pensamento para caricaturar as preocupações dos envolvidos? | Não conforme | Não utilizou | Adicionar um balão de pensamento para esclarecer diversas questões já comentadas |  |
 | 31 | O Rich Picture contém imagens, figuras ou rótulos descritivos? | Conforme | Contém tudo descritivo |  |  |
 
-
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, Lara Mota, Pedro Henrique e Yan Matheus.</p></font>
-
 
 ## Histórico de Versões
 
@@ -86,4 +84,3 @@ O objetivo dessa página é armazenar os vídeo das inspeções e demais documen
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
 | 1.0    | 10/09/2023 | Documentação da inspeção 1    | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
 | 1.1    | 15/09/2025 | Correção nas fontes          | [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |
-
