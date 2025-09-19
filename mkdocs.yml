@@ -35,9 +35,12 @@ markdown_extensions:
 nav:
     - Home: index.md
     - Sobre: Sobre/Sobre.md
-    - Apresentações: # AVISO: Verifique se este arquivo existe em 'docs/'
-      - Reuniões: Apresentações/Reunioes.md
-      - Inspeções: Apresentações/Inspecoes.md
+    - Gravações: 
+      - Reuniões: Gravações/Reunioes.md
+      - Inspeções:
+        - Insepção 1: Gravações/Inspeções/Inspecao1.md 
+      - Apresentações: 
+        - Apresentação 1: Gravações/Apresentações/Apresentacao1.md
     - Planejamento:
       - Metodologia: Planejamento/Metodologia.md
       - Ferramentas: Planejamento/Ferramentas.md
