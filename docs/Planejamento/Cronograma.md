@@ -2,10 +2,9 @@
 
 O cronograma funciona como um instrumento para planejar e distribuir tarefas, recursos e prazos de um projeto de maneira visual, neste caso, por meio de tabelas. Os cronogramas a seguir foram elaborados considerando as datas e prazos estabelecidos no calendário do semestre letivo (2025.2) da disciplina.
 
-## Cronograma Geral 
+## Cronograma Geral
 
 A _tabela 1_ apresenta todas as atividades e apresentações programadas para o decorrer da disciplina.
-
 
 | Etapa |             Título             |                       Descrição                       | Entrega | Apresentação |
 | :---: | :----------------------------: | :---------------------------------------------------: | :-----: | :----------: |
@@ -30,6 +29,7 @@ _Tabela 1: Cronograma geral de atividades. Fonte: [Camila Silva](https://github.
  Esta seção apresenta as atividades desenvolvidas ao longo de cada entrega da disciplina.
 
 ### Etapa 1  - Pre-Rastreabilidade (cronograma previsto)
+
 A _Tabela 2_ aborda as atividades feitas para a primeira entrega.
 
 | **Atividade** | **Inicio do desenvolvimento** | **Fim do desenvolvimento** | **Responsáveis** | **Revisão** | **Revisores** |
@@ -49,7 +49,6 @@ A _Tabela 2_ aborda as atividades feitas para a primeira entrega.
 | Apresentação do projeto etapa 1: Apresentação | 11/09 | 11/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 11/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
 _Tabela 2: cronograma da primeira entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
-
 
 ### Etapa 1  - Pre-Rastreabilidade (cronograma realizado)
 A _Tabela 3_ aborda as atividades feitas para a primeira entrega.
@@ -87,7 +86,7 @@ A _Tabela 4_ aborda as atividades feitas para a segunda entrega.
 | Técnica de Elicitação: Brainstorm | 21/09 | 21/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 21/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Técnica de Elicitação: Entrevista | 22/09 | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Técnica de Elicitação: Observação | 22/09 | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
-| Técnica de Elicitação: Storytelling	 | 22/09 | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Elicitação: Storytelling  | 22/09 | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Técnica de Priorização: First Things First | 22/09 | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Técnica de Priorização: $100 Test | 22/09 | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 | Técnica de Priorização: Three-Level Scale | 22/09 | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |

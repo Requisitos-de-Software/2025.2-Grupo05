@@ -32,14 +32,17 @@ Ele é especialmente indicado para projetos como o nosso, pois pode ser dividido
 ## Ciclo de uma Sprint
 
 ### Início da Sprint
+
 - A Sprint começa com uma cerimônia que combina **Sprint Review** (análise da Sprint anterior) e **Sprint Planning** (planejamento da próxima).
 - O time revisa o que foi feito e define quais funcionalidades serão trabalhadas no ciclo atual, com base no **Product Backlog**.
 
 ### Durante a Sprint
+
 - O time executa as atividades do **Sprint Backlog** com foco e autonomia.
 - São realizadas reuniões diárias (**Daily Scrum**) de até 15 minutos para compartilhar o progresso, identificar obstáculos e alinhar o trabalho do dia.
 
 ### Final da Sprint
+
 - Ao final (1 a 4 semanas, sendo comum 2 semanas), ocorre a entrega dos incrementos (ex.: interface de login, sistema de recomendação, otimização de streaming).
 - Depois, acontece a **Sprint Retrospective**, um momento de reflexão sobre acertos, dificuldades e melhorias para a próxima Sprint.
 
@@ -48,6 +51,7 @@ Esse ciclo se repete até a conclusão do projeto, respeitando sempre as entrega
 ---
 
 ## Representação Visual do Ciclo da Sprint
+
 A _Figura 1_ apresenta as etapas do Scrum, desde o Product Backlog até a entrega do trabalho concluído, destacando o ciclo iterativo das sprints.
 ![Scrum Process](https://i.postimg.cc/Dy3SjSKh/0-Jes-SIn0-Qt-DE0-Fu-Py-removebg-preview.png)
 _Figura 1_: Processo Scrum. Fonte: [mshowto.org](https://www.mshowto.org/agile-ve-scrum-nedir.html).
@@ -61,7 +65,6 @@ _Figura 1_: Processo Scrum. Fonte: [mshowto.org](https://www.mshowto.org/agile-v
 - **Satisfação do cliente:** entregas constantes permitem o acompanhamento e validação dos incrementos.  
 - **Análise constante:** testes integrados a cada Sprint garantem estabilidade e aderência aos requisitos.
 
-
 ## Padrões e Políticas
 
 Para manter a consistência e a clareza no desenvolvimento, estabelecemos políticas de código para a equipe:
@@ -72,26 +75,22 @@ Para manter a consistência e a clareza no desenvolvimento, estabelecemos polít
 
 Essa combinação de metodologias e práticas nos permite trabalhar de forma dinâmica, transparente e com um foco constante na qualidade, garantindo que o projeto atenda aos seus objetivos de forma eficiente.
 
-
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                   | Autor(es)             | Revisor(es)        |
 |--------|------------|-----------------------------|-------------------|-----------------|
-| 1.0    | 08/09/2025 | Adição da metodologia SCRUM	|  [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) | [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
-
-
+| 1.0    | 08/09/2025 | Adição da metodologia SCRUM |  [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) | [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
 
 ## Bibliografia
+
 [1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; [www.computer.org.](https://www.computer.org/education/bodies-of-knowledge/software-engineering
  ). Acesso em 07 de Setembro de 2025.
 
-[2] Usemobile. *Metodologia Scrum para desenvolvimento de aplicativos*. 2022.  
+[2] Usemobile. _Metodologia Scrum para desenvolvimento de aplicativos_. 2022.  
    Disponível em: [usemobile.com.br/metodologia-scrum-desenvolvimento](http://usemobile.com.br/metodologia-scrum-desenvolvimento/). Acesso em 07 de Setembro de 2025.
 
-
-[3] SEBRAE. *Scrum para projetos ágeis*. 2020.  
+[3] SEBRAE. _Scrum para projetos ágeis_. 2020.  
    Disponível em: [sebrae.com.br](https://sebrae.com.br/sites/PortalSebrae/cursosonline/inovacao-e-agilidade-o-futuro-do-empreendedorismo,c269f07e6fb5c710VgnVCM100000d701210aRCRD). Acesso em 07 de Setembro de 2025.
 
-[4] MSHOWTO. Agile ve Scrum Nedir? 
+[4] MSHOWTO. Agile ve Scrum Nedir?
     Disponível em: [mshowto.org](https://www.mshowto.org/agile-ve-scrum-nedir.html). Acesso em: 16 set. 2025.
- 
