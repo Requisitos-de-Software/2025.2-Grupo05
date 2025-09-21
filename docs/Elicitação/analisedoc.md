@@ -37,10 +37,12 @@ A tabela 1 disposta abaixo representa todos os requisitos levantados durante a a
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Lara Mota](https://github.com/mel14-hub), [Luisa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 ## Bibliografia
-
+- BRASIL. Ministério da Educação. **Jornada do Estudante**. Disponível em:  
+  <https://www.gov.br/mec/pt-br/jornadadoestudante>. Acesso em: 19 de set. 2025.
+  GOOGLE. Jornada do Estudante. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante>. Acesso em: 20 set. 2025.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
-| 1.0    | 18/09/2023 | Documentação da apresentação 1   | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
+| 1.0    | 18/09/2023 | Documentação da apresentação 1 | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
