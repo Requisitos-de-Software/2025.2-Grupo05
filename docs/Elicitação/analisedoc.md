@@ -24,6 +24,13 @@ A tabela 1 disposta abaixo representa todos os requisitos levantados durante a a
 | ADD01 | O aplicativo possui uma nterace amigável para crianças e adultos | RI | versão 1.0 |
 | ADD02 | O aplicativo apresenta consistência na contagem de faltas | RNF | versão 1.0 |
 | ADD03 | O aplicativo apresenta atualizações referente ao pagamento do pé de meia disponível em até um mês | RNF | versão 1.0 | 
+| ADD04 | Autenticação via Gov.br | RNF | versão 1.0 | 
+| ADD05 | Visualização de documentos digitais estudantis autenticados, como, diplomas e histórico escolar. | RF | versão 1.0 | 
+| ADD06 | Disponibilidade gratuita nos sistemas operacionias: Android e iOS.| RNF | versão 1.0 | 
+| ADD07 | Acompanhar registros estudantis desde o ingresso até níveis superiores.| RF | versão 1.0 | 
+| ADD08 | Interface intuitiva e fácil de navegar.| RI | versão 1.0 | 
+| ADD09 | Risco de vazamento de dados caso não haja segurança adequada.| RR| versão 1.0 | 
+
 
 <font size="3"><p style="text-align: center">Yabela 1: Requisitos elicitados a partir da análise de documentos.</p></font>
 
