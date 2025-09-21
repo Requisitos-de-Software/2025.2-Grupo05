@@ -1,11 +1,9 @@
-# Tabela de Requisitos
+# Técnica de elicitação de requisitos - Análise de documentos
 
-# Introdução
+## Introdução
 - A analise de documentos é um meio de elicitar requisitos pelo o estudo da documentação do aplicativo jornada do Estudante.O apicativo é uma iniciativa do Mec que busca facilitar  o acesso às políticas educacionais, apoiar a tomada de decisão e promover a inclusão digital, tornando-se um instrumento essencial para a vida acadêmica do estudante no Brasil.
 
-
-
-# tabela de Requisitos
+## Tabela de Requisitos
 
  A tabela 1 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
 
@@ -29,6 +27,15 @@
 | ADD08         |  O aplicativo Jornada do Estudante está relacionado à sua funcionalidade de centralizar dados acadêmicos e permitir o acompanhamento da vida estudantil, incluindo o programa Pé-de-Meia.       | RPR       | 1.0    |
 | ADD09         |  informação desatualizada ou incorreta, que pode levar ao bloqueio do programa Pé-de-Meia, e a possíveis falhas na segurança e privacidade dos dados de usuários.     | RR       | 1.0    |
 | ADD10         | A página do aplicativo pode não refletir a situação atualizada do estudante.              | RR        | 1.0    |
+| ADD011 | O aplicativo possui uma nterace amigável para crianças e adultos | RI | versão 1.0 |
+| ADD012 | O aplicativo apresenta consistência na contagem de faltas | RNF | versão 1.0 |
+| ADD013 | O aplicativo apresenta atualizações referente ao pagamento do pé de meia disponível em até um mês | RNF | versão 1.0 | 
+| ADD014 | Autenticação via Gov.br | RNF | versão 1.0 | 
+| ADD015 | Visualização de documentos digitais estudantis autenticados, como, diplomas e histórico escolar. | RF | versão 1.0 | 
+| ADD016 | Disponibilidade gratuita nos sistemas operacionias: Android e iOS.| RNF | versão 1.0 | 
+| ADD017 | Acompanhar registros estudantis desde o ingresso até níveis superiores.| RF | versão 1.0 | 
+| ADD018 | Interface intuitiva e fácil de navegar.| RI | versão 1.0 | 
+| ADD019 | Risco de vazamento de dados caso não haja segurança adequada.| RR| versão 1.0 | 
 
 
 <p style="text-align: center; font-size: 14px;">
@@ -46,6 +53,8 @@ Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>,
   <https://www.gov.br/mec/pt-br/jornadadoestudante>. Acesso em: 20 set. 2025.
 
 - Carlos Eduardo Vazques,Guilherme Siqueira Simões.**Engenharia de Requisitos**. 1.ed. BRASPORT,2016
+  
+- GOOGLE. Jornada do Estudante. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante>. Acesso em: 20 set. 2025.
 
 
 
@@ -53,4 +62,4 @@ Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>,
 
 | Versão | Data       | Descrição           | Autor                                                      | Revisor                                                 |
 |--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
-| 1.0    | 17/09/2025 | Documentação da ata | [Lara Souza](https://github.com/mel14-hub) | [Pedro Henrique](https://github.com/pedrohpsantos)  |
+| 1.0    | 25/09/2025 | Documentação dos requisitos da analise de documentação | [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos)  |
