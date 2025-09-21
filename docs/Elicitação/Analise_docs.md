@@ -27,16 +27,22 @@
 | ADD08         |  O aplicativo Jornada do Estudante está relacionado à sua funcionalidade de centralizar dados acadêmicos e permitir o acompanhamento da vida estudantil, incluindo o programa Pé-de-Meia.       | RPR       | 1.0    |
 | ADD09         |  informação desatualizada ou incorreta, que pode levar ao bloqueio do programa Pé-de-Meia, e a possíveis falhas na segurança e privacidade dos dados de usuários.     | RR       | 1.0    |
 | ADD10         | A página do aplicativo pode não refletir a situação atualizada do estudante.              | RR        | 1.0    |
-| ADD011 | O aplicativo possui uma nterace amigável para crianças e adultos | RI | versão 1.0 |
-| ADD012 | O aplicativo apresenta consistência na contagem de faltas | RNF | versão 1.0 |
-| ADD013 | O aplicativo apresenta atualizações referente ao pagamento do pé de meia disponível em até um mês | RNF | versão 1.0 | 
-| ADD014 | Autenticação via Gov.br | RNF | versão 1.0 | 
-| ADD015 | Visualização de documentos digitais estudantis autenticados, como, diplomas e histórico escolar. | RF | versão 1.0 | 
-| ADD016 | Disponibilidade gratuita nos sistemas operacionias: Android e iOS.| RNF | versão 1.0 | 
-| ADD017 | Acompanhar registros estudantis desde o ingresso até níveis superiores.| RF | versão 1.0 | 
-| ADD018 | Interface intuitiva e fácil de navegar.| RI | versão 1.0 | 
-| ADD019 | Risco de vazamento de dados caso não haja segurança adequada.| RR| versão 1.0 | 
-
+| ADD011 | O aplicativo possui uma nterace amigável para crianças e adultos | RI | 1.0 |
+| ADD012 | O aplicativo apresenta consistência na contagem de faltas | RNF | 1.0 |
+| ADD013 | O aplicativo apresenta atualizações referente ao pagamento do pé de meia disponível em até um mês | RNF | 1.0 | 
+| ADD014 | Autenticação via Gov.br | RNF | 1.0 | 
+| ADD015 | Visualização de documentos digitais estudantis autenticados, como, diplomas e histórico escolar. | RF | 1.0 | 
+| ADD016 | Disponibilidade gratuita nos sistemas operacionias: Android e iOS.| RNF | 1.0 | 
+| ADD017 | Acompanhar registros estudantis desde o ingresso até níveis superiores.| RF | 1.0 | 
+| ADD018 | Interface intuitiva e fácil de navegar.| RI | 1.0 | 
+| ADD019 | Risco de vazamento de dados caso não haja segurança adequada.| RR| 1.0 | 
+| ADD020 | O aplicativo é um canal direto de comunicação entre o MEC e os estudantes.| RF| 1.0 | 
+| ADD021 | O aplicativo pode ser usado por qualquer ccidadão brasileiro que tenha um CPF válido.| RF| 1.0 | 
+| ADD022 | O aplicativo possibilita informar um curso que você estudou ou está cursando.| RF| 1.0 | 
+| ADD023 | O aplicativo possibilita os usuários recebam através de um canal de comunicação novidades do Governo Federal voltadas à educação.| RF| 1.0 | 
+| ADD024 | O aplicativo possibilita acessar rapidamente serviços como ENEM, FIES, ProUni, Sisu e Capes.| RF| 1.0 | 
+| ADD025 | O aplicativo possibilita acessar rapidamente mídias digitais com conteúdos e palestras transmitidas ao vivo.| RF| 1.0 | 
+| ADD026 | O aplicativo não possibilita integração do colégio ou universidade por dentro da plataforma.| RF| 1.0 | 
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 1 – Conjunto de requisitos levantados na análise documental.<br>
@@ -55,6 +61,9 @@ Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>,
 - Carlos Eduardo Vazques,Guilherme Siqueira Simões.**Engenharia de Requisitos**. 1.ed. BRASPORT,2016
   
 - GOOGLE. Jornada do Estudante. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante>. Acesso em: 20 set. 2025.
+  
+- UNIVERSIDADE FEDERAL DE SANTA CATARINA. Laboratório Bridge. **Conheça o aplicativo Jornada do Estudante**. Disponível em: <https://portal.bridge.ufsc.br/2023/04/18/conheca-o-aplicativo-jornada-do-estudante/>. Acesso em: 20 set. 2025.
+
 
 
 
