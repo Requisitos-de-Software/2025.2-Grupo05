@@ -29,11 +29,7 @@
 | ADD08         |  O aplicativo Jornada do Estudante está relacionado à sua funcionalidade de centralizar dados acadêmicos e permitir o acompanhamento da vida estudantil, incluindo o programa Pé-de-Meia.       | RPR       | 1.0    |
 | ADD09         |  informação desatualizada ou incorreta, que pode levar ao bloqueio do programa Pé-de-Meia, e a possíveis falhas na segurança e privacidade dos dados de usuários.     | RR       | 1.0    |
 | ADD10         | A página do aplicativo pode não refletir a situação atualizada do estudante.              | RR        | 1.0    |
-| ADD11         |    O sistema deve validar se os dados exibidos correspondem aos registros das instituições.   | RT       | 1.0    |
-| ADD12         | Os documentos digitais devem ser validados por meio de assinatura eletrônica ou blockchain.                                            | RT      | 1.0    |
-| ADD13         |     O aplicativo deve estar em conformidade com a LGPD (Lei Geral de Proteção de Dados) para proteger os dados pessoais dos usuários.                | RNF     | 1.0    |
-| ADD14         |  Os dados de login e informações sensíveis devem ser criptografados.                        | RNF       | 1.0    |
-| ADD15         |  O aplicativo deve ser acessível a usuários com deficiência.       | RI       | 1.0    |
+
 
 
 
