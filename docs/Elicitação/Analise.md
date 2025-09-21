@@ -31,6 +31,13 @@
 | ADD10         | A página do aplicativo pode não refletir a situação atualizada do estudante.              | RR        | 1.0    |
 
 
+<p style="text-align: center; font-size: 14px;">
+Tabela 1 – Conjunto de requisitos levantados na análise documental.<br>
+Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>, 
+<a href="https://github.com/luisa12ll">Luisa de Souza</a> e 
+<a href="https://github.com/Yanmatheus0812">Yan Matheus</a>.
+</p>
+
 
 
 ## Bibliografia

@@ -77,7 +77,7 @@ nav:
       - Questionário: Elicitação/Questionário.md
       - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.media
       - Análise_docs: Elicitação/Analise_docs.md
-      - Storytelling: Elicitação/Storytelling.md
+    
     - Modelagem:
       - Cenários: Modelagem/Cenários.md
       - Léxicos: Modelagem/Léxicos.md
