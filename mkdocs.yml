@@ -63,6 +63,7 @@ nav:
       - 10. Ata de Reunião(13/09): Atas/ata13-09_3.md
       - 11. Ata de Reunião(15/09): Atas/ata15-09.md
       - 12. Ata de Reunião(16/09): Atas/ata16-09.md
+      - 13. Ata da Reunião(18/09): Atas/ata18-09.md
 
 
     - Pré-Rastreabilidade:
@@ -74,7 +75,8 @@ nav:
       - Entrevista: Elicitação/Entrevista.md
       - Introspecção: Elicitação/Introspecção.md
       - Questionário: Elicitação/Questionário.md
-      - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.md
+      - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.media
+      - Análise_docs: Elicitação/Analise_docs.md
       - Storytelling: Elicitação/Storytelling.md
     - Modelagem:
       - Cenários: Modelagem/Cenários.md
