@@ -29,9 +29,18 @@ jobs:
       - name: Verificar formatação do código Python com Black
         run: black --check .
 
+      # --- NOVO PASSO ADICIONADO AQUI ---
+      - name: Validar Markdown com markdownlint
+        uses: DavidAnson/markdownlint-cli2-action@v15
+        with:
+          # Adiciona a flag para ignorar o diretório 'site'
+          globs: |
+            **/*.md
+            !site
+
+  # O resto do arquivo continua igual...
   fix-suggestions-python:
     runs-on: ubuntu-latest
-    # Só roda se o job 'validate' falhar
     if: failure() && needs.validate.result == 'failure'
     needs: validate
     name: "Fix 🧰🛠️"
@@ -52,11 +61,12 @@ jobs:
           echo "# Para corrigir outros erros de lint:"
           echo "ruff check . --fix"
           echo ""
+          echo "# Para corrigir erros de Markdown:"
+          echo "markdownlint-cli2 --fix \"{**/*.md,**/*.MD}\" \"#site\""
+          echo ""
 
   deploy:
     runs-on: ubuntu-latest
-    # O deploy continua dependendo da validação. Se a validação falhar,
-    # o deploy não acontece e o job de correção é exibido.
     needs: validate
     steps:
       - uses: actions/checkout@v2
