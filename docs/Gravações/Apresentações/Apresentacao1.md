@@ -3,6 +3,7 @@
 O objetivo dessa página é armazenar o vídeo da apresentação da entrega 1 e demais documentos relacionados. Acesse o vídeo clicando no link correspondente.
 
 ## Apresentação 1
+
 <p style="text-align: center"><a href="https://youtu.be/v9r0mlOZKa0?si=Uv5yfUJMkVPv9_hA" target="blanket">Clique aqui para assistir o vídeo da Apresentação 1</a></p>
 
 ## Lista de Verificação - Itens do Planejamento Geral do projeto Grupo 5
@@ -38,7 +39,6 @@ O objetivo dessa página é armazenar o vídeo da apresentação da entrega 1 e 
 | 10 \- . Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | Conforme | **Versão 1.0 \- 18/09/2025** |
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Camila Cavalcante](https://github.com/CamilaSilvaC), [Geovanna Umbelino](https://github.com/GeovannaUmbelino) e [Luísa Ferreira](https://github.com/luisa12ll).</p></font>
-
 
 ## Lista de Verificação - Rich Picture Grupo 5
 
@@ -76,9 +76,7 @@ O objetivo dessa página é armazenar o vídeo da apresentação da entrega 1 e 
 | 30 | Utilizou balões de pensamento para caricaturar as preocupações dos envolvidos? | Conforme | Utilizou | |  |
 | 31 | O Rich Picture contém imagens, figuras ou rótulos descritivos? | Conforme | Contém tudo descritivo |  |  |
 
-
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Lara Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-
 
 ## Histórico de Versões
 

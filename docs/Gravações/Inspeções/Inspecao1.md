@@ -40,7 +40,6 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 1 e dema
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Camila Cavalcante](https://github.com/CamilaSilvaC), [Geovanna Umbelino](https://github.com/GeovannaUmbelino) e [Luísa Ferreira](https://github.com/luisa12ll).</p></font>
 
-
 ## Lista de Verificação - Rich Picture Grupo 6
 
 | Item | Descrição | Verificação | Descrição do problema | Sugestão de Ação Corretiva | Observação |
@@ -77,9 +76,7 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 1 e dema
 | 30 | Utilizou balões de pensamento para caricaturar as preocupações dos envolvidos? | Não conforme | Não utilizou | Adicionar um balão de pensamento para esclarecer diversas questões já comentadas |  |
 | 31 | O Rich Picture contém imagens, figuras ou rótulos descritivos? | Conforme | Contém tudo descritivo |  |  |
 
-
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Lara Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-
 
 ## Histórico de Versões
 

@@ -1,0 +1,17 @@
+{
+  // Objeto de configuração para as regras do markdownlint
+  "config": {
+    // Desabilita a regra de comprimento da linha
+    "MD013": false,
+    // Permite o uso de HTML
+    "MD033": false
+  },
+  
+  // Define os arquivos que serão analisados pelo CLI
+  "globs": [
+    "**/*.md",
+    "!node_modules",
+    "!site",
+    "!venv"
+  ]
+}
