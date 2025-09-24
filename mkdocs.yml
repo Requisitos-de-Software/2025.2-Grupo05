@@ -35,9 +35,12 @@ markdown_extensions:
 nav:
     - Home: index.md
     - Sobre: Sobre/Sobre.md
-    - Apresentações: # AVISO: Verifique se este arquivo existe em 'docs/'
-      - Reuniões: Apresentações/Reunioes.md
-      - Inspeções: Apresentações/Inspecoes.md
+    - Gravações: 
+      - Reuniões: Gravações/Reunioes.md
+      - Inspeções:
+        - Insepção 1: Gravações/Inspeções/Inspecao1.md 
+      - Apresentações: 
+        - Apresentação 1: Gravações/Apresentações/Apresentacao1.md
     - Planejamento:
       - Metodologia: Planejamento/Metodologia.md
       - Ferramentas: Planejamento/Ferramentas.md
@@ -60,7 +63,8 @@ nav:
       - 10. Ata de Reunião(13/09): Atas/ata13-09_3.md
       - 11. Ata de Reunião(15/09): Atas/ata15-09.md
       - 12. Ata de Reunião(16/09): Atas/ata16-09.md
-      - 13. Ata de Reunião(21/09): Atas/ata21-09.md
+      - 13. Ata da Reunião(18/09): Atas/ata18-09.md
+
 
 
     - Pré-Rastreabilidade:
