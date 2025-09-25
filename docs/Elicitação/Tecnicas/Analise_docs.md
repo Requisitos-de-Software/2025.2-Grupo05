@@ -17,25 +17,26 @@
 
 | Identificação | Descrição                                                                                      | Categoria | Implementado | Versão | Referência | 
 |---------------|------------------------------------------------------------------------------------------------|-----------|-----|---|-------|
-| ADD01         |  O aplicativo deve permitir o acesso ao aplicativo através de uma autenticação com o gov. | RF       | Sim | 1.0    |Google 2025
-| ADD02         |  O aplicativo deve possibilitar o envio de dados de forma simplificada.                                       | RF       | Sim | 1.0    | VAZQUES; SIMÕES, 2016
-| ADD03         |  O aplicativo deve ter uma interface intuitiva e fácil de navegar para que o estudante encontre as informações que precisa rapidamente.       | RI       | Sim | 1.0    | VAZQUES; SIMÕES, 2016
-| ADD04         |  O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos| RNF*       | Sim | 1.0    |Ministério da Educação, 2025
-| ADD05         | O aplicativo deve permitir aos estudantes do Brasil unificar o acesso a suas informações acadêmicas, como dados de cursos, disciplinas e progresso.               | RF       | Sim | 1.0    | VAZQUES; SIMÕES, 2016
-| ADD06         |  O aplicativo deve permitir o acompanhamento do programa Pé-de-Meia.       | RF       | Sim |  1.0    | VAZQUES; SIMÕES, 2016
-| ADD07         |   O aplicativo não deve ter informações desatualizadas ou incorretas, que levem ao bloqueio do programa Pé-de-Meia.| RR       | Não | 1.0    | Google, 2025 |
-| ADD08         | A página do aplicativo pode não refletir a situação atualizada do estudante.              | RR        | Sim | 1.0    | Google, 2025 |
-| ADD09 | O aplicativo deve possibilitar a visualização de faltas do estudante | RF | Sim | 1.0 | Google, 2025 | 
-| ADD010 | O aplicativo deve apresentar atualizações referente ao pagamento do pé de meia disponível em até um mês. | RF | Não | 1.0 | VAZQUES; SIMÕES, 2016
-| ADD011 | O aplicativo deve possibilitar a visualização de documentos digitais estudantis autenticados, como, diplomas e histórico escolar. | RF | Não | 1.0 | VAZQUES; SIMÕES, 2016
-| ADD012 | O aplicativo deve ter disponibilidade gratuita nos sistemas operacionias: Android e iOS.| RPR | Sim | 1.0 | Ministério da Educação, 2025
-| ADD013 | O aplicativo deve possibilitar o acompanhamento de registros estudantis desde o ingresso até níveis superiores.| RF | Sim | 1.0 | VAZQUES; SIMÕES, 2016
-| ADD014 | O aplicativo não deve possibilitar riscos de vazamentos de dados por meio de uma segurança adequada.| RR| Sim | 1.0 | VAZQUES; SIMÕES, 2016
-| ADD015 | O aplicativo deve ser um canal direto de comunicação entre o MEC e os estudantes.| RF| Sim | 1.0 | UFSC, 2023 | Ministério da Educação, 2025
-| ADD016 | O aplicativo deve possibilitar informar um curso que você estudou ou está cursando.| RF| Sim | 1.0 |  UFSC, 2023 | 
-| ADD017 | O aplicativo deve possibilitar os usuários recebam através de um canal de comunicação novidades do Governo Federal voltadas à educação.| RF| Sim | 1.0 |  UFSC, 2023 | 
-| ADD018 | O aplicativo deve possibilitar acessar rapidamente serviços estudantis.| RF| Sim |  1.0 |  UFSC, 2023 | 
-| ADD019 | O aplicativo não deve possibilitar integração da escola ou universidade por dentro da plataforma.| RF| Sim | 1.0 | UFSC, 2023 | 
+| ADD01         |  O aplicativo deve permitir o acesso ao aplicativo através de uma autenticação com o gov. | RF       | - | 1.0    |
+| ADD02         |  O aplicativo deve possibilitar o envio de dados de forma simplificada.                                       | RF       | - | 1.0    |
+| ADD03         |  O aplicativo deve possibilitar a visualização de dados de forma simplificada.                                       | RF       | - | 1.0    |
+| ADD04         |  O aplicativo deve ter uma interface intuitiva e fácil de navegar para que o estudante encontre as informações que precisa rapidamente.       | RI       | - | 1.0    |
+| ADD05         |  O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos| RNF*       | - | 1.0    |
+| ADD06         | O aplicativo deve permitir aos estudantes do Brasil unificar o acesso a suas informações acadêmicas, como dados de cursos, disciplinas e progresso.               | RF       | - | 1.0    |
+| ADD07         |  O aplicativo deve permitir o acompanhamento do programa Pé-de-Meia.       | RF       | - |  1.0    |
+| ADD08         |   O aplicativo não deve ter informações desatualizadas ou incorretas, que levem ao bloqueio do programa Pé-de-Meia.| RR       | Não | 1.0    | Google, 2025 |
+| ADD09         | A página do aplicativo pode não refletir a situação atualizada do estudante.              | RR        | Sim | 1.0    | Google, 2025 |
+| ADD010 | O aplicativo deve possibilitar a visualização de faltas do estudante | RF | Sim | 1.0 | Google, 2025 | 
+| ADD011 | O aplicativo deve apresentar atualizações referente ao pagamento do pé de meia disponível em até um mês. | RF | - | 1.0 | 
+| ADD012 | O aplicativo deve possibilitar a visualização de documentos digitais estudantis autenticados, como, diplomas e histórico escolar. | RF | - | 1.0 | 
+| ADD013 | O aplicativo deve ter disponibilidade gratuita nos sistemas operacionias: Android e iOS.| RPR | - | 1.0 | 
+| ADD014 | O aplicativo deve possibilitar o acompanhamento de registros estudantis desde o ingresso até níveis superiores.| RF | - | 1.0 | 
+| ADD015 | O aplicativo não deve possibilitar riscos de vazamentos de dados por meio de uma segurança adequada.| RR| - | 1.0 | 
+| ADD016 | O aplicativo deve ser um canal direto de comunicação entre o MEC e os estudantes.| RF| Sim | 1.0 | UFSC, 2023 | 
+| ADD017 | O aplicativo deve possibilitar informar um curso que você estudou ou está cursando.| RF| Sim | 1.0 |  UFSC, 2023 | 
+| ADD018 | O aplicativo deve possibilitar os usuários recebam através de um canal de comunicação novidades do Governo Federal voltadas à educação.| RF| Sim | 1.0 |  UFSC, 2023 | 
+| ADD019 | O aplicativo deve possibilitar acessar rapidamente serviços estudantis.| RF| Sim |  1.0 |  UFSC, 2023 | 
+| ADD020 | O aplicativo não deve possibilitar integração da escola ou universidade por dentro da plataforma.| RF| Sim | 1.0 | UFSC, 2023 | 
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 1 – Conjunto de requisitos levantados na análise documental.<br>
