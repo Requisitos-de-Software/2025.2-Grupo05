@@ -89,7 +89,7 @@ Tabela 1 – Conjunto de requisitos elicitados.<br>
 Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>, 
 <a href="https://github.com/luisa12ll">Luisa de Souza</a> e 
 <a href="https://github.com/CamilaSilvaC">Camila Silva</a>.
-<a href="https://github.com/pedrohpsantos">Pedro Henrique/a>.
+<a href="https://github.com/pedrohpsantos">Pedro Henrique</a>.
 <a href="https://github.com/mel14-hub">Lara Souza</a>.
 <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>.
 
