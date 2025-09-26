@@ -78,7 +78,7 @@ PERGUNTAS E RESPOSTAS DA ENTREVISTA
 
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 1 – Conjunto de requisitos levantados nas entrevistas.<br>
+Tabela 1 – Conjunto de requisitos elicitados nas entrevistas.<br>
 Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, 
 <a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a> e 
 <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>.

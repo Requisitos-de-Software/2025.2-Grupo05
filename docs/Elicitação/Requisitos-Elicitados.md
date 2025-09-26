@@ -1,0 +1,95 @@
+# Requisitos elicitados
+
+## Introdução
+- Essa página reune todos os requisitos elicitados usando as técnicas de [Análise de documentação](./Tecnicas/Analise_docs.md), [Entrevista](./Tecnicas/Entrevista.md), [Questionário](./Tecnicas/Questionário.md) e [Brainstorm](./Tecnicas/Braintorming.md).
+
+## Tabela de Requisitos
+
+ A tabela 1 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'RQ' + numero do requisito, e com a seguinte legenda de categoria:
+
+- RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
+- RNF: Requisitos Não-Funcionais - Descrevem os atributos que o software deve ter, como desempenho, segurança e usabilidade, mas não descrevem o comportamento do software em si.
+
+- RI: Requisitos de Interface - Descrevem as características da interface do usuário, como layout, navegação e personalização.
+- RPR: Requisitos de Produto - Descrevem as características do produto, como compatibilidade, desempenho e custo.
+- RR: Riscos - São os riscos associados ao desenvolvimento e uso do software.
+- RT: Testes e Validações - Descrevem as atividades necessárias para testar e validar o software antes de sua implantação.
+
+| Identificação | Descrição                                                                                      | Categoria | Implementado | Versão | Referência | 
+|---------------|------------------------------------------------------------------------------------------------|-----------|-----|---|-------|
+| RRQ1         |  O aplicativo deve permitir o acesso ao aplicativo através de uma autenticação com o gov. | RF       | Sim | 1.0    | [Análise de documentação](./Tecnicas/Analise_docs.md)
+| RRQ2         |  O aplicativo deve ter uma interface intuitiva e fácil de navegar para que o estudante encontre as informações que precisa rapidamente.       | RI       | Sim | 1.0    | [Análise de documentação](./Tecnicas/Analise_docs.md)
+| RRQ3         |  O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos| RNF       | Sim | 1.0    | [Análise de documentação](./Tecnicas/Analise_docs.md)
+| RRQ4         | O aplicativo deve permitir aos estudantes do Brasil unificar o acesso a suas informações acadêmicas, como dados de cursos, disciplinas e progresso.               | RF       | sim | 1.0    | [Análise de documentação](./Tecnicas/Analise_docs.md)
+| RRQ5        |  O aplicativo deve permitir o acompanhamento do programa Pé-de-Meia.       | RF       | Sim |  1.0    | [Análise de documentação](./Tecnicas/Analise_docs.md)
+| RRQ6         |   O aplicativo não deve ter informações desatualizadas ou incorretas, que levem ao bloqueio do programa Pé-de-Meia.| RR       | Não | 1.0    | [Análise de documentação](./Tecnicas/Analise_docs.md) |
+| RRQ7         | A página do aplicativo pode não refletir a situação atualizada do estudante.              | RR        | Sim | 1.0    | [Análise de documentação](./Tecnicas/Analise_docs.md) |
+| RRQ8 | O aplicativo deve possibilitar a visualização de faltas do estudante | RF | Sim | 1.0 | [Análise de documentação](./Tecnicas/Analise_docs.md) | 
+| RRQ9 | O aplicativo deve apresentar atualizações referente ao pagamento do pé de meia disponível em até um mês. | RF | Não | 1.0 | [Análise de documentação](./Tecnicas/Analise_docs.md)
+| RRQ10 | O aplicativo deve ter disponibilidade gratuita nos sistemas operacionias: Android e iOS.| RPR | Sim | 1.0 | [Análise de documentação](./Tecnicas/Analise_docs.md)
+| RRQ11 | O aplicativo deve possibilitar o acompanhamento de registros estudantis desde o ingresso até níveis superiores.| RF | Sim | 1.0 | [Análise de documentação](./Tecnicas/Analise_docs.md)
+| RRQ12 | O aplicativo deve ser um canal direto de comunicação entre o MEC e os estudantes.| RF| Sim | 1.0 | [Análise de documentação](./Tecnicas/Analise_docs.md) | 
+| RRQ13 | O aplicativo deve possibilitar informar um curso que você estudou ou está cursando.| RF| Sim | 1.0 |  [Análise de documentação](./Tecnicas/Analise_docs.md) | 
+| RRQ14 | O aplicativo deve possibilitar os usuários recebam através de um canal de comunicação novidades do Governo Federal voltadas à educação.| RF| Sim | 1.0 |  [Análise de documentação](./Tecnicas/Analise_docs.md) | 
+| RRQ15 | O aplicativo deve possibilitar acessar rapidamente serviços estudantis.| RF| Sim |  1.0 |  [Análise de documentação](./Tecnicas/Analise_docs.md) | 
+| RRQ16 | O aplicativo não deve possibilitar integração da escola ou universidade por dentro da plataforma.| RF| Sim | 1.0 | [Análise de documentação](./Tecnicas/Analise_docs.md) | 
+| RQ17         |  O aplicativo deve permitir a visualização do professor das diciplinas | RF       | Não | 1.0    | [Entrevista 1](./Tecnicas/Entrevista.md) |
+| RQ18         |  O aplicativo deve permitir a visualização do horário e sala da disciplina.                                       | RF       | Não | 1.0    | [Entrevista 1](./Tecnicas/Entrevista.md) |
+| RQ19         |  O aplicativo deve permitir a visualização da disciplina.                                       | RF       | Sim | 1.0    | [Entrevista 1](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md)|
+| RQ20         |  O aplicativo deve permitir a visualização das informações e trabalhos da disciplina (data, peso e tipo de avaliação).       | RF       | Não | 1.0    | [Entrevista 1](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md) |
+| RQ21         |  O aplicativo deve permitir a visualização das notas das avaliações e trabalhos da disciplina.       | RF       | Não | 1.0    | [Entrevista 1](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md)|
+| RQ22         | O aplicativo deve permitir a visualização de datas importantes em um calendário.               | RF       | Não | 1.0    | [Entrevista 1](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md) |
+| RQ23         | O aplicativo deve permitir a visualização das faltas em cada disciplina. | RF       | Sim | 1.0    | [Entrevista 1](./Tecnicas/Entrevista.md) |
+| RQ24         |  O aplicativo deve notificar notas e avaliações com dois dias e uma semana antes.       | RF       | Não |  1.0    | [Entrevista 1](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md) |
+| RQ25         |  O aplicativo deve notificar faltas após serem lançadas no aplicativo.       | RF       | Não |  1.0    | [Entrevista 1](./Tecnicas/Entrevista.md) |
+| RQ26         |   O aplicativo deve notificar informações sobre o benefício pé de meia sobre parcelas e valores.| RF       | Não | 1.0    | [Entrevista 1](./Tecnicas/Entrevista.md) |
+| RQ27         | O aplicativo deve ser fácil de usar e aprender suas funcionalidades.              | RNF        | Sim | 1.0    | [Entrevista 1](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md) |
+| RQ28 | O aplicativo deve ter uma linguagem simples adequada ao usuário. | RNF | Sim | 1.0 | [Entrevista 1](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md) | 
+| RQ29 | O aplicativo deve carregar suas informações em no máximo 3 segundos. | RNF | Não | 1.0 | [Entrevista 1](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md) | 
+| RQ30 | O aplicativo deve possibilitar o usuário emitir a declaração de vínculo da instituição de ensino. | RF | Não | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md)| 
+| RQ31 | O aplicativo deve possibilitar o usuário visualizar seu histórico da instituição de ensino. | RF | Não | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md)| 
+| RQ32 | O aplicativo deve possibilitar o usuário visualizar boletim da instituição de ensino. | RF | Não | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md)| 
+| RQ33 | O aplicativo deve possibilitar o usuário visualizar programas estudantis (FIES, Prouni, etc.). | RF | Sim | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md) | 
+| RQ34 | O aplicativo deve possibilitar o usuário visualizar parcelas pagas e que faltam do auxílio. | RF | Sim | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md) | 
+| RQ35 | O aplicativo deve possibilitar o usuário visualizar o valor total do auxílio. | RF | Não | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md)| 
+| RQ36 | O aplicativo deve possibilitar o usuário visualizar a conta bancária cadastrada do auxílio. | RF | Não | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md)| 
+| RQ37 | O aplicativo deve possibilitar o usuário visualizar o dia do pagamento do auxílio. | RF | Não | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md)| 
+| RQ38 | O aplicativo deve possibilitar o usuário acessar um fórum de dúvidas sobre o auxílio. | RF | Não | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md)| 
+| RQ39 | O aplicativo deve possibilitar o usuário ser atendido em um canal de conversa sobre o auxílio. | RF | Não | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md)| 
+| RQ40 | O aplicativo deve possibilitar o usuário visualizar datas de eventos e atividades escolares em um calendário. | RF | Não | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md)| 
+| RQ41 | O aplicativo deve ter informações unificadas sobre sua jornada escolar. | RF | Sim | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md)| 
+| RQ42 | O aplicativo deve manter as informações do usuário seguras e privadas. | RR | Sim | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) e [questionário](./Tecnicas/Questionário.md) | 
+| RQ43 | O aplicativo deve ser acessível (contraste em cores, suporte à libras e auto-descrição ). | RNF | Não | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md)  e [questionário](./Tecnicas/Questionário.md) | 
+| RQ44 | O aplicativo deve oferecer um ranqueamento de  matérias por nota, para orienta-lo de qual foco seguir. | RF | Não | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) | 
+| RQ45 | O aplicativo deve ter uma página de perfil com as informações do usuário (nome, instituição e ano/semestre). | RF | Sim | 1.0 | [Entrevista 2](./Tecnicas/Entrevista.md) | 
+| RQ46 | O aplicativo deve conseguir editar suas informações na página de perfil. | RF | Sim | 1.0 | [Entrevista 3](./Tecnicas/Entrevista.md) | 
+| RQ47 | O aplicativo deve conseguir editar suas informações bancárias pelo gov. | RF | Não | 1.0 | [Entrevista 3](./Tecnicas/Entrevista.md) | 
+| RQ48 | O aplicativo deve ter um design sem sobrecarga de informações na tela | RI | sim | 1.0 | [Entrevista 3](./Tecnicas/Entrevista.md) | 
+| RQ49         |  O aplicativo deve possuir uma agenda para organização pessoal do usuário através de atividades | RF       | Não | 1.0    | [Questionário](./Tecnicas/Questionário.md) |
+| RQ50         |  A agenda deve possuir a opção do usuário inserir atividades | RF       | Não | 1.0    | [Questionário](./Tecnicas/Questionário.md) |
+| RQ51         |  A agenda deve possuir a opção do usuário editar atividades | RF       | Não | 1.0    | [Questionário](./Tecnicas/Questionário.md) |
+| RQ52        |  A agenda deve possuir a opção do usuário excluir atividades | RF       | Não | 1.0    | [Questionário](./Tecnicas/Questionário.md) |
+| RQ53         |  A agenda deve notificar o usuário sobre atividades inseridas com um dia de antecedência | RF       | Não | 1.0    | [Questionário](./Tecnicas/Questionário.md) |
+| RQ54         |  A agenda deve permitir o usuário inserir um horário e data na criação de uma atividade | RF       | Não | 1.0    | [Questionário](./Tecnicas/Questionário.md) |
+| RQ55         |  A agenda deve permitir o usuário avaliar suas atividades com grau de importância | RF       | Não | 1.0    | [Questionário](./Tecnicas/Questionário.md) |
+| RQ56         |  O aplicativo deve oferecer integração na agenda entre outros aplicativos de organização pessoal | RF       | Não | 1.0    | [Questionário](./Tecnicas/Questionário.md) |
+| RQ57        |  O aplicativo deve oferecer um tutorial em vídeo sobre suas funcionalidades | RF       | Não | 1.0    | [Questionário](./Tecnicas/Questionário.md) |
+
+<p style="text-align: center; font-size: 14px;">
+Tabela 1 – Conjunto de requisitos elicitados.<br>
+Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>, 
+<a href="https://github.com/luisa12ll">Luisa de Souza</a> e 
+<a href="https://github.com/CamilaSilvaC">Camila Silva</a>.
+<a href="https://github.com/pedrohpsantos">Pedro Henrique/a>.
+<a href="https://github.com/mel14-hub">Lara Souza</a>.
+<a href="https://github.com/Yanmatheus0812">Yan Matheus</a>.
+
+</p>
+
+
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição           | Autor                                                      | Revisor                                                 |
+|--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
+| 1.0    | 25/09/2025 | Documentação dos requisitos elicitados | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub),[Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812) | [Geovanna Alves](https://github.com/GeovannaUmbelino)  |

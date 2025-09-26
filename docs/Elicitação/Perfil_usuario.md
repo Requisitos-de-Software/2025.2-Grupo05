@@ -62,7 +62,6 @@ Após uma análise das respostas, foi traçado um Perfil de Usuário para o apli
 - **Idade:** Entre 15 e 60 anos.
 - **Afinidade com dispositivos eletrônicos:** Média experiência.
 - **Grau de escolaridade:** Ensino médio incompleto a superior completo
-- **Atitudes:** Tecnófilos.
 - **Tarefas desejadas:** Organizar atividades acadêmicas e centralizar suas respectivas informações.
 
 

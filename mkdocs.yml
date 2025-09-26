@@ -75,7 +75,7 @@ nav:
         - Entrevista: Elicitação/Tecnicas/Entrevista.md
         - Análise_docs: Elicitação/Tecnicas/Analise_docs.md
         - Questionário: Elicitação/Tecnicas/Questionário.md
-      - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.media
+      - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.md
       - Peril de usuario: Elicitação/Peril_usuario.md
 
     - Modelagem:

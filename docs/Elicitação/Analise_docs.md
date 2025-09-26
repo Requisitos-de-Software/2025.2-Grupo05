@@ -38,7 +38,7 @@
 | ADD019 | O aplicativo não deve possibilitar integração da escola ou universidade por dentro da plataforma.| RF| Sim | 1.0 | UFSC, 2023 | 
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 1 – Conjunto de requisitos levantados na análise documental.<br>
+Tabela 1 – Conjunto de requisitos elicitados na análise documental.<br>
 Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>, 
 <a href="https://github.com/luisa12ll">Luisa de Souza</a> e 
 <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>.

@@ -51,7 +51,7 @@
 | Q32 | O aplicativo deve ter um design sem sobrecarga de informações na tela | RI | sim | 1.0 | Questionário | 
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 1 – Conjunto de requisitos levantados no questionário<br>
+Tabela 1 – Conjunto de requisitos elicitados no questionário<br>
 Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, 
 <a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a> e 
 <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>.
