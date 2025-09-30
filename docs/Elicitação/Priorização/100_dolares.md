@@ -184,7 +184,7 @@ Além disso, a gravação da priorização pode ser conferida em: [Link]().
 
 ## Bibliografia
 
-[1] 
+- WIEGERS, Karl; BEATTY, Joy. **Software Requirements. 3. ed. Redmond: Microsoft Press**, 2013.
 
 ## Histórico de Versões
 
