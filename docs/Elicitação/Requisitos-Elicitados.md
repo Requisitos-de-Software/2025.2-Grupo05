@@ -88,11 +88,11 @@
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 1 – Conjunto de requisitos elicitados.<br>
-Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>, 
-<a href="https://github.com/luisa12ll">Luisa de Souza</a> e 
-<a href="https://github.com/CamilaSilvaC">Camila Silva</a>.
-<a href="https://github.com/pedrohpsantos">Pedro Henrique</a>.
-<a href="https://github.com/mel14-hub">Lara Souza</a>.
+Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, 
+<a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>,
+<a href="https://github.com/mel14-hub">Lara Souza</a>,
+<a href="https://github.com/luisa12ll">Luisa de Souza</a>,
+<a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e
 <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>.
 
 </p>
@@ -103,5 +103,7 @@ Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>,
 
 | Versão | Data       | Descrição           | Autor                                                      | Revisor                                                 |
 |--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
-| 1.0    | 25/09/2025 | Documentação dos requisitos elicitados | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub),[Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812) | [Geovanna Alves](https://github.com/GeovannaUmbelino)  |
+| 1.0    | 25/09/2025 | Documentação dos requisitos elicitados | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812) | [Geovanna Alves](https://github.com/GeovannaUmbelino)  |
 | 1.1    | 26/09/2025 | Correção na grafia de alguns requisitos | [Yan Matheus](https://github.com/Yanmatheus0812) | [Lara Souza](https://github.com/mel14-hub)  |
+| 1.2    | 30/09/2025 | Correção dos requisitos | [Luísa de Souza](https://github.com/luisa12ll) | [Geovanna Alves](https://github.com/GeovannaUmbelino)  |
+
