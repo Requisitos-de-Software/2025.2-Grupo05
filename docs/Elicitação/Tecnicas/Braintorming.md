@@ -6,18 +6,11 @@
 
 ## Vídeos
 
-### Termo de Consentimento
+- [Termo de Consentimento e Brainstorm perfil de usuario](https://www.youtube.com/watch?v=ls3DBFVdAmE&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=16)
+- [Brainstorm de elicitação de requisitos](https://www.youtube.com/watch?v=OuCuQnkgDT4&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=17)
+- [Priorização dos requisitos pelos participantes]()
 
-
-### Brainstorm perfil de usuario
-
-
-### Brainstorm de elicitação de requisitos
-
-
-### Priorização dos requisitos pelos participantes
-
-Fonte: [Camila](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos).
+Fonte: [Camila](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) 
 
 
 ## Tabela de Requisitos
@@ -79,3 +72,4 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 | Versão | Data       | Descrição           | Autor                                                                                                                                                                      | Revisor                                                  |
 |--------|------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | 1.0    | 25/09/2025 | Documentação dos requisitos da brainstorm | [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos) | [Lara Mota](https://github.com/mel14-hub) |
+
