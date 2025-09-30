@@ -69,15 +69,16 @@ nav:
 
     - Pré-Rastreabilidade:
       - Rich Picture: Pré-Rastriabilidade/Rich-picture.md # Corrigido: 'picture' minúsculo
+    
     - Elicitação:
-      - Perfil e Personas: Elicitação/Personas.md # AVISO: Verifique se este arquivo existe
-      - Análise de Protocolo: Elicitação/Análise-de-Protocolo.md
-      - Brainstorming: Elicitação/Braintorming.md # Corrigido: 'Braintorming' com 't'
-      - Entrevista: Elicitação/Entrevista.md
-      - Introspecção: Elicitação/Introspecção.md
-      - Questionário: Elicitação/Questionário.md
+      - Tecnicas:
+        - Brainstorming: Elicitação/Tecnicas/Braintorming.md # Corrigido: 'Braintorming' com 't'
+        - Entrevista: Elicitação/Tecnicas/Entrevista.md
+        - Análise_docs: Elicitação/Tecnicas/Analise_docs.md
+        - Questionário: Elicitação/Tecnicas/Questionário.md
       - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.md
-      - Storytelling: Elicitação/Storytelling.md
+      - Peril de usuario: Elicitação/Peril_usuario.md
+
     - Modelagem:
       - Cenários: Modelagem/Cenários.md
       - Léxicos: Modelagem/Léxicos.md
