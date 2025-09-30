@@ -180,8 +180,12 @@ A Tabela 3 apresenta as informações da etapa de gravação da priorização, c
 
 Autoria de  [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luísa de Souza](https://github.com/luisa12ll)
 
-Além disso, a gravação da priorização pode ser conferida em: [Link]().
-
+Além disso, a gravação da priorização pode ser conferida em: 
+- [100 dólares - Parte 1](https://www.youtube.com/watch?v=GWWL2cWABRU&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=25).
+- [100 dólares - Parte 2](https://www.youtube.com/watch?v=X9oTP6EusAc&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=26).
+- [100 dólares - Parte 3](https://www.youtube.com/watch?v=4UkXz3RtTC0&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=27).
+- [100 dólares - Final ](https://www.youtube.com/watch?v=GRTOS0YSoTg&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=28).
+  
 ## Bibliografia
 
 - WIEGERS, Karl; BEATTY, Joy. **Software Requirements. 3. ed. Redmond: Microsoft Press**, 2013.
