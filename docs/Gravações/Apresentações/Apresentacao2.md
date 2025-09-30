@@ -4,5 +4,5 @@ O objetivo dessa página é armazenar o vídeo da apresentação da entrega 2 e 
 
 ## Apresentação 2
 
-<p style="text-align: center"><a href="" target="blanket">Clique aqui para assistir o vídeo da Apresentação 2</a></p>
+<p style="text-align: center"><a href="https://youtu.be/WJ89i_5EYKM" target="blanket">Clique aqui para assistir o vídeo da Apresentação 2</a></p>
 
