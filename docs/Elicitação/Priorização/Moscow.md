@@ -118,7 +118,7 @@ A Tabela 3 apresenta as informações da etapa de gravação da priorização, c
 Autoria de  <a href="https://github.com/CamilaSilvaC">Camila Silva</a> e <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>.</p>
 
 
-Além disso, a gravação da priorização pode ser conferida em: [Link]().
+Além disso, a gravação da priorização pode ser conferida em: [Link](https://www.youtube.com/watch?v=aiG-DHzA-i4&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=29).
 
 ## Bibliografia
 
