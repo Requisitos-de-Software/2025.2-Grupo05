@@ -72,7 +72,7 @@ A técnica dos 100 dólares é uma forma de priorizar requisitos ou funcionalida
       </tr>
       <tr>
         <td>Usuário</td>
-        <td>Walisson</td>
+        <td>Wallysson</td>
         <td>29/09/2025</td>
         <td>16:20</td>
         <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
@@ -100,7 +100,7 @@ A técnica foi aplicada de forma coletiva, respeitando as decisões individuais 
 
 <a name="Req"></a>
 
-| Identificação | Descrição                                                                                                                                                  |  Referência   | Gabriel | Julia |  Maria Eduarda|   Vitor| Walisson|  Total |                                                                          
+| Identificação | Descrição                                                                                                                                                  |  Referência   | Gabriel | Julia |  Maria Eduarda|   Vitor| Wallysson|  Total |                                                                          
 |--------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------:|:---------:|:------:|--------------------------------------------------------------------------------------------------|:------:|:---------:|:---------:|
 | RQ6          | O aplicativo não deve ter informações desatualizadas ou incorretas, que levem ao bloqueio do programa Pé-de-Meia.                                            | [Análise de documentação](./Tecnicas/Analise_docs.md)                                            |2| 20 |  2|   10| 5|   39|  
 | RQ5          | O aplicativo deve permitir o acompanhamento o status do programa Pé-de-Meia.                                                                                         | [Análise de documentação](./Tecnicas/Analise_docs.md)                                            |0 | 5 |  11|  7,50|10|   33,50| 
