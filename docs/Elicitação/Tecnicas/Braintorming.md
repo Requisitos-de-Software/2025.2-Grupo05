@@ -4,18 +4,106 @@
  O brainstorming é uma técnica de elicitação de requisitos que busca desenvolver ideias e identificar necessidades de forma colaborativa. Participantes contribuem livremente, sem julgamentos,
  permitindo descobrir requisitos explícitos e implícitos, além de estimular soluções criativas e inovadoras para o sistema a ser desenvolvido.
 
-## Vídeos
 
-- [Termo de Consentimento e Brainstorm perfil de usuario](https://www.youtube.com/watch?v=ls3DBFVdAmE&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=16)
-- [Brainstorm de elicitação de requisitos](https://www.youtube.com/watch?v=OuCuQnkgDT4&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=17)
-- [Priorização dos requisitos pelos participantes]()
+## Participantes
 
-Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) 
+A seguir temos a tabela 1, onde indica todos os participantes da sessão do brainstorming, incluindo mediadores e usuários. 
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>25/09/2025</td>
+        <td>11:15</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+         </tr>
+      <tr>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
+        <td>25/09/2025</td>
+        <td>11:15</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+      <tr>
+        <td>Usuário</td>
+        <td>Enzo</td>
+        <td>25/09/2025</td>
+        <td>11:15</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+      <tr>
+        <td>Usuário</td>
+        <td>Gabriel</td>
+         <td>25/09/2025</td>
+        <td>11:15</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+      <tr>
+        <td>Usuário</td>
+        <td>Julia</td>
+         <td>25/09/2025</td>
+        <td>11:15</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+      <tr>
+        <td>Usuário</td>
+        <td>Paulo</td>
+         <td>25/09/2025</td>
+        <td>11:15</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+      <tr>
+        <td>Usuário</td>
+        <td>Pedro</td>
+         <td>25/09/2025</td>
+        <td>11:15</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+      <tr>
+        <td>Usuário</td>
+        <td>Tiago</td>
+         <td>25/09/2025</td>
+        <td>11:15</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+      <tr>
+        <td>Usuário</td>
+        <td>Vitor</td>
+         <td>25/09/2025</td>
+        <td>11:15</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+     <tr>
+        <td>Usuário</td>
+        <td>Vilmar</td>
+         <td>25/09/2025</td>
+        <td>11:15</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 1: Participantes
+
+Autor: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) 
 
 
 ## Tabela de Requisitos
 
- A tabela 1 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'B' + numero do requisito, e com a seguinte legenda de categoria:
+ A tabela 2 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'B' + numero do requisito, e com a seguinte legenda de categoria:
 
 - RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
 - RNF: Requisitos Não-Funcionais - Descrevem os atributos que o software deve ter, como desempenho, segurança e usabilidade, mas não descrevem o comportamento do software em si.
@@ -59,12 +147,31 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https
 
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 1 – Conjunto de requisitos elicitados no Brainstorm.<br>
+Tabela 2 – Conjunto de requisitos elicitados no Brainstorm.<br>
 Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, 
 <a href="https://github.com/luisa12ll">Luísa de Souza</a> e 
 <a href="https://github.com/pedrohpsantos">Pedro Henrique</a>.
 </p>
 
+
+## Gravação
+
+A Tabela 3 apresenta as informações da etapa de gravação da priorização, como data, hora e local.
+
+<div align="center"><strong>Tabela 3: Informações da Gravação</strong></div>
+
+| Data | Hora | Local|
+|-----------------|-----------------|------------------|
+| 25/09/2025 | 11:15 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
+
+Autoria de  [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll)
+
+A seguir temos as **gravações das sessões**: 
+- [Termo de Consentimento e Brainstorm perfil de usuario](https://www.youtube.com/watch?v=ls3DBFVdAmE&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=16)
+- [Brainstorm de elicitação de requisitos](https://www.youtube.com/watch?v=OuCuQnkgDT4&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=17)
+- [Priorização dos requisitos pelos participantes]()
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) 
 
 
 ## Histórico de Versões
@@ -72,5 +179,6 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 | Versão | Data       | Descrição           | Autor                                                                                                                                                                      | Revisor                                                  |
 |--------|------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | 1.0    | 25/09/2025 | Documentação dos requisitos da brainstorm | [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos) | [Lara Mota](https://github.com/mel14-hub) |
+
 
 
