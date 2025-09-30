@@ -101,6 +101,29 @@ Na _tabela 1_ estão identificados os requisitos elicitados respectivamente prio
 | RQ61          | O aplicativo deve permitir a visualização de certificados.                                                             | RF        |     Should      | 1.0    | [Brainstorming](./Tecnicas/Brainstorming.md)          |
 | RQ62          | O aplicativo deve permitir a visualização de ocorrências.                                                              | RF        | Must         | 1.0    | [Brainstorming](./Tecnicas/Brainstorming.md)          |
 
+<p style="text-align: center; font-size: 14px;">
+Tabela 1 – Tabela de priorização.<br>
+Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a> e  
+<a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>.</p>
+
+## Gravação
+A Tabela 3 apresenta as informações da etapa de gravação da priorização, como data, hora e local.
+
+<div align="center"><strong>Tabela 3: Usuário Real e Informações da Gravação</strong></div>
+
+| Data | Hora | Local|
+|-----------------|-----------------|------------------|
+| 29/09/2025 | 10:21 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
+
+Autoria de  <a href="https://github.com/CamilaSilvaC">Camila Silva</a> e <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>.</p>
+
+
+Além disso, a gravação da priorização pode ser conferida em: [Link]().
+
+## Bibliografia
+
+[1] WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível no [Link](https://aprender3.unb.br/pluginfile.php/3210609/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf)
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição           | Autor                                                      | Revisor                                                 |
