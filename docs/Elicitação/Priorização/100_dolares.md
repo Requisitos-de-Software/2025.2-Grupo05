@@ -85,7 +85,7 @@ A técnica dos 100 dólares é uma forma de priorizar requisitos ou funcionalida
 
 ## Metodologia
 
-Para aplicar a técnica de priorização dos 100 dólares, as integrantes do grupo — Camila, Geovanna e Luiza — convidaram cinco pessoas dispostas a participar do processo. O encontro foi realizado em uma sala reservada, de modo a proporcionar um ambiente confortável para os participantes. Antes do início, foi feita uma explicação detalhada sobre o funcionamento da técnica e, para simular o dinheiro fictício, foram confeccionados quadrinhos de papel representando as notas. Todo o processo foi registrado em vídeo, com duração aproximada de 16 minutos.
+Para aplicar a técnica de priorização dos 100 dólares, as integrantes do grupo, Camila, Geovanna e Luísa, convidaram cinco pessoas dispostas a participar do processo. O encontro foi realizado em uma sala reservada, de modo a proporcionar um ambiente confortável para os participantes. Antes do início, foi feita uma explicação detalhada sobre o funcionamento da técnica e, para simular o dinheiro fictício, foram confeccionados quadrinhos de papel representando as notas. Todo o processo foi registrado em vídeo, com duração aproximada de 25 minutos.
 
 Cada participante recebeu 100 dólares em notas fictícias, sendo 5 notas de 1, 5 notas de 5 e 7 notas de 10, totalizando 100. Esses valores poderiam ser distribuídos livremente entre os requisitos considerados mais relevantes, sem a imposição de limites mínimos ou máximos por item, o que garantiu maior autonomia na definição das prioridades. Após a alocação individual, os valores foram reunidos em uma planilha consolidada, onde foi possível identificar os requisitos com maior peso coletivo.
 
@@ -178,8 +178,7 @@ A Tabela 3 apresenta as informações da etapa de gravação da priorização, c
 |-----------------|-----------------|------------------|
 | 29/09/2025 | 16:20 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
 
-Autoria de  <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a> e <a href="https://github.com/luisa12ll">Luisa de Souza</a>..</p>
-
+Autoria de  [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luísa de Souza](https://github.com/luisa12ll)
 
 Além disso, a gravação da priorização pode ser conferida em: [Link]().
 
@@ -191,4 +190,4 @@ Além disso, a gravação da priorização pode ser conferida em: [Link]().
 
 | Versão | Data       | Descrição           | Autor                                                      | Revisor                                                 |
 |--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
-| 1.0    | 30/09/2025 | Adição dá técnica dos 100 dólares | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luísa de Souza](https://github.com/luisa12ll)| <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>  |
+| 1.0    | 30/09/2025 | Adição dá técnica dos 100 dólares | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luísa de Souza](https://github.com/luisa12ll)| [Yan Matheus](https://github.com/Yanmatheus0812)|
