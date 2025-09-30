@@ -19,7 +19,7 @@ Este método é especialmente útil para definir o escopo de um MVP (Minimum Via
 
 Para a aplicação da técnica, foi realizada uma reunião com a participação de um usuário final para garantir que a priorização refletisse as necessidades reais. A sessão foi mediada por membros da equipe de desenvolvimento.
 
-Na data de 28/09/2025, das 11:00h às 11:30h, foi realizada uma reunião presencial entre o usuário Gabriel Farias e os desenvolvedores [Pedro Henrique](https://github.com/pedrohpsantos) e [Camila Silva](https://github.com/CamilaSilvaC), na Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB. Na reunião, a dinâmica foi explicada e os requisitos foram classificados. A tabela 1 apresenta o resultado.
+Na data de 26/09/2025, das 11:00h às 11:40h, [Pedro Henrique](https://github.com/pedrohpsantos) fez uma entrevista com os usuários Gabriel Magiolli, Lucas de Paula e Enzo Lopes, na busca para entender quais os requisitos seriam descartados ou mantidos como prioridade no produto.
 
 # Tabela de Requisitos
 
