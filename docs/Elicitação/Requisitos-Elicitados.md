@@ -97,6 +97,30 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 
 </p>
 
+## Validação da Elicitação de Requisitos
+
+A etapa de validação da elicitação tem como objetivo confirmar junto aos stakeholders se os requisitos levantados estão corretos, consistentes e de acordo com as reais necessidades do projeto.
+
+Esse processo é importante para:
+
+Garantir que não haja ambiguidades ou erros de interpretação.
+
+Verificar se os requisitos elicitados atendem às expectativas do cliente.
+
+Evitar retrabalho durante as próximas fases do desenvolvimento.
+
+A validação foi realizada por meio de entrevista, onde os requisitos foram apresentados, discutidos e ajustados com base no feedback dos envolvidos.
+
+A Tabela 3 apresenta as informações da etapa de gravação da priorização, como data, hora e local.
+
+Tabela 2:Informações da Gravação.
+| Data | Hora | Local|
+|-----------------|-----------------|------------------|
+| 27/09/2025 | 10:40 | Cidade Ocidental-GO |
+
+Autoria de  <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>.</p>
+
+Além disso, a gravação da validação pode ser conferida em: [Link](https://www.youtube.com/watch?v=dK_SfG7SVw8&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=24).
 
 
 ## Histórico de Versões
@@ -106,4 +130,5 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 | 1.0    | 25/09/2025 | Documentação dos requisitos elicitados | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812) | [Geovanna Alves](https://github.com/GeovannaUmbelino)  |
 | 1.1    | 26/09/2025 | Correção na grafia de alguns requisitos | [Yan Matheus](https://github.com/Yanmatheus0812) | [Lara Souza](https://github.com/mel14-hub)  |
 | 1.2    | 30/09/2025 | Correção dos requisitos | [Luísa de Souza](https://github.com/luisa12ll) | [Geovanna Alves](https://github.com/GeovannaUmbelino)  |
+| 1.3    | 30/09/2025 | Adicionando vídeo da validação dos requisitos | [Geovanna Alves](https://github.com/GeovannaUmbelino)  | [Yan Matheus](https://github.com/Yanmatheus0812) |
 
