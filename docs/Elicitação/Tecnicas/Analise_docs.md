@@ -15,11 +15,10 @@
 - RR: Riscos - São os riscos associados ao desenvolvimento e uso do software.
 - RT: Testes e Validações - Descrevem as atividades necessárias para testar e validar o software antes de sua implantação.
 
+
 | Identificação | Descrição                                                                                      | Categoria | Implementado | Versão | Referência | 
 |---------------|------------------------------------------------------------------------------------------------|-----------|-----|---|-------|
-| Identificação | Descrição                                                                                      | Categoria | Implementado | Versão | Referência | 
-|---------------|------------------------------------------------------------------------------------------------|-----------|-----|---|-------|
-| ADD01         |  O aplicativo deve permitir o acesso ao aplicativo através de uma autenticação com o gov. | RF       | Sim | 1.0    | VAZQUES; SIMÕES, 2016
+| ADD01         |  O aplicativo deve permitir o acesso do usuário através de uma autenticação com o gov. | RF       | Sim | 1.1    | VAZQUES; SIMÕES, 2016
 | ADD02         |  O aplicativo deve possibilitar o envio de dados de forma simplificada.                                       | RF       | Sim | 1.0    | VAZQUES; SIMÕES, 2016
 | ADD03         |  O aplicativo deve ter uma interface intuitiva e fácil de navegar para que o estudante encontre as informações que precisa rapidamente.       | RI       | Sim | 1.0    | VAZQUES; SIMÕES, 2016
 | ADD04         |  O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos| RNF       | Sim | 1.0    | VAZQUES; SIMÕES, 2016

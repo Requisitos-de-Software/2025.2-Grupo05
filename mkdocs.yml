@@ -73,18 +73,19 @@ nav:
       - Rich Picture: Pré-Rastriabilidade/Rich-picture.md # Corrigido: 'picture' minúsculo
 
   - Elicitação:
-      - Tecnicas:
-          - Brainstorming: Elicitação/Tecnicas/Brainstorming.md # Corrigido: 'Brainstorming' com 't'
-          - Entrevista: Elicitação/Tecnicas/Entrevista.md
-          - Análise_docs: Elicitação/Tecnicas/Analise_docs.md
-          - Questionário: Elicitação/Tecnicas/Questionário.md
-      - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.md
-      - Priorização:
-          - MoSCoW: Elicitação/Priorização/Moscow.md
-          - Tree Level Scale: Elicitação/Priorização/Three_level_scale.md
-          - $100 dólares: Elicitação/Priorização/100_dolares.md
-          - In or Out: Elicitação/Priorização/In_or_Out.md
-      - Perfil de usuário: Elicitação/Perfil_usuario.md
+    - Perfil de usuário: Elicitação/Perfil_usuario.md
+    - Tecnicas:
+        - Análise de documentação: Elicitação/Tecnicas/Analise_docs.md
+        - Brainstorming: Elicitação/Tecnicas/Brainstorming.md # Corrigido: 'Brainstorming' com 't'
+        - Entrevista: Elicitação/Tecnicas/Entrevista.md
+        - Questionário: Elicitação/Tecnicas/Questionário.md
+    - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.md
+    - Priorização:
+        - Tree Level Scale: Elicitação/Priorização/Three_level_scale.md
+        - In or Out: Elicitação/Priorização/In_or_Out.md
+        - $100 dólares: Elicitação/Priorização/100_dolares.md
+        - MoSCoW: Elicitação/Priorização/Moscow.md
+      
 
   - Modelagem:
       - Cenários: Modelagem/Cenários.md

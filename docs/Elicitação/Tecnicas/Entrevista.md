@@ -1,7 +1,7 @@
 # Técnica de elicitação de requisitos - Entrevista
 
 ## Introdução
-- A entrevista com usuários é um meio de elicitar requisitos através de uma entrevista roteirizada. Neste trabalho a entrevista seguiu como roteiro as perguntas realizadas no questionário e realizada com três usuários, todos com livre consentimento do uso da imagem e participação das entrevistas como mostrados nos vídeos [Entrevista 1](https://youtu.be/zYS0moDR_gI?si=_CXI-84XV1co8_DG), [Entrevista 2](https://youtu.be/KCEM_y5eoc4?si=S2LVFfK09lZO_iUp) e [video3](https://youtu.be/Jo30F-G7l6Q?si=YI3Yf0jy8h9t7Unz). As entrevistas tinham em torno de X questões também sobre aspectos gerais de possíveis usuários do aplicativo. As entrevistas foram realizadas com 2 estudantes da Universidade de Brasília e um aluno do ensino médio, entre o período de 22 a 24 de setembro de 2025.
+- A entrevista com usuários é um meio de elicitar requisitos através de uma entrevista roteirizada. Neste trabalho a entrevista seguiu como roteiro as perguntas realizadas no questionário e realizada com três usuários, todos com livre consentimento do uso da imagem e participação das entrevistas como mostrados nos vídeos [Entrevista 1](https://youtu.be/zYS0moDR_gI?si=_CXI-84XV1co8_DG), [Entrevista 2](https://youtu.be/KCEM_y5eoc4?si=S2LVFfK09lZO_iUp) e [Entrevista 3](https://youtu.be/Jo30F-G7l6Q?si=YI3Yf0jy8h9t7Unz). As entrevistas tinham em torno de X questões também sobre aspectos gerais de possíveis usuários do aplicativo. As entrevistas foram realizadas com 2 estudantes da Universidade de Brasília e um aluno do ensino médio, entre o período de 22 a 24 de setembro de 2025.
 
 ## Vídeos
 

@@ -111,9 +111,10 @@ Evitar retrabalho durante as próximas fases do desenvolvimento.
 
 A validação foi realizada por meio de entrevista, onde os requisitos foram apresentados, discutidos e ajustados com base no feedback dos envolvidos.
 
-A Tabela 3 apresenta as informações da etapa de gravação da priorização, como data, hora e local.
+A Tabela 2 apresenta as informações da etapa de gravação da priorização, como data, hora e local.
 
 Tabela 2:Informações da Gravação.
+
 | Data | Hora | Local|
 |-----------------|-----------------|------------------|
 | 27/09/2025 | 10:40 | Cidade Ocidental-GO |

@@ -178,6 +178,11 @@ A seguir temos as **gravações das sessões**:
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) 
 
 
+## Referências Bibliográficas
+
+> <a id="FRM1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição           | Autor                                                                                                                                                                      | Revisor                                                  |
