@@ -21,7 +21,7 @@ jobs:
           pip install ruff black bandit
       
       - name: Validar build do MkDocs
-        run: mkdocs build # --strict
+        run: mkdocs build --strict
 
       - name: Verificar código Python com Ruff
         run: ruff check .
