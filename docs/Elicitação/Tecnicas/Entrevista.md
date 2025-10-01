@@ -11,7 +11,6 @@
 
 Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).
 
-PERGUNTAS E RESPOSTAS DA ENTREVISTA
 
 ### Entrevista 2
 
@@ -19,7 +18,6 @@ PERGUNTAS E RESPOSTAS DA ENTREVISTA
 
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812).
 
-PERGUNTAS E RESPOSTAS DA ENTREVISTA
 
 ### Entrevista 3
 
@@ -27,7 +25,6 @@ PERGUNTAS E RESPOSTAS DA ENTREVISTA
 
 Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-PERGUNTAS E RESPOSTAS DA ENTREVISTA
 
 ## Tabela de Requisitos
 
