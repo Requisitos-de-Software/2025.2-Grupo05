@@ -48,17 +48,13 @@ nav:
           - Apresentacao 2: Entregas/Apresentações/Apresentacao2.md
       - Listas de Verificações:
         - Entrega 1:
-              - Rich Picture: Entregas/Listas_verificações/Entrega01/Rich_pictureLV.md
+          - Entrevista: Gravações/Lista_de_verificação/Entrega_2/Lv_tecnica/Lv_entrevista.md
         - Entrega 2:
-              - Elicitação - Análise de documentação: Entregas/Listas_verificações/Entrega02/Analise_docsLV.md
-              - Elicitação - Questionário: Entregas/Listas_verificações/Entrega02/QuestionarioLV.md
-              - Elicitação - Entrevista: Entregas/Listas_verificações/Entrega02/EntrevistaLV.md
-              - Elicitação - Brainstorming: Entregas/Listas_verificações/Entrega02/BrainstormLV.md
-              - Priorização - Three-Level Scale: Entregas/Listas_verificações/Entrega02/Three_levelLV.md
-              - Priorização - In or out: Entregas/Listas_verificações/Entrega02/In_or_outLV.md
-              - Priorização - Moscow: Entregas/Listas_verificações/Entrega02/MoscowLV.md
-              - Priorização - 100$: Entregas/Listas_verificações/Entrega02/100_dolaresLV.md
-            
+          - Técnica: 
+            - Analise de Documentos: Gravações/Lista_de_verificação/Entrega_2/Lv_tecnica/Lv_analise_docs.md
+            - Entrevista: Gravações/Lista_de_verificação/Entrega_2/Lv_tecnica/Lv_entrevista.md
+          - Priorização:
+            - Entrevista: Gravações/Lista_de_verificação/Entrega_2/Lv_tecnica/Lv_entrevista.md
   - Planejamento:
       - Metodologia: Planejamento/Metodologia.md
       - Ferramentas: Planejamento/Ferramentas.md
@@ -72,8 +68,8 @@ nav:
       - 1. Ata de Reunião(04/09): Atas/ata04-09.md
       - 2. Ata de Reunião(05/09): Atas/ata05-09.md
       - 3. Ata de Reunião(06/09): Atas/ata06-09.md
-      - 4. Ata de Reunião(07/09): Atas/ata07-09_2.md
-      - 5. Ata de Reunião(07/09): Atas/ata07-09.md
+      - 4. Ata de Reunião(07/09): Atas/ata07-09.md
+      - 5. Ata de Reunião(07/09): Atas/ata07-09_2.md
       - 6. Ata de Reunião(09/09): Atas/ata09-09.md
       - 7. Ata de Reunião(12/09): Atas/ata12-09.md
       - 8. Ata de Reunião(13/09): Atas/ata13-09.md
@@ -83,6 +79,10 @@ nav:
       - 12. Ata de Reunião(16/09): Atas/ata16-09.md
       - 13. Ata da Reunião(18/09): Atas/ata18-09.md
       - 14. Ata da Reunião(21/09): Atas/ata21-09.md
+      - 15. Ata da Reunião(22/09): Atas/ata22-09.md
+      - 16. Ata da Reunião(24/09): Atas/ata24-09.md
+      - 17. Ata da Reunião(25/09): Atas/ata25-09.md
+      - 18. Ata da Reunião(25/09): Atas/ata25-09_2.md
 
   - Pré-Rastreabilidade:
       - Rich Picture: Pré-Rastriabilidade/Rich-picture.md # Corrigido: 'picture' minúsculo
