@@ -109,25 +109,25 @@ A _Tabela 5_ aborda as atividades feitas para a segunda entrega.
 | ----- | ----- | ----- | ----- | ----- |
 | Entendimento das técnicas de elicitação usadas e que serão usadas | 16/09 - 18/09 | Camila Silva, Luísa de Souza e Yan Matheus | 18/09 | Geovanna Alves e Yan Matheus |
 | Busca de usuários | 16/09 - 18/09 | Geovanna Alves, Lara Souza e Pedro Henrique | 18/09 | Camila Silva e Luísa de Souza |
-| Entendimento das técnicas de priorização usadas e que serão usadas | - | Camila Silva e Luísa de Souza | - | Geovanna Alves e Yan Matheus |
-| Escolha das técnicas | - | Camila Silva e Luísa de Souza | - | Geovanna Alves e Yan Matheus |
+| Entendimento das técnicas de priorização usadas e que serão usadas | 16/09 - 18/09 | Camila Silva e Luísa de Souza | 18/09 | Geovanna Alves e Yan Matheus |
+| Escolha das técnicas | 16/09 - 18/09 | Camila Silva e Luísa de Souza | 18/09 | Geovanna Alves e Yan Matheus |
 | Correção da etapa anterior | 11/09 - 16/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 16/09 |  Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus
-| Pesquisa dos perfis dos usuários | - | Geovanna Alves, Lara Souza e Pedro Henrique | - | Camila Silva, Luísa de Souza e Yan Matheus |
-| Criação das personas | - | Camila Silva, Luísa de Souza e Yan Matheus | - | Geovanna Alves, Lara Souza e Pedro Henrique |
-| Criação dos cenários | - | Camila Silva, Luísa de Souza e Yan Matheus | - | Geovanna Alves, Lara Souza e Pedro Henrique |
-| Técnica de Elicitação: Brainstorm | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
-| Técnica de Elicitação: Entrevista | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
-| Técnica de Elicitação: Observação | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
-| Técnica de Elicitação: Storytelling  | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
-| Técnica de Priorização: First Things First | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
-| Técnica de Priorização: $100 Test | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
-| Técnica de Priorização: Three-Level Scale | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
-| Técnica de Priorização: In or Out | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
-| Entendimento das técnicas de priorização usadas e que serão usadas | - | Geovanna Alves, Lara Souza e Pedro Henrique |  - | Camila Silva, Luísa de Souza e Yan Matheus |
-| Criação da elicitação dos requisitos | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
-| Gravar apresentação do projeto | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
-| Gravar inspeção do grupo 6 | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
-| Apresentação do projeto etapa 2: Elicitação – Técnicas e Priorização | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | - | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Pesquisa dos perfis dos usuários | 18/09 -  22/09 | Camila Silva, Geovanna Alves e Yan Matheus | 22/09 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Técnica de Elicitação: Brainstorm | 22/09 - 23/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza | 23/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Elicitação: Entrevista | 21/09 - 24/09 | Camila Silva, Geovanna Alves e Yan Matheus | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Elicitação: Questionário | 21/09 - 24/09 | Camila Silva, Geovanna Alves e Yan Matheus | 24/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Elicitação: Análise de documentação  | 18/09 - 22/09 | Lara Souza, Luísa de Souza e Yan Matheus | 22/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Priorização: In or out | 25/09 - 29/09 | Camila Silva e Pedro Henrique | 29/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Priorização: Three-level Scale | 25/09 - 26/09 | Lara Souza e Yan Matheus | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Priorização: Moscow | 25/09 - 29/09 | Camila Silva, Geovanna Alves e Luísa de Souza | 29/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Técnica de Priorização: 100$ | 25/09 - 29/09 | Camila Silva, Geovanna Alves e Luísa de Souza | 29/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Entendimento das técnicas de priorização usadas e que serão usadas | 22/09 - 25/09 | Camila Silva, Luísa de Souza e Yan Matheus |  25/09 | Camila Silva, Luísa de Souza e Yan Matheus |
+| Criação da elicitação dos requisitos | 25/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 26/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Gravar validações da elicitação dos requisitos | 27/09 | Geovanna Alves | 28/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Gravar validações das técnicas de priorização | 29/09 - 30/09 | Camila Silva, Lara Souza e Yan Matheus | 30/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Gravar apresentação do projeto | 30/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 30/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Gravar inspeção do grupo 6 | 01/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 01/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
+| Apresentação do projeto etapa 2: Elicitação – Técnicas e Priorização | 02/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus | 02/09 | Camila Silva, Geovanna Alves, Lara Souza, Luísa de Souza, Pedro Henrique e Yan Matheus |
 
 _Tabela 5: cronograma da segunda entrega. Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)_
 
@@ -214,6 +214,7 @@ _Tabela 10: cronograma do projeto final. Fonte: [Camila Silva](https://github.co
 | 1.1    | 15/09/2025 | Correção nas entregas das apresentações | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
 | 1.2    | 15/09/2025 | Criação da tabela do projeto final | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
 | 1.3    | 18/09/2025 | Criação da tabela realizada do projeto 2 | [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
+| 1.4    | 30/09/2025 | Preenchimento da tabela realizada do projeto 2 | [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
 
 ## Bibliografia
 

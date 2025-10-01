@@ -11,15 +11,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: 'blue'
-      accent: 'green'
+      primary: "blue"
+      accent: "green"
       toggle:
         icon: material/brightness-4
         name: Alternar para modo escuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: 'grey'
-      accent: 'blue'
+      primary: "grey"
+      accent: "blue"
       toggle:
         icon: material/brightness-7
         name: Alternar para modo claro
@@ -33,24 +33,24 @@ markdown_extensions:
 
 # --- SEÇÃO CORRIGIDA ---
 nav:
-    - Home: index.md
-    - Sobre: Sobre/Sobre.md
-    - Gravações: 
+  - Home: index.md
+  - Sobre: Sobre/Sobre.md
+  - Gravações:
       - Reuniões: Gravações/Reunioes.md
       - Inspeções:
-        - Insepção 1: Gravações/Inspeções/Inspecao1.md 
-      - Apresentações: 
-        - Apresentação 1: Gravações/Apresentações/Apresentacao1.md
-    - Planejamento:
+          - Insepção 1: Gravações/Inspeções/Inspecao1.md
+      - Apresentações:
+          - Apresentação 1: Gravações/Apresentações/Apresentacao1.md
+  - Planejamento:
       - Metodologia: Planejamento/Metodologia.md
       - Ferramentas: Planejamento/Ferramentas.md
-      - Aplicativo Selecionado: 
-        - Jornada de Estudante: Planejamento/Aplicativo_selecionado.md
-        - Termo de uso: Planejamento/termo_de_uso.md
+      - Aplicativo Selecionado:
+          - Jornada de Estudante: Planejamento/Aplicativo_selecionado.md
+          - Termo de uso: Planejamento/termo_de_uso.md
       - Aplicativos Analisados: Planejamento/Aplicativo_analisado.md
       - Cronograma: Planejamento/Cronograma.md
       - Heatmap: Planejamento/Heatmap.md
-    - Atas: 
+  - Atas:
       - 1. Ata de Reunião(04/09): Atas/ata04-09.md
       - 2. Ata de Reunião(05/09): Atas/ata05-09.md
       - 3. Ata de Reunião(06/09): Atas/ata06-09.md
@@ -65,35 +65,38 @@ nav:
       - 12. Ata de Reunião(16/09): Atas/ata16-09.md
       - 13. Ata da Reunião(18/09): Atas/ata18-09.md
       - 14. Ata da Reunião(21/09): Atas/ata21-09.md
-      
 
-    - Pré-Rastreabilidade:
+  - Pré-Rastreabilidade:
       - Rich Picture: Pré-Rastriabilidade/Rich-picture.md # Corrigido: 'picture' minúsculo
-    - Elicitação:
-      - Perfil e Personas: Elicitação/Personas.md # AVISO: Verifique se este arquivo existe
-      - Análise de Protocolo: Elicitação/Análise-de-Protocolo.md
-      - Brainstorming: Elicitação/Braintorming.md # Corrigido: 'Braintorming' com 't'
-      - Entrevista: Elicitação/Entrevista.md
-      - Introspecção: Elicitação/Introspecção.md
-      - Questionário: Elicitação/Questionário.md
+
+  - Elicitação:
+      - Peril de usuario: Elicitação/Peril_usuario.md
+      - Tecnicas:
+          - Brainstorming: Elicitação/Tecnicas/Braintorming.md # Corrigido: 'Braintorming' com 't'
+          - Entrevista: Elicitação/Tecnicas/Entrevista.md
+          - Análise_docs: Elicitação/Tecnicas/Analise_docs.md
+          - Questionário: Elicitação/Tecnicas/Questionário.md
       - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.md
-      - Storytelling: Elicitação/Storytelling.md
-    - Modelagem:
+      - Priorização:
+          - MoSCoW: Priorização/Moscow.md
+          - Tree Level Scale: Priorização/Three_level_scale.md
+          - $100 dólares: Priorização/100_dolares.md
+          - In or Out: Priorização/In_or_Out.md
+
+  - Modelagem:
       - Cenários: Modelagem/Cenários.md
       - Léxicos: Modelagem/Léxicos.md
       - Casos de Uso: Modelagem/Casos-de-uso.md # Corrigido: 'uso' minúsculo
       - Especificação: Modelagem/Especificacao.md # Corrigido: Sem acentos
       - NFR Framework: Modelagem/NFR-Framework.md
       - Ágil: Modelagem/Àgil.md # Corrigido: Acento grave
-    - Análise:
+  - Análise:
       - Verificação: Análise/Verificação.md
       - Validação: Análise/Validação.md
-    - Pós-Rastreabilidade:
+  - Pós-Rastreabilidade:
       - Forward-From: Pós-Rastreabilidade/Forward-From.md
       - Backward-From: Pós-Rastreabilidade/Backward-From.md
-    - Aplicativo Anterior:
+  - Aplicativo Anterior:
       - Sobre: Aplicativo_anterior/Sobre_hbo.md
       - Rich Picture: Aplicativo_anterior/Rich_picture_hbo.md
       - Aplicativo Selecionado: Aplicativo_anterior/Aplicativo_selecionado_hbo.md
-      
-
