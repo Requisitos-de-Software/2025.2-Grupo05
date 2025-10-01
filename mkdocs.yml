@@ -81,10 +81,11 @@ nav:
           - Questionário: Elicitação/Tecnicas/Questionário.md
       - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.md
       - Priorização:
-          - MoSCoW: Priorização/Moscow.md
-          - Tree Level Scale: Priorização/Three_level_scale.md
-          - $100 dólares: Priorização/100_dolares.md
-          - In or Out: Priorização/In_or_Out.md
+          - MoSCoW: Elicitação/Priorização/Moscow.md
+          - Tree Level Scale: Elicitação/Priorização/Three_level_scale.md
+          - $100 dólares: Elicitação/Priorização/100_dolares.md
+          - In or Out: Elicitação/Priorização/In_or_Out.md
+      - Perfil de usuário: Elicitação/Perfil_usuario.md
 
   - Modelagem:
       - Cenários: Modelagem/Cenários.md
