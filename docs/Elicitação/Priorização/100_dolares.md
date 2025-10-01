@@ -7,7 +7,7 @@ A técnica dos 100 dólares é uma forma de priorizar requisitos ou funcionalida
 
 ## Participantes
 
-<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+A seguir temos a tabela 1, onde indica todos os participantes da sessão do brainstorming, incluindo mediadores e usuários.
 
 <div align="center">
   <table>
@@ -80,6 +80,9 @@ A técnica dos 100 dólares é uma forma de priorizar requisitos ou funcionalida
     </tbody>
   </table>
 </div>
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></font>
 
 
@@ -172,11 +175,12 @@ A técnica foi aplicada de forma coletiva, respeitando as decisões individuais 
 ## Gravação
 A Tabela 3 apresenta as informações da etapa de gravação da priorização, como data, hora e local.
 
-<div align="center"><strong>Tabela 3: Informações da Gravação</strong></div>
 
 | Data | Hora | Local|
 |-----------------|-----------------|------------------|
 | 29/09/2025 | 16:20 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
+
+Tabela 3: Informações da Gravação
 
 Autoria de  [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luísa de Souza](https://github.com/luisa12ll)
 
