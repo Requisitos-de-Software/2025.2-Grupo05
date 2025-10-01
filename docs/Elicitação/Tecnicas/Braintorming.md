@@ -158,11 +158,12 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 
 A Tabela 3 apresenta as informações da etapa de gravação da priorização, como data, hora e local.
 
-<div align="center"><strong>Tabela 3: Informações da Gravação</strong></div>
 
 | Data | Hora | Local|
 |-----------------|-----------------|------------------|
 | 25/09/2025 | 11:15 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
+
+Tabela 3: Informações da gravação
 
 Autoria de  [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll)
 
@@ -180,6 +181,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https
 |--------|------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | 1.0    | 25/09/2025 | Documentação dos requisitos da brainstorm | [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos) | [Lara Mota](https://github.com/mel14-hub) |
 | 1.1    | 25/09/2025 | Atuzalizando os requisitos | [Luísa de Souza](https://github.com/luisa12ll)|[Camila Silva](https://github.com/CamilaSilvaC)|
+
 
 
 
