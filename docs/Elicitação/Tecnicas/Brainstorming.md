@@ -1,4 +1,4 @@
-# Técnica de elicitação de requisitos - Branstorming
+# Técnica de elicitação de requisitos - Brainstorming
 
 ## Introdução
  O brainstorming é uma técnica de elicitação de requisitos que busca desenvolver ideias e identificar necessidades de forma colaborativa. Participantes contribuem livremente, sem julgamentos,
