@@ -73,9 +73,8 @@ nav:
       - Rich Picture: Pré-Rastriabilidade/Rich-picture.md # Corrigido: 'picture' minúsculo
 
   - Elicitação:
-      - Peril de usuario: Elicitação/Peril_usuario.md
       - Tecnicas:
-          - Brainstorming: Elicitação/Tecnicas/Braintorming.md # Corrigido: 'Braintorming' com 't'
+          - Brainstorming: Elicitação/Tecnicas/Brainstorming.md # Corrigido: 'Brainstorming' com 't'
           - Entrevista: Elicitação/Tecnicas/Entrevista.md
           - Análise_docs: Elicitação/Tecnicas/Analise_docs.md
           - Questionário: Elicitação/Tecnicas/Questionário.md
