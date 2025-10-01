@@ -38,7 +38,10 @@ nav:
   - Gravações:
       - Reuniões: Gravações/Reunioes.md
       - Inspeções:
-          - Insepção 1: Gravações/Inspeções/Inspecao1.md
+          - Inspeções grupo 5:
+            - Inspeção 2: Gravações/Inspeções/Inspeções_grupo5/Inspecao2.md
+          - Inspeções grupo 6:
+            - Inspeção 1: Gravações/Inspeções/Inspeções_grupo6/Inspecao1.md
       - Apresentações:
           - Apresentação 1: Gravações/Apresentações/Apresentacao1.md
   - Planejamento:
