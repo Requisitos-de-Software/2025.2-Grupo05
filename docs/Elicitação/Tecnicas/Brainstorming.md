@@ -168,8 +168,11 @@ Tabela 3: Informações da gravação
 Autoria de  [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll)
 
 A seguir temos as **gravações das sessões**: 
+
 - [Termo de Consentimento e Brainstorm perfil de usuario](https://www.youtube.com/watch?v=ls3DBFVdAmE&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=16)
+  
 - [Brainstorm de elicitação de requisitos](https://www.youtube.com/watch?v=OuCuQnkgDT4&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=17)
+  
 - [Priorização dos requisitos pelos participantes]()
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) 
