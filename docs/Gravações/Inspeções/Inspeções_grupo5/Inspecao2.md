@@ -4,8 +4,6 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 
 ## Inspeção 2
 
-Assita a seguir o vídeo da inspeção 2 do grupo 5
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ajD2Wx9xnmk?si=g2TtJYh87hrhst3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Lista de Verificação - Itens do Planejamento Geral do projeto Grupo 5
@@ -77,6 +75,22 @@ Assita a seguir o vídeo da inspeção 2 do grupo 5
 | 10 \- O questionário apresenta claramente o objetivo da pesquisa e as instruções de preenchimento? | Sim | Versão 1.0 \- 30/09/2025 |
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC)
+
+## Lista de Verificação - Técnica de elicitação: Entrevista
+| O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
+| :---- | ----- | :---: |
+| 1 \- A entrevista foi realizada diretamente com usuários para compreender suas necessidades? | Sim | Versão 1.0 \- 30/09/2025  |
+| 2 \- As entrevistas individuais ou em pequenos grupos foram planejadas conforme o contexto do projeto?  | Sim | Versão 1.0 \- 30/09/2025  |
+| 3 \- O entrevistador conseguiu estabelecer uma conexão e criar um clima de confiança com o entrevistado? | Sim | Versão 1.0 \- 30/09/2025 |
+| 4 \- O entrevistador manteve o foco da entrevista no escopo previamente definido? | Sim | Versão 1.0 \- 30/09/2025 |
+| 5 \- Houve planejamento prévio das perguntas e recursos necessários para conduzir a entrevista de forma eficaz? | Sim | Versão 1.0 \- 30/09/2025  |
+| 6 \- O entrevistador propôs ideias e alternativas quando os usuários tinham dificuldade de expressar necessidades? | Sim | Versão 1.0 \- 30/09/2025  |
+| 7 \- O entrevistador praticou escuta ativa durante a entrevista? | Sim | Versão 1.0 \- 30/09/2025  |
+| 8 \- A entrevista começou com apresentação, revisão de agenda e esclarecimento de dúvidas preliminares? | Sim | Versão 1.0 \- 30/09/2025  |
+| 9 \- As respostas dadas foram validadas ao final da entrevista? | Sim | Versão 1.0 \- 30/09/2025  |
+| 10 \- A entrevista ajudou a esclarecer ambiguidades nos requisitos? | Sim | Versão 1.0 \- 30/09/2025  |
+
+<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Luisa de Souza](https://github.com/Luisa12ll)
 
 
 ## Lista de Verificação - Técnica de priorização: Three-level Scale
