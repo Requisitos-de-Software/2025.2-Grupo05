@@ -57,7 +57,7 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 | 9 \- Os participantes foram informados no início da atividade sobre os objetivos e procedimentos que irão ocorrer?  | Sim | Versão 1.0 \- 30/09/2025 |
 | 10 \- O moderador repetiu a pergunta inicial ou as regras caso os participantes tenham se desviado dos objetivos? | Sim | Versão 1.0 \- 30/09/2025 |
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Mota](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos). </p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Mota](https://github.com/mel14-hub) e [Luísa de Souza](https://github.com/luisa12ll). </p></font>
 
 
 ## Lista de Verificação - Técnica de elicitação: Questionário
