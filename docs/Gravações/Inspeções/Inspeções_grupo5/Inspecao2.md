@@ -127,6 +127,21 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 
 <font size="3"><p style="text-align: center"> Fonte: Elaboração própria. [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
+## Lista de Verificação - Técnica de priorização: $100
+
+| O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
+| :---- | ----- | :---: |
+|1 \- A equipe recebeu 100 dólares imaginários para distribuir entre os requisitos? |Sim |  Versão 1.0 \- 30/09/2025 |
+|2 \- Os requisitos foram listados de forma clara antes da priorização?  | Sim | Versão 1.0 \- 30/09/2025 |
+|3 \- Cada membro colocou mais dinheiro para os requisitos que consideram de maior prioridade? | Sim |  Versão 1.0 \- 30/09/2025 |
+|4 \- Cada membro fez sua própria distribuição antes de juntar os resultados do grupo? |Sim | Versão 1.0 \- 30/09/2025|
+|5 \- Os resultados foram somados para determinar a prioridade coletiva dos requisitos? | Sim |  Versão 1.0 \- 30/09/2025|
+|6 \- Os participantes evitaram concentrar todos os dólares em um único requisito para evitar manipulação?  | Sim |  Versão 1.0 \- 30/09/2025 |
+|7 \- Os participantes usaram proporções para refletir diferenças de importância entre requisitos?  |Sim |  Versão 1.0 \- 30/09/2025 |
+|8 \- Foram considerados múltiplos stakeholders ao somar as alocações? | Sim |  Versão 1.0 \- 30/09/2025 |
+
+<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Luisa de Souza](https://github.com/Luisa12ll)
+
 ## Lista de Verificação - Técnica de priorização: Three-level Scale
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
