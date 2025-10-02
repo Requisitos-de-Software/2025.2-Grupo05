@@ -1,6 +1,6 @@
 ## Introdução
 
-O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e demais documentos relacionados do nosso próprio grupo. Acesse o vídeo clicando no link correspondente.
+Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, bem como demais documentos relacionados, referentes ao nosso grupo.
 
 ## Inspeção 2
 
