@@ -10,16 +10,17 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
-| 1 – Todos os 10 itens anteriores. | - | Versão 1.0 \- 30/09/2025 |
-| 2 \- O perfil do usuário é definido por mais de uma forma (técnica de elicitação e/ou ferramenta)? | - | Versão 1.0 \- 30/09/2025 |
-| 3 \- Há gravação da elicitação dos requisitos com o usuário? | - | Versão 1.0 \- 30/09/2025 |
-| 4 \- Cada requisito possui ao menos uma fonte de origem?  | - | Versão 1.0 \- 30/09/2025 |
-| 5 \-  São apresentados requisitos implementados e não implementados para a aplicação?  | - | Versão 1.0 \- 30/09/2025 |
-| 6 \-  Os requisitos pode ser verificado na aplicação (critério de aceitação)? | - | Versão 1.0 \- 30/09/2025 |
-| 7 \- Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?  | - | Versão 1.0 \- 30/09/2025 |
-| 8 \- No mínimo quatro técnicas de priorização (quanto mais melhor)? MoSCoW* / 100 $* / First thing First / ROI / QFD / TQM / Outra técnica? | - | Versão 1.0 \- 30/09/2025 |
-| 9 \- Todas as priorizações contém a participação do usuário? | - | Versão 1.0 \- 30/09/2025 |
-| 10 \- Há gravação e o(s) registro(s) da atividade de priorização dos requisitos? | - |Versão 1.0 \- 30/09/2025 |
+| 1 \- O perfil do usuário é definido por mais de uma forma (técnica de elicitação e/ou ferramenta)? | Sim | Versão 1.0 \- 30/09/2025 |
+| 2 \- Há gravação da elicitação dos requisitos com o usuário? | Sim | Versão 1.0 \- 30/09/2025 |
+| 3 \- Cada requisito possui ao menos uma fonte de origem?  | Sim | Versão 1.0 \- 30/09/2025 |
+| 4 \-  São apresentados requisitos implementados e não implementados para a aplicação?  | Sim | Versão 1.0 \- 30/09/2025 |
+| 5 \-  Os requisitos pode ser verificado na aplicação (critério de aceitação)? | Sim | Versão 1.0 \- 30/09/2025 |
+| 6 \- Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?  | Sim | Versão 1.0 \- 30/09/2025 |
+| 7 \- No mínimo quatro técnicas de priorização (quanto mais melhor)? MoSCoW / 100 $ / First thing First / ROI / QFD / TQM / Outra técnica? | Sim | Versão 1.0 \- 30/09/2025 |
+| 8 \- Todas as priorizações contém a participação do usuário? | Sim | Versão 1.0 \- 30/09/2025 |
+| 9 \- Há gravação e o(s) registro(s) da atividade de priorização dos requisitos? | Sim |Versão 1.0 \- 30/09/2025 |
+| 10 \- 10 - A equipe deve elaborar itens de verificação do conteúdo da disciplina dessa etapa com referência bibliográfica da fonte, foto do texto da referência e autor (Perfil do usuário, elicitação de requitisos, priorização etc). | Incompleto |Versão 1.0 \- 30/09/2025 |
+
 
 <font size="3"><p style="text-align: center">Fonte: André Barros Sales.</p></font>
 
