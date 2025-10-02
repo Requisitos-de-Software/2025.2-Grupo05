@@ -48,13 +48,13 @@ nav:
           - Apresentacao 2: Entregas/Apresentações/Apresentacao2.md
       - Listas de Verificações:
         - Entrega 1:
-          - Entrevista: Entre/Lista_de_verificação/Entrega_2/Lv_tecnica/Lv_entrevista.md
+          - Entrevista: Entre/Listas_verificações/Entrega_2/Lv_tecnica/Lv_entrevista.md
         - Entrega 2:
           - Técnica: 
-            - Analise de Documentos: Entregas/Lista_de_verificação/Entrega_2/Lv_tecnica/Lv_analise_docs.md
-            - Entrevista: Entregas/Lista_de_verificação/Entrega_2/Lv_tecnica/Lv_entrevista.md
+            - Analise de Documentos: Entregas/Listas_verificações/Entrega_2/Lv_tecnica/Lv_analise_docs.md
+            - Entrevista: Entregas/Listas_verificaçoões/Entrega_2/Lv_tecnica/Lv_entrevista.md
           - Priorização:
-            - Entrevista: Entregas/Lista_de_verificação/Entrega_2/Lv_tecnica/Lv_entrevista.md
+            - Entrevista: Entregas/Listas_verificações/Entrega_2/Lv_tecnica/Lv_entrevista.md
   - Planejamento:
       - Metodologia: Planejamento/Metodologia.md
       - Ferramentas: Planejamento/Ferramentas.md
