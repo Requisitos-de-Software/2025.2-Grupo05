@@ -74,7 +74,7 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 | 9 \- Foram utilizadas escalas adequadas (Likert, diferencial semântico) para medir opiniões e atitudes? | Sim | Versão 1.0 \- 30/09/2025 |
 | 10 \- O questionário apresenta claramente o objetivo da pesquisa e as instruções de preenchimento? | Sim | Versão 1.0 \- 30/09/2025 |
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC)
+<font size="3"><p style="text-align: center"> Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC)
 
 ## Lista de Verificação - Técnica de elicitação: Entrevista
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
@@ -92,6 +92,40 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Luisa de Souza](https://github.com/Luisa12ll)
 
+## Lista de Verificação - Técnica de priorização: In or Out
+
+| O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
+| :---- | ----- | :---: |
+| 1 – Foram feitas decisões binárias sobre cada requisito (in ou out)? | Sim | Versão 1.0 - 30/09/2025 |
+| 2 – Havia uma lista de requisitos definida a ser trabalhada pelo grupo de stakeholders?| Sim | Versão 1.0 - 30/09/2025|
+| 3 –As decisões foram guiadas pelos objetivos de negócio do projeto? | Sim | Versão 1.0 - 30/09/2025 |
+| 4 – A lista de requisitos foi reduzida ao mínimo necessário para a primeira release?  |Sim | Versão 1.0 - 30/09/2025|
+| 5 – Foi feito um planejamento para reavaliar os requisitos “out” em releases futuras?  | Sim | Versão 1.0 - 30/09/2025 |
+| 6 \- Foi definido tempo adequado em reunião para analisar toda a lista de requisitos?  | Sim | Versão 1.0 - 30/09/2025 |
+| 7 \- Foi decidido quem tem a autoridade final na decisão de priorização, caso surjam impasses? | Sim | Versão 1.0 - 30/09/2025 |
+| 8 – O processo de priorização foi conduzido de forma simples e direta, sem complexidade desnecessária? ?  | Sim | Versão 1.0 - 30/09/2025 |
+| 9 \- Foi definido claramente que a priorização tinha como foco a primeira release do produto? | Sim | Versão 1.0 - 30/09/2025|
+| 10 \- O método In or Out foi conduzido de forma que o processo fosse menos cansativo e mais motivador para o time? | Sim | Versão 1.0 - 30/09/2025 |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC)
+
+
+## Lista de Verificação - Técnica de priorização: MoSCoW
+
+| O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
+| :---- | ----- | :---: |
+| 1 – Cada requisito foi categorizado com umas das quatro classes moscow(must, should, could e won´t)? | Sim | Versão 1.0 - 30/09/2025|
+|2 – A priorização dos requisitos foi bem distribuída, tendo mais de uma classificação, como por exemplo must e should? | Sim |Versão 1.0 - 30/09/2025|
+| 3 – Os requisitos que dependem de outro receberam a mesma classificação? | Sim | Versão 1.0 - 30/09/2025|
+| 4 – As prioridades foram definidas por consenso entre os clientes ou por um único cliente? | Sim | Versão 1.0 - 30/09/2025|
+| 5 – A categoria "Won't" tem um significado claro para todos os participantes? | Sim |Versão 1.0 - 30/09/2025|
+| 6 \- Caso tenha must: Os requisitos considerados essenciais pelo cliente foram classificados como must?  | Sim | Versão 1.0 - 30/09/2025|
+| 7 \- Caso tenha should: Os requisitos que são importantes para o cliente mais não obrigatório foram classificados com should?  | Sim | Versão 1.0 - 30/09/2025|
+| 8 – Caso tenha could: Os requisitos que só serão implementados se tiver tempo e recurso foram classificados como could? | Sim | Versão 1.0 - 30/09/2025|
+| 9 \- Caso Won´t: Os requisitos que não foram implementados podem ser incluídos em uma versão futura ou não serem implementados nunca de acordo com o cliente foram classificados como won´t? | Sim | Versão 1.0 - 30/09/2025|
+| 10 \- A pessoa interessada(cliente) tinha de fato conhecimento sobre o negócio? | Sim | Versão 1.0 - 30/09/2025|
+
+<font size="3"><p style="text-align: center"> Fonte: Elaboração própria. [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
 ## Lista de Verificação - Técnica de priorização: Three-level Scale
 
