@@ -169,11 +169,14 @@ Autoria de  [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](
 
 A seguir temos as **gravações das sessões**: 
 
-- [Termo de Consentimento e Brainstorm perfil de usuario](https://www.youtube.com/watch?v=ls3DBFVdAmE&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=16)
-  
-- [Brainstorm de elicitação de requisitos](https://www.youtube.com/watch?v=OuCuQnkgDT4&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=17)
-  
-- [Priorização dos requisitos pelos participantes]()
+- Termo de Consentimento e Brainstorm perfil de usuário
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ls3DBFVdAmE?si=cs1L53MZNpy24zCt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Brainstorm de elicitação de requisitos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OuCuQnkgDT4?si=1WFrQR3cKSYeVTQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Priorização dos requisitos pelos participantes
+<iframe width="560" height="315" src="https://www.youtube.com/embed/95WRn_oEFC0?si=pDSPptZqjMFu92Tj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) 
 
@@ -189,6 +192,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https
 |--------|------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | 1.0    | 25/09/2025 | Documentação dos requisitos da brainstorm | [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos) | [Lara Mota](https://github.com/mel14-hub) |
 | 1.1    | 25/09/2025 | Atuzalizando os requisitos | [Luísa de Souza](https://github.com/luisa12ll)|[Camila Silva](https://github.com/CamilaSilvaC)|
+| 1.2    | 02/09/2025 | Atuzalizando os links dos vídeos| [Camila Silva](https://github.com/CamilaSilvaC)| [Luísa de Souza](https://github.com/luisa12ll)|
 
 
 
