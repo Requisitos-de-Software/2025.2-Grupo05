@@ -192,7 +192,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https
 |--------|------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | 1.0    | 25/09/2025 | Documentação dos requisitos da brainstorm | [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos) | [Lara Mota](https://github.com/mel14-hub) |
 | 1.1    | 25/09/2025 | Atuzalizando os requisitos | [Luísa de Souza](https://github.com/luisa12ll)|[Camila Silva](https://github.com/CamilaSilvaC)|
-| 1.2    | 02/09/2025 | Atuzalizando os links dos vídeos| [Camila Silva](https://github.com/CamilaSilvaC)| [Luísa de Souza](https://github.com/luisa12ll)|
+| 1.2    | 02/10/2025 | Atuzalizando os links dos vídeos| [Camila Silva](https://github.com/CamilaSilvaC)| [Luísa de Souza](https://github.com/luisa12ll)|
 
 
 
