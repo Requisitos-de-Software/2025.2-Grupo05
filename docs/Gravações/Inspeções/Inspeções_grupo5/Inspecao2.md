@@ -42,6 +42,24 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
+## Lista de Verificação - Técnica de elicitação: Brainstorming
+
+| O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
+| :---- | ----- | :---: |
+| 1 – O objetivo da sessão de brainstorming foi claramente definido? | Sim | Versão 1.0 \- 30/09/2025 |
+| 2 – A preparação para a atividade foi realizada de forma adequada e rápida? | Sim | Versão 1.0 \- 30/09/2025 |
+| 3 – Itens repetidos do mesmo participante foram contabilizados apenas uma vez? | Sim | Versão 1.0 \- 30/09/2025 |
+| 4 – A sessão contou com um moderador? | Sim |Versão 1.0 \- 30/09/2025 |
+| 5 – Houve atividade de priorização em que cada participante selecionou os itens mais importantes, atribuindo pesos iguais? | Sim | Versão 1.0 \- 30/09/2025 |
+| 6 \- Foi fornecido material (como papel e lápis) para que as ideias individuais não se perdessem durante a discussão? | Sim | Versão 1.0 \- 30/09/2025 |
+| 7 \- A sessão tem entre 8 á 12 usuários finais? | Sim | Versão 1.0 \- 30/09/2025 |
+| 8 – Cada participante teve um tempo para compartilhar suas ideias?  | Sim |Versão 1.0 \- 30/09/2025 |
+| 9 \- Os participantes foram informados no início da atividade sobre os objetivos e procedimentos que irão ocorrer?  | Sim | Versão 1.0 \- 30/09/2025 |
+| 10 \- O moderador repetiu a pergunta inicial ou as regras caso os participantes tenham se desviado dos objetivos? | Sim | Versão 1.0 \- 30/09/2025 |
+
+<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Mota](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos). </p></font>
+
+
 
 ## Lista de Verificação - Técnica de priorização: Three-level Scale
 
@@ -69,3 +87,5 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
 | 1.0    | 18/09/2025 | Documentação da inspeção 2   | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
 | 1.1    | 30/09/2025 | Listas de verificacao da inspeção 2  | [Yan Matheus](https://github.com/Yanmatheus0812) | [Lara Mota](https://github.com/mel14-hub) |
+| 1.2    | 30/09/2025 | Atualização das listas de verificacao da inspeção 2  | [Luisa de Souza](https://github.com/Luisa12ll) | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
+
