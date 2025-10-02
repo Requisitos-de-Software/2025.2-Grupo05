@@ -29,9 +29,9 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
 | 1 – A análise inclui documentos que abrangem o máximo possível do domínio do problema? | Sim | Versão 1.0 \- 30/09/2025 |
-| 2 \- A análise identifica os problemas a resolver do négocio? | Sim | Versão 1.0 \- 30/09/2025 |
-| 3 \- A análise identifica os objetivos a alcançar do négocio? | Sim | Versão 1.0 \- 30/09/2025 |
-| 4 \- A análise identifica as métricas de sucesso do négocio? | Sim | Versão 1.0 \- 30/09/2025 |
+| 2 \- A análise identificou os problemas a resolver do négocio? | Sim | Versão 1.0 \- 30/09/2025 |
+| 3 \- A análise identificou os objetivos a alcançar do négocio? | Sim | Versão 1.0 \- 30/09/2025 |
+| 4 \- A análise identificou as métricas de sucesso do négocio? | Sim | Versão 1.0 \- 30/09/2025 |
 | 5 \- A análise possibilitou uma identificação relevante para os requisitos?  | Sim | Versão 1.0 \- 30/09/2025 |
 | 6 \- A análise estabeleceu uma faixa ampla de documentos a serem analisados?  | Sim | Versão 1.0 \- 30/09/2025 |
 | 7 \- A análise conseguiu identificar e entender fluxos operacionais da empresa? Se realizada em momentos iniciais do ciclo de vida do projeto. | Sim | Versão 1.0 \- 30/09/2025 |
@@ -59,6 +59,22 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Mota](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos). </p></font>
 
+
+## Lista de Verificação - Técnica de elicitação: Questionário
+| O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
+| :---- | ----- | :---: |
+| 1 \- A formulação das perguntas e respostas evita ambiguidade e mal-entendidos? | Sim | Versão 1.0 \- 30/09/2025 |
+| 2 – Há a indicação clara se uma pergunta admite apenas uma resposta ou múltiplas respostas?  | Sim | Versão 1.0 \- 30/09/2025 |
+| 3 – As perguntas fechadas incluem opções “não sei”, “não quero responder” ou “outros” quando necessário?  | Sim | Versão 1.0 \- 30/09/2025 |
+| 4 – O questionário começa com informações demográficas e contextuais relevantes (ex.: idade, experiência)?  | Sim | Versão 1.0 \- 30/09/2025 |
+| 5 – A ordem das perguntas foi projetada de forma a evitar que respostas anteriores influenciem as seguintes? | Sim | Versão 1.0 \- 30/09/2025 |
+| 6 \- O questionário evita excesso de perguntas abertas, que podem reduzir a taxa de respostas?  | Sim | Versão 1.0 \- 30/09/2025 |
+| 7 \- As opções de múltipla escolha permitem ao respondente marcar mais de uma alternativa quando aplicável?  | Sim | Versão 1.0 \- 30/09/2025 |
+| 8 – Perguntas com faixas de valores (ex.: idade, renda) foram estruturadas sem sobreposição de intervalos? | Sim | Versão 1.0 \- 30/09/2025 |
+| 9 \- Foram utilizadas escalas adequadas (Likert, diferencial semântico) para medir opiniões e atitudes? | Sim | Versão 1.0 \- 30/09/2025 |
+| 10 \- O questionário apresenta claramente o objetivo da pesquisa e as instruções de preenchimento? | Sim | Versão 1.0 \- 30/09/2025 |
+
+<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC)
 
 
 ## Lista de Verificação - Técnica de priorização: Three-level Scale
