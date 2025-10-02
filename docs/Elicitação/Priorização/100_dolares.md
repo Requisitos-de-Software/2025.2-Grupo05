@@ -7,7 +7,7 @@ A técnica dos 100 dólares é uma forma de priorizar requisitos ou funcionalida
 
 ## Participantes
 
-A seguir temos a tabela 1, onde indica todos os participantes da sessão do brainstorming, incluindo mediadores e usuários.
+A seguir temos a tabela 1, onde indica todos os participantes da sessão do brainstorming, o horário e local da aplicação da técnica.
 
 <div align="center">
   <table>
@@ -173,27 +173,25 @@ A técnica foi aplicada de forma coletiva, respeitando as decisões individuais 
 
 
 ## Gravação
-A Tabela 3 apresenta as informações da etapa de gravação da priorização, como data, hora e local.
 
+As gravações da priorização podem ser conferidas em: 
 
-| Data | Hora | Local|
-|-----------------|-----------------|------------------|
-| 29/09/2025 | 16:20 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
+- 100 dólares - Parte 1
 
-Tabela 3: Informações da Gravação
-
-Autoria de  [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luísa de Souza](https://github.com/luisa12ll)
-
-Além disso, a gravação da priorização pode ser conferida em: 
-
-- [100 dólares - Parte 1](https://www.youtube.com/watch?v=GWWL2cWABRU&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=25).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GWWL2cWABRU?si=8MTY_4qutiXvYnxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
-- [100 dólares - Parte 2](https://www.youtube.com/watch?v=X9oTP6EusAc&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=26).
+- 100 dólares - Parte 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X9oTP6EusAc?si=3s0ocO83zwAvNNzK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- 100 dólares - Parte 3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4UkXz3RtTC0?si=pYGY7DT-TKwr6TG_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
-- [100 dólares - Parte 3](https://www.youtube.com/watch?v=4UkXz3RtTC0&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=27).
-  
-- [100 dólares - Final ](https://www.youtube.com/watch?v=GRTOS0YSoTg&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=28).
-  
+- 100 dólares - Final 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRTOS0YSoTg?si=pZQh83kvEK0rjXKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Bibliografia
 
 - WIEGERS, Karl; BEATTY, Joy. **Software Requirements. 3. ed. Redmond: Microsoft Press**, 2013.
@@ -202,4 +200,5 @@ Além disso, a gravação da priorização pode ser conferida em:
 
 | Versão | Data       | Descrição           | Autor                                                      | Revisor                                                 |
 |--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
-| 1.0    | 30/09/2025 | Adição dá técnica dos 100 dólares | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luísa de Souza](https://github.com/luisa12ll)| [Yan Matheus](https://github.com/Yanmatheus0812)|
+| 1.0    | 30/09/2025 | Adição da técnica dos 100 dólares | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luísa de Souza](https://github.com/luisa12ll)| [Yan Matheus](https://github.com/Yanmatheus0812)|
+| 1.1   | 02/10/2025 | Atualização dos links | [Camila Silva](https://github.com/CamilaSilvaC)| [Luísa de Souza](https://github.com/luisa12ll)|

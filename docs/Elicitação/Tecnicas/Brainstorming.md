@@ -7,7 +7,7 @@
 
 ## Participantes
 
-A seguir temos a tabela 1, onde indica todos os participantes da sessão do brainstorming, incluindo mediadores e usuários. 
+A seguir temos a tabela 1, onde indica todos os participantes da sessão do brainstorming, o horário e local da aplicação da técnica.
 
 <div align="center">
   <table>
@@ -96,7 +96,7 @@ A seguir temos a tabela 1, onde indica todos os participantes da sessão do brai
   </table>
 </div>
 
-Tabela 1: Participantes
+Tabela 1: Participantes Brainstorming
 
 Autor: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) 
 
@@ -156,17 +156,6 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 
 ## Gravação
 
-A Tabela 3 apresenta as informações da etapa de gravação da priorização, como data, hora e local.
-
-
-| Data | Hora | Local|
-|-----------------|-----------------|------------------|
-| 25/09/2025 | 11:15 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
-
-Tabela 3: Informações da gravação
-
-Autoria de  [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll)
-
 A seguir temos as **gravações das sessões**: 
 
 - Termo de Consentimento e Brainstorm perfil de usuário
@@ -177,8 +166,6 @@ A seguir temos as **gravações das sessões**:
 
 - Priorização dos requisitos pelos participantes
 <iframe width="560" height="315" src="https://www.youtube.com/embed/95WRn_oEFC0?si=pDSPptZqjMFu92Tj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) 
 
 
 ## Referências Bibliográficas
@@ -192,7 +179,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https
 |--------|------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | 1.0    | 25/09/2025 | Documentação dos requisitos da brainstorm | [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos) | [Lara Mota](https://github.com/mel14-hub) |
 | 1.1    | 25/09/2025 | Atuzalizando os requisitos | [Luísa de Souza](https://github.com/luisa12ll)|[Camila Silva](https://github.com/CamilaSilvaC)|
-| 1.2    | 02/10/2025 | Atuzalizando os links dos vídeos| [Camila Silva](https://github.com/CamilaSilvaC)| [Luísa de Souza](https://github.com/luisa12ll)|
+| 1.2    | 02/10/2025 | Adição da tabela de participantes| [Camila Silva](https://github.com/CamilaSilvaC)| [Luísa de Souza](https://github.com/luisa12ll)|
 
 
 

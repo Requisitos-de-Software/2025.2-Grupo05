@@ -17,13 +17,58 @@ Este método é especialmente útil para definir o escopo de um MVP (Minimum Via
 
 ## Participantes
 
-Para a aplicação da técnica, foi realizada uma reunião com a participação de um usuário final para garantir que a priorização refletisse as necessidades reais. A sessão foi mediada por membros da equipe de desenvolvimento.
+Para a aplicação da técnica, foi realizada uma reunião com a participação de um usuário final para garantir que a priorização refletisse as necessidades reais. A sessão foi mediada por membros da equipe de desenvolvimento. A seguir temos a tabela 1, que mostra os participantes, o horário e local da aplicação da técnica.
 
-Na data de 26/09/2025, das 11:00h às 11:40h, [Pedro Henrique](https://github.com/pedrohpsantos) fez uma entrevista com os usuários Gabriel Magiolli, Lucas de Paula e Enzo Lopes, na busca para entender quais os requisitos seriam descartados ou mantidos como prioridade no produto.
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+        <td>26/09/2025</td>
+        <td>11:00</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+         </tr>
+      <tr>
+        <td>Usuário</td>
+        <td>Gabriel</td>
+        <td>26/09/2025</td>
+        <td>11:00</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+      <tr>
+        <td>Usuário</td>
+        <td>Lucas</td>
+        <td>26/09/2025</td>
+        <td>11:00</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+      <tr>
+        <td>Usuário</td>
+        <td>Enzo</td>
+        <td>26/09/2025</td>
+        <td>11:00</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 1: Participantes In or Out 
+Autor: [Camila Silva](https://github.com/CamilaSilvaC)
 
 # Tabela de Requisitos
 
-A tabela 1 abaixo representa todos os requisitos levantados, identificados com 'RQ' + número do requisito, e classificados como "In" ou "Out".
+A tabela 2 abaixo representa todos os requisitos levantados, identificados com 'RQ' + número do requisito, e classificados como "In" ou "Out".
 
 | Identificação | Descrição                                                                                                                                                             | Categoria | Priorização | Versão | Referência                                                                                                                         |
 | ------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: | :----: | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -91,9 +136,13 @@ A tabela 1 abaixo representa todos os requisitos levantados, identificados com '
 |          RQ62 | O aplicativo deve permitir a visualização de ocorrências.                                                                                                             |    RF     |     In      |  1.0   | [Brainstorming](./Tecnicas/Brainstorming.md)                                                                                       |
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 1 – Tabela de priorização In or Out.<br>
+Tabela 2 – Tabela de priorização In or Out.<br>
 Elaboração por <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e <a href="https://github.com/CamilaSilvaC">Camila Silva</a>.
 </p>
+
+## Gravação - In or Out
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o4UCSAHwcoY?si=XDYEEl0hVhrowNsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bibliografia
 
@@ -104,3 +153,4 @@ Elaboração por <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e
 | Versão | Data       | Descrição                                     | Autor                                                                                                | Revisor                                          |
 | ------ | ---------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | 1.0    | 30/09/2025 | Criação do documento de priorização In or Out | [Pedro Henrique](https://github.com/pedrohpsantos) e [Camila Silva](https://github.com/CamilaSilvaC) | [Yan Matheus](https://github.com/Yanmatheus0812) |
+| 1.1   | 02/10/2025 | Adição da tabela de participantes| [Camila Silva](https://github.com/CamilaSilvaC)| [Yan Matheus](https://github.com/Yanmatheus0812)

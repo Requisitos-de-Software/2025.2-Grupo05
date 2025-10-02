@@ -18,11 +18,53 @@ Não há um ranqueamento numérico dos requisitos, mas sim uma classificação e
 
 ## Participantes
 
-O usuário do Jornada do Estudante Héllen Clícia foi convidada para participar do presente método de priorização, informada dos fins de pesquisa deste e concordou com o uso das informações no projeto. Na data de 26/09/2025, das 15:40h às 16:00h, foi realizada uma [reunião presencial]() entre o usuário e os desenvolvedores [Yan Matheus](https://github.com/Yanmatheus0812) e [Lara Souza](https://github.com/mel14-hub), na qual toda a dinâmica do Three Level Scale foi explicada e a usuária categorizou os requisitos de acordo com sua visão. A tabela 1 apresenta os resultados dessa priorização.
+A seguir temos a tabela 1, onde indica todos os participantes da aplicação da técnica, o horário e local da aplicação da técnica. 
 
-# Tabela de Requisitos
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+        <td>26/09/2025</td>
+        <td>15:40</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+         </tr>
+      <tr>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>26/09/2025</td>
+        <td>15:40</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+       <tr>
+        <td>Usuário</td>
+        <td>Héllen</td>
+         <td>26/09/2025</td>
+        <td>15:40</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
- A tabela 1 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'RQ' + numero do requisito, e com a seguinte legenda de categoria:
+Tabela 1: Participantes Three Level Scale
+Autor: [Camila Silva](https://github.com/CamilaSilvaC)
+
+
+## Tabela de Requisitos
+
+ A tabela 2 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'RQ' + numero do requisito, e com a seguinte legenda de categoria:
 
 - RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
 - RNF: Requisitos Não-Funcionais - Descrevem os atributos que o software deve ter, como desempenho, segurança e usabilidade, mas não descrevem o comportamento do software em si.
@@ -102,12 +144,16 @@ O usuário do Jornada do Estudante Héllen Clícia foi convidada para participar
 
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 1 – Conjunto de requisitos priorizados.<br>
+Tabela 2 – Conjunto de requisitos priorizados.<br>
 Elaboração por 
 <a href="https://github.com/mel14-hub">Lara Souza</a> e
 <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>.
 
 </p>
+
+## Gravação - Three Level Scale
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FXYmCWNle4E?si=m5bHl31t__NAOlbT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Referências Bibliográficas
 
@@ -123,3 +169,4 @@ Press, 2013. Cap. 13 “Three-level scale”, p. 319
 | Versão | Data       | Descrição           | Autor                                                      | Revisor                                                 |
 |--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
 | 1.0    | 25/09/2025 | Documentação dos requisitos priorizados | [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC)  |
+| 1.1    | 02/10/2025 | Adição da tabela de participantes| [Camila Silva](https://github.com/CamilaSilvaC)| [Yan Matheus](https://github.com/Yanmatheus0812)|

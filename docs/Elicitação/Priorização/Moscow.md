@@ -9,6 +9,51 @@ Seus principais objetivos são:
 
 >2 Alinhar expectativas entre stakeholders sobre o que deve ou não ser entregue.
 
+## Participantes
+
+A seguir temos a tabela 1, onde indica todos os participantes da aplicação da técnica, o horário e local da aplicação da técnica. 
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>29/09/2025</td>
+        <td>14:40</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+         </tr>
+      <tr>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
+        <td>29/09/2025</td>
+        <td>14:40</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+       <tr>
+        <td>Usuário</td>
+        <td>Ana Paula</td>
+         <td>29/09/2025</td>
+        <td>14:40</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 1: Participantes MoSCoW
+Autor: [Camila Silva](https://github.com/CamilaSilvaC)
+
 ## Metodologia - MoSCoW
 
 O nome da técnica vem das iniciais de quatro categorias de priorização:
@@ -34,7 +79,7 @@ Requisitos desejáveis, que agregam valor adicional ao projeto. Entretanto, sua 
 
 Requisitos de baixa prioridade, que não impactam o resultado final caso não sejam implementados nesta fase do projeto. Podem ser considerados para versões futuras, mas não são indispensáveis
 
-Na _tabela 1_ estão identificados os requisitos elicitados respectivamente priorizados:
+Na _tabela 2_ estão identificados os requisitos elicitados respectivamente priorizados:
 
 | Identificação | Descrição                                                                                                                                                  | Categoria | Priorização | Versão | Referência                                                                                       |
 |--------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------:|:------------:|:------:|--------------------------------------------------------------------------------------------------|
@@ -102,23 +147,13 @@ Na _tabela 1_ estão identificados os requisitos elicitados respectivamente prio
 | RQ62          | O aplicativo deve permitir a visualização de ocorrências.                                                              | RF        | Must         | 1.0    | [Brainstorming](./Tecnicas/Brainstorming.md)          |
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 1 – Tabela de priorização.<br>
+Tabela 2 – Tabela de priorização.<br>
 Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a> e  
 <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>.</p>
 
-## Gravação
-A Tabela 3 apresenta as informações da etapa de gravação da priorização, como data, hora e local.
+## Gravação - MoSCoW
 
-<div align="center"><strong>Tabela 3: Usuário Real e Informações da Gravação</strong></div>
-
-| Data | Hora | Local|
-|-----------------|-----------------|------------------|
-| 29/09/2025 | 10:21 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
-
-Autoria de  <a href="https://github.com/CamilaSilvaC">Camila Silva</a> e <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>.</p>
-
-
-Além disso, a gravação da priorização pode ser conferida em: [Link](https://www.youtube.com/watch?v=aiG-DHzA-i4&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=29).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aiG-DHzA-i4?si=cJWGSQPhYFBb4xHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bibliografia
 
@@ -129,3 +164,4 @@ Além disso, a gravação da priorização pode ser conferida em: [Link](https:/
 | Versão | Data       | Descrição           | Autor                                                      | Revisor                                                 |
 |--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
 | 1.0    | 30/09/2025 | Adição dá técnica de Moscow | [Camila Silva](https://github.com/CamilaSilvaC) e  [Geovanna Alves](https://github.com/GeovannaUmbelino) | [Luísa de Souza](https://github.com/luisa12ll)  |
+| 1.1   | 02/10/2025 | Adição da tabela de participantes| [Camila Silva](https://github.com/CamilaSilvaC)| [Yan Matheus](https://github.com/Yanmatheus0812)

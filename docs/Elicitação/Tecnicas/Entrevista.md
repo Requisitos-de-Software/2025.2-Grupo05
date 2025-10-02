@@ -6,7 +6,7 @@
 ## Participantes
 
 ### Entrevista 1
-A seguir temos a tabela 1, onde indica todos os participantes da entrevista 1, incluindo entrevistadores e usuários. 
+A seguir temos a tabela 1, onde indica todos os participantes da entrevista 1, o horário e local da aplicação da técnica.
 
 <div align="center">
   <table>
@@ -40,6 +40,7 @@ A seguir temos a tabela 1, onde indica todos os participantes da entrevista 1, i
 </div>
 
 Tabela 1: Participantes entrevista 1
+Autor: [Camila Silva](https://github.com/CamilaSilvaC)
 
 ### Entrevista 2
 A seguir temos a tabela 2, onde indica todos os participantes da entrevista 2, incluindo entrevistadores e usuários. 
@@ -76,6 +77,7 @@ A seguir temos a tabela 2, onde indica todos os participantes da entrevista 2, i
 </div>
 
 Tabela 2: Participantes entrevista 2
+Autor: [Camila Silva](https://github.com/CamilaSilvaC)
 
 ### Entrevista 3
 A seguir temos a tabela 3, onde indica todos os participantes da entrevista 3, incluindo entrevistadores e usuários. 
@@ -103,7 +105,7 @@ A seguir temos a tabela 3, onde indica todos os participantes da entrevista 3, i
        <tr>
         <td>Usuário</td>
         <td>Arthur</td>
-         <td>22/09/2025</td>
+         <td>23/09/2025</td>
         <td>13:30</td>
         <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
       </tr>
@@ -112,6 +114,7 @@ A seguir temos a tabela 3, onde indica todos os participantes da entrevista 3, i
 </div>
 
 Tabela 3: Participantes entrevista 3
+Autor: [Camila Silva](https://github.com/CamilaSilvaC)
 
 ## Tabela de Requisitos
 
@@ -192,4 +195,4 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 | Versão | Data       | Descrição           | Autor                                                      | Revisor                                                 |
 |--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
 | 1.0    | 25/09/2025 | Documentação dos requisitos da entrevista | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Lara Souza](https://github.com/mel14-hub)  |
-| 1.1    | 02/10/2025 | Documentação dos requisitos da entrevista | [Camila Silva](https://github.com/CamilaSilvaC)| [Geovanna Alves](https://github.com/GeovannaUmbelino)
+| 1.1    | 02/10/2025 | Adição das tabelas de participantes| [Camila Silva](https://github.com/CamilaSilvaC)| [Yan Matheus](https://github.com/Yanmatheus0812)|
