@@ -19,7 +19,7 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, be
 | 7 \- No mínimo quatro técnicas de priorização (quanto mais melhor)? MoSCoW / 100 $ / First thing First / ROI / QFD / TQM / Outra técnica? | Sim | Versão 1.0 \- 30/09/2025 |
 | 8 \- Todas as priorizações contém a participação do usuário? | Sim | Versão 1.0 \- 30/09/2025 |
 | 9 \- Há gravação e o(s) registro(s) da atividade de priorização dos requisitos? | Sim |Versão 1.0 \- 30/09/2025 |
-| 10 \- 10 - A equipe deve elaborar itens de verificação do conteúdo da disciplina dessa etapa com referência bibliográfica da fonte, foto do texto da referência e autor (Perfil do usuário, elicitação de requitisos, priorização etc). | Incompleto |Versão 1.0 \- 30/09/2025 |
+| 10 \- A equipe deve elaborar itens de verificação do conteúdo da disciplina dessa etapa com referência bibliográfica da fonte, foto do texto da referência e autor (Perfil do usuário, elicitação de requitisos, priorização etc). | Incompleto |Versão 1.0 \- 30/09/2025 |
 
 
 <font size="3"><p style="text-align: center">Fonte: André Barros Sales.</p></font>
