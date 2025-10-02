@@ -67,5 +67,5 @@ problema? | - | Versão 1.0 \- 30/09/2025 |
 
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
-| 1.0    | 18/09/2023 | Documentação da inspeção 2   | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
-| 1.1    | 30/09/2023 | Listas de verificacao da inspeção 2  | [Yan Matheus](https://github.com/Yanmatheus0812) | [Lara Mota](https://github.com/mel14-hub) |
+| 1.0    | 18/09/2025 | Documentação da inspeção 2   | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
+| 1.1    | 30/09/2025 | Listas de verificacao da inspeção 2  | [Yan Matheus](https://github.com/Yanmatheus0812) | [Lara Mota](https://github.com/mel14-hub) |

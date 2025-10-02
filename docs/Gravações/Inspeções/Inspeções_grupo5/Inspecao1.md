@@ -83,4 +83,4 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
-| 1.0    | 30/09/2023 | Documentação da inspeção 1 e ajustes   | [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Cavalcante](https://github.com/CamilaSilvaC) |
+| 1.0    | 30/09/2025 | Documentação da inspeção 1 e ajustes   | [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Cavalcante](https://github.com/CamilaSilvaC) |
