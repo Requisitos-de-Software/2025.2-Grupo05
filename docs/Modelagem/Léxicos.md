@@ -1,312 +1,203 @@
 ## Introdução
 
-O Léxico é uma notação que, por meio da descrição de termos, tem como objetivo descrever os símbolos de uma linguagem. No entanto, seu principal objetivo na Engenharia de Requisitos é o reconhecimento de palavras ou frases peculiares ao contexto social aplicado no estudo. Cada símbolo possui sua noção e seu impacto. Noção é o que tal símbolos denota, já impacto é a conotação de um símbolos, ou seja, o efeito real que ele causa quando executado. Os responsáveis pela criação dos léxicos foram os integrantes: .
+O Léxico é uma notação que, por meio da descrição de termos, tem como objetivo descrever os símbolos de uma linguagem. No entanto, seu principal objetivo na Engenharia de Requisitos é o reconhecimento de palavras ou frases peculiares ao contexto social aplicado no estudo. Cada símbolo possui sua Impacto e seu Noção. Impacto é o que tal símbolos denota, já Noção é a conotação de um símbolos, ou seja, o efeito real que ele causa quando executado. Os responsáveis pela criação dos léxicos foram os integrantes: .
 
 ## Metodologia
 
 Para a confeccção dos léxicos, utilizamos a notação do Léxico Ampliado da Linguagem (LAL)<a id="anchor_1" href="#REF1">[1]</a>, com os conceitos explicitados na Tabela 1, já o template utilizado está presente na Tabela 2:
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Léxicos do tipo LAL</p></font>
 
-| Tipo do símbolo | Noção | Impacto |
+Tabela 1 - Léxicos do tipo LAL
+
+| Tipo do símbolo | Impacto | Noção |
 |-----------------|-------|-------|
-| Sujeito | Quem é o sujeito | Ações que executa |
 | Verbo | Quem realiza, quando acontece e quais os procedimentos | Quais os reflexos das ações no ambiente e novos estados decorrentes |
 | Objeto | Definir o objeto e identificar outros objetos com os quais ele se relaciona | Ações que podem ser aplicadas ao objeto  |
 | Estado | O que indica e ações que levaram a esse estado | Identificar outros estados que podem ocorrer a partir do estado que se descreve  |
 
-<font size="3"><p style="text-align: center">Fonte: SAYÃO e CARVALHO<a id="anchor_1" href="#REF1">[1]</a>.</p></font>
+Fonte: SAYÃO e CARVALHO<a id="anchor_1" href="#REF1">[1]</a>.
 
-</figure>
-
-
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Template Léxicos</p></font>
+Tabela 2 - Template Léxicos
 
 | ID | Descrição |
 |-----------------|-------|
 | Classificação | Estado/Objeto/Verbo |
-| Impacto | Descrição de ações e de seus efeitos | 
-| Noção | Símbolo |
+| Noção | Descrição de ações e de seus efeitos | 
+| Impacto | O que muda quando a ação ocorre |
 | Dicionário | Sinônimos |
 
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
+Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+
 
 ## Léxicos
 
-### L01: Acessar usuário
 
-O Léxico presente na Tabela 3, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
+### L01: Autenticar usuário
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Léxico 01: Filtrar Eventos (L01)</p></font>
+O Léxico presente na Tabela 3, faz o uso do seguinte requisito de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md): RQ1
+
+
+Tabela 3 - Léxico 01: Autenticar usuários (L01)
 
 | L01 | Descrição |
 |-----------------|-------|
 | Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
+| Noção | Ação realizada pelo estudante para acessar o aplicativo utilizando suas credenciais de autenticação do Gov. | 
+| Impacto | Permite o acesso seguro ao aplicativo, utilizando suas funcionalidades.  |
+| Dicionário | Entrar, logar, acessar |
 
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
+Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 
-### L02: Autenticar usuário
+### L02: Cadastrar informações
 
-O Léxico presente na Tabela 4, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
+O Léxico presente na Tabela 4, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md): RQ13, RQ47 e RQ51
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Léxico 02: Autenticar usuários (L02)</p></font>
+
+Tabela 4 - Léxico 02: Cadastrar credenciais (L02)
 
 | L02 | Descrição |
 |-----------------|-------|
 | Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
+| Noção | Ação realizada pelo estudante de cadastrar informações da sua conta do aplicativo e conta bancária e inserir atividades na agenda. | 
+| Impacto | Permite o estudante ter suas informaçẽos atualizadas e recebimento do auxílio Pé de meia. |
+| Dicionário | registrar, inserir, inscrever, adicionar |
 
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
+Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-### L03: Cadastrar eventos
 
-O Léxico presente na Tabela 5, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
+### L03: Consultar informações
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Léxico 03: Cadastrar eventos (L03)</p></font>
+O Léxico presente na Tabela 5, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md): RQ5, RQ7, RQ8, RQ9, RQ11, RQ17, RQ18, RQ19, RQ20, RQ30, RQ31, RQ32, RQ33, RQ34, RQ37, RQ61 e RQ62
+
+
+Tabela 5 - Léxico 03: Consultar informações (L03)
 
 | L03 | Descrição |
 |-----------------|-------|
 | Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
+| Noção | Ação realizada pelo usuário de consultar informações pessoais e acadêmicas | 
+| Impacto | Se informar de atualizações acadêmicas, detalhes de suas disciplinas, documentos oficiais, agenda e status do benefício Pé de meia  |
+| Dicionário | Pesquisar, conferir, examinar, verificar, checar, buscar, acessar, acompanhar, visualizar, observar |
 
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
+Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-### L04: Consultar eventos
 
-O Léxico presente na Tabela 6, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
+### L04: Emitir documentos
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Léxico 04: Consultar eventos (L04)</p></font>
+O Léxico presente na Tabela 6, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md): RQ27, RQ28, RQ29 e RQ59
+
+
+Tabela 6 - Léxico 04: Emitir documentos (L04)
 
 | L04 | Descrição |
 |-----------------|-------|
 | Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
+| Noção | Ação do estudante de emitir documentos estudantis | 
+| Impacto | Permite o estudante ter acesso aos seus diplomas, declarações e histórico escolar  |
+| Dicionário | Gerar, disponibilizar |
 
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
+Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-### L05: Acompanhar registros estudantis
 
-O Léxico presente na Tabela 7, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
+### L05: Editar informações
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Léxico 05: Acompanhar registros estudantis (L05)</p></font>
+O Léxico presente na Tabela 7, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md): RQ43, RQ44 e RQ48
+
+Tabela 7 - Léxico 05: Editar informações (L05)
 
 | L05 | Descrição |
 |-----------------|-------|
 | Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
+| Noção | Ação do estudantede ele de editar informações e atividades | 
+| Impacto | Permite o estudante editar informações pessoais, bancárias e atividades da agenda sem consequeência imediata  |
+| Dicionário | Modificar, alterar, corrigir, ajustar, refazer |
 
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
+Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-### L06: Visualizar eventos
 
-O Léxico presente na Tabela 8, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
+### L06: Excluir atividades 
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Léxico 06: Visualizar eventos (L06)</p></font>
+O Léxico presente na Tabela 8, faz o uso do seguinte requisito de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md): RQ49
+
+
+Tabela 8 - Léxico 06: Excluir atividades (L06)
 
 | L06 | Descrição |
 |-----------------|-------|
 | Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
+| Noção | Ação do usuário de excluir uma atividade da agenda | 
+| Impacto | Permite o usuário ter controle das atividades que deseja que estejam disponíveis na agenda  |
+| Dicionário | Remover, apagar, deletar, retirar, eliminar, descartar |
 
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
+Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-### L07: Emitir documentos
 
-O Léxico presente na Tabela 9, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
+### L07: Notificar eventos 
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Léxico 07: Emitir documentos (L07)</p></font>
+O Léxico presente na Tabela 9, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md): RQ14, RQ21, RQ22, RQ23, RQ50 e RQ56
+
+
+Tabela 9 - Léxico 07: Notificar eventos (L07)
 
 | L07 | Descrição |
 |-----------------|-------|
 | Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
+| Noção | Ação do sistema de notificar o usuário com notificações, vibrações e/ou barulhos sobre eventos | 
+| Impacto | Permite o usuário ficar mais facilmente informado em caso de abertura de editais, eventos próximos marcados na agenda, faltas e parcelas do auxílio  |
+| Dicionário | Avisar, comunicar, informar, alertar, noticiar |
 
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
+Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-### L08: Editar informações
 
-O Léxico presente na Tabela 10, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
+### L08: Acessar páginas 
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Léxico 08: Editar informações (L08)</p></font>
+O Léxico presente na Tabela 10, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md): RQ15 e RQ42
+
+Tabela 10 - Léxico 08: Acessar páginas (L08)
 
 | L08 | Descrição |
 |-----------------|-------|
 | Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
+| Noção | Ação do usuário de acessar páginas de serviços e outras aplicações da plataforma | 
+| Impacto | Permite o estudante acessar as principais funcionalidades do aplicativo como serviços estudantis, fórum de dúvidas e disciplinas |
+| Dicionário | Entrar, abrir, utilizar, operar |
 
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
+Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-### L09: Excluir atividades 
 
-O Léxico presente na Tabela 11, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
+### L09: Comunicar em canais
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 11</b> - Léxico 09: Excluir atividades (L09)</p></font>
+O Léxico presente na Tabela 11, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md): RQ35, RQ36, RQ57, RQ58 e RQ60
+
+
+Tabela 11 - Léxico 09: Ser atendido em canal de conversa (L09)
 
 | L09 | Descrição |
 |-----------------|-------|
 | Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
+| Noção | Ação do estudante de se comunicar em fóruns e canais de conversas privados ou públicos | 
+| Impacto | Permite o estudante tirar dúvidas, responder e se comunicar com outros estudantes ou responsáveis  |
+| Dicionário | Expressar, manifestar, declarar, perguntar, responder, expor, divulgar, relatar |
 
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
+Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-### L10: Avaliar atividades 
 
-O Léxico presente na Tabela 11, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
+### L10: Oferecer serviços
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 12</b> - Léxico 10: Avaliar atividades (L10)</p></font>
+O Léxico presente na Tabela 12, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md): RQ41, RQ46, RQ53 e RQ54
+
+
+Tabela 12 - Léxico 10: Oferecer serviços (L10)
 
 | L10 | Descrição |
 |-----------------|-------|
 | Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
+| Noção | Ação do sistema de oferecer diversos serviços ao usuário do sistema | 
+| Impacto | Permite o usuário de receber serviços integrados ao aplicativo como tutorial, canal de suporte e ranqueamento de matérias  |
+| Dicionário | Fornecer, disponibilizar, conceder, entregar |
 
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
+Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-### L11: Notificar eventos 
-
-O Léxico presente na Tabela 13, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
-
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 13</b> - Léxico 11: Notificar eventos (L11)</p></font>
-
-| L11 | Descrição |
-|-----------------|-------|
-| Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
-
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
-
-### L12: Acessar páginas 
-
-O Léxico presente na Tabela 14, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
-
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 14</b> - Léxico 12: Acessar páginas (L12)</p></font>
-
-| L12 | Descrição |
-|-----------------|-------|
-| Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
-
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
-
-### L13: Receber novidades do governo 
-
-O Léxico presente na Tabela 15, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
-
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 15</b> - Léxico 13: Receber novidades do governo (L13)</p></font>
-
-| L13 | Descrição |
-|-----------------|-------|
-| Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
-
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
-
-### L14: Ser atendido em canal de conversa
-
-O Léxico presente na Tabela 16, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
-
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 16</b> - Léxico 14: Ser atendido em canal de conversa (L14)</p></font>
-
-| L14 | Descrição |
-|-----------------|-------|
-| Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
-
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
-
-### L15: Integrar organizações/serviços
-
-O Léxico presente na Tabela 17, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
-
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 17</b> - Léxico 15: Integrar organizações/serviços (L15)</p></font>
-
-| L15 | Descrição |
-|-----------------|-------|
-| Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
-
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
-
-### L16: Oferecer serviços
-
-O Léxico presente na Tabela 18, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):
-
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 18</b> - Léxico 16: Oferecer serviços (L16)</p></font>
-
-| L16 | Descrição |
-|-----------------|-------|
-| Classificação | Verbo |
-| Impacto | - | 
-| Noção | -  |
-| Dicionário | - |
-
-<font size="3"><p style="text-align: center">Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
-</figure>
 
 ## Bibliografia
 
@@ -315,6 +206,8 @@ O Léxico presente na Tabela 18, faz o uso dos seguintes requisitos de acordo co
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf/>. Acesso em: 14/05/2023.
+
+> MELO, Arthur e FERREIRA, Rafael. Léxicos. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/threeLvlScale/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/threeLvlScale/). Acesso em: 04 out. 2025.
 
 ## Histórico de Versões
 
