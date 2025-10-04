@@ -19,7 +19,7 @@ A tabela 1 mostra a lista de verificação da técnica 100 dólares.
 | 7 \- Os participantes usaram proporções para refletir diferenças de importância entre requisitos? | WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Cap. 16, p.321. | 19/09/2025| [Link](https://i.postimg.cc/3RgXRLWZ/apagar7.jpg) |
 | 8 \- Foram considerados múltiplos stakeholders ao somar as alocações?| WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Cap. 16, p.322. | 19/09/2025|  [Link](https://i.postimg.cc/brytvpKH/apagar8.jpg) |
 
-<figcaption align="center">Tabela 1: Lista de Verificação.</figcaption>
+<figcaption align="center">Tabela 1: Lista de.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Luísa de Souza](https://github.com/Luisa12ll).</p></font>
 
@@ -27,5 +27,4 @@ A tabela 1 mostra a lista de verificação da técnica 100 dólares.
 
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
-| 1.0    | 01/10/2025 | Adicionando lista de verificação  | [Geovanna Alves](https://github.com/GeovannaUmbelino) |[Luisa de Souza](https://github.com/Luisa12ll) e [Camila Silva](https://github.com/CamilaSilvaC) |
-||
+| 1.0    | 04/10/2025 | Adicionando lista de verificação  |[Luisa de Souza](https://github.com/Luisa12ll)|[Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) |
