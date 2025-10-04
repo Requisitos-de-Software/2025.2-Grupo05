@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta página tem como objetivo armazenar a lista de verificação da técnica de análise de documentação feita pelo grupo.
+Esta página tem como objetivo armazenar a lista de verificação da técnica de análise de documentação.
 
 ## Lista de Verificação - Análise de documentos
 A tabela_1 mostra a lista de verificação de análise de documentação.

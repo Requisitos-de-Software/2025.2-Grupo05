@@ -54,7 +54,8 @@ nav:
             - Analise de Documentos: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_analise_docs.md
             - Entrevista: Entregas/Listas_verificaçoões/Entrega02/Lv_tecnica/Lv_entrevista.md
           - Priorização:
-            - Entrevista: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_entrevista.md
+            - MoSCoW: Entregas/Listas_verificações/Entrega02/Lv_priorização/MoscowLV.md
+
   - Planejamento:
       - Metodologia: Planejamento/Metodologia.md
       - Ferramentas: Planejamento/Ferramentas.md
