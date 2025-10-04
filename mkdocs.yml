@@ -52,8 +52,13 @@ nav:
         - Entrega 2:
           - Técnica: 
             - Analise de Documentos: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_analise_docs.md
-            - Entrevista: Entregas/Listas_verificaçoões/Entrega02/Lv_tecnica/Lv_entrevista.md
+            - Entrevista: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_entrevista.md
+            - Questionário: Entregas/Listas_verificações/Entrega02/Lv_tecnica/QuestionarioLV.md
+            - Brainstorming: Entregas/Listas_verificações/Entrega02/Lv_tecnica/BrainstormLV.md
           - Priorização:
+            - In or Out: Entregas/Listas_verificações/Entrega02/Lv_priorização/In_or_outLV.md
+            - Tree Level Scale: Entregas/Listas_verificações/Entrega02/Lv_priorização/Three_levelLV.md
+            - 100 Dólares: Entregas/Listas_verificações/Entrega02/Lv_priorização/100_dolaresLV.md
             - MoSCoW: Entregas/Listas_verificações/Entrega02/Lv_priorização/MoscowLV.md
 
   - Planejamento:
