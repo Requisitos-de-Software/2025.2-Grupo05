@@ -2,9 +2,6 @@
 
 O objetivo dessa página é armazenar o documento montado da lista de verificação do rich picture. Acesse o vídeo clicando no link correspondente.
 
-Acesse a lista de verificação [clicando aqui]()
-
-
 ## Lista de Verificação - Análise de documentos
 A tabela_1 mostra a lista de verificação de análise de documentação.
 
