@@ -40,7 +40,7 @@ Para facilitar o trabalho em equipe, [Geovanna Alves](https://github.com/Geovann
  | Item | Descrição |
 |--------|----------|
 | Título | Atualizações de pagamento do Pé-de-Meia |
-| ID |    [RQ9](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)       |
+| ID | [RQ9](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)       |
 | Objetivo | Apresentar atualizações sobre o pagamento em até um mês. |
 | Contexto | Estudante com benefício ativo. |
 | Atores | Estudante, aplicativo |
@@ -262,8 +262,6 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 | Restrições | Falha de internet |
 | Exceção | Alteração não salva |
 
-
-
 | Item | Descrição |
 |--------|----------|
 | Título | Notificação de editais de vestibular |
@@ -297,40 +295,57 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 | Restrições | Falta de internet |
 | Exceção | Fórum indisponível |
 
-| Item | Descrição |
+
+### Cenário 22: Emissão de diplomas
+
+ Item | Descrição |
 |--------|----------|
 | Título | Emissão de diplomas |
-| Objetivo | Permitir que o usuário gere seu diploma digital. |
-| Contexto | Usuário formado e cadastrado. |
-| Atores | Usuário, aplicativo |
+| Objetivo | Permitir que o estudante gere seu diploma digital. |
+| Contexto | Estudantes formado e cadastrado. |
+| Atores | Estudantes, aplicativo |
 | Recursos | Dados acadêmicos, gerador de diploma |
-| Episódios | 1. Usuário solicita diploma. <br>2. Sistema gera documento. <br>3. Usuário salva ou imprime. |
+| Episódios | 1. Usuário solicita diploma. <br>2. Sistema gera documento. <br>3. Estudante salva ou imprime. |
 | Restrições | Sistema indisponível |
 | Exceção | Falha na geração do diploma |
+
+
+<p style="font-size: 14px;"> Tabela 22 – Cenário de emissão de diplomas.<br>
+Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
+
+
+### Cenário 23: Visualização de certificados
 
 | Item | Descrição |
 |--------|----------|
 | Título | Visualização de certificados |
 | Objetivo | Permitir que o usuário veja certificados de cursos e atividades. |
-| Contexto | Usuário cadastrado. |
-| Atores | Usuário, aplicativo |
+| Contexto | Estudantes cadastrado. |
+| Atores | Estudantes, aplicativo |
 | Recursos | Base de certificados |
-| Episódios | 1. Usuário acessa seção de certificados. <br>2. Visualiza certificados disponíveis. |
+| Episódios | 1. Usuário acessa certificados. <br>2. Seleciona certificado. <br>3. Sistema exibe certificado. |
 | Restrições | Falta de atualização |
 | Exceção | Certificado não encontrado |
+
+<p style="font-size: 14px;"> Tabela 22 – Cenário de emissão de diplomas.<br>
+Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
+
+
+### Cenário 24: Visualização de ocorrências
 
 | Item | Descrição |
 |--------|----------|
 | Título | Visualização de ocorrências |
-| Objetivo | Permitir que o usuário visualize ocorrências registradas na instituição. |
-| Contexto | Usuário cadastrado. |
-| Atores | Usuário, aplicativo |
+| Objetivo | Permitir que o estudantes visualize ocorrências registradas na instituição. |
+| Contexto | Estudantes cadastrado. |
+| Atores | Estudantes, aplicativo |
 | Recursos | Base de ocorrências |
 | Episódios | 1. Usuário acessa seção de ocorrências. <br>2. Sistema exibe ocorrências registradas. |
 | Restrições | Falta de atualização |
 | Exceção | Ocorrência não encontrada |
 
-
+<p style="font-size: 14px;"> Tabela 24 – Cenário de visualização de ocorrências.<br>
+Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p>
 
 
 # Histórico de Versões
