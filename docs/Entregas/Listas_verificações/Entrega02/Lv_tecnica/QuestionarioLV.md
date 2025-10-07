@@ -27,5 +27,5 @@ A tabela_1 mostra a lista de verificação da técnica questionário.
 
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
-| 1.0    | 06/10/2025 | Adicionando lista de verificação  | [Camila Silva](https://github.com/CamilaSilvaC) | [Geovanna Alves](https://github.com/GeovannaUmbelino)|
-||
+| 1.0    | 06/10/2025 | Adicionando lista de verificação  | [Camila Silva](https://github.com/CamilaSilvaC) | |
+|[Yan Matheus](https://github.com/Yanmatheus0812)|
