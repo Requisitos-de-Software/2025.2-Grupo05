@@ -35,4 +35,4 @@ Esta tabela apresenta uma checklist abrangente para análise de requisitos de so
 
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
-| 1.0    | 04/10/2025 | Adicionando lista de verificação do three level  | [Lara Souza Mota](https://github.com/mel14-hub) |[Luisa de Souza](https://github.com/Luisa12ll) |
+| 1.0    | 04/10/2025 | Adicionando lista de verificação QFD  | [Lara Souza Mota](https://github.com/mel14-hub) |[Luisa de Souza](https://github.com/Luisa12ll) |
