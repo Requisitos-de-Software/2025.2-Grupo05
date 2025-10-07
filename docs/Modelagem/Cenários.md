@@ -228,6 +228,11 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 | Restrições | Falta de internet |
 | Exceção | Falha ao atualizar atividade |
 
+
+
+### Cenário 19: Excluir atividades na agenda
+
+
 | Item | Descrição |
 |--------|----------|
 | Título | Excluir atividades na agenda |
@@ -235,80 +240,68 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 | Contexto | Usuário com atividades cadastradas. |
 | Atores | Usuário, aplicativo |
 | Recursos | Agenda digital |
-| Episódios | 1. Usuário acessa atividade. <br>2. Seleciona excluir. <br>3. Sistema confirma exclusão. |
+| Episódios | 1. Usuário abre agenda. <br>2. Usuário acessa atividade. <br>3. Seleciona excluir. <br>4. Sistema confirma exclusão. |
 | Restrições | Falha de conexão |
 | Exceção | Atividade não removida |
+
+
+<p style="font-size: 14px;"> Tabela 19 – Cenário de excluir atividades na agenda.<br>
+Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
+
+
+### Cenário 20: Inserir horário e data na atividade
 
 
 | Item | Descrição |
 |--------|----------|
 | Título | Inserir horário e data na atividade |
+| ID | [R51](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)       |
 | Objetivo | Permitir que o usuário defina data e horário de cada atividade. |
 | Contexto | Usuário adicionando ou editando atividade. |
 | Atores | Usuário, aplicativo |
 | Recursos | Agenda digital |
 | Episódios | 1. Usuário seleciona atividade. <br>2. Define data e horário. <br>3. Salva alterações. |
-| Restrições | Dados incompletos |
-| Exceção | Falha ao salvar informações de horário |
+| Restrições | Data/hora no passado ou conflito de horários |
+| Exceção | Falha ao salvar atividade |
 
-| Item | Descrição |
-|--------|----------|
-| Título | Avaliação de grau de importância |
-| Objetivo | Permitir que o usuário atribua importância às atividades. |
-| Contexto | Usuário cadastrando ou editando atividade. |
-| Atores | Usuário, aplicativo |
-| Recursos | Agenda digital |
-| Episódios | 1. Usuário seleciona atividade. <br>2. Atribui grau de importância. <br>3. Salva alterações. |
-| Restrições | Falha de internet |
-| Exceção | Alteração não salva |
 
-| Item | Descrição |
-|--------|----------|
-| Título | Notificação de editais de vestibular |
-| Objetivo | Informar usuário sobre abertura de editais. |
-| Contexto | Usuário cadastrado. |
-| Atores | Usuário, aplicativo, sistema de notificações |
-| Recursos | Base de editais, notificações |
-| Episódios | 1. Sistema registra novo edital. <br>2. Aplicativo envia notificação ao usuário. |
-| Restrições | Falta de internet |
-| Exceção | Notificação não entregue |
+<p style="font-size: 14px;"> Tabela 20 – Cenário de inserir horário e data na atividade.<br>
+Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
+
+
+### Cenário 21: Fórum entre estudantes
+
 
 | Item | Descrição |
 |--------|----------|
 | Título | Fórum entre estudantes |
-| Objetivo | Permitir interação e troca de dúvidas entre estudantes. |
-| Contexto | Usuário cadastrado. |
+| ID | [R57](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)       |
+| Objetivo | Permitir que estudantes troquem informações e dúvidas. |
+| Contexto | Estudante logado no módulo de fóruns. |
 | Atores | Estudante, aplicativo |
 | Recursos | Fórum online |
-| Episódios | 1. Usuário acessa fórum. <br>2. Visualiza perguntas e respostas. <br>3. Posta dúvida ou resposta. |
-| Restrições | Falta de internet |
-| Exceção | Fórum indisponível |
-
-| Item | Descrição |
-|--------|----------|
-| Título | Fórum por disciplina |
-| Objetivo | Permitir interação entre estudantes e professores por disciplina. |
-| Contexto | Usuário cadastrado em disciplina. |
-| Atores | Estudante, professor, aplicativo |
-| Recursos | Fórum online |
-| Episódios | 1. Usuário acessa fórum da disciplina. <br>2. Visualiza perguntas e respostas. <br>3. Posta dúvida ou resposta. |
-| Restrições | Falta de internet |
-| Exceção | Fórum indisponível |
+| Episódios | 1. Estudante acessa fórum. <br>2. Visualiza perguntas e respostas. <br>3. Posta dúvida ou resposta. |
+| Restrições | Mensagens ofensivas ou spam |
+| Exceção | Falha na postagem |
 
 
-### Cenário 22: Emissão de diplomas
+<p style="font-size: 14px;"> Tabela 21 – Cenário de fórum entre estudantes.<br>
+Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
+
+
+### Cenário 22:Emissão de diplomas
 
  Item | Descrição |
 |--------|----------|
 | Título | Emissão de diplomas |
+| ID | [R59](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)       |
 | Objetivo | Permitir que o estudante gere seu diploma digital. |
-| Contexto | Estudantes formado e cadastrado. |
+| Contexto | Estudante formado e cadastrado. |
 | Atores | Estudantes, aplicativo |
 | Recursos | Dados acadêmicos, gerador de diploma |
 | Episódios | 1. Usuário solicita diploma. <br>2. Sistema gera documento. <br>3. Estudante salva ou imprime. |
 | Restrições | Sistema indisponível |
 | Exceção | Falha na geração do diploma |
-
 
 <p style="font-size: 14px;"> Tabela 22 – Cenário de emissão de diplomas.<br>
 Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
@@ -319,23 +312,23 @@ Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 | Item | Descrição |
 |--------|----------|
 | Título | Visualização de certificados |
+| ID | [R61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)       |
 | Objetivo | Permitir que o usuário veja certificados de cursos e atividades. |
-| Contexto | Estudantes cadastrado. |
+| Contexto | Estudante cadastrado. |
 | Atores | Estudantes, aplicativo |
 | Recursos | Base de certificados |
 | Episódios | 1. Usuário acessa certificados. <br>2. Seleciona certificado. <br>3. Sistema exibe certificado. |
 | Restrições | Falta de atualização |
 | Exceção | Certificado não encontrado |
 
-<p style="font-size: 14px;"> Tabela 22 – Cenário de emissão de diplomas.<br>
-Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
-
-
+<p style="font-size: 14px;"> Tabela 23 – Cenário de visualização de certificados.<br> Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
+                                                                     
 ### Cenário 24: Visualização de ocorrências
 
 | Item | Descrição |
 |--------|----------|
 | Título | Visualização de ocorrências |
+| ID | [R62](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Objetivo | Permitir que o estudantes visualize ocorrências registradas na instituição. |
 | Contexto | Estudantes cadastrado. |
 | Atores | Estudantes, aplicativo |
