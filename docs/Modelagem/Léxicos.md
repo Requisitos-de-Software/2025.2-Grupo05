@@ -42,7 +42,7 @@ Tabela 3 - Léxico 01: Autenticar Estudantes (L01)
 | Impacto       | Permite o acesso seguro ao aplicativo, utilizando suas funcionalidades.                                     |
 | Dicionário    | Entrar, logar, acessar                                                                                      |
 
-Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L02: Cadastrar informações
 
@@ -57,7 +57,7 @@ Tabela 4 - Léxico 02: Cadastrar credenciais (L02)
 | Impacto       | Permite o estudante ter suas informaçẽos atualizadas e recebimento do auxílio Pé de meia.                                          |
 | Dicionário    | registrar, inserir, inscrever, adicionar                                                                                           |
 
-Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L03: Consultar informações
 
@@ -72,7 +72,7 @@ Tabela 5 - Léxico 03: Consultar informações (L03)
 | Impacto       | Se informar de atualizações acadêmicas, detalhes de suas disciplinas, documentos oficiais, agenda e status do benefício Pé de meia |
 | Dicionário    | Pesquisar, conferir, examinar, verificar, checar, buscar, acessar, acompanhar, visualizar, observar                                |
 
-Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L04: Emitir documentos
 
@@ -87,7 +87,7 @@ Tabela 6 - Léxico 04: Emitir documentos (L04)
 | Impacto       | Permite o estudante ter acesso aos seus diplomas, declarações e histórico escolar |
 | Dicionário    | Gerar, disponibilizar                                                             |
 
-Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L05: Editar informações
 
@@ -102,7 +102,7 @@ Tabela 7 - Léxico 05: Editar informações (L05)
 | Impacto       | Permite o estudante editar informações pessoais, bancárias e atividades da agenda sem consequeência imediata |
 | Dicionário    | Modificar, alterar, corrigir, ajustar, refazer                                                               |
 
-Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L06: Excluir atividades
 
@@ -117,7 +117,7 @@ Tabela 8 - Léxico 06: Excluir atividades (L06)
 | Impacto       | Permite o Estudante ter controle das atividades que deseja que estejam disponíveis na agenda |
 | Dicionário    | Remover, apagar, deletar, retirar, eliminar, descartar                                       |
 
-Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L07: Notificar eventos
 
@@ -132,7 +132,7 @@ Tabela 9 - Léxico 07: Notificar eventos (L07)
 | Impacto       | Permite o Estudante ficar mais facilmente informado em caso de abertura de editais, eventos próximos marcados na agenda, faltas e parcelas do auxílio |
 | Dicionário    | Avisar, comunicar, informar, alertar, noticiar                                                                                                        |
 
-Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L08: Acessar páginas
 
@@ -147,7 +147,7 @@ Tabela 10 - Léxico 08: Acessar páginas (L08)
 | Impacto       | Permite o estudante acessar as principais funcionalidades do aplicativo como serviços estudantis, fórum de dúvidas e disciplinas |
 | Dicionário    | Entrar, abrir, utilizar, operar                                                                                                  |
 
-Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L09: Comunicar em canais
 
@@ -162,7 +162,7 @@ Tabela 11 - Léxico 09: Ser atendido em canal de conversa (L09)
 | Impacto       | Permite o estudante tirar dúvidas, responder e se comunicar com outros estudantes ou responsáveis |
 | Dicionário    | Expressar, manifestar, declarar, perguntar, responder, expor, divulgar, relatar                   |
 
-Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L10: Oferecer serviços
 
@@ -177,7 +177,7 @@ Tabela 12 - Léxico 10: Oferecer serviços (L10)
 | Impacto       | Permite o Estudante de receber serviços integrados ao aplicativo como tutorial, canal de suporte e ranqueamento de matérias |
 | Dicionário    | Fornecer, disponibilizar, conceder, entregar                                                                                |
 
-Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L11:Estudante(perfis)
 
@@ -195,7 +195,7 @@ O lexico presente na Tabela 13, faz uso  dos seguintes requisitos de acordo com 
 
 ---
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
 ### L12:Dados Acadêmicos e Avaliações
 
@@ -212,11 +212,9 @@ O lexico presente na Tabela 14, faz uso  dos seguintes requisitos de acordo com 
 
 ---
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
 ### L13: Infraestrutura Institucional
-
-
 
 O lexico presente na Tabela 15, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ4,RQ16,RQ7,RQ10,RQ3
 
@@ -231,7 +229,7 @@ O lexico presente na Tabela 15, faz uso  dos seguintes requisitos de acordo com 
 
 ---
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
 ### L14: IAuxílio Financeiro Estudantil
 
@@ -249,7 +247,7 @@ O lexico presente na Tabela 16, faz uso  dos seguintes requisitos de acordo com 
 
 ---
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
 ### L15: Documentação Oficial
 
@@ -267,7 +265,7 @@ O lexico presente na Tabela 17, faz uso  dos seguintes requisitos de acordo com 
 
 ---
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
 ### L16: Comunicação e Interação
 
@@ -282,7 +280,7 @@ O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com 
 | **Noção** |   Representa os canais de comunicação disponíveis no sistema que facilitam a interação entre estudantes, professores, suporte e MEC, permitindo troca de informações e esclarecimento de dúvidas. |
 | **Dicionário** |Fórum, Chat, Canal de comunicação, Mensagem, Discussão, Suporte técnico, Atendimento, Canal MEC|
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
 ### L17: Calendário e Eventos
 
@@ -296,7 +294,7 @@ O lexico presente na Tabela 19, faz uso  dos seguintes requisitos de acordo com 
 | **Noção** |   Representa compromissos e datas importantes do calendário acadêmico incluindo eventos, provas, entregas e atividades institucionais que são gerenciados pelo usuário e sincronizados com o sistema. |
 | **Dicionário** |Evento, Calendário, Agenda, Compromisso, Atividade, Data importante, Cronograma, Prazo, Lembrete|
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
 ### L18: Estudante logado
 
@@ -311,7 +309,7 @@ O Léxico presente na Tabela 18 está associado ao requisito **RQ1**, que trata 
 | **Impacto**       | Permite o uso das funcionalidades do aplicativo de forma segura e personalizada.                             |
 | **Dicionário**    | conectado, autenticado, sessão ativa                                                                         |
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ---
 
@@ -328,7 +326,7 @@ O Léxico presente na Tabela 19 está relacionado aos requisitos **RQ1** e **RQ3
 | **Impacto**       | Define se o Estudante pode realizar ações dentro do aplicativo. Uma conta inativa impede o login e uso das funcionalidades.              |
 | **Dicionário**    | habilitada, desativada, suspensa                                                                                                         |
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ---
 
@@ -345,7 +343,7 @@ O Léxico presente na Tabela 20 está relacionado aos requisitos **RQ6** e **RQ7
 | **Impacto**       | Informações desatualizadas podem causar bloqueio no programa Pé-de-Meia ou inconsistência nos registros.                                         |
 | **Dicionário**    | sincronizada, recente, antiga, incorreta                                                                                                         |
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ---
 
@@ -362,7 +360,7 @@ O Léxico presente na Tabela 21 está relacionado ao requisito **RQ5**, que trat
 | **Impacto**       | Determina se o estudante pode continuar recebendo o benefício.                                                                     |
 | **Dicionário**    | regular, suspenso, bloqueado, ativo                                                                                                |
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ---
 
@@ -379,7 +377,7 @@ O Léxico presente na Tabela 22 está relacionado ao requisito **RQ10**, sobre a
 | **Impacto**       | Garante acesso amplo e sem custo aos Estudantes de diferentes plataformas.                |
 | **Dicionário**    | gratuito, acessível, multiplataforma                                                      |
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ---
 
@@ -396,7 +394,7 @@ O Léxico presente na Tabela 23 está relacionado ao requisito **RQ39**, que abo
 | **Impacto**       | Garante confidencialidade e conformidade com políticas de segurança da informação.                   |
 | **Dicionário**    | confidencial, protegido, reservado                                                                   |
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ---
 
@@ -413,7 +411,7 @@ O Léxico presente na Tabela 24 está relacionado ao requisito **RQ40**, que tra
 | **Impacto**       | Promove a inclusão digital e o acesso equitativo para todos os Estudantes.                                                         |
 | **Dicionário**    | inclusivo, acessível, adaptado                                                                                                     |
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ---
 
@@ -430,7 +428,7 @@ O Léxico presente na Tabela 25 está associado ao requisito **RQ24**, referente
 | **Impacto**       | Reduz a curva de aprendizado e melhora a satisfação do Estudante.                                       |
 | **Dicionário**    | intuitivo, simples, amigável                                                                            |
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ---
 
@@ -447,7 +445,7 @@ O Léxico presente na Tabela 26 está relacionado ao requisito **RQ25**, que def
 | **Impacto**       | Facilita a compreensão e o engajamento do estudante com as funcionalidades do sistema.            |
 | **Dicionário**    | clara, direta, compreensível                                                                      |
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ---
 
@@ -464,7 +462,7 @@ O Léxico presente na Tabela 27 está relacionado ao requisito **RQ26**, sobre o
 | **Impacto**       | Garante uma experiência ágil e eficiente, reduzindo a frustração do Estudante.                            |
 | **Dicionário**    | rápido, eficiente, responsivo                                                                             |
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ---
 
@@ -481,7 +479,7 @@ O Léxico presente na Tabela 28 está associado ao requisito **RQ55**, sobre a n
 | **Impacto**       | Mede a eficiência da navegação e da arquitetura da informação do sistema.                                             |
 | **Dicionário**    | localizado, encontrado, acessível                                                                                     |
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ---
 
@@ -498,7 +496,7 @@ O Léxico presente na Tabela 29 está relacionado ao requisito **RQ45**, sobre o
 | **Impacto**       | Facilita a leitura, reduz distrações e melhora a experiência do Estudante.                                    |
 | **Dicionário**    | limpo, organizado, minimalista                                                                                |
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ## Bibliografia
 
