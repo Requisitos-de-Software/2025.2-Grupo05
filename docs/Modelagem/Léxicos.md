@@ -29,11 +29,11 @@ Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://gith
 
 ## Léxicos
 
-### L01: Autenticar usuário
+### L01: Autenticar Estudante
 
 O Léxico presente na Tabela 3, faz o uso do seguinte requisito de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md): RQ1
 
-Tabela 3 - Léxico 01: Autenticar usuários (L01)
+Tabela 3 - Léxico 01: Autenticar Estudantes (L01)
 
 | L01           | Descrição                                                                                                   |
 | ------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -68,7 +68,7 @@ Tabela 5 - Léxico 03: Consultar informações (L03)
 | L03           | Descrição                                                                                                                          |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | Classificação | Verbo                                                                                                                              |
-| Noção         | Ação realizada pelo usuário de consultar informações pessoais e acadêmicas                                                         |
+| Noção         | Ação realizada pelo Estudante de consultar informações pessoais e acadêmicas                                                       |
 | Impacto       | Se informar de atualizações acadêmicas, detalhes de suas disciplinas, documentos oficiais, agenda e status do benefício Pé de meia |
 | Dicionário    | Pesquisar, conferir, examinar, verificar, checar, buscar, acessar, acompanhar, visualizar, observar                                |
 
@@ -98,7 +98,7 @@ Tabela 7 - Léxico 05: Editar informações (L05)
 | L05           | Descrição                                                                                                    |
 | ------------- | ------------------------------------------------------------------------------------------------------------ |
 | Classificação | Verbo                                                                                                        |
-| Noção         | Ação do estudantede ele de editar informações e atividades                                                   |
+| Noção         | Ação do estudante de editar informações e atividades                                                         |
 | Impacto       | Permite o estudante editar informações pessoais, bancárias e atividades da agenda sem consequeência imediata |
 | Dicionário    | Modificar, alterar, corrigir, ajustar, refazer                                                               |
 
@@ -110,12 +110,12 @@ O Léxico presente na Tabela 8, faz o uso do seguinte requisito de acordo com a 
 
 Tabela 8 - Léxico 06: Excluir atividades (L06)
 
-| L06           | Descrição                                                                                  |
-| ------------- | ------------------------------------------------------------------------------------------ |
-| Classificação | Verbo                                                                                      |
-| Noção         | Ação do usuário de excluir uma atividade da agenda                                         |
-| Impacto       | Permite o usuário ter controle das atividades que deseja que estejam disponíveis na agenda |
-| Dicionário    | Remover, apagar, deletar, retirar, eliminar, descartar                                     |
+| L06           | Descrição                                                                                    |
+| ------------- | -------------------------------------------------------------------------------------------- |
+| Classificação | Verbo                                                                                        |
+| Noção         | Ação do Estudante de excluir uma atividade da agenda                                         |
+| Impacto       | Permite o Estudante ter controle das atividades que deseja que estejam disponíveis na agenda |
+| Dicionário    | Remover, apagar, deletar, retirar, eliminar, descartar                                       |
 
 Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
@@ -125,12 +125,12 @@ O Léxico presente na Tabela 9, faz o uso dos seguintes requisitos de acordo com
 
 Tabela 9 - Léxico 07: Notificar eventos (L07)
 
-| L07           | Descrição                                                                                                                                           |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Classificação | Verbo                                                                                                                                               |
-| Noção         | Ação do sistema de notificar o usuário com notificações, vibrações e/ou barulhos sobre eventos                                                      |
-| Impacto       | Permite o usuário ficar mais facilmente informado em caso de abertura de editais, eventos próximos marcados na agenda, faltas e parcelas do auxílio |
-| Dicionário    | Avisar, comunicar, informar, alertar, noticiar                                                                                                      |
+| L07           | Descrição                                                                                                                                             |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Classificação | Verbo                                                                                                                                                 |
+| Noção         | Ação do sistema de notificar o Estudante com notificações, vibrações e/ou barulhos sobre eventos                                                      |
+| Impacto       | Permite o Estudante ficar mais facilmente informado em caso de abertura de editais, eventos próximos marcados na agenda, faltas e parcelas do auxílio |
+| Dicionário    | Avisar, comunicar, informar, alertar, noticiar                                                                                                        |
 
 Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
@@ -143,7 +143,7 @@ Tabela 10 - Léxico 08: Acessar páginas (L08)
 | L08           | Descrição                                                                                                                        |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | Classificação | Verbo                                                                                                                            |
-| Noção         | Ação do usuário de acessar páginas de serviços e outras aplicações da plataforma                                                 |
+| Noção         | Ação do Estudante de acessar páginas de serviços e outras aplicações da plataforma                                               |
 | Impacto       | Permite o estudante acessar as principais funcionalidades do aplicativo como serviços estudantis, fórum de dúvidas e disciplinas |
 | Dicionário    | Entrar, abrir, utilizar, operar                                                                                                  |
 
@@ -170,27 +170,27 @@ O Léxico presente na Tabela 12, faz o uso dos seguintes requisitos de acordo co
 
 Tabela 12 - Léxico 10: Oferecer serviços (L10)
 
-| L10           | Descrição                                                                                                                 |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Classificação | Verbo                                                                                                                     |
-| Noção         | Ação do sistema de oferecer diversos serviços ao usuário do sistema                                                       |
-| Impacto       | Permite o usuário de receber serviços integrados ao aplicativo como tutorial, canal de suporte e ranqueamento de matérias |
-| Dicionário    | Fornecer, disponibilizar, conceder, entregar                                                                              |
+| L10           | Descrição                                                                                                                   |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Classificação | Verbo                                                                                                                       |
+| Noção         | Ação do sistema de oferecer diversos serviços ao Estudante do sistema                                                       |
+| Impacto       | Permite o Estudante de receber serviços integrados ao aplicativo como tutorial, canal de suporte e ranqueamento de matérias |
+| Dicionário    | Fornecer, disponibilizar, conceder, entregar                                                                                |
 
 Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-### L11:Usúario(perfis)
+### L11:Estudante(perfis)
 
 O lexico presente na Tabela 13, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ1,RQ4,RQ42,RQ43
 
-## Tabela 13- Léxico 11: Usuário (Perfis)
+## Tabela 13- Léxico 11: Estudante (Perfis)
 
-| **L11**           | **Descrição**                                                                                                                                                                                                                                                                                 |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                        |
-| **Impacto**       | • O aplicativo deve permitir o acesso do usuário através de autenticação gov.br <br>• O usuário pode visualizar suas informações acadêmicas unificadas<br>• O usuário pode acompanhar o status do programa Pé-de-Meia <br>• O usuário pode ter uma página de perfil com suas informações <br> |
-| **Noção**         | • O usuário representa uma pessoa cadastrada no sistema<br>• O usuário possui credenciais de acesso via gov.br<br>• O usuário pode ser estudante ou professor                                                                                                                                 |
-| **Dicionário**    | Pessoa, Usuário do sistema, Cadastrado, Autenticado ,Professor                                                                                                                                                                                                                                |
+| **L11**           | **Descrição**                                                                                                                                                                                                                                                                                         |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                |
+| **Impacto**       | • O aplicativo deve permitir o acesso do Estudante através de autenticação gov.br <br>• O Estudante pode visualizar suas informações acadêmicas unificadas<br>• O Estudante pode acompanhar o status do programa Pé-de-Meia <br>• O Estudante pode ter uma página de perfil com suas informações <br> |
+| **Noção**         | • O Estudante representa uma pessoa cadastrada no sistema<br>• O Estudante possui credenciais de acesso via gov.br<br>• O Estudante pode ser estudante ou professor                                                                                                                                   |
+| **Dicionário**    | Pessoa, Estudante do sistema, Cadastrado, Autenticado ,Professor                                                                                                                                                                                                                                      |
 
 ---
 
@@ -253,12 +253,12 @@ O lexico presente na Tabela 16, faz uso dos seguintes requisitos de acordo com a
 
 O lexico presente na Tabela 17, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ3,RQ28,RQ29,RQ61,RQ27
 
-| **L15**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Impacto**       | • O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. <br>• O aplicativo deve possibilitar o usuário emitir seu histórico da instituição de ensino.<br>• O aplicativo deve possibilitar o usuário visualizar o boletim da instituição de ensino. <br>• O aplicativo deve permitir a visualização de certificados. <br>• O aplicativo deve possibilitar o usuário emitir a declaração de vínculo da instituição de ensino. <br> |
-| **Noção**         | • São gerados automaticamente pelo sistema<br>• Representa docementação oficial<br>                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Dicionário**    | Tecnologia blockachain, histórico, boletin, declaração, documentos,                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **L15**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Impacto**       | • O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. <br>• O aplicativo deve possibilitar o Estudante emitir seu histórico da instituição de ensino.<br>• O aplicativo deve possibilitar o Estudante visualizar o boletim da instituição de ensino. <br>• O aplicativo deve permitir a visualização de certificados. <br>• O aplicativo deve possibilitar o Estudante emitir a declaração de vínculo da instituição de ensino. <br> |
+| **Noção**         | • São gerados automaticamente pelo sistema<br>• Representa docementação oficial<br>                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Dicionário**    | Tecnologia blockachain, histórico, boletin, declaração, documentos,                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ---
 
@@ -270,12 +270,12 @@ O lexico presente na Tabela 17, faz uso dos seguintes requisitos de acordo com a
 
 O lexico presente na Tabela 18, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ12,RQ14,RQ35,RQ36,RQ57,RQ58,RQ60
 
-| **L16**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| **Impacto**       | O aplicativo deve ser canal direto de comunicação entre MEC e estudantes <br>• O aplicativo deve possibilitar receber novidades do Governo Federal <br>• O aplicativo deve possibilitar acesso a fórum de dúvidas sobre auxílio <br>• O aplicativo deve possibilitar atendimento em canal de conversa <br>• O aplicativo deve ter fórum entre estudantes <br>• O aplicativo deve ter fórum por disciplina entre estudantes e professores <br>• O aplicativo deve ter canal de suporte ao usuário |
-| **Noção**         | • Representa os canais de comunicação disponíveis no sistema<br>• Facilita a interação entre estudantes, professores, suporte e MEC<br>• Permite troca de informações e esclarecimento de dúvidas                                                                                                                                                                                                                                                                                                |
-| **Dicionário**    | Fórum, Chat, Canal de comunicação, Mensagem, Discussão, Suporte técnico, Atendimento, Canal MEC                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **L16**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Impacto**       | O aplicativo deve ser canal direto de comunicação entre MEC e estudantes <br>• O aplicativo deve possibilitar receber novidades do Governo Federal <br>• O aplicativo deve possibilitar acesso a fórum de dúvidas sobre auxílio <br>• O aplicativo deve possibilitar atendimento em canal de conversa <br>• O aplicativo deve ter fórum entre estudantes <br>• O aplicativo deve ter fórum por disciplina entre estudantes e professores <br>• O aplicativo deve ter canal de suporte ao Estudante |
+| **Noção**         | • Representa os canais de comunicação disponíveis no sistema<br>• Facilita a interação entre estudantes, professores, suporte e MEC<br>• Permite troca de informações e esclarecimento de dúvidas                                                                                                                                                                                                                                                                                                  |
+| **Dicionário**    | Fórum, Chat, Canal de comunicação, Mensagem, Discussão, Suporte técnico, Atendimento, Canal MEC                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
@@ -285,20 +285,20 @@ O lexico presente na Tabela 18, faz uso dos seguintes requisitos de acordo com a
 
 O lexico presente na Tabela 19, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ46,RQ47,RQ48,RQ49,RQ50,RQ51,RQ21
 
-| **L17**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| **Impacto**       | O aplicativo deve possuir uma agenda para organização pessoal do usuário através de atividades. <br>• A agenda deve possuir a opção do usuário editar,inserir e excluir atividades<br>• O aplicativo deve possibilitar o usuário visualizar datas de eventos em um calendário. <br>• A agenda deve notificar o usuário sobre atividades inseridas com um dia de antecedência. <br>• A agenda deve permitir o usuário inserir um horário e data na criação de uma atividade.<br> •A agenda deve permitir o usuário avaliar suas atividades com grau de importância.<br> •O aplicativo deve notificar avaliações com uma semana antes e dois dias de antecedência. |
-| **Noção**         | • Representa a notificação de datas importantes<br>• O usuário gerencia suas atividades<br>• Facilita a visualização de datas impostantes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **Dicionário**    | Usuário, agenda,eventos, Data, Calendário, Avaliações                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **L17**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Impacto**       | O aplicativo deve possuir uma agenda para organização pessoal do Estudante através de atividades. <br>• A agenda deve possuir a opção do Estudante editar,inserir e excluir atividades<br>• O aplicativo deve possibilitar o Estudante visualizar datas de eventos em um calendário. <br>• A agenda deve notificar o Estudante sobre atividades inseridas com um dia de antecedência. <br>• A agenda deve permitir o Estudante inserir um horário e data na criação de uma atividade.<br> •A agenda deve permitir o Estudante avaliar suas atividades com grau de importância.<br> •O aplicativo deve notificar avaliações com uma semana antes e dois dias de antecedência. |
+| **Noção**         | • Representa a notificação de datas importantes<br>• O Estudante gerencia suas atividades<br>• Facilita a visualização de datas impostantes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Dicionário**    | Estudante, agenda,eventos, Data, Calendário, Avaliações                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-### L18: Usuário logado
+### L18: Estudante logado
 
-O Léxico presente na Tabela 18 está associado ao requisito **RQ1**, que trata da autenticação de usuários para acesso ao aplicativo.
+O Léxico presente na Tabela 18 está associado ao requisito **RQ1**, que trata da autenticação de Estudantes para acesso ao aplicativo.
 
-**Tabela 20 - Léxico 18: Usuário logado (L18)**
+**Tabela 20 - Léxico 18: Estudante logado (L18)**
 
 | L18               | Descrição                                                                                                    |
 | ----------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -313,7 +313,7 @@ O Léxico presente na Tabela 18 está associado ao requisito **RQ1**, que trata 
 
 ### L19: Conta ativa/inativa
 
-O Léxico presente na Tabela 19 está relacionado aos requisitos **RQ1** e **RQ39**, que tratam da autenticação e segurança de dados do usuário.
+O Léxico presente na Tabela 19 está relacionado aos requisitos **RQ1** e **RQ39**, que tratam da autenticação e segurança de dados do Estudante.
 
 **Tabela 21 - Léxico 19: Conta ativa/inativa (L19)**
 
@@ -321,7 +321,7 @@ O Léxico presente na Tabela 19 está relacionado aos requisitos **RQ1** e **RQ3
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                                                                   |
 | **Noção**         | Representa o estado de funcionamento da conta do estudante, podendo estar ativa (em uso) ou inativa (suspensa, bloqueada ou sem acesso). |
-| **Impacto**       | Define se o usuário pode realizar ações dentro do aplicativo. Uma conta inativa impede o login e uso das funcionalidades.                |
+| **Impacto**       | Define se o Estudante pode realizar ações dentro do aplicativo. Uma conta inativa impede o login e uso das funcionalidades.              |
 | **Dicionário**    | habilitada, desativada, suspensa                                                                                                         |
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -372,7 +372,7 @@ O Léxico presente na Tabela 22 está relacionado ao requisito **RQ10**, sobre a
 | ----------------- | ----------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                    |
 | **Noção**         | Define que o aplicativo está disponível para download gratuito em sistemas Android e iOS. |
-| **Impacto**       | Garante acesso amplo e sem custo aos usuários de diferentes plataformas.                  |
+| **Impacto**       | Garante acesso amplo e sem custo aos Estudantes de diferentes plataformas.                |
 | **Dicionário**    | gratuito, acessível, multiplataforma                                                      |
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -381,16 +381,16 @@ O Léxico presente na Tabela 22 está relacionado ao requisito **RQ10**, sobre a
 
 ### L23: Informações seguras/privadas
 
-O Léxico presente na Tabela 23 está relacionado ao requisito **RQ39**, que aborda a proteção dos dados do usuário.
+O Léxico presente na Tabela 23 está relacionado ao requisito **RQ39**, que aborda a proteção dos dados do Estudante.
 
 **Tabela 25 - Léxico 23: Informações seguras/privadas (L23)**
 
-| L23               | Descrição                                                                                          |
-| ----------------- | -------------------------------------------------------------------------------------------------- |
-| **Classificação** | Estado                                                                                             |
-| **Noção**         | Representa o nível de segurança e privacidade aplicado aos dados pessoais e acadêmicos do usuário. |
-| **Impacto**       | Garante confidencialidade e conformidade com políticas de segurança da informação.                 |
-| **Dicionário**    | confidencial, protegido, reservado                                                                 |
+| L23               | Descrição                                                                                            |
+| ----------------- | ---------------------------------------------------------------------------------------------------- |
+| **Classificação** | Estado                                                                                               |
+| **Noção**         | Representa o nível de segurança e privacidade aplicado aos dados pessoais e acadêmicos do Estudante. |
+| **Impacto**       | Garante confidencialidade e conformidade com políticas de segurança da informação.                   |
+| **Dicionário**    | confidencial, protegido, reservado                                                                   |
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
@@ -406,7 +406,7 @@ O Léxico presente na Tabela 24 está relacionado ao requisito **RQ40**, que tra
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                                                             |
 | **Noção**         | Refere-se à capacidade do aplicativo de oferecer recursos de inclusão, como contraste de cores, suporte à Libras e audiodescrição. |
-| **Impacto**       | Promove a inclusão digital e o acesso equitativo para todos os usuários.                                                           |
+| **Impacto**       | Promove a inclusão digital e o acesso equitativo para todos os Estudantes.                                                         |
 | **Dicionário**    | inclusivo, acessível, adaptado                                                                                                     |
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -415,7 +415,7 @@ O Léxico presente na Tabela 24 está relacionado ao requisito **RQ40**, que tra
 
 ### L25: Facilidade de uso/aprendizagem
 
-O Léxico presente na Tabela 25 está associado ao requisito **RQ24**, referente à usabilidade e experiência do usuário.
+O Léxico presente na Tabela 25 está associado ao requisito **RQ24**, referente à usabilidade e experiência do Estudante.
 
 **Tabela 27 - Léxico 25: Facilidade de uso/aprendizagem (L25)**
 
@@ -423,7 +423,7 @@ O Léxico presente na Tabela 25 está associado ao requisito **RQ24**, referente
 | ----------------- | ------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                                  |
 | **Noção**         | Representa o grau de simplicidade na utilização do aplicativo e na compreensão de suas funcionalidades. |
-| **Impacto**       | Reduz a curva de aprendizado e melhora a satisfação do usuário.                                         |
+| **Impacto**       | Reduz a curva de aprendizado e melhora a satisfação do Estudante.                                       |
 | **Dicionário**    | intuitivo, simples, amigável                                                                            |
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -453,12 +453,12 @@ O Léxico presente na Tabela 27 está relacionado ao requisito **RQ26**, sobre o
 
 **Tabela 29 - Léxico 27: Tempo de resposta ≤ 3 segundos (L27)**
 
-| L27               | Descrição                                                                                               |
-| ----------------- | ------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Estado                                                                                                  |
-| **Noção**         | Representa o tempo máximo esperado para que o aplicativo carregue informações solicitadas pelo usuário. |
-| **Impacto**       | Garante uma experiência ágil e eficiente, reduzindo a frustração do usuário.                            |
-| **Dicionário**    | rápido, eficiente, responsivo                                                                           |
+| L27               | Descrição                                                                                                 |
+| ----------------- | --------------------------------------------------------------------------------------------------------- |
+| **Classificação** | Estado                                                                                                    |
+| **Noção**         | Representa o tempo máximo esperado para que o aplicativo carregue informações solicitadas pelo Estudante. |
+| **Impacto**       | Garante uma experiência ágil e eficiente, reduzindo a frustração do Estudante.                            |
+| **Dicionário**    | rápido, eficiente, responsivo                                                                             |
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
@@ -470,12 +470,12 @@ O Léxico presente na Tabela 28 está associado ao requisito **RQ55**, sobre a n
 
 **Tabela 30 - Léxico 28: Funcionalidade encontrada ≤ 45 segundos (L28)**
 
-| L28               | Descrição                                                                                                           |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Estado                                                                                                              |
-| **Noção**         | Refere-se ao tempo limite em que o usuário deve conseguir localizar qualquer funcionalidade desejada no aplicativo. |
-| **Impacto**       | Mede a eficiência da navegação e da arquitetura da informação do sistema.                                           |
-| **Dicionário**    | localizado, encontrado, acessível                                                                                   |
+| L28               | Descrição                                                                                                             |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Classificação** | Estado                                                                                                                |
+| **Noção**         | Refere-se ao tempo limite em que o Estudante deve conseguir localizar qualquer funcionalidade desejada no aplicativo. |
+| **Impacto**       | Mede a eficiência da navegação e da arquitetura da informação do sistema.                                             |
+| **Dicionário**    | localizado, encontrado, acessível                                                                                     |
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
@@ -491,7 +491,7 @@ O Léxico presente na Tabela 29 está relacionado ao requisito **RQ45**, sobre o
 | ----------------- | ------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                                        |
 | **Noção**         | Representa a característica visual do aplicativo de apresentar informações de forma organizada, sem excessos. |
-| **Impacto**       | Facilita a leitura, reduz distrações e melhora a experiência do usuário.                                      |
+| **Impacto**       | Facilita a leitura, reduz distrações e melhora a experiência do Estudante.                                    |
 | **Dicionário**    | limpo, organizado, minimalista                                                                                |
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
