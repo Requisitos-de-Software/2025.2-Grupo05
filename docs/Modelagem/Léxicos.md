@@ -181,7 +181,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://gith
 
 ### L11:Estudante(perfis)
 
-O lexico presente na Tabela 13, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
+O lexico presente na Tabela 13, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ1,RQ4,RQ5,RQ42,RQ43
 
 
 ## Tabela 13- Léxico 11: Usuário (Perfis) 
@@ -199,7 +199,8 @@ O lexico presente na Tabela 13, faz uso  dos seguintes requisitos de acordo com 
 
 ### L12:Dados Acadêmicos e Avaliações
 
-O lexico presente na Tabela 14, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
+O lexico presente na Tabela 14, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ4,RQ17,RQ18,RQ20,RQ29,RQ11
+
 ## Tabela 14- Léxico 12: Dados Acadêmicos e Avaliações
 
 | **L12**| **Descrição** |
@@ -215,9 +216,9 @@ O lexico presente na Tabela 14, faz uso  dos seguintes requisitos de acordo com 
 
 ### L13: Infraestrutura Institucional
 
-O lexico presente na Tabela 15, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ4,RQ17,RQ18.RQ19,RQ20,RQ29,RQ11
 
-O lexico presente na Tabela 15, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
+
+O lexico presente na Tabela 15, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ4,RQ16,RQ7,RQ10,RQ3
 
 ## Tabela 15- Léxico 13: Infraestrutura Institucional 
 
@@ -236,7 +237,7 @@ O lexico presente na Tabela 15, faz uso  dos seguintes requisitos de acordo com 
 
 ## Tabela 16- Léxico 14: Auxílio Financeiro Estudantil
 
-O lexico presente na Tabela 16, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
+O lexico presente na Tabela 16, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ5,RQ9,RQ23,RQ31,RQ32,RQ33
 
 
 | **L14**| **Descrição** |
@@ -254,7 +255,7 @@ O lexico presente na Tabela 16, faz uso  dos seguintes requisitos de acordo com 
 
 ## Tabela 17- Léxico 15: Documentação Oficial
 
-O lexico presente na Tabela 17, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
+O lexico presente na Tabela 17, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ@7,RQ28,RQ59,RQ61,RQ3
 
 
 | **L15**| **Descrição** |
@@ -271,7 +272,7 @@ O lexico presente na Tabela 17, faz uso  dos seguintes requisitos de acordo com 
 ### L16: Comunicação e Interação
 
 ## Tabela 18- Léxico 16: Comunicação e Interação
-O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
+O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ12,RQ14,RQ35,RQ36,RQ57,RQ58,RQ60
 
 
 | **L16**| **Descrição** |
@@ -286,7 +287,7 @@ O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com 
 ### L17: Calendário e Eventos
 
 ## Tabela 19- Léxico 17: Calendário e Eventos
-O lexico presente na Tabela 19, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
+O lexico presente na Tabela 19, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ37,RQ46,RQ47,RQ48,RQ49,RQ51,RQ52,RQ50,RQ21,RQ56
 
 | **L17**| **Descrição** |
 |---------|---------------|
