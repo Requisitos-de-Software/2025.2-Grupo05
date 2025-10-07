@@ -255,7 +255,7 @@ O lexico presente na Tabela 16, faz uso  dos seguintes requisitos de acordo com 
 
 ## Tabela 17- Léxico 15: Documentação Oficial
 
-O lexico presente na Tabela 17, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ@7,RQ28,RQ59,RQ61,RQ3
+O lexico presente na Tabela 17, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ27,RQ28,RQ59,RQ61,RQ3
 
 
 | **L15**| **Descrição** |
