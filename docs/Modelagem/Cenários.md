@@ -168,74 +168,48 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 <p style="font-size: 14px;"> Tabela 9 – Cenário de visualização de boletim.<br>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 
-
-| Item | Descrição |
-|--------|----------|
-| Título | Acompanhamento do programa Pé-de-Meia |
-| Objetivo | Permitir ao estudante acompanhar o status de seu benefício. |
-| Contexto | Estudante inscrito no programa, com acesso ao aplicativo. |
-| Atores | Estudante, aplicativo |
-| Recursos | Dados do programa Pé-de-Meia |
-| Episódios | 1. Usuário abre o aplicativo. <br>2. Seleciona a opção de Pé-de-Meia. <br>3. Sistema mostra status atual do benefício. |
-| Restrições | Sistema do programa fora do ar |
-| Exceção | Dados do estudante não encontrados |
-
-
-
-| Item | Descrição |
-|--------|----------|
-| Título | Informar curso estudado |
-| Objetivo | Permitir que o usuário registre cursos que está cursando ou já cursou. |
-| Contexto | Estudante cadastrado no aplicativo. |
-| Atores | Estudante, aplicativo |
-| Recursos | Banco de dados de cursos |
-| Episódios | 1. Usuário abre seção de cursos. <br>2. Seleciona opção de adicionar curso. <br>3. Preenche informações e salva. |
-| Restrições | Curso não listado |
-| Exceção | Falha ao salvar dados |
-
-| Item | Descrição |
-|--------|----------|
-| Título | Recebimento de novidades do Governo Federal |
-| Objetivo | Notificar usuários sobre novidades em educação. |
-| Contexto | Estudante cadastrado e com acesso à internet. |
-| Atores | Estudante, aplicativo, sistema de comunicação |
-| Recursos | Canal de comunicação, notificações |
-| Episódios | 1. Sistema envia novidades. <br>2. Aplicativo recebe e exibe para usuário. |
-| Restrições | Falta de internet |
-| Exceção | Mensagem não entregue |
-
-
+### Cenário 17: Inserir atividades na agenda
 
 | Item | Descrição |
 |--------|----------|
 | Título | Inserir atividades na agenda |
+| ID | [R47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)       |
 | Objetivo | Permitir que o usuário registre novas atividades. |
 | Contexto | Usuário cadastrado. |
 | Atores | Usuário, aplicativo |
 | Recursos | Agenda digital |
-| Episódios | 1. Usuário abre agenda. <br>2. Seleciona opção de adicionar atividade. <br>3. Preenche informações e salva. |
+| Episódios | 1. Usuário abre agenda. <br>2. Seleciona opção de adicionar atividade. <br>3. Preenche título, descrição e data/hora. <br>4. 4. Salva atividade.|
 | Restrições | Dados incompletos |
 | Exceção | Falha ao salvar atividade |
 
+<p style="font-size: 14px;"> Tabela 17 – Inserir atividades na agenda.<br>
+Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
+
+
+### Cenário 18: **Editar atividades na agenda.**
+
 | Item | Descrição |
 |--------|----------|
-| Título | Editar atividades na agenda |
+| Título | Editar atividades na agenda|
+| ID | [R48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)       |
 | Objetivo | Permitir que o usuário modifique atividades existentes. |
 | Contexto | Usuário com atividades cadastradas. |
 | Atores | Usuário, aplicativo |
 | Recursos | Agenda digital |
 | Episódios | 1. Usuário acessa atividade existente. <br>2. Faz alterações. <br>3. Salva mudanças. |
 | Restrições | Falta de internet |
-| Exceção | Falha ao atualizar atividade |
+| Exceção | Falha ao atualizar atividade |         
 
+<p style="font-size: 14px;"> Tabela 18 – Editar atividades na agenda.<br>
+Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 
-
+                                                                     
 ### Cenário 19: Excluir atividades na agenda
-
 
 | Item | Descrição |
 |--------|----------|
 | Título | Excluir atividades na agenda |
+| ID | [R49](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)       |
 | Objetivo | Permitir que o usuário remova atividades da agenda. |
 | Contexto | Usuário com atividades cadastradas. |
 | Atores | Usuário, aplicativo |
@@ -244,13 +218,10 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 | Restrições | Falha de conexão |
 | Exceção | Atividade não removida |
 
-
 <p style="font-size: 14px;"> Tabela 19 – Cenário de excluir atividades na agenda.<br>
 Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
-
-
+                                                                     
 ### Cenário 20: Inserir horário e data na atividade
-
 
 | Item | Descrição |
 |--------|----------|
@@ -264,13 +235,10 @@ Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 | Restrições | Data/hora no passado ou conflito de horários |
 | Exceção | Falha ao salvar atividade |
 
-
 <p style="font-size: 14px;"> Tabela 20 – Cenário de inserir horário e data na atividade.<br>
 Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 
-
 ### Cenário 21: Fórum entre estudantes
-
 
 | Item | Descrição |
 |--------|----------|
@@ -284,12 +252,11 @@ Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 | Restrições | Mensagens ofensivas ou spam |
 | Exceção | Falha na postagem |
 
-
 <p style="font-size: 14px;"> Tabela 21 – Cenário de fórum entre estudantes.<br>
 Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 
 
-### Cenário 22:Emissão de diplomas
+### Cenário 22: Emissão de diplomas
 
  Item | Descrição |
 |--------|----------|
