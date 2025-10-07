@@ -4,7 +4,7 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 
 ## Inspeção 2
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ChWfyY-DhzU?si=dlgHMaZmONEasBtJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Lista de Verificação - Itens do Planejamento Geral do projeto Grupo 6
 

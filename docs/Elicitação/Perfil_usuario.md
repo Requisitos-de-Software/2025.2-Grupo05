@@ -57,11 +57,20 @@ No total foram entrevistadas 3 pessoas, todas com livre consentimento do uso da 
 
 Alguns dos usuários não necessariamente tinham experiência prévia com o aplicativo, mas com concorrentes, aplicativos similares ou situações educacionais adequadas e relevantes.
 
-Após uma análise das respostas, foi traçado um Perfil de Usuário para o aplicativo com as seguintes descrições:
+Após uma análise das respostas, foi traçado dois perfis de usuário para o aplicativo com as seguintes descrições:
 
-- **Idade:** Entre 15 e 60 anos.
+### Usuário 1 - Estudante de ensino médio
+
+- **Idade:** Entre 15 e 18 anos.
 - **Afinidade com dispositivos eletrônicos:** Média experiência.
-- **Grau de escolaridade:** Ensino médio incompleto a superior completo
+- **Grau de escolaridade:** Ensino médio incompleto
+- **Tarefas desejadas:** Organizar atividades acadêmicas e fácil acesso ao programa Pé de meia.
+
+### Usuário 2 - Estudante de faculdade 
+
+- **Idade:** Entre 18 e 60 anos.
+- **Afinidade com dispositivos eletrônicos:** Média experiência.
+- **Grau de escolaridade:** Ensino superior incompleto a superior completo
 - **Tarefas desejadas:** Organizar atividades acadêmicas e centralizar suas respectivas informações.
 
 

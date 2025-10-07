@@ -157,7 +157,7 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a> e
 
 ## Validação - MoSCoW
 
-A seguir temos a tabela 3 e 4, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. 
+A seguir temos a tabela 3 e 4, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. Todos os usuários correspondem ao perfil de usuário 2
 
 <div align="center">
   <table>

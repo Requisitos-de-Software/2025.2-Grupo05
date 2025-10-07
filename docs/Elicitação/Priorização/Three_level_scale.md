@@ -157,7 +157,7 @@ Elaboração por
 
 ## Validação - Three Level Scale
 
-A seguir temos a tabela 3, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. 
+A seguir temos a tabela 3, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O usuário corresponde ao perfil de usuário 2
 
 <div align="center">
   <table>
