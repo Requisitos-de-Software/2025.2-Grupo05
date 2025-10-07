@@ -181,16 +181,17 @@ Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://gith
 
 ### L11:Estudante(perfis)
 
-O lexico presente na Tabela 13, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ1,RQ4,RQ42,RQ43
+O lexico presente na Tabela 13, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
 
-## Tabela 13- Léxico 11: Estudante (Perfis)
 
-| **L11**           | **Descrição**                                                                                                                                                                                                                                                                                         |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                |
-| **Impacto**       | • O aplicativo deve permitir o acesso do Estudante através de autenticação gov.br <br>• O Estudante pode visualizar suas informações acadêmicas unificadas<br>• O Estudante pode acompanhar o status do programa Pé-de-Meia <br>• O Estudante pode ter uma página de perfil com suas informações <br> |
-| **Noção**         | • O Estudante representa uma pessoa cadastrada no sistema<br>• O Estudante possui credenciais de acesso via gov.br<br>• O Estudante pode ser estudante ou professor                                                                                                                                   |
-| **Dicionário**    | Pessoa, Estudante do sistema, Cadastrado, Autenticado ,Professor                                                                                                                                                                                                                                      |
+## Tabela 13- Léxico 11: Usuário (Perfis) 
+
+| **L11**| **Descrição** |
+|---------|---------------|
+| **Classificação** | Objeto |
+| **Impacto** | • O aplicativo deve permitir o acesso do usuário através de autenticação gov.br (RQ1), possibilitando que ele visualize suas informações acadêmicas unificadas (RQ4), acompanhe o status do programa Pé-de-Meia (RQ5), tenha uma página de perfil com suas informações (RQ42) e possa editar essas informações na página de perfil (RQ43). |
+| **Noção** | • O usuário representa uma pessoa cadastrada no sistema que possui credenciais de acesso via gov.br e pode ser estudante ou professor, tendo diferentes permissões conforme seu perfil.|
+| **Dicionário** | Pessoa, Usuário do sistema, Cadastrado, Autenticado ,Professor|
 
 ---
 
@@ -198,16 +199,15 @@ O lexico presente na Tabela 13, faz uso dos seguintes requisitos de acordo com a
 
 ### L12:Dados Acadêmicos e Avaliações
 
-O lexico presente na Tabela 14, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ4,RQ17,RQ18.RQ19,RQ20,RQ29,RQ11
-
+O lexico presente na Tabela 14, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
 ## Tabela 14- Léxico 12: Dados Acadêmicos e Avaliações
 
-| **L12**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Impacto**       | • O aplicativo deve permitir visualização de cursos, disciplinas e progresso <br>• O aplicativo deve permitir visualização da disciplina e professor <br>• O aplicativo deve permitir visualização do horário e sala da disciplina <br>• O aplicativo deve permitir visualização de trabalhos e avaliações <br>• O aplicativo deve permitir visualização das notas <br>• O aplicativo deve possibilitar visualizar o boletim <br>• O aplicativo deve possibilitar acompanhamento de registros estudantis |
-| **Noção**         | • Representa o ambiente tecnológico e organizacional do sistema<br>• Engloba a instituição de ensino, plataforma e aplicativo <br> •Fornece a base para todas as operações acadêmicas<br>                                                                                                                                                                                                                                                                                                                |
-| **Dicionário**    | Curso, Disciplina, Matéria, Nota, Avaliação, Prova, Trabalho, Boletim, Desempenho acadêmico, Histórico                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **L12**| **Descrição** |
+|---------|---------------|
+| **Classificação** | Objeto |
+| **Impacto** | • O aplicativo deve permitir a visualização de cursos, disciplinas e progresso (RQ4), da disciplina e professor que ministra (RQ17), do horário e sala da disciplina (RQ18), de trabalhos e avaliações com data, peso e tipo (RQ19), das notas das avaliações e trabalhos (RQ20), do boletim (RQ29), além de possibilitar o acompanhamento de registros estudantis desde o ingresso até níveis superiores (RQ11). |
+| **Noção** | • Representam informações sobre o desempenho e progresso do estudante, incluindo disciplinas, notas, avaliações e trabalhos que são gerenciados pelo sistema acadêmico da instituição. |
+| **Dicionário** | Curso, Disciplina, Matéria, Nota, Avaliação, Prova, Trabalho, Boletim, Desempenho acadêmico, Histórico |
 
 ---
 
@@ -217,14 +217,16 @@ O lexico presente na Tabela 14, faz uso dos seguintes requisitos de acordo com a
 
 O lexico presente na Tabela 15, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ4,RQ17,RQ18.RQ19,RQ20,RQ29,RQ11
 
-## Tabela 15- Léxico 13: Infraestrutura Institucional
+O lexico presente na Tabela 15, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
 
-| **L13**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Impacto**       | • O aplicativo deve unificar acesso às informações acadêmicas das instituições <br>• O aplicativo deve possibilitar integração da escola ou universidade na plataforma <br>• O aplicativo deve apresentar dados conforme última atualização do sistema acadêmico <br>• O aplicativo deve ter disponibilidade gratuita em Android e iOS <br>• O aplicativo deve usar tecnologia blockchain para autenticação |
-| **Noção**         | Representa o ambiente tecnológico e organizacional do sistema<br>• Engloba a instituição de ensino, plataforma e aplicativo<br>• Fornece a base para todas as operações acadêmicas                                                                                                                                                                                                                          |
-| **Dicionário**    | Instituição de ensino, Escola, Universidade, Sistema acadêmico, Plataforma, Aplicativo, Software educacional, Ambiente virtual                                                                                                                                                                                                                                                                              |
+## Tabela 15- Léxico 13: Infraestrutura Institucional 
+
+| **L13**| **Descrição** |
+|---------|---------------|
+| **Classificação** | Objeto |
+| **Impacto** | • O aplicativo deve unificar o acesso às informações acadêmicas das instituições (RQ4), possibilitar a integração da escola ou universidade dentro da plataforma (RQ16), apresentar dados conforme a última atualização recebida do sistema acadêmico (RQ7), ter disponibilidade gratuita nos sistemas operacionais Android e iOS (RQ10) e utilizar tecnologia blockchain para autenticação e disponibilização de documentos (RQ3). |
+| **Noção** | • Representa o ambiente tecnológico e organizacional do sistema que engloba a instituição de ensino, plataforma e aplicativo, fornecendo a base para todas as operações acadêmicas.|
+| **Dicionário** | Instituição de ensino, Escola, Universidade, Sistema acadêmico, Plataforma, Aplicativo, Software educacional, Ambiente virtual |
 
 ---
 
@@ -234,14 +236,15 @@ O lexico presente na Tabela 15, faz uso dos seguintes requisitos de acordo com a
 
 ## Tabela 16- Léxico 14: Auxílio Financeiro Estudantil
 
-O lexico presente na Tabela 16, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ5,RQ9,RQ23,RQ31,RQ32,RQ33,RQ34,RQ30
+O lexico presente na Tabela 16, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
 
-| **L14**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Impacto**       | • O aplicativo deve permitir acompanhamento do status do Pé-de-Meia <br>• O aplicativo deve apresentar atualizações de pagamento em até um mês <br>• O aplicativo deve notificar sobre parcelas e valores do benefício <br>• O aplicativo deve permitir visualizar parcelas pagas e pendentes<br>• O aplicativo deve permitir visualizar o valor total do auxílio <br>• O aplicativo deve permitir visualizar a conta bancária cadastrada <br>• O aplicativo deve permitir visualizar o dia do pagamento <br>• O aplicativo deve permitir visualizar programas estudantis (FIES, Prouni) |
-| **Noção**         | • Representa o apoio financeiro oferecido aos estudantes<br>• Gerencia programas de incentivo como o Pé-de-Meia<br>• Controla valores, parcelas e pagamentos                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Dicionário**    | Auxílio, Benefício estudantil, Pé-de-Meia, Bolsa, Parcela, Incentivo financeiro, Apoio econômico, FIES, Prouni                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+| **L14**| **Descrição** |
+|---------|---------------|
+| **Classificação** | Objeto |
+| **Impacto** | • O aplicativo deve permitir o acompanhamento do status do programa Pé-de-Meia (RQ5), apresentar atualizações referente ao pagamento do Pé-de-Meia disponível em até um mês (RQ9), notificar informações sobre o benefício incluindo parcelas e valores (RQ23), permitir visualizar parcelas pagas e que faltam do auxílio (RQ31), visualizar o valor total do auxílio (RQ32), a conta bancária cadastrada (RQ33), o dia do pagamento (RQ34) e visualizar programas estudantis como FIES e Prouni (RQ30). |
+| **Noção** | • Representa o apoio financeiro oferecido aos estudantes através de programas de incentivo como o Pé-de-Meia, gerenciando valores, parcelas e pagamentos de forma centralizada. |
+| **Dicionário** | Auxílio, Benefício estudantil, Pé-de-Meia, Bolsa, Parcela, Incentivo financeiro, Apoio econômico, FIES, Prouni|
 
 ---
 
@@ -251,14 +254,15 @@ O lexico presente na Tabela 16, faz uso dos seguintes requisitos de acordo com a
 
 ## Tabela 17- Léxico 15: Documentação Oficial
 
-O lexico presente na Tabela 17, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ3,RQ28,RQ29,RQ61,RQ27
+O lexico presente na Tabela 17, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
 
-| **L15**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Impacto**       | • O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. <br>• O aplicativo deve possibilitar o Estudante emitir seu histórico da instituição de ensino.<br>• O aplicativo deve possibilitar o Estudante visualizar o boletim da instituição de ensino. <br>• O aplicativo deve permitir a visualização de certificados. <br>• O aplicativo deve possibilitar o Estudante emitir a declaração de vínculo da instituição de ensino. <br> |
-| **Noção**         | • São gerados automaticamente pelo sistema<br>• Representa docementação oficial<br>                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Dicionário**    | Tecnologia blockachain, histórico, boletin, declaração, documentos,                                                                                                                                                                                                                                                                                                                                                                                                                                |
+
+| **L15**| **Descrição** |
+|---------|---------------|
+| **Classificação** | Objeto |
+| **Impacto** | • O aplicativo deve possibilitar o usuário emitir a declaração de vínculo da instituição de ensino (RQ27), emitir seu histórico escolar (RQ28), permitir a emissão de diplomas (RQ59), permitir a visualização de certificados (RQ61), utilizando tecnologia blockchain para disponibilização desses documentos (RQ3). |
+| **Noção** | • Representa documentos oficiais emitidos pela instituição que possuem validade legal e comprovam vínculo ou conclusão, sendo gerados automaticamente pelo sistema. |
+| **Dicionário** | Documento, Declaração, Atestado, Histórico escolar, Diploma, Certificado, Comprovante de matrícula, Comprovante de vínculo|
 
 ---
 
@@ -267,30 +271,29 @@ O lexico presente na Tabela 17, faz uso dos seguintes requisitos de acordo com a
 ### L16: Comunicação e Interação
 
 ## Tabela 18- Léxico 16: Comunicação e Interação
+O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
 
-O lexico presente na Tabela 18, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ12,RQ14,RQ35,RQ36,RQ57,RQ58,RQ60
 
-| **L16**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Impacto**       | O aplicativo deve ser canal direto de comunicação entre MEC e estudantes <br>• O aplicativo deve possibilitar receber novidades do Governo Federal <br>• O aplicativo deve possibilitar acesso a fórum de dúvidas sobre auxílio <br>• O aplicativo deve possibilitar atendimento em canal de conversa <br>• O aplicativo deve ter fórum entre estudantes <br>• O aplicativo deve ter fórum por disciplina entre estudantes e professores <br>• O aplicativo deve ter canal de suporte ao Estudante |
-| **Noção**         | • Representa os canais de comunicação disponíveis no sistema<br>• Facilita a interação entre estudantes, professores, suporte e MEC<br>• Permite troca de informações e esclarecimento de dúvidas                                                                                                                                                                                                                                                                                                  |
-| **Dicionário**    | Fórum, Chat, Canal de comunicação, Mensagem, Discussão, Suporte técnico, Atendimento, Canal MEC                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **L16**| **Descrição** |
+|---------|---------------|
+| **Classificação** | Objeto |
+| **Impacto** |  • O aplicativo deve ser um canal direto de comunicação entre o MEC e os estudantes (RQ12), possibilitar que os usuários recebam novidades do Governo Federal voltadas à educação através de um canal de comunicação (RQ14), possibilitar o usuário acessar um fórum de dúvidas sobre o auxílio (RQ35), ser atendido em um canal de conversa sobre o auxílio (RQ36), ter um fórum entre estudantes (RQ57), um fórum por disciplina entre estudantes e professores (RQ58) e ter um canal de suporte ao usuário (RQ60).  |
+| **Noção** | •  Representa os canais de comunicação disponíveis no sistema que facilitam a interação entre estudantes, professores, suporte e MEC, permitindo troca de informações e esclarecimento de dúvidas. |
+| **Dicionário** |Fórum, Chat, Canal de comunicação, Mensagem, Discussão, Suporte técnico, Atendimento, Canal MEC|
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L17: Calendário e Eventos
 
 ## Tabela 19- Léxico 17: Calendário e Eventos
+O lexico presente na Tabela 19, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md)
 
-O lexico presente na Tabela 19, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ46,RQ47,RQ48,RQ49,RQ50,RQ51,RQ21
-
-| **L17**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Impacto**       | O aplicativo deve possuir uma agenda para organização pessoal do Estudante através de atividades. <br>• A agenda deve possuir a opção do Estudante editar,inserir e excluir atividades<br>• O aplicativo deve possibilitar o Estudante visualizar datas de eventos em um calendário. <br>• A agenda deve notificar o Estudante sobre atividades inseridas com um dia de antecedência. <br>• A agenda deve permitir o Estudante inserir um horário e data na criação de uma atividade.<br> •A agenda deve permitir o Estudante avaliar suas atividades com grau de importância.<br> •O aplicativo deve notificar avaliações com uma semana antes e dois dias de antecedência. |
-| **Noção**         | • Representa a notificação de datas importantes<br>• O Estudante gerencia suas atividades<br>• Facilita a visualização de datas impostantes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Dicionário**    | Estudante, agenda,eventos, Data, Calendário, Avaliações                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **L17**| **Descrição** |
+|---------|---------------|
+| **Classificação** | Objeto |
+| **Impacto** | • O aplicativo deve possibilitar o usuário visualizar datas de eventos em um calendário (RQ37), possuir uma agenda para organização pessoal através de atividades (RQ46), permitindo que a agenda possua a opção do usuário inserir (RQ47), editar (RQ48) e excluir atividades (RQ49), inserir horário e data na criação de uma atividade (RQ51), avaliar suas atividades com grau de importância (RQ52), além de notificar o usuário sobre atividades inseridas com um dia de antecedência (RQ50), notificar avaliações com uma semana antes e dois dias de antecedência (RQ21) e notificar quando editais de vestibulares forem abertos (RQ56). |
+| **Noção** | •  Representa compromissos e datas importantes do calendário acadêmico incluindo eventos, provas, entregas e atividades institucionais que são gerenciados pelo usuário e sincronizados com o sistema. |
+| **Dicionário** |Evento, Calendário, Agenda, Compromisso, Atividade, Data importante, Cronograma, Prazo, Lembrete|
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), e [Yan Matheus](https://github.com/Yanmatheus0812).
 
