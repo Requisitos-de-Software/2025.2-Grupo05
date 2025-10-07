@@ -1,7 +1,7 @@
 # Técnica de elicitação de requisitos - Questionário
 
 ## Introdução
-- O questionário é um meio de elicitar requisitos através de um questionário com diversas perguntas para usuários. Neste trabalho o resultado no questionário teve um total de 55 respostas todas de acordo com o [termo de consentimento](../Termo_de_consentimento_questionario.pdf). O questionário foi elaborado pelo Google Forms, possuía 13 questões sobre aspectos gerais de possíveis usuários do aplicativo, e foi foi divulgado amplamente em grupos dos aplicativos WhatsApp e Telegram  entre o período de 22 a 24 de setembro de 2025. 
+- O questionário é um meio de elicitar requisitos de diversas perguntas para usuários. Neste trabalho o resultado no questionário teve um total de 55 respostas todas de acordo com o [termo de consentimento](../Termo_de_consentimento_questionario.pdf). O questionário foi elaborado pelo Google Forms, possuía 13 questões sobre aspectos gerais de possíveis usuários do aplicativo, e foi foi divulgado amplamente em grupos dos aplicativos WhatsApp e Telegram  entre o período de 22 a 24 de setembro de 2025. 
 - A estrutura do questionário pode ser visualizada [clicando aqui](../Questionario.pdf)
 
 ## Tabela de Requisitos
