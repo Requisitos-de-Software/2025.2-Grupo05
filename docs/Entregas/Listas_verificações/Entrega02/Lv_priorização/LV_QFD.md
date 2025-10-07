@@ -13,7 +13,7 @@ Esta tabela apresenta uma checklist abrangente para análise de requisitos de so
 
 ## Tabela 1: Checklist de Análise de Documentação
 
-| # | Item de Verificação | Fonte | Data de Acesso | Evidência |
+| # | Item de Verificação | Fonte | Data de Acesso | Referência |
 |---|---------------------|-------|----------------|-----------|
 | 1 | Esse requisito gera benefício direto para o cliente? | Wiegers & Beatty (2013), p. 7 | 07/10/2025 | [📸](https://i.postimg.cc/mk1dLdz1/Captura-de-tela-2025-10-07-104052.png) |
 | 2 | O custo de implementação é proporcional ao valor entregue? | Wiegers & Beatty (2013), p. 7 | 07/10/2025 | [📸](https://i.postimg.cc/fWdphLc4/Captura-de-tela-2025-10-07-104101.png) |
@@ -35,4 +35,4 @@ Esta tabela apresenta uma checklist abrangente para análise de requisitos de so
 
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
-| 1.0    | 04/10/2025 | Adicionando lista de verificação do three level  | [Yan Matheus](https://github.com/mel14-hub) |[Luisa de Souza](https://github.com/Luisa12ll) |
+| 1.0    | 04/10/2025 | Adicionando lista de verificação do three level  | [Lara Souza Mota](https://github.com/mel14-hub) |[Luisa de Souza](https://github.com/Luisa12ll) |
