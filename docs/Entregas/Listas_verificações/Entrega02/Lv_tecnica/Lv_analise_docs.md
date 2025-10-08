@@ -2,10 +2,10 @@
 
 ## Introdução
 
-Esta página tem como objetivo armazenar a lista de verificação da técnica de análise de documentação feita pelo grupo.
+Esta página tem como objetivo armazenar a lista de verificação da técnica de análise de documentação.
 
 ## Lista de Verificação - Análise de documentos
-A tabela_1 mostra a lista de verificação de análise de documentação.
+A tabela 1 mostra a lista de verificação de análise de documentação.
 
 | Itens | Fontes | Acesso | Fotos | 
 | :---- | ----- | :---: | :---: |
@@ -20,6 +20,7 @@ A tabela_1 mostra a lista de verificação de análise de documentação.
 | 9 \- A análise identificou quais tarefas ou macroprocessos devem ser explorados em maior profundidade? Se realizada em momentos intermediários do ciclo de vida do projeto.  | VAZQUEZ, Carlos Eduardo e SIMÕES, Guilherme Siqueira. Engenharia de requisitos. Rio de Janeiro: Brasport, 2016. Cap. 7.3.1 “O que é a análise de documentos”, p.150. | 09/09/2025 |  [Link](https://i.postimg.cc/rwhygq7c/image-7.jpg) |
 | 10 \- Os documentos analisados foram organizados de forma que possam ser recuperados facilmente? | VAZQUEZ, Carlos Eduardo e SIMÕES, Guilherme Siqueira. Engenharia de requisitos. Rio de Janeiro: Brasport, 2016. Cap. 7.3.1 “O que é a análise de documentos”, p.150. | 09/09/2025| [Link](https://i.postimg.cc/CLqbWQwz/image-8.jpg)|
 
+<figcaption align="center">Tabela 1: Lista de Verificação.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 

@@ -52,9 +52,15 @@ nav:
         - Entrega 2:
           - Técnica: 
             - Analise de Documentos: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_analise_docs.md
-            - Entrevista: Entregas/Listas_verificaçoões/Entrega02/Lv_tecnica/Lv_entrevista.md
-          - Priorização:
             - Entrevista: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_entrevista.md
+            - Questionário: Entregas/Listas_verificações/Entrega02/Lv_tecnica/QuestionarioLV.md
+            - Brainstorming: Entregas/Listas_verificações/Entrega02/Lv_tecnica/BrainstormLV.md
+          - Priorização:
+            - In or Out: Entregas/Listas_verificações/Entrega02/Lv_priorização/In_or_outLV.md
+            - Tree Level Scale: Entregas/Listas_verificações/Entrega02/Lv_priorização/Three_levelLV.md
+            - 100 Dólares: Entregas/Listas_verificações/Entrega02/Lv_priorização/100_dolaresLV.md
+            - MoSCoW: Entregas/Listas_verificações/Entrega02/Lv_priorização/MoscowLV.md
+
   - Planejamento:
       - Metodologia: Planejamento/Metodologia.md
       - Ferramentas: Planejamento/Ferramentas.md
@@ -83,6 +89,7 @@ nav:
       - 16. Ata da Reunião(24/09): Atas/ata24-09.md
       - 17. Ata da Reunião(25/09): Atas/ata25-09.md
       - 18. Ata da Reunião(25/09): Atas/ata25-09_2.md
+      - 19. Ata da Reunião(03/10): Atas/ata03-10.md
 
   - Pré-Rastreabilidade:
       - Rich Picture: Pré-Rastriabilidade/Rich-picture.md # Corrigido: 'picture' minúsculo
