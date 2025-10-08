@@ -1,7 +1,8 @@
 # Técnica de elicitação de requisitos - Questionário
 
 ## Introdução
-- O questionário é um meio de elicitar requisitos através de um questionário com diversas perguntas para usuários. Neste trabalho o resultado no questionário teve um total de 55 respostas todas de acordo com o [termo de consentimento](../Termo_de_consentimento_questionario.pdf). O questionário possuía 13 questões sobre aspectos gerais de possíveis usuários do aplicativo, e foi foi divulgado amplamente em grupos dos aplicativos WhatsApp e Telegram  entre o período de 22 a 24 de setembro de 2025. 
+- O questionário é um meio de elicitar requisitos de diversas perguntas para usuários. Neste trabalho o resultado no questionário teve um total de 55 respostas todas de acordo com o [termo de consentimento](../Termo_de_consentimento_questionario.pdf). O questionário foi elaborado pelo Google Forms, possuía 13 questões sobre aspectos gerais de possíveis usuários do aplicativo, e foi foi divulgado amplamente em grupos dos aplicativos WhatsApp e Telegram  entre o período de 22 a 24 de setembro de 2025. 
+- A estrutura do questionário pode ser visualizada [clicando aqui](../Questionario.pdf)
 
 ## Tabela de Requisitos
 
@@ -64,3 +65,4 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 | Versão | Data       | Descrição           | Autor                                                      | Revisor                                                 |
 |--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
 | 1.0    | 25/09/2025 | Documentação dos requisitos do questionário | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Lara Souza](https://github.com/mel14-hub)  |
+| 1.1    | 07/10/2025 | Adicionado o questionário na página | [Yan Matheus](https://github.com/Yanmatheus0812) | [Geovanna Alves](https://github.com/GeovannaUmbelino) |

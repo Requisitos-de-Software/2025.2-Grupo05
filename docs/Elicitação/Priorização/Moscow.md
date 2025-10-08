@@ -155,6 +155,82 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a> e
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aiG-DHzA-i4?si=cJWGSQPhYFBb4xHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Validação - MoSCoW
+
+A seguir temos a tabela 3 e 4, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. Todos os usuários correspondem ao perfil de usuário 2
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>30/09/2025</td>
+        <td>11:00</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+         </tr>
+      <tr>
+       <tr>
+        <td>Usuário</td>
+        <td>Gabriel</td>
+         <td>30/09/2025</td>
+        <td>11:00</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 3: Validação 1 MoSCoW
+Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/09llYGy-8Bs?si=bXBgyTcdVrcXj0_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>03/10/2025</td>
+        <td>10:00</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+         </tr>
+      <tr>
+       <tr>
+        <td>Usuário</td>
+        <td>Henrique</td>
+         <td>03/10/2025</td>
+        <td>10:00</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 4: Validação 2 MoSCoW
+Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UHmyZY5RGWI?si=D7XvJdHqgUorvEk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Bibliografia
 
 [1] WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível no [Link](https://aprender3.unb.br/pluginfile.php/3210609/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf)
@@ -165,3 +241,4 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a> e
 |--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
 | 1.0    | 30/09/2025 | Adição dá técnica de Moscow | [Camila Silva](https://github.com/CamilaSilvaC) e  [Geovanna Alves](https://github.com/GeovannaUmbelino) | [Luísa de Souza](https://github.com/luisa12ll)  |
 | 1.1   | 02/10/2025 | Adição da tabela de participantes| [Camila Silva](https://github.com/CamilaSilvaC)| [Yan Matheus](https://github.com/Yanmatheus0812)
+| 1.2   | 03/10/2025 | Adição das tabelas de validações | [Yan Matheus](https://github.com/Yanmatheus0812)| [Camila Silva](https://github.com/CamilaSilvaC)
