@@ -185,13 +185,15 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 <p style="font-size: 14px;"> Tabela 17 – Inserir atividades na agenda.<br>
 Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 
+*Tabela 17 – Cenário de inserir atividades na agenda.* *Fonte: [Luísa de Souza](https://github.com/luisa12ll)*
+
 
 ### Cenário 18: **Editar atividades na agenda.**
 
 | Item | Descrição |
 |--------|----------|
 | Título | Editar atividades na agenda|
-| ID | [R48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)       |
+| ID | [R48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)|
 | Objetivo | Permitir que o usuário modifique atividades existentes. |
 | Contexto | Usuário com atividades cadastradas. |
 | Atores | Usuário, aplicativo |
@@ -200,8 +202,8 @@ Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 | Restrições | Falta de internet |
 | Exceção | Falha ao atualizar atividade |         
 
-<p style="font-size: 14px;"> Tabela 18 – Editar atividades na agenda.<br>
-Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
+
+*Tabela 18 – Cenário de editar atividades na agenda.* *Fonte: [Luísa de Souza](https://github.com/luisa12ll)*
 
                                                                      
 ### Cenário 19: Excluir atividades na agenda
@@ -218,8 +220,8 @@ Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 | Restrições | Falha de conexão |
 | Exceção | Atividade não removida |
 
-<p style="font-size: 14px;"> Tabela 19 – Cenário de excluir atividades na agenda.<br>
-Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
+*Tabela 19 – Cenário de excluir atividades na agenda* *Fonte: [Luísa de Souza](https://github.com/luisa12ll)*
+
                                                                      
 ### Cenário 20: Inserir horário e data na atividade
 
@@ -238,6 +240,9 @@ Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 <p style="font-size: 14px;"> Tabela 20 – Cenário de inserir horário e data na atividade.<br>
 Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 
+*Tabela 20 – Cenário de inserir horário e data na atividade* *Fonte: [Luísa de Souza](https://github.com/luisa12ll)*
+
+
 ### Cenário 21: Fórum entre estudantes
 
 | Item | Descrição |
@@ -252,8 +257,7 @@ Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 | Restrições | Mensagens ofensivas ou spam |
 | Exceção | Falha na postagem |
 
-<p style="font-size: 14px;"> Tabela 21 – Cenário de fórum entre estudantes.<br>
-Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
+*Tabela 21 – Cenário de fórum entre estudantes* *Fonte: [Luísa de Souza](https://github.com/luisa12ll)*
 
 
 ### Cenário 22: Emissão de diplomas
@@ -270,8 +274,7 @@ Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 | Restrições | Sistema indisponível |
 | Exceção | Falha na geração do diploma |
 
-<p style="font-size: 14px;"> Tabela 22 – Cenário de emissão de diplomas.<br>
-Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
+*Tabela 22 – Cenário de emissão de diplomas* *Fonte: [Luísa de Souza](https://github.com/luisa12ll)*
 
 
 ### Cenário 23: Visualização de certificados
@@ -288,9 +291,10 @@ Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 | Restrições | Falta de atualização |
 | Exceção | Certificado não encontrado |
 
-<p style="font-size: 14px;"> Tabela 23 – Cenário de visualização de certificados.<br> Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
+*Tabela 23 – Cenário de visualização de certificados.* *Fonte: [Luísa de Souza](https://github.com/luisa12ll)*
                                                                      
 ### Cenário 24: Visualização de ocorrências
+
 
 | Item | Descrição |
 |--------|----------|
@@ -304,8 +308,7 @@ Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p
 | Restrições | Falta de atualização |
 | Exceção | Ocorrência não encontrada |
 
-<p style="font-size: 14px;"> Tabela 24 – Cenário de visualização de ocorrências.<br>
-Fonte: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a>.</p>
+*Tabela 24 – Cenário de visualização de ocorrências* *Fonte: [Luísa de Souza](https://github.com/luisa12ll)*
 
 
 # Histórico de Versões
