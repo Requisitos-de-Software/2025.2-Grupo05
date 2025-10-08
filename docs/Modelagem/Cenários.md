@@ -294,7 +294,7 @@ _Tabela 23 – Cenário de visualização de certificados._ _Fonte: [Luísa de S
 
 _Tabela 24 – Cenário de visualização de ocorrências_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
 
-# Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data       | Descrição                        | Autor(es)                                             | Revisor(es)                                                                                      |
 | ------ | ---------- | -------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
