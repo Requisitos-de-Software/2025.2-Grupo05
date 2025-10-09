@@ -106,6 +106,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 
 | Item       | Descrição                                                 |
 | ---------- | --------------------------------------------------------- |
+| ID         | [RQ20](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Título     | Visualização de notas das avaliações e trabalhos          |
 | Objetivo   | Mostrar notas obtidas pelo estudante.                     |
 | Contexto   | Estudante com avaliações lançadas.                        |
@@ -122,6 +123,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 
 | Item       | Descrição                                                            |
 | ---------- | -------------------------------------------------------------------- |
+| ID         | [RQ23](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Título     | Emissão de histórico                                                 |
 | Objetivo   | Permitir que o estudante obtenha seu histórico acadêmico.            |
 | Contexto   | Estudante cadastrado.                                                |
@@ -138,6 +140,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 
 | Item       | Descrição                                                        |
 | ---------- | ---------------------------------------------------------------- |
+| ID         | [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Título     | Visualização de boletim                                          |
 | Objetivo   | Permitir que o estudante veja seu boletim.                       |
 | Contexto   | Estudante cadastrado.                                            |
@@ -154,6 +157,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 
 | Item       | Descrição                                                                         |
 | ---------- | --------------------------------------------------------------------------------- |
+| ID         | [RQ29](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Título     | Notificação de parcelas do Pé-de-Meia                                             |
 | Objetivo   | Informar parcelas e valores do benefício.                                         |
 | Contexto   | Estudante beneficiário do programa.                                               |
@@ -165,6 +169,152 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 
 <p style="font-size: 14px;"> Tabela 9 – Cenário de visualização de boletim.<br>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
+
+### Cenário 9: Visualizar valor total do auxílio
+
+| Item       | Descrição                                                                                                  |
+| ---------- | ---------------------------------------------------------------------------------                          |
+| ID         | [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)|
+| Título     |  Visualização do valor total  do auxílio                                                                   |
+| Objetivo   | Permitir que o usuário veja o valor total recebido do auxílio.                                             |
+| Contexto   | Estudante beneficiário acessando informações financeiras do programa.                                      |
+| Atores     | Estudante, aplicativo                                                                                      |
+| Recursos   | Banco de dados de pagamentos, interface de exibição de valores.                                            |
+| Episódios  | 1. Usuário acessa a área de benefícios. <br> 2. Sistema recupera o valor total acumulado. <br> 3. Valor é 
+exibido ao usuário.                                                                                                       |
+| Restrições | Necessidade de conexão com o servidor do programa.                                                         |
+| Exceção    |   Falha na recuperação de dados financeiros.                                                               |
+
+
+<p style="font-size: 14px;"> Tabela 10 – Cenário de visualização do valor total do auxílio<br>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+
+### Cenário 10: Visualizar conta bancária cadastrada
+
+| Item       | Descrição                                                                                                  |
+| ---------- | ---------------------------------------------------------------------------------                          |
+| ID         | [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)|
+| Título     | Visualização da conta bancária cadastrada                                                                  |
+| Objetivo   | Exibir os dados da conta bancária onde o auxílio é depositado.                                             |
+| Contexto   | Estudante beneficiário consultando suas informações bancárias.                                             |
+| Atores     | Estudante, aplicativo                                                                                      |
+| Recursos   | Base de dados bancária, autenticação do usuário                                                            |
+| Episódios  | 1. Usuário acessa o menu “Conta bancária”. <br> 2. Sistema recupera os dados cadastrados. <br> 3. 
+Informações são exibidas na tela.                                                                                         |
+| Restrições | Informações sensíveis devem ser parcialmente ocultadas (ex: número da conta).                              |
+| Exceção    | Conta bancária não encontrada ou não cadastrada.                                                           |
+
+
+<p style="font-size: 14px;"> Tabela 11 – Cenário de visualização da conta bancária cadastrada. <br>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+
+### Cenário 11: Visualizar dia do pagamento
+
+| Item       | Descrição                                                                                                               |
+| ---------- | ---------------------------------------------------------------------------------                                       |
+| ID         | [RQ34](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)             |
+| Título     | Visualização do dia de pagamento do auxílio                                                                             |
+| Objetivo   | Informar ao usuário a data prevista para o pagamento do benefício.                                                      |
+| Contexto   | Estudante beneficiário acessando informações sobre o cronograma de pagamentos.                                          |
+| Atores     | Estudante, aplicativo                                                                                                   |
+| Recursos   | Base de dados de cronogramas                                                                                            |
+| Episódios  | 1. Usuário acessa a aba “Pagamentos”. <br> 2. Sistema busca a próxima data de pagamento. <br> 3. Data é exibida na tela.|
+| Restrições | Datas sujeitas a alteração conforme calendário do programa.                                                             |
+| Exceção    | Data de pagamento indisponível.                                                                                         |
+
+
+<p style="font-size: 14px;"> Tabela 12 – Cenário de visualização do dia do pagamento. <br>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+
+### Cenário 12: Acesso a fórum de dúvidas
+
+| Item       | Descrição                                                                                                               |
+| ---------- | ---------------------------------------------------------------------------------                                       |
+| ID         | [RQ35](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)             |
+| Título     | Acesso ao fórum de dúvidas                                                                                              |
+| Objetivo   | Permitir que o usuário participe de discussões e tire dúvidas sobre o auxílio.                                          |
+| Contexto   | Estudante buscando suporte e informações sobre o benefício.                                                             |
+| Atores     | Estudante,aplicativo                                                                                                    |
+| Recursos   | Plataforma de fórum, sistema de login, conexão com internet                                                             |
+| Episódios  | 1. Usuário acessa o menu “Fórum de dúvidas”. <br> 2. Sistema exibe tópicos disponíveis.  <br> 3. Usuário interage com as postagens.                                                                                                                             |
+| Restrições | Requer autenticação.                                                                                                    |
+| Exceção    | Fórum temporariamente fora do ar.                                                                                       |
+
+
+<p style="font-size: 14px;"> Tabela 13 – Cenário de acesso a fórum de dúvidas. <br>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+
+### Cenário 13: Canal de conversa sobre o auxílio
+
+| Item       | Descrição                                                                                                          | 
+| ---------- | ---------------------------------------------------------------------------------                                  |
+| ID         | [RQ36](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)        |
+| Título     | Atendimento em canal de conversa                                                                                   |
+| Objetivo   | Possibilitar que o usuário receba atendimento via chat sobre o auxílio.                                            |
+| Contexto   | Estudante com dúvidas ou problemas relacionados ao benefício.                                                      |
+| Atores     | Estudante, atendente virtual ou humano, aplicativo                                                                 |
+| Recursos   | Sistema de chat, base de dados de atendimento, conexão à internet                                                  |
+| Episódios  | 1. Usuário acessa o canal de conversa. <br> 2. Sistema inicia sessão de chat. <br> 3. Usuário envia dúvida e recebe resposta.                                                                                                                         |
+| Restrições | Disponibilidade limitada a horários de atendimento.                                                                |
+| Exceção    | Chat indisponível ou sem atendentes disponíveis.                                                                   |
+
+
+<p style="font-size: 14px;"> Tabela 14 – Cenário de acesso a canal de conversa sobre o auxílio. <br>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+
+### Cenário 14: Visualização de calendário de eventos
+
+| Item       | Descrição                                                                                                                 |
+| ---------- | ---------------------------------------------------------------------------------                                         |
+| ID         | [RQ37](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)               |
+| Título     | Visualização de eventos em calendário                                                                                     |
+| Objetivo   | Permitir ao usuário consultar as datas de eventos importantes.                                                            |
+| Contexto   | Estudante interessado em eventos escolares.                                                                               |
+| Atores     | Estudante, aplicativo                                                                                                     |
+| Recursos   | Sistema de calendário, base de dados de eventos                                                                           |
+| Episódios  | 1. Usuário acessa o menu “Calendário”. <br> 2. Sistema exibe eventos programados. <br> 3. Usuário seleciona um evento para mais detalhes.                                                                                                                           |
+| Restrições | Eventos precisam estar previamente cadastrados.                                                                           |
+| Exceção    | Nenhum evento disponível para o período selecionado.                                                                      |
+
+
+<p style="font-size: 14px;"> Tabela 15 – Cenário de visualização de calendário de eventos.<br>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+
+### Cenário 15: Ranqueamento de matérias por nota
+
+| Item       | Descrição                                                                                                               |
+| ---------- | ---------------------------------------------------------------------------------                                       |
+| ID         | [RQ41](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)             |
+| Título     | Ranqueamento de matérias por nota                                                                                       |
+| Objetivo   | Exibir uma lista das matérias do estudante ordenadas por desempenho.                                                    |
+| Contexto   | Estudante acompanhando seu rendimento escolar.                                                                          |
+| Atores     | Estudante, aplicativo                                                                                                   |
+| Recursos   | Base de dados de notas, sistema de ordenação e exibição                                                                 |
+| Episódios  | 1. Usuário acessa a aba “Desempenho”. <br> 2. Sistema calcula e ordena as matérias por nota. <br> 3. Resultado é exibido em forma de ranking.                                                                                                                   |
+| Restrições | Requer atualização periódica das notas.                                                                                 |
+| Exceção    | Dados de notas incompletos ou inconsistentes.                                                                           |
+
+
+<p style="font-size: 14px;"> Tabela 16 – Cenário de ranqueamento de matérias por nota.<br>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+
+### Cenário 16: Edição de informações bancárias pelo gov.br
+
+| Item       | Descrição                                                                                                              |
+| ---------- | ---------------------------------------------------------------------------------                                      |
+| ID         | [RQ44](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)            |
+| Título     | Edição de informações bancárias pelo gov.br                                                                            |
+| Objetivo   | Permitir que o usuário altere suas informações bancárias por meio do portal gov.br.                                    |
+| Contexto   | Estudante que precisa atualizar sua conta bancária vinculada ao auxílio.                                               |
+| Atores     | Estudante, aplicativo, sistema gov.br                                                                                  |
+| Recursos   | Integração com gov.br, autenticação segura                                                                             |
+| Episódios  | 1. Usuário acessa a opção “Editar dados bancários”. <br> 2. Sistema redireciona para o gov.br.  <br> 3. Usuário realiza login e faz a atualização.                                                                                                            |
+| Restrições | A alteração só é válida após confirmação no gov.br.                                                                    |
+| Exceção    | Erro na integração com o gov.br ou falha de autenticação.                                                              |
+
+
+<p style="font-size: 14px;"> Tabela 17 – Cenário de edição de informações bancárias pelo gov.br.<br>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
 
 ### Cenário 17: Inserir atividades na agenda
 
@@ -180,9 +330,9 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 | Restrições | Dados incompletos                                                                                                                                |
 | Exceção    | Falha ao salvar atividade                                                                                                                        |
 
-_Tabela 17 – Cenário de inserir atividades na agenda._ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+_Tabela 18 – Cenário de inserir atividades na agenda._ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
 
-### Cenário 18: **Editar atividades na agenda.**
+### Cenário 18: Editar atividades na agenda.
 
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
@@ -196,7 +346,7 @@ _Tabela 17 – Cenário de inserir atividades na agenda._ _Fonte: [Luísa de Sou
 | Restrições | Falta de internet                                                                                          |
 | Exceção    | Falha ao atualizar atividade                                                                               |
 
-_Tabela 18 – Cenário de editar atividades na agenda._ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+_Tabela 19 – Cenário de editar atividades na agenda._ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
 
 ### Cenário 19: Excluir atividades na agenda
 
@@ -212,7 +362,7 @@ _Tabela 18 – Cenário de editar atividades na agenda._ _Fonte: [Luísa de Souz
 | Restrições | Falha de conexão                                                                                                     |
 | Exceção    | Atividade não removida                                                                                               |
 
-_Tabela 19 – Cenário de excluir atividades na agenda_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+_Tabela 20 – Cenário de excluir atividades na agenda_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
 
 ### Cenário 20: Inserir horário e data na atividade
 
@@ -228,7 +378,7 @@ _Tabela 19 – Cenário de excluir atividades na agenda_ _Fonte: [Luísa de Souz
 | Restrições | Data/hora no passado ou conflito de horários                                                               |
 | Exceção    | Falha ao salvar atividade                                                                                  |
 
-_Tabela 20 – Cenário de inserir horário e data na atividade_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+_Tabela 21 – Cenário de inserir horário e data na atividade_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
 
 ### Cenário 21: Fórum entre estudantes
 
@@ -244,7 +394,7 @@ _Tabela 20 – Cenário de inserir horário e data na atividade_ _Fonte: [Luísa
 | Restrições | Mensagens ofensivas ou spam                                                                                |
 | Exceção    | Falha na postagem                                                                                          |
 
-_Tabela 21 – Cenário de fórum entre estudantes_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+_Tabela 22 – Cenário de fórum entre estudantes_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
 
 ### Cenário 22: Emissão de diplomas
 
@@ -260,7 +410,7 @@ _Tabela 21 – Cenário de fórum entre estudantes_ _Fonte: [Luísa de Souza](ht
 | Restrições | Sistema indisponível                                                                                       |
 | Exceção    | Falha na geração do diploma                                                                                |
 
-_Tabela 22 – Cenário de emissão de diplomas_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+_Tabela 23 – Cenário de emissão de diplomas_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
 
 ### Cenário 23: Visualização de certificados
 
@@ -276,7 +426,7 @@ _Tabela 22 – Cenário de emissão de diplomas_ _Fonte: [Luísa de Souza](https
 | Restrições | Falta de atualização                                                                                       |
 | Exceção    | Certificado não encontrado                                                                                 |
 
-_Tabela 23 – Cenário de visualização de certificados._ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+_Tabela 24 – Cenário de visualização de certificados._ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
 
 ### Cenário 24: Visualização de ocorrências
 
@@ -292,7 +442,8 @@ _Tabela 23 – Cenário de visualização de certificados._ _Fonte: [Luísa de S
 | Restrições | Falta de atualização                                                                                       |
 | Exceção    | Ocorrência não encontrada                                                                                  |
 
-_Tabela 24 – Cenário de visualização de ocorrências_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+_Tabela 25 – Cenário de visualização de ocorrências_
+_Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
 
 # Histórico de Versões
 
