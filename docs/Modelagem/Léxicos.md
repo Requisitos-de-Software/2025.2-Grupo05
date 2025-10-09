@@ -118,7 +118,7 @@ Tabela 5 - Léxico 03: Consultar informações (L03)
 | Impacto       | Se informar de atualizações acadêmicas, detalhes de suas disciplinas, documentos oficiais, agenda e status do benefício Pé de meia |
 | Dicionário    | Pesquisar, conferir, examinar, verificar, checar, buscar, acessar, acompanhar, visualizar, observar                                |
 
-Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ### L04: Emitir documentos
 
@@ -133,7 +133,7 @@ Tabela 6 - Léxico 04: Emitir documentos (L04)
 | Impacto       | Permite o estudante ter acesso aos seus diplomas, declarações e histórico escolar |
 | Dicionário    | Gerar, disponibilizar                                                             |
 
-Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ### L05: Editar informações
 
@@ -148,7 +148,7 @@ Tabela 7 - Léxico 05: Editar informações (L05)
 | Impacto       | Permite o estudante editar informações pessoais, bancárias e atividades da agenda sem consequeência imediata |
 | Dicionário    | Modificar, alterar, corrigir, ajustar, refazer                                                               |
 
-Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
 ### L06: Excluir atividades
 
@@ -163,7 +163,7 @@ Tabela 8 - Léxico 06: Excluir atividades (L06)
 | Impacto       | Permite o Estudante ter controle das atividades que deseja que estejam disponíveis na agenda |
 | Dicionário    | Remover, apagar, deletar, retirar, eliminar, descartar                                       |
 
-Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
+Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
 ### L07: Notificar eventos
 
@@ -274,7 +274,7 @@ Tabela 15- Léxico 13: Infraestrutura Institucional
 
 ---
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
+**Fonte:** [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L14: IAuxílio Financeiro Estudantil
 
@@ -291,7 +291,7 @@ O lexico presente na Tabela 16, faz uso dos seguintes requisitos de acordo com a
 
 ---
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
+**Fonte:** [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L15: Documentação Oficial
 
@@ -308,7 +308,7 @@ O lexico presente na Tabela 17, faz uso dos seguintes requisitos de acordo com a
 
 ---
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ### L16: Comunicação e Interação
 
@@ -323,7 +323,7 @@ O lexico presente na Tabela 18, faz uso dos seguintes requisitos de acordo com a
 | **Noção**         | Representa os canais de comunicação disponíveis no sistema que facilitam a interação entre estudantes, professores, suporte e MEC, permitindo troca de informações e esclarecimento de dúvidas.                                                                                                                                                                                                                                                                                                                    |
 | **Dicionário**    | Fórum, Chat, Canal de comunicação, Mensagem, Discussão, Suporte técnico, Atendimento, Canal MEC                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-**Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
+**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
 ### L17: Calendário e Eventos
 
@@ -489,7 +489,7 @@ O Léxico presente na Tabela 26 está relacionado ao requisito **RQ25**, que def
 | **Impacto**       | Facilita a compreensão e o engajamento do estudante com as funcionalidades do sistema.            |
 | **Dicionário**    | clara, direta, compreensível                                                                      |
 
-**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
+**Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
 ---
 
@@ -506,7 +506,7 @@ O Léxico presente na Tabela 27 está relacionado ao requisito **RQ26**, sobre o
 | **Impacto**       | Garante uma experiência ágil e eficiente, reduzindo a frustração do Estudante.                            |
 | **Dicionário**    | rápido, eficiente, responsivo                                                                             |
 
-**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
+**Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
 ---
 
@@ -523,7 +523,7 @@ O Léxico presente na Tabela 28 está associado ao requisito **RQ55**, sobre a n
 | **Impacto**       | Mede a eficiência da navegação e da arquitetura da informação do sistema.                                             |
 | **Dicionário**    | localizado, encontrado, acessível                                                                                     |
 
-**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
+**Fonte:** [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ---
 
@@ -540,7 +540,7 @@ O Léxico presente na Tabela 29 está relacionado ao requisito **RQ45**, sobre o
 | **Impacto**       | Facilita a leitura, reduz distrações e melhora a experiência do Estudante.                                    |
 | **Dicionário**    | limpo, organizado, minimalista                                                                                |
 
-**Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
+**Fonte:** [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ## Bibliografia
 
