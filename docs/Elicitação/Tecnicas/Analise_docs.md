@@ -3,9 +3,41 @@
 ## Introdução
 - A analise de documentos é um meio de elicitar requisitos pelo o estudo da documentação do aplicativo jornada do Estudante.O apicativo é uma iniciativa do Mec que busca facilitar  o acesso às políticas educacionais, apoiar a tomada de decisão e promover a inclusão digital, tornando-se um instrumento essencial para a vida acadêmica do estudante no Brasil.
 
+## Participantes
+
+A seguir temos a tabela 1, onde indica todos os participantes da técnica de elicitação de análise de documentação e a data da análise.
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>20/09/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
+        <td>20/09/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+        <td>19/09/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 1: Participantes análise de documentação
+
+Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+
 ## Tabela de Requisitos
 
- A tabela 1 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
+ A tabela 2 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
 
 - RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
 - RNF: Requisitos Não-Funcionais - Descrevem os atributos que o software deve ter, como desempenho, segurança e usabilidade, mas não descrevem o comportamento do software em si.
@@ -39,7 +71,7 @@
 | ADD021 | O aplicativo não deve possibilitar integração da escola ou universidade por dentro da plataforma.| RF| Sim | 1.0 | UFSC, 2023 | 
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 1 – Conjunto de requisitos elicitados na análise documental.<br>
+Tabela 2 – Conjunto de requisitos elicitados na análise documental.<br>
 Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>, 
 <a href="https://github.com/luisa12ll">Luisa de Souza</a> e 
 <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>.
@@ -58,11 +90,13 @@ Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>,
   
 - UNIVERSIDADE FEDERAL DE SANTA CATARINA. Laboratório Bridge. **Conheça o aplicativo Jornada do Estudante**. Disponível em: <https://portal.bridge.ufsc.br/2023/04/18/conheca-o-aplicativo-jornada-do-estudante/>. Acesso em: 20 set. 2025.
 
+## Gravação
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AjYSbjo5K38?si=gf3J6suWy9BUUFwr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição           | Autor                                                      | Revisor                                                 |
 |--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
 | 1.0    | 25/09/2025 | Documentação dos requisitos da analise de documentação | [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos)  |
+| 1.1    | 09/10/2025 | Adicionado a tabela de contribuição | [Yan Matheus](https://github.com/Yanmatheus0812) | [Geovanna Alves](https://github.com/GeovannaUmbelino) |

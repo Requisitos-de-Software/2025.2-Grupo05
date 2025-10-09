@@ -117,7 +117,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https:/
 
 Alguns dos usuários não necessariamente tinham experiência prévia com o aplicativo, mas com concorrentes, aplicativos similares ou situações educacionais adequadas e relevantes.
 
-Após uma análise das respostas, foi traçado dois perfis de usuário para o aplicativo com as seguintes descrições:
+Após uma análise das respostas, foi traçado dois perfis de usuário, o primeiro com base nas entrevistas e o segundo com base no questionário para o aplicativo com as seguintes descrições:
 
 ### Usuário 1 - Estudante de ensino médio
 
