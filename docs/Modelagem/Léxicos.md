@@ -229,7 +229,8 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 O lexico presente na Tabela 13, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ1,RQ4,RQ5,RQ42,RQ43
 
-Tabela 13- Léxico 11: Estudante (Perfis)
+
+## Tabela 13- Léxico 11: Estudante (Perfis) 
 
 | **L11**           | **Descrição**                                                                                                                                                                                                                                                                                                                            |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -242,11 +243,12 @@ Tabela 13- Léxico 11: Estudante (Perfis)
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
-### L12:Dados Acadêmicos e Avaliações
 
-O lexico presente na Tabela 14, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ4,RQ17,RQ18,RQ20,RQ29,RQ11
+### L13:Dados Acadêmicos e Avaliações
 
-Tabela 14- Léxico 12: Dados Acadêmicos e Avaliações
+O lexico presente na Tabela 15, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ4,RQ17,RQ18,RQ20,RQ29,RQ11
+
+## Tabela 14- Léxico 12: Dados Acadêmicos e Avaliações
 
 | **L12**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -259,94 +261,95 @@ Tabela 14- Léxico 12: Dados Acadêmicos e Avaliações
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
-### L13: Infraestrutura Institucional
+### L14: Infraestrutura Institucional
 
-O lexico presente na Tabela 15, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ4,RQ16,RQ7,RQ10,RQ3
+O lexico presente na Tabela 15, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ4,RQ16,RQ7,RQ10,RQ3
 
-Tabela 15- Léxico 13: Infraestrutura Institucional
+## Tabela 15- Léxico 13: Infraestrutura Institucional 
 
-| **L13**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Impacto**       | O aplicativo deve unificar o acesso às informações acadêmicas das instituições (RQ4), possibilitar a integração da escola ou universidade dentro da plataforma (RQ16), apresentar dados conforme a última atualização recebida do sistema acadêmico (RQ7), ter disponibilidade gratuita nos sistemas operacionais Android e iOS (RQ10) e utilizar tecnologia blockchain para autenticação e disponibilização de documentos (RQ3). |
-| **Noção**         | Representa o ambiente tecnológico e organizacional do sistema que engloba a instituição de ensino, plataforma e aplicativo, fornecendo a base para todas as operações acadêmicas.                                                                                                                                                                                                                                                 |
-| **Dicionário**    | Instituição de ensino, Escola, Universidade, Sistema acadêmico, Plataforma, Aplicativo, Software educacional, Ambiente virtual                                                                                                                                                                                                                                                                                                    |
-
----
-
-**Fonte:** [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
-
-### L14: IAuxílio Financeiro Estudantil
-
-Tabela 16- Léxico 14: Auxílio Financeiro Estudantil
-
-O lexico presente na Tabela 16, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ5,RQ9,RQ23,RQ31,RQ32,RQ33
-
-| **L14**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Impacto**       | O aplicativo deve permitir o acompanhamento do status do programa Pé-de-Meia (RQ5), apresentar atualizações referente ao pagamento do Pé-de-Meia disponível em até um mês (RQ9), notificar informações sobre o benefício incluindo parcelas e valores (RQ23), permitir visualizar parcelas pagas e que faltam do auxílio (RQ31), visualizar o valor total do auxílio (RQ32), a conta bancária cadastrada (RQ33), o dia do pagamento (RQ34) e visualizar programas estudantis como FIES e Prouni (RQ30). |
-| **Noção**         | Representa o apoio financeiro oferecido aos estudantes através de programas de incentivo como o Pé-de-Meia, gerenciando valores, parcelas e pagamentos de forma centralizada.                                                                                                                                                                                                                                                                                                                           |
-| **Dicionário**    | Auxílio, Benefício estudantil, Pé-de-Meia, Bolsa, Parcela, Incentivo financeiro, Apoio econômico, FIES, Prouni                                                                                                                                                                                                                                                                                                                                                                                          |
+| **L13**| **Descrição** |
+|---------|---------------|
+| **Classificação** | Objeto |
+| **Impacto** |  O aplicativo deve unificar o acesso às informações acadêmicas das instituições (RQ4), possibilitar a integração da escola ou universidade dentro da plataforma (RQ16), apresentar dados conforme a última atualização recebida do sistema acadêmico (RQ7), ter disponibilidade gratuita nos sistemas operacionais Android e iOS (RQ10) e utilizar tecnologia blockchain para autenticação e disponibilização de documentos (RQ3). |
+| **Noção** |  Representa o ambiente tecnológico e organizacional do sistema que engloba a instituição de ensino, plataforma e aplicativo, fornecendo a base para todas as operações acadêmicas.|
+| **Dicionário** | Instituição de ensino, Escola, Universidade, Sistema acadêmico, Plataforma, Aplicativo, Software educacional, Ambiente virtual |
 
 ---
 
 **Fonte:** [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-### L15: Documentação Oficial
+### L15: IAuxílio Financeiro Estudantil
 
-Tabela 17- Léxico 15: Documentação Oficial
+## Tabela 16- Léxico 14: Auxílio Financeiro Estudantil
 
-O lexico presente na Tabela 17, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ27,RQ28,RQ59,RQ61,RQ3
+O lexico presente na Tabela 16, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ5,RQ9,RQ23,RQ31,RQ32,RQ33
 
-| **L15**           | **Descrição**                                                                                                                                                                                                                                                                                                        |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                               |
-| **Impacto**       | O aplicativo deve possibilitar o estudante emitir a declaração de vínculo da instituição de ensino (RQ27), emitir seu histórico escolar (RQ28), permitir a emissão de diplomas (RQ59), permitir a visualização de certificados (RQ61), utilizando tecnologia blockchain para disponibilização desses documentos (RQ3). |
-| **Noção**         | Representa documentos oficiais emitidos pela instituição que possuem validade legal e comprovam vínculo ou conclusão, sendo gerados automaticamente pelo sistema.                                                                                                                                                    |
-| **Dicionário**    | Documento, Declaração, Atestado, Histórico escolar, Diploma, Certificado, Comprovante de matrícula, Comprovante de vínculo                                                                                                                                                                                           |
+
+| **L14**| **Descrição** |
+|---------|---------------|
+| **Classificação** | Objeto |
+| **Impacto** |  O aplicativo deve permitir o acompanhamento do status do programa Pé-de-Meia (RQ5), apresentar atualizações referente ao pagamento do Pé-de-Meia disponível em até um mês (RQ9), notificar informações sobre o benefício incluindo parcelas e valores (RQ23), permitir visualizar parcelas pagas e que faltam do auxílio (RQ31), visualizar o valor total do auxílio (RQ32), a conta bancária cadastrada (RQ33), o dia do pagamento (RQ34) e visualizar programas estudantis como FIES e Prouni (RQ30). |
+| **Noção** |  Representa o apoio financeiro oferecido aos estudantes através de programas de incentivo como o Pé-de-Meia, gerenciando valores, parcelas e pagamentos de forma centralizada. |
+| **Dicionário** | Auxílio, Benefício estudantil, Pé-de-Meia, Bolsa, Parcela, Incentivo financeiro, Apoio econômico, FIES, Prouni|
+
+---
+
+**Fonte:** [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
+
+### L16: Documentação Oficial
+
+## Tabela 17- Léxico 15: Documentação Oficial
+
+O lexico presente na Tabela 17, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ27,RQ28,RQ59,RQ61,RQ3
+
+
+| **L15**| **Descrição** |
+|---------|---------------|
+| **Classificação** | Objeto |
+| **Impacto** |  O aplicativo deve possibilitar o usuário emitir a declaração de vínculo da instituição de ensino (RQ27), emitir seu histórico escolar (RQ28), permitir a emissão de diplomas (RQ59), permitir a visualização de certificados (RQ61), utilizando tecnologia blockchain para disponibilização desses documentos (RQ3). |
+| **Noção** |  Representa documentos oficiais emitidos pela instituição que possuem validade legal e comprovam vínculo ou conclusão, sendo gerados automaticamente pelo sistema. |
+| **Dicionário** | Documento, Declaração, Atestado, Histórico escolar, Diploma, Certificado, Comprovante de matrícula, Comprovante de vínculo|
 
 ---
 
 **Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
-### L16: Comunicação e Interação
+### L17: Comunicação e Interação
 
-Tabela 18- Léxico 16: Comunicação e Interação
+## Tabela 18- Léxico 16: Comunicação e Interação
+O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ12,RQ14,RQ35,RQ36,RQ57,RQ58,RQ60
 
-O lexico presente na Tabela 18, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ12,RQ14,RQ35,RQ36,RQ57,RQ58,RQ60
 
-| **L16**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Impacto**       | O aplicativo deve ser um canal direto de comunicação entre o MEC e os estudantes (RQ12), possibilitar que os estudantes recebam novidades do Governo Federal voltadas à educação através de um canal de comunicação (RQ14), possibilitar o estudante acessar um fórum de dúvidas sobre o auxílio (RQ35), ser atendido em um canal de conversa sobre o auxílio (RQ36), ter um fórum entre estudantes (RQ57), um fórum por disciplina entre estudantes e professores (RQ58) e ter um canal de suporte ao estudante (RQ60). |
-| **Noção**         | Representa os canais de comunicação disponíveis no sistema que facilitam a interação entre estudantes, professores, suporte e MEC, permitindo troca de informações e esclarecimento de dúvidas.                                                                                                                                                                                                                                                                                                                    |
-| **Dicionário**    | Fórum, Chat, Canal de comunicação, Mensagem, Discussão, Suporte técnico, Atendimento, Canal MEC                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **L16**| **Descrição** |
+|---------|---------------|
+| **Classificação** | Objeto |
+| **Impacto** |   O aplicativo deve ser um canal direto de comunicação entre o MEC e os estudantes (RQ12), possibilitar que os usuários recebam novidades do Governo Federal voltadas à educação através de um canal de comunicação (RQ14), possibilitar o usuário acessar um fórum de dúvidas sobre o auxílio (RQ35), ser atendido em um canal de conversa sobre o auxílio (RQ36), ter um fórum entre estudantes (RQ57), um fórum por disciplina entre estudantes e professores (RQ58) e ter um canal de suporte ao usuário (RQ60).  |
+| **Noção** |   Representa os canais de comunicação disponíveis no sistema que facilitam a interação entre estudantes, professores, suporte e MEC, permitindo troca de informações e esclarecimento de dúvidas. |
+| **Dicionário** |Fórum, Chat, Canal de comunicação, Mensagem, Discussão, Suporte técnico, Atendimento, Canal MEC|
 
 **Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
-### L17: Calendário e Eventos
+### L18: Calendário e Eventos
 
-Tabela 19- Léxico 17: Calendário e Eventos
+## Tabela 19- Léxico 17: Calendário e Eventos
+O lexico presente na Tabela 19, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ37,RQ46,RQ47,RQ48,RQ49,RQ51,RQ52,RQ50,RQ21,RQ56
 
-O lexico presente na Tabela 19, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ37,RQ46,RQ47,RQ48,RQ49,RQ51,RQ52,RQ50,RQ21,RQ56
-
-| **L17**           | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Impacto**       | O aplicativo deve possibilitar o estudante visualizar datas de eventos em um calendário (RQ37), possuir uma agenda para organização pessoal através de atividades (RQ46), permitindo que a agenda possua a opção do estudante inserir (RQ47), editar (RQ48) e excluir atividades (RQ49), inserir horário e data na criação de uma atividade (RQ51), avaliar suas atividades com grau de importância (RQ52), além de notificar o estudante sobre atividades inseridas com um dia de antecedência (RQ50), notificar avaliações com uma semana antes e dois dias de antecedência (RQ21) e notificar quando editais de vestibulares forem abertos (RQ56). |
-| **Noção**         | Representa compromissos e datas importantes do calendário acadêmico incluindo eventos, provas, entregas e atividades institucionais que são gerenciados pelo estudante e sincronizados com o sistema.                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Dicionário**    | Evento, Calendário, Agenda, Compromisso, Atividade, Data importante, Cronograma, Prazo, Lembrete                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **L17**| **Descrição** |
+|---------|---------------|
+| **Classificação** | Objeto |
+| **Impacto** |  O aplicativo deve possibilitar o usuário visualizar datas de eventos em um calendário (RQ37), possuir uma agenda para organização pessoal através de atividades (RQ46), permitindo que a agenda possua a opção do usuário inserir (RQ47), editar (RQ48) e excluir atividades (RQ49), inserir horário e data na criação de uma atividade (RQ51), avaliar suas atividades com grau de importância (RQ52), além de notificar o usuário sobre atividades inseridas com um dia de antecedência (RQ50), notificar avaliações com uma semana antes e dois dias de antecedência (RQ21) e notificar quando editais de vestibulares forem abertos (RQ56). |
+| **Noção** |   Representa compromissos e datas importantes do calendário acadêmico incluindo eventos, provas, entregas e atividades institucionais que são gerenciados pelo usuário e sincronizados com o sistema. |
+| **Dicionário** |Evento, Calendário, Agenda, Compromisso, Atividade, Data importante, Cronograma, Prazo, Lembrete|
 
 **Fonte:** [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://github.com/Luisa12ll).
 
-### L18: Estudante logado
+### L19: Estudante logado
 
 O Léxico presente na Tabela 18 está associado ao requisito **RQ1**, que trata da autenticação de Estudantes para acesso ao aplicativo.
 
-**Tabela 20 - Léxico 18: Estudante logado (L18)**
+**Tabela 21 - Léxico 18: Estudante logado (L19)**
 
-| L18               | Descrição                                                                                                    |
+| L19               | Descrição                                                                                                    |
 | ----------------- | ------------------------------------------------------------------------------------------------------------ |
 | **Classificação** | Estado                                                                                                       |
 | **Noção**         | Condição em que o estudante acessou o aplicativo utilizando suas credenciais válidas de autenticação do Gov. |
@@ -357,13 +360,13 @@ O Léxico presente na Tabela 18 está associado ao requisito **RQ1**, que trata 
 
 ---
 
-### L19: Conta ativa/inativa
+### L20: Conta ativa/inativa
 
 O Léxico presente na Tabela 19 está relacionado aos requisitos **RQ1** e **RQ39**, que tratam da autenticação e segurança de dados do Estudante.
 
-**Tabela 21 - Léxico 19: Conta ativa/inativa (L19)**
+**Tabela 22 - Léxico 20: Conta ativa/inativa (L20)**
 
-| L19               | Descrição                                                                                                                                |
+| L20               | Descrição                                                                                                                                |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                                                                   |
 | **Noção**         | Representa o estado de funcionamento da conta do estudante, podendo estar ativa (em uso) ou inativa (suspensa, bloqueada ou sem acesso). |
@@ -374,13 +377,13 @@ O Léxico presente na Tabela 19 está relacionado aos requisitos **RQ1** e **RQ3
 
 ---
 
-### L20: Informação atualizada/desatualizada
+### L21: Informação atualizada/desatualizada
 
 O Léxico presente na Tabela 20 está relacionado aos requisitos **RQ6** e **RQ7**, sobre a atualização e consistência dos dados exibidos no aplicativo.
 
-**Tabela 22 - Léxico 20: Informação atualizada/desatualizada (L20)**
+**Tabela 23 - Léxico 21: Informação atualizada/desatualizada (L21)**
 
-| L20               | Descrição                                                                                                                                        |
+| L21              | Descrição                                                                                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Classificação** | Estado                                                                                                                                           |
 | **Noção**         | Condição dos dados apresentados no aplicativo, indicando se estão de acordo com as informações mais recentes fornecidas pelos sistemas oficiais. |
@@ -391,13 +394,13 @@ O Léxico presente na Tabela 20 está relacionado aos requisitos **RQ6** e **RQ7
 
 ---
 
-### L21: Status do programa Pé-de-Meia (ativo/bloqueado)
+### L22: Status do programa Pé-de-Meia (ativo/bloqueado)
 
 O Léxico presente na Tabela 21 está relacionado ao requisito **RQ5**, que trata do acompanhamento do programa Pé-de-Meia.
 
-**Tabela 23 - Léxico 21: Status do programa Pé-de-Meia (L21)**
+**Tabela 24 - Léxico 22: Status do programa Pé-de-Meia (L22)**
 
-| L21               | Descrição                                                                                                                          |
+| L22              | Descrição                                                                                                                          |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                                                             |
 | **Noção**         | Indica a situação do benefício Pé-de-Meia, podendo estar ativo (regular) ou bloqueado (pendente de atualização ou irregularidade). |
@@ -408,13 +411,13 @@ O Léxico presente na Tabela 21 está relacionado ao requisito **RQ5**, que trat
 
 ---
 
-### L22: Disponibilidade gratuita (Android/iOS)
+### L23: Disponibilidade gratuita (Android/iOS)
 
 O Léxico presente na Tabela 22 está relacionado ao requisito **RQ10**, sobre a disponibilidade do aplicativo nos principais sistemas operacionais.
 
-**Tabela 24 - Léxico 22: Disponibilidade gratuita (L22)**
+**Tabela 25 - Léxico 23: Disponibilidade gratuita (L23)**
 
-| L22               | Descrição                                                                                 |
+| L23               | Descrição                                                                                 |
 | ----------------- | ----------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                    |
 | **Noção**         | Define que o aplicativo está disponível para download gratuito em sistemas Android e iOS. |
@@ -425,13 +428,13 @@ O Léxico presente na Tabela 22 está relacionado ao requisito **RQ10**, sobre a
 
 ---
 
-### L23: Informações seguras/privadas
+### L24: Informações seguras/privadas
 
 O Léxico presente na Tabela 23 está relacionado ao requisito **RQ39**, que aborda a proteção dos dados do Estudante.
 
-**Tabela 25 - Léxico 23: Informações seguras/privadas (L23)**
+**Tabela 26 - Léxico 24: Informações seguras/privadas (L24)**
 
-| L23               | Descrição                                                                                            |
+| L24              | Descrição                                                                                            |
 | ----------------- | ---------------------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                               |
 | **Noção**         | Representa o nível de segurança e privacidade aplicado aos dados pessoais e acadêmicos do Estudante. |
@@ -442,13 +445,13 @@ O Léxico presente na Tabela 23 está relacionado ao requisito **RQ39**, que abo
 
 ---
 
-### L24: Acessibilidade (cores, Libras, audiodescrição)
+### L25: Acessibilidade (cores, Libras, audiodescrição)
 
 O Léxico presente na Tabela 24 está relacionado ao requisito **RQ40**, que trata da acessibilidade no aplicativo.
 
-**Tabela 26 - Léxico 24: Acessibilidade (L24)**
+**Tabela 27 - Léxico 25: Acessibilidade (L25)**
 
-| L24               | Descrição                                                                                                                          |
+| L25              | Descrição                                                                                                                          |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                                                             |
 | **Noção**         | Refere-se à capacidade do aplicativo de oferecer recursos de inclusão, como contraste de cores, suporte à Libras e audiodescrição. |
@@ -459,13 +462,13 @@ O Léxico presente na Tabela 24 está relacionado ao requisito **RQ40**, que tra
 
 ---
 
-### L25: Facilidade de uso/aprendizagem
+### L26: Facilidade de uso/aprendizagem
 
 O Léxico presente na Tabela 25 está associado ao requisito **RQ24**, referente à usabilidade e experiência do Estudante.
 
-**Tabela 27 - Léxico 25: Facilidade de uso/aprendizagem (L25)**
+**Tabela 28 - Léxico 26: Facilidade de uso/aprendizagem (L26)**
 
-| L25               | Descrição                                                                                               |
+| L26              | Descrição                                                                                               |
 | ----------------- | ------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                                  |
 | **Noção**         | Representa o grau de simplicidade na utilização do aplicativo e na compreensão de suas funcionalidades. |
@@ -476,13 +479,13 @@ O Léxico presente na Tabela 25 está associado ao requisito **RQ24**, referente
 
 ---
 
-### L26: Linguagem simples
+### L27: Linguagem simples
 
 O Léxico presente na Tabela 26 está relacionado ao requisito **RQ25**, que define a adequação da linguagem ao público estudantil.
 
-**Tabela 28 - Léxico 26: Linguagem simples (L26)**
+**Tabela 29 - Léxico 27: Linguagem simples (L27)**
 
-| L26               | Descrição                                                                                         |
+| L27               | Descrição                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                            |
 | **Noção**         | Refere-se à utilização de uma linguagem clara, objetiva e adequada ao público-alvo do aplicativo. |
@@ -493,13 +496,13 @@ O Léxico presente na Tabela 26 está relacionado ao requisito **RQ25**, que def
 
 ---
 
-### L27: Tempo de resposta ≤ 3 segundos
+### L28: Tempo de resposta ≤ 3 segundos
 
 O Léxico presente na Tabela 27 está relacionado ao requisito **RQ26**, sobre o desempenho do aplicativo.
 
-**Tabela 29 - Léxico 27: Tempo de resposta ≤ 3 segundos (L27)**
+**Tabela 30 - Léxico 28: Tempo de resposta ≤ 3 segundos (L28)**
 
-| L27               | Descrição                                                                                                 |
+| L28               | Descrição                                                                                                 |
 | ----------------- | --------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                                    |
 | **Noção**         | Representa o tempo máximo esperado para que o aplicativo carregue informações solicitadas pelo Estudante. |
@@ -510,13 +513,13 @@ O Léxico presente na Tabela 27 está relacionado ao requisito **RQ26**, sobre o
 
 ---
 
-### L28: Funcionalidade encontrada ≤ 45 segundos
+### L29: Funcionalidade encontrada ≤ 45 segundos
 
 O Léxico presente na Tabela 28 está associado ao requisito **RQ55**, sobre a navegabilidade do aplicativo.
 
-**Tabela 30 - Léxico 28: Funcionalidade encontrada ≤ 45 segundos (L28)**
+**Tabela 31 - Léxico 289 Funcionalidade encontrada ≤ 45 segundos (L29)**
 
-| L28               | Descrição                                                                                                             |
+| L29              | Descrição                                                                                                             |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                                                |
 | **Noção**         | Refere-se ao tempo limite em que o Estudante deve conseguir localizar qualquer funcionalidade desejada no aplicativo. |
@@ -527,13 +530,13 @@ O Léxico presente na Tabela 28 está associado ao requisito **RQ55**, sobre a n
 
 ---
 
-### L29: Design sem sobrecarga de informações
+### L30: Design sem sobrecarga de informações
 
 O Léxico presente na Tabela 29 está relacionado ao requisito **RQ45**, sobre o design limpo e objetivo do aplicativo.
 
-**Tabela 31 - Léxico 29: Design sem sobrecarga de informações (L29)**
+**Tabela 32 - Léxico 30: Design sem sobrecarga de informações (L30)**
 
-| L29               | Descrição                                                                                                     |
+| L30             | Descrição                                                                                                     |
 | ----------------- | ------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                                                        |
 | **Noção**         | Representa a característica visual do aplicativo de apresentar informações de forma organizada, sem excessos. |
