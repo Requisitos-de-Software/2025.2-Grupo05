@@ -240,11 +240,11 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 
 
-## Tabela 14 - Léxico 12: Professor (Perfis)(L12)
+## Tabela 14 - Léxico 12: Professor (Perfis)
 
  lexico presente na Tabela 14, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](/docs/Elicitação/Requisitos-Elicitados.md):RQ17,RQ58
 
-| **L1**| **Descrição** |
+| **L12**| **Descrição** |
 |---------|---------------|
 | **Classificação** | Objeto |
 | **Impacto** |  O aplicativo deve permitir que o professor visualize informações de suas disciplinas (RQ17), participe de fóruns por disciplina junto com estudantes (RQ58) e utilize o sistema como canal de comunicação com seus alunos |
@@ -262,7 +262,7 @@ O lexico presente na Tabela 15, faz uso  dos seguintes requisitos de acordo com 
 
 ## Tabela 15- Léxico 13: Dados Acadêmicos e Avaliações
 
-| **L12**| **Descrição** |
+| **L13**| **Descrição** |
 |---------|---------------|
 | **Classificação** | Objeto |
 | **Impacto** |  O aplicativo deve permitir a visualização de cursos, disciplinas e progresso (RQ4), da disciplina e professor que ministra (RQ17), do horário e sala da disciplina (RQ18), de trabalhos e avaliações com data, peso e tipo (RQ19), das notas das avaliações e trabalhos (RQ20), do boletim (RQ29), além de possibilitar o acompanhamento de registros estudantis desde o ingresso até níveis superiores (RQ11). |
