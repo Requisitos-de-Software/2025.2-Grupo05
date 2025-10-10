@@ -190,25 +190,11 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ47](/docs/Elicitação/Requisitos-Elicitados.md), [RQ48](/docs/Elicitação/Requisitos-Elicitados.md) e [RQ49](/docs/Elicitação/Requisitos-Elicitados.md)|
 
-Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
-
-<font size="3"><p style="text-align: center">Tabela 10: Cadastrar eventos na agenda </p></font>
-
-| UC09 | Informações |
-| ----- | ---------- |
-| Descrição | O estudante pode criar, editar e excluir eventos na agenda |
-| Atores envolvidos | Estudante (primário) |
-| Ação | O estudante cadastra eventos na agenda, podendo edita-los e exclui-los |
-| Fluxo principal | entrar no aplicativo > Agenda |
-| Relacionamentos | Associação de Estudante, extensão para "Notificar atividades acadêmicas" e inclusão para "Adicionar grau de importância" |
-| Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ46](/docs/Elicitação/Requisitos-Elicitados.md), [RQ47](/docs/Elicitação/Requisitos-Elicitados.md), [RQ48](/docs/Elicitação/Requisitos-Elicitados.md) e [RQ49](/docs/Elicitação/Requisitos-Elicitados.md)|
-
 Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
-<font size="3"><p style="text-align: center">Tabela 11: Notificar atividades com antecedência </p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Notificar atividades com antecedência </p></font>
 
-| UC010 | Informações |
+| UC09| Informações |
 | ----- | ---------- |
 | Descrição | O estudante pode receber notificações de atividades cadastradas na agenda |
 | Atores envolvidos | Estudante (primário) |
@@ -220,9 +206,9 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
 Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
-<font size="3"><p style="text-align: center">Tabela 12: Adicionar grau de importância </p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Adicionar grau de importância </p></font>
 
-| UC011 | Informações |
+| UC010 | Informações |
 | ----- | ---------- |
 | Descrição | O estudante seleciona o grau de importância à atribuir para o evento criado na agenda |
 | Atores envolvidos | Estudante (primário) |
@@ -234,9 +220,9 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
 Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
 
-<font size="3"><p style="text-align: center">Tabela 13: Requerir documentos </p></font>
+<font size="3"><p style="text-align: center">Tabela 12: Requerir documentos </p></font>
 
-| UC012 | Informações |
+| UC011 | Informações |
 | ----- | ---------- |
 | Descrição | O estudante pode requerir documentos da instituição de ensino |
 | Atores envolvidos | Estudante (primário) e Instituição de ensino (secundário) |
@@ -248,9 +234,9 @@ Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
 
 Fonte: [Pedro Henrique](https://github.com/pedrohpsantos) 
 
-<font size="3"><p style="text-align: center">Tabela 14: Emitir histórico </p></font>
+<font size="3"><p style="text-align: center">Tabela 13: Emitir histórico </p></font>
 
-| UC013 | Informações |
+| UC012 | Informações |
 | ----- | ---------- |
 | Descrição | O estudante pode requerir seu histórico da instituição de ensino |
 | Atores envolvidos | Estudante (primário) e Instituição de ensino (secundário) |
@@ -262,9 +248,9 @@ Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
 
 Fonte: [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
-<font size="3"><p style="text-align: center">Tabela 15: Emitir declaração de vínculo </p></font>
+<font size="3"><p style="text-align: center">Tabela 14: Emitir declaração de vínculo </p></font>
 
-| UC014 | Informações |
+| UC013 | Informações |
 | ----- | ---------- |
 | Descrição | O estudante pode requerir sua declaração de vínculo da instituição de ensino |
 | Atores envolvidos | Estudante (primário) e Instituição de ensino (secundário) |
@@ -276,11 +262,11 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github
 
 Fonte: [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
-<font size="3"><p style="text-align: center">Tabela 16: Emitir certificados </p></font>
+<font size="3"><p style="text-align: center">Tabela 15: Emitir certificados </p></font>
 
-| UC015 | Informações |
+| UC014 | Informações |
 | ----- | ---------- |
-| Descrição | O estudante pode requerir seus históricos da instituição de ensino |
+| Descrição | O estudante pode requerir seus certificados da instituição de ensino |
 | Atores envolvidos | Estudante (primário) e Instituição de ensino (secundário) |
 | Ação | O estudante requere seus certificados para sua instituição de ensino |
 | Fluxo principal | entrar no aplicativo > Emitir documentos > Emtiir certificados |
