@@ -44,9 +44,9 @@ A seguir temos a tabela 1, onde indica todos os participantes da sessão do brai
   </table>
 </div>
 
-Tabela 1: Participantes Brainstorming
+Tabela 1: Participantes Lexicos
 
-Autor: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) 
+Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ## Metodologia
 
