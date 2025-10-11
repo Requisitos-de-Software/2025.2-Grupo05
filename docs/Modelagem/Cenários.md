@@ -10,7 +10,7 @@ O objetivo é apresentar, de forma organizada, como o sistema deve se comportar 
 
 Os requisitos levantados foram transformados em cenários descritivos com foco na melhoria da experiência do usuário. Cada cenário representa uma situação prática que pode ocorrer durante o uso do aplicativo Jornada do Estudante e apresenta a solução esperada com base no requisito correspondente.
 
-Para escreve os cenários optamos pelo texto estruturado, que utiliza uma linguagem natural semi-estruturada, facilitando a compreensão de cada cenário e permitindo a validação dos requisitos pelo cliente [2].
+Para escreve os cenários optamos pelo texto estruturado, que utiliza uma linguagem natural semi-estruturada, facilitando a compreensão de cada cenário e permitindo a validação dos requisitos pelo cliente.
 
 Para garantir padronização e servir como referência na elaboração dos cenários, foi criado um modelo a ser seguido, apresentado na Tabela 1.
 
@@ -32,7 +32,7 @@ Tabela 1 – Descrição dos itens dos cenários.
 Fonte: <a> Penha, Igor 2023 </a>.
 </p>
 
-Para facilitar o trabalho em equipe, [Geovanna Alves](https://github.com/GeovannaUmbelino), [Luisa de Souza](https://github.com/Luisa12ll) e [Camila Silva](https://github.com/CamilaSilvaC) decidiram dividir as tarefas, sendo assim cada uma deve elaborar e apresentar doze cenários completos. Essa divisão permitiu a participação equilibrada e possibilitou uma análise mais detalhada de cada situação, promovendo uma compreensão coletiva dos requisitos e o desenvolvimento colaborativo da documentação.
+Para facilitar o trabalho em equipe, o grupo decidiu dividir de dividir em duplas, sendo assim cada uma deve elaborar e apresentar 8 cenários completos. Essa divisão permitiu a participação equilibrada e possibilitou uma análise mais detalhada de cada situação, promovendo uma compreensão coletiva dos requisitos e o desenvolvimento colaborativo da documentação.
 
 ### Cenário 1: Atualizações de pagamento do Pé-de-Meia
 
@@ -49,7 +49,7 @@ Para facilitar o trabalho em equipe, [Geovanna Alves](https://github.com/Geovann
 | Exceção    | Falha na atualização do sistema                                                                            |
 
 <p style="font-size: 14px;"> Tabela 2 – Cenário de atualização de pagamento do pé-de-meia.<br>
-Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
 
 ### Cenário 2: Visualização de disciplina e professor
 
@@ -66,7 +66,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 | Exceção    | Professor não cadastrado                                                                                    |
 
 <p style="font-size: 14px;"> Tabela 3 – Cenário de vizualização da diciplina e do professor.<br>
-Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
 
 ### Cenário 3: Visualização de horário e sala
 
@@ -83,7 +83,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 | Exceção    | Informações incorretas                                                                                      |
 
 <p style="font-size: 14px;"> Tabela 4 – Cenário de visualização de horário e sala.<br>
-Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
 
 ### Cenário 4: Visualização de informações e trabalhos da disciplina
 
@@ -100,7 +100,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 | Exceção    | Avaliações não lançadas                                                                                     |
 
 <p style="font-size: 14px;"> Tabela 5 – Cenário de visualização de informações e trabalhos da disciplina.<br>
-Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
 
 ### Cenário 5: Visualização de notas das avaliações e trabalhos.
 
@@ -117,7 +117,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 | Exceção    | Falha na consulta                                         |
 
 <p style="font-size: 14px;"> Tabela 6 – Cenário de visualização de  notas das avaliações e trabalhos.<br>
-Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
 
 ### Cenário 6: Emissão de histórico.
 
@@ -134,7 +134,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 | Exceção    | Falha na geração do histórico                                        |
 
 <p style="font-size: 14px;"> Tabela 7 – Cenário de Emissão de histórico.<br>
-Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
 
 ### Cenário 7: Visualização de boletim
 
@@ -151,7 +151,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 | Exceção    | Falha na consulta                                                |
 
 <p style="font-size: 14px;"> Tabela 8 – Cenário de visualização de boletim.<br>
-Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
 
 ### Cenário 8: Notificação de parcelas do Pé-de-Meia
 
@@ -168,7 +168,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
 | Exceção    | Notificação não enviada                                                           |
 
 <p style="font-size: 14px;"> Tabela 9 – Cenário de visualização de boletim.<br>
-Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>.</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
 
 ### Cenário 9: Visualizar valor total do auxílio
 
@@ -187,7 +187,7 @@ exibido ao usuário.                                                            
 
 
 <p style="font-size: 14px;"> Tabela 10 – Cenário de visualização do valor total do auxílio<br>
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
 
 ### Cenário 10: Visualizar conta bancária cadastrada
 
@@ -206,7 +206,7 @@ Informações são exibidas na tela.                                            
 
 
 <p style="font-size: 14px;"> Tabela 11 – Cenário de visualização da conta bancária cadastrada. <br>
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
 
 ### Cenário 11: Visualizar dia do pagamento
 
@@ -224,7 +224,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
 
 
 <p style="font-size: 14px;"> Tabela 12 – Cenário de visualização do dia do pagamento. <br>
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
 
 ### Cenário 12: Acesso a fórum de dúvidas
 
@@ -242,7 +242,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
 
 
 <p style="font-size: 14px;"> Tabela 13 – Cenário de acesso a fórum de dúvidas. <br>
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
 
 ### Cenário 13: Canal de conversa sobre o auxílio
 
@@ -260,7 +260,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
 
 
 <p style="font-size: 14px;"> Tabela 14 – Cenário de acesso a canal de conversa sobre o auxílio. <br>
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
 
 ### Cenário 14: Visualização de calendário de eventos
 
@@ -278,7 +278,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
 
 
 <p style="font-size: 14px;"> Tabela 15 – Cenário de visualização de calendário de eventos.<br>
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
 
 ### Cenário 15: Ranqueamento de matérias por nota
 
@@ -296,7 +296,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
 
 
 <p style="font-size: 14px;"> Tabela 16 – Cenário de ranqueamento de matérias por nota.<br>
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
 
 ### Cenário 16: Edição de informações bancárias pelo gov.br
 
@@ -314,7 +314,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
 
 
 <p style="font-size: 14px;"> Tabela 17 – Cenário de edição de informações bancárias pelo gov.br.<br>
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
 
 ### Cenário 17: Inserir atividades na agenda
 
@@ -330,7 +330,9 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>.</p>
 | Restrições | Dados incompletos                                                                                                                                |
 | Exceção    | Falha ao salvar atividade                                                                                                                        |
 
-_Tabela 18 – Cenário de inserir atividades na agenda._ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+Tabela 18 – Cenário de inserir atividades na agenda. <br>
+Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
+<a href="https://github.com/luisa12ll">Luisa de Souza</a>
 
 ### Cenário 18: Editar atividades na agenda.
 
@@ -346,7 +348,9 @@ _Tabela 18 – Cenário de inserir atividades na agenda._ _Fonte: [Luísa de Sou
 | Restrições | Falta de internet                                                                                          |
 | Exceção    | Falha ao atualizar atividade                                                                               |
 
-_Tabela 19 – Cenário de editar atividades na agenda._ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+Tabela 19 – Cenário de editar atividades na agenda. <br>
+Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
+<a href="https://github.com/luisa12ll">Luisa de Souza</a>
 
 ### Cenário 19: Excluir atividades na agenda
 
@@ -362,8 +366,9 @@ _Tabela 19 – Cenário de editar atividades na agenda._ _Fonte: [Luísa de Souz
 | Restrições | Falha de conexão                                                                                                     |
 | Exceção    | Atividade não removida                                                                                               |
 
-_Tabela 20 – Cenário de excluir atividades na agenda_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
-
+Tabela 20 – Cenário de excluir atividades na agenda <br>
+Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
+<a href="https://github.com/luisa12ll">Luisa de Souza</a>
 ### Cenário 20: Inserir horário e data na atividade
 
 | Item       | Descrição                                                                                                  |
@@ -378,7 +383,9 @@ _Tabela 20 – Cenário de excluir atividades na agenda_ _Fonte: [Luísa de Souz
 | Restrições | Data/hora no passado ou conflito de horários                                                               |
 | Exceção    | Falha ao salvar atividade                                                                                  |
 
-_Tabela 21 – Cenário de inserir horário e data na atividade_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+Tabela 21 – Cenário de inserir horário e data na atividade_ <br>
+Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
+<a href="https://github.com/luisa12ll">Luisa de Souza</a>
 
 ### Cenário 21: Fórum entre estudantes
 
@@ -394,8 +401,9 @@ _Tabela 21 – Cenário de inserir horário e data na atividade_ _Fonte: [Luísa
 | Restrições | Mensagens ofensivas ou spam                                                                                |
 | Exceção    | Falha na postagem                                                                                          |
 
-_Tabela 22 – Cenário de fórum entre estudantes_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
-
+Tabela 22 – Cenário de fórum entre estudantes <br>
+Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
+<a href="https://github.com/luisa12ll">Luisa de Souza</a>
 ### Cenário 22: Emissão de diplomas
 
 | Item       | Descrição                                                                                                  |
@@ -410,7 +418,9 @@ _Tabela 22 – Cenário de fórum entre estudantes_ _Fonte: [Luísa de Souza](ht
 | Restrições | Sistema indisponível                                                                                       |
 | Exceção    | Falha na geração do diploma                                                                                |
 
-_Tabela 23 – Cenário de emissão de diplomas_ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+Tabela 23 – Cenário de emissão de diplomas <br>
+Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
+<a href="https://github.com/luisa12ll">Luisa de Souza</a>
 
 ### Cenário 23: Visualização de certificados
 
@@ -426,7 +436,9 @@ _Tabela 23 – Cenário de emissão de diplomas_ _Fonte: [Luísa de Souza](https
 | Restrições | Falta de atualização                                                                                       |
 | Exceção    | Certificado não encontrado                                                                                 |
 
-_Tabela 24 – Cenário de visualização de certificados._ _Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+Tabela 24 – Cenário de visualização de certificados. <br>
+Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
+<a href="https://github.com/luisa12ll">Luisa de Souza</a>
 
 ### Cenário 24: Visualização de ocorrências
 
@@ -442,8 +454,10 @@ _Tabela 24 – Cenário de visualização de certificados._ _Fonte: [Luísa de S
 | Restrições | Falta de atualização                                                                                       |
 | Exceção    | Ocorrência não encontrada                                                                                  |
 
-_Tabela 25 – Cenário de visualização de ocorrências_
-_Fonte: [Luísa de Souza](https://github.com/luisa12ll)_
+Tabela 25 – Cenário de visualização de ocorrências <br>
+Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
+<a href="https://github.com/luisa12ll">Luisa de Souza</a>
+
 
 # Histórico de Versões
 
