@@ -18,6 +18,7 @@ Para assegurar a eficiência e promover a colaboração contínua da equipe, nos
 ![YouTube](../img/youtube.png){ width="100" } | [YouTube](https://www.youtube.com/) | Hospedagem dos vídeos produzidos.|
 ![Gemini](../img/gemini.png){ width="110" } | [Gemini](https://gemini.google.com/app?hl=pt-BR) | Ferramenta de suporte na busca por respostas e soluções.|
 ![ Google Planilhas](../img/planilha.png){ width="110" } | [Google Planilhas](https://docs.google.com/spreadsheets/d/1Dn7wHJTtDGpoTeniDzyaBDI22cEpsHxgWJLEC7jW7b4/edit?hl=pt-br&gid=0#gid=0) | Ferramenta para elaboração de listas de verificação e cronogramas .|
+![ Google Formulários](../img/google_forms.png){ width="110" } | [Google Formulários](https://docs.google.com/forms/u/0/) | Ferramenta para elaboração de formulários.|
 
 _Tabela 1_: Tabela de Ferramentas utilizadas. Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Lara Souza](https://github.com/mel14-hub)
 
@@ -27,3 +28,4 @@ _Tabela 1_: Tabela de Ferramentas utilizadas. Fonte: [Geovanna Alves](https://gi
 |--------|------------|------------------------------------|-----------------------------------------------------------|-------------------------------------|
 | 1.0    | 07/09/2025 | Transcrição da tabela de ferramentas | [Geovanna Alves](https://github.com/GeovannaUmbelino)     | [Camila Silva](https://github.com/CamilaSilvaC) |
 | 1.1    | 13/09/2025 | Atualizando tabela de ferramentas |    [Lara Souza](https://github.com/mel14-hub)  | [Geovanna Alves](https://github.com/GeovannaUmbelino)|
+| 1.2    | 09/10/2025 | Atualizando tabela de ferramentas com google forms | [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |

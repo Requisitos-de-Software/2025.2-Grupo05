@@ -28,7 +28,7 @@ A tabela_1 mostra a lista de verificação da técnica MoSCoW
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
 | 1.0    | 03/10/2025 | Adicionando lista de verificação  | [Geovanna Alves](https://github.com/GeovannaUmbelino) |[Luisa de Souza](https://github.com/Luisa12ll) e [Camila Silva](https://github.com/CamilaSilvaC) |
-||
+
 
 
 

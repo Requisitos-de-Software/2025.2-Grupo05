@@ -47,19 +47,19 @@ nav:
           - Apresentação 1: Entregas/Apresentações/Apresentacao1.md
           - Apresentacao 2: Entregas/Apresentações/Apresentacao2.md
       - Listas de Verificações:
-        - Entrega 1:
-          - Entrevista: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_entrevista.md
-        - Entrega 2:
-          - Técnica: 
-            - Analise de Documentos: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_analise_docs.md
-            - Entrevista: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_entrevista.md
-            - Questionário: Entregas/Listas_verificações/Entrega02/Lv_tecnica/QuestionarioLV.md
-            - Brainstorming: Entregas/Listas_verificações/Entrega02/Lv_tecnica/BrainstormLV.md
-          - Priorização:
-            - In or Out: Entregas/Listas_verificações/Entrega02/Lv_priorização/In_or_outLV.md
-            - Tree Level Scale: Entregas/Listas_verificações/Entrega02/Lv_priorização/Three_levelLV.md
-            - 100 Dólares: Entregas/Listas_verificações/Entrega02/Lv_priorização/100_dolaresLV.md
-            - MoSCoW: Entregas/Listas_verificações/Entrega02/Lv_priorização/MoscowLV.md
+          - Entrega 1:
+              - Rich Picture: Entregas/Listas_verificações/Entrega01/Rich_pictureLV.md
+          - Entrega 2:
+              - Técnica:
+                  - Analise de Documentos: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_analise_docs.md
+                  - Entrevista: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_entrevista.md
+                  - Questionário: Entregas/Listas_verificações/Entrega02/Lv_tecnica/QuestionarioLV.md
+                  - Brainstorming: Entregas/Listas_verificações/Entrega02/Lv_tecnica/BrainstormLV.md
+              - Priorização:
+                  - In or Out: Entregas/Listas_verificações/Entrega02/Lv_priorização/In_or_outLV.md
+                  - Tree Level Scale: Entregas/Listas_verificações/Entrega02/Lv_priorização/LV_Three_level.md
+                  - 100 Dólares: Entregas/Listas_verificações/Entrega02/Lv_priorização/100_dolaresLV.md
+                  - MoSCoW: Entregas/Listas_verificações/Entrega02/Lv_priorização/MoscowLV.md
 
   - Planejamento:
       - Metodologia: Planejamento/Metodologia.md
@@ -95,19 +95,18 @@ nav:
       - Rich Picture: Pré-Rastriabilidade/Rich-picture.md # Corrigido: 'picture' minúsculo
 
   - Elicitação:
-    - Perfil de usuário: Elicitação/Perfil_usuario.md
-    - Tecnicas:
-        - Análise de documentação: Elicitação/Tecnicas/Analise_docs.md
-        - Brainstorming: Elicitação/Tecnicas/Brainstorming.md # Corrigido: 'Brainstorming' com 't'
-        - Entrevista: Elicitação/Tecnicas/Entrevista.md
-        - Questionário: Elicitação/Tecnicas/Questionário.md
-    - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.md
-    - Priorização:
-        - Tree Level Scale: Elicitação/Priorização/Three_level_scale.md
-        - In or Out: Elicitação/Priorização/In_or_Out.md
-        - $100 dólares: Elicitação/Priorização/100_dolares.md
-        - MoSCoW: Elicitação/Priorização/Moscow.md
-      
+      - Perfil de usuário: Elicitação/Perfil_usuario.md
+      - Tecnicas:
+          - Análise de documentação: Elicitação/Tecnicas/Analise_docs.md
+          - Brainstorming: Elicitação/Tecnicas/Brainstorming.md # Corrigido: 'Brainstorming' com 't'
+          - Entrevista: Elicitação/Tecnicas/Entrevista.md
+          - Questionário: Elicitação/Tecnicas/Questionário.md
+      - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.md
+      - Priorização:
+          - Tree Level Scale: Elicitação/Priorização/Three_level_scale.md
+          - In or Out: Elicitação/Priorização/In_or_Out.md
+          - $100 dólares: Elicitação/Priorização/100_dolares.md
+          - MoSCoW: Elicitação/Priorização/Moscow.md
 
   - Modelagem:
       - Cenários: Modelagem/Cenários.md

@@ -53,15 +53,84 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https:/
 
 No total foram entrevistadas 3 pessoas, todas com livre consentimento do uso da imagem e participação das entrevistas como mostrados nos vídeos [Entrevista 1](https://youtu.be/zYS0moDR_gI?si=nT_8HgC8Zjb8DSeF), [Entrevista 2](https://youtu.be/KCEM_y5eoc4?si=Awz-9LCvNOI0ITNX) e [Entrevista 3](https://youtu.be/Jo30F-G7l6Q?si=NlXoVrENAPo4FQcl). 
 
+De acordo com a figura 6, os usuários entrevistados tem entre 18 e 19 anos.
+
+<font size="3"><p style="text-align: center">Figura 6: Idade dos entrevistados.</p></font>
+![Faixa etaria](https://i.postimg.cc/8C6MCjTr/1.jpg)
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
+
+De acordo com a figura 7, os usuários entrevistados foram majoritariamente homens.
+
+<font size="3"><p style="text-align: center">Figura 7: gênero dos entrevistados.</p></font>
+![Genero](https://i.postimg.cc/ZqdpqCJv/2.jpg)
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
+
+De acordo com a figura 8, os usuários entrevistados em sua maioria não recebem auxílio, exceto por um.
+
+<font size="3"><p style="text-align: center">Figura 8: entrevistados que recebem auxílio.</p></font>
+![Auxilio](https://i.postimg.cc/TPDgPpTp/3.jpg)
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
+
+De acordo com a figura 9, os usuários entrevistados em sua maioria estão cursando o ensino superior, exceto por um, que cursa o ensino médio.
+
+<font size="3"><p style="text-align: center">Figura 9: nivel de escolaridade dos entrevistados.</p></font>
+![escolaridade](https://i.postimg.cc/BvKHvXJZ/4.jpg)
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
+
+De acordo com a figura 10, os usuários entrevistados em sua maioria estão cursando curso de engenharia de software.
+
+<font size="3"><p style="text-align: center">Figura 10: curso dos entrevistados.</p></font>
+![curso](https://i.postimg.cc/DzXLz873/5.jpg)
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
+
+De acordo com a figura 11, os usuários entrevistados em sua maioria possuem muita experiência digital, autodeclarados (66%).
+
+<font size="3"><p style="text-align: center">Figura 11: Experiência digital dos entrevistados. </p></font>
+![experiencia digital](https://i.postimg.cc/PqwYqPdj/6.jpg)
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
+
+De acordo com a figura 12, os usuários entrevistados utilizam diversos aplicativos de organização da vida estudantil.
+<font size="3"><p style="text-align: center">Figura 12: Apps para organização da vida estudantil. </p></font>
+![apps organização](https://i.postimg.cc/PqwYqPdk/7.jpg)
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
+
+De acordo com a figura 13, os usuários entrevistados utilizam bastante aparelhos celular e a maioria notebook/desktop também como hardwares usados para estudos.
+<font size="3"><p style="text-align: center">Figura 13: hardwares que o estudante tem acesso. </p></font>
+![apps organização](https://i.postimg.cc/sg85ypCr/8.jpg)
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
+
+De acordo com a figura 14, os usuários entrevistados apresentam dificuldades em organizações das atividades escolares/acadêmicas.
+<font size="3"><p style="text-align: center">Figura 14: objetivos e dificuldades da vida estudantil. </p></font>
+![objetivos e dificuldades](https://i.postimg.cc/2SJnm4RK/9.jpg)
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
+
 ## Definição do Perfil
 
 Alguns dos usuários não necessariamente tinham experiência prévia com o aplicativo, mas com concorrentes, aplicativos similares ou situações educacionais adequadas e relevantes.
 
-Após uma análise das respostas, foi traçado um Perfil de Usuário para o aplicativo com as seguintes descrições:
+Após uma análise das respostas, foi traçado dois perfis de usuário, o primeiro com base nas entrevistas e o segundo com base no questionário para o aplicativo com as seguintes descrições:
 
-- **Idade:** Entre 15 e 60 anos.
+### Usuário 1 - Estudante de ensino médio
+
+- **Idade:** Entre 15 e 18 anos.
 - **Afinidade com dispositivos eletrônicos:** Média experiência.
-- **Grau de escolaridade:** Ensino médio incompleto a superior completo
+- **Grau de escolaridade:** Ensino médio incompleto
+- **Tarefas desejadas:** Organizar atividades acadêmicas e fácil acesso ao programa Pé de meia.
+
+### Usuário 2 - Estudante de faculdade 
+
+- **Idade:** Entre 18 e 60 anos.
+- **Afinidade com dispositivos eletrônicos:** Média experiência.
+- **Grau de escolaridade:** Ensino superior incompleto a superior completo
 - **Tarefas desejadas:** Organizar atividades acadêmicas e centralizar suas respectivas informações.
 
 

@@ -66,7 +66,7 @@ Para a aplicação da técnica, foi realizada uma reunião com a participação 
 Tabela 1: Participantes In or Out 
 Autor: [Camila Silva](https://github.com/CamilaSilvaC)
 
-# Tabela de Requisitos
+## Tabela de Requisitos
 
 A tabela 2 abaixo representa todos os requisitos levantados, identificados com 'RQ' + número do requisito, e classificados como "In" ou "Out".
 
