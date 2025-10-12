@@ -1,4 +1,4 @@
-# Especificação Suplementa
+# Especificação Suplementar
 
 
 ## Introdução
