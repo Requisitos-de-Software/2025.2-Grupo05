@@ -281,7 +281,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github
 
 ## Gravação 
 
-
+### Participantes 
 A seguir temos a tabela 16, onde indica todos os participantes da sessão do caso de uso, o horário e local da aplicação da técnica.
 
 <div align="center">
@@ -326,10 +326,13 @@ Tabela 16: Participantes Casos de uso
 
 Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
+### Video 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WucrkTl8UE0?si=ZKRy98nzMAfoCrf5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Validação - Caso de uso
 
+### Participantes 
 A seguir temos a tabela 17, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O estudante corresponde ao perfil de estudante 2
 
 <div align="center">
@@ -365,7 +368,9 @@ A seguir temos a tabela 17, onde indica todos os participantes da validação da
 
 Tabela 17: Validação Caso de uso
 
-Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+Autor: [Luisa de Souza](https://github.com/luisa12ll)
+
+### Video 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mHScbBuDxsI?si=bq-b2UW7-_yEWmkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
