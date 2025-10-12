@@ -109,4 +109,4 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="h
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 12/10/2025 | Adicionando introdução, participantes e metodologia |[Camila Silva](https://github), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luisa de Souza](https://github.com/Luisa12ll). | [Yan Matheus](https://github.com/Yanmatheus0812) |
+| `1.0` | 11/10/2025 | Adicionando introdução, participantes e metodologia |[Camila Silva](https://github), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luisa de Souza](https://github.com/Luisa12ll). | [Yan Matheus](https://github.com/Yanmatheus0812) |
