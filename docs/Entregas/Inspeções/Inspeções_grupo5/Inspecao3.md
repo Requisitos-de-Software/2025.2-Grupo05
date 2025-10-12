@@ -32,7 +32,7 @@ A seguir temos a tabela 1, onde indica todos os participantes da inspeção.
       </tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
-         <td>12/09/2025</td>
+         <td>12/10/2025</td>
       </tr>
     </tbody>
   </table>
