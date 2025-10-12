@@ -560,6 +560,9 @@ A seguir, apresentamos a gravação referente à elaboração dos **cenários**.
 ### Participantes 
 A seguir temos a tabela 28, onde indica todos os participantes do cenários, o horário e local da verificação.
 
+
+<font size="3"><p style="text-align: center">Tabela 28: Participantes do video de verificação do cenários</p></font>
+
 <div align="center">
   <table>
     <thead>
@@ -592,13 +595,13 @@ A seguir temos a tabela 28, onde indica todos os participantes do cenários, o h
   </table>
 </div>
 
-Tabela 28: Participantes do video de verificação do léxico
 
-Autor: [Luísa de Souza](https://github.com/luisa12ll)
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/luisa12ll">Luísa de Souza</a></font>
+
 
 ### Vídeo
 
-A seguir, apresentamos a gravação referente à verificação dos cenários.
+A seguir, apresentamos a gravação referente à **verificação dos cenários**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9_QYIqSd-jk?si=w9g2GlDgjlyFtF_T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

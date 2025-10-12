@@ -6,6 +6,8 @@ O Léxico é uma notação que, por meio da descrição de termos, tem como obje
 
 A seguir temos a tabela 1, onde indica todos os participantes da sessão do brainstorming, o horário e local da aplicação da técnica.
 
+<font size="3"><p style="text-align: center">Tabela 1: Participantes Lexicos</p></font>
+
 <div align="center">
   <table>
     <thead>
@@ -44,9 +46,8 @@ A seguir temos a tabela 1, onde indica todos os participantes da sessão do brai
   </table>
 </div>
 
-Tabela 1: Participantes Lexicos
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
 
-Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ## Metodologia
 
@@ -567,6 +568,8 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 ### Participantes
 A seguir temos a tabela 33, onde indica todos os participantes do léxico, o horário e local da aplicação da técnica.
 
+<font size="3"><p style="text-align: center">Tabela 33: Participantes do léxico</p></font>
+
 <div align="center">
   <table>
     <thead>
@@ -605,9 +608,7 @@ A seguir temos a tabela 33, onde indica todos os participantes do léxico, o hor
   </table>
 </div>
 
-Tabela 33: Participantes do léxico
-
-Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
 
 ### Vídeo
 A seguir, apresentamos a gravação referente à elaboração dos **Léxicos**.
@@ -618,6 +619,8 @@ A seguir, apresentamos a gravação referente à elaboração dos **Léxicos**.
 
 ### Participantes
 A seguir temos a tabela 34, onde indica todos os participantes do léxico, o horário e local da aplicação da técnica.
+
+<font size="3"><p style="text-align: center">Tabela 34: Participantes do video de verificação do léxico</p></font>
 
 <div align="center">
   <table>
@@ -651,9 +654,7 @@ A seguir temos a tabela 34, onde indica todos os participantes do léxico, o hor
   </table>
 </div>
 
-Tabela 34: Participantes do video de verificação do léxico
-
-Autor: [Luísa de Souza](https://github.com/luisa12ll)
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/luisa12ll">Luísa de Souza</a></font>
 
 ### Vídeo
 A seguir, apresentamos a gravação referente à **verificação dos Léxicos**.
