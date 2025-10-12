@@ -562,6 +562,55 @@ Tabela 32 - Léxico 30: Design sem sobrecarga de informações (L30)
 
 Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
+## Gravação
+
+
+A seguir temos a tabela 33, onde indica todos os participantes do léxico, o horário e local da aplicação da técnica.
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>05/10/2025</td>
+         </tr>
+      <tr>
+      <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>05/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/luisa12ll">Luísa de Souza</a></td>
+        <td>05/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+         <td>05/09/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+         <td>05/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+         <td>05/10/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 33: Participantes do léxico
+
+Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SHz6GUU4eZA?si=alxyUcacnnGON7OH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Bibliografia
 
 > SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [](). Acesso em: 04/10/2025.
@@ -576,5 +625,5 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 | Versão | Data       | Descrição                | Autor                                                                                                                                                                                                                                                                                                     | Revisor                                               |
 | ------ | ---------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| 1.0    | 04/10/2025 | Documentação dos léxicos | [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Luisa de Souza](https://github.com/Luisa12ll) e [Camila Silva](https://github.com/CamilaSilvaC) | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
+| 1.0    | 05/10/2025 | Documentação dos léxicos | [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Luisa de Souza](https://github.com/Luisa12ll) e [Camila Silva](https://github.com/CamilaSilvaC) | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
 | 1.1    | 10/10/2025 | Adicionada validação da técnica | [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC)

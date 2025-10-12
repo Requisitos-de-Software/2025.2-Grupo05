@@ -70,7 +70,7 @@ nav:
       - Cronograma: Planejamento/Cronograma.md
       - Heatmap: Planejamento/Heatmap.md
       - Validações da monitora: Planejamento/ValidacaoMonitora.md
-      
+
   - Atas:
       - 1. Ata de Reunião(04/09): Atas/ata04-09.md
       - 2. Ata de Reunião(05/09): Atas/ata05-09.md
@@ -118,9 +118,9 @@ nav:
       - NFR Framework: Modelagem/NFR-Framework.md
       - Ágil: Modelagem/Àgil.md 
       - Listas de verficações: 
-            - Cenários: Modelagem/LVs/LVCenarios.md
+            - Cenários: Modelagem/LVs/LVCenario.md
             - Léxico: Modelagem/LVs/LVLexico.md
-            - Especificação suplementar: Modelagem/LVs/LVsuplementar.md
+            - Especificação suplementar: Modelagem/LVs/LVSuplementar.md
             - Caso de uso: Modelagem/LVs/LVUseCase.md
   - Análise:
       - Verificação: Análise/Verificação.md

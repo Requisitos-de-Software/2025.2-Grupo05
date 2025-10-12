@@ -10,7 +10,7 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 
 ## Participantes
 
-A seguir temos a tabela 1, onde indica todos os participantes da sessão do brainstorming, o horário e local da aplicação da técnica.
+A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o horário e local da aplicação da técnica.
 
 <div align="center">
   <table>
@@ -279,9 +279,58 @@ Fonte: [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https:
 
 Fonte: [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
+## Gravação 
+
+
+A seguir temos a tabela 16, onde indica todos os participantes da sessão do caso de uso, o horário e local da aplicação da técnica.
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>09/10/2025</td>
+         </tr>
+      <tr>
+      <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>09/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/luisa12ll">Luísa de Souza</a></td>
+        <td>09/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+         <td>09/09/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+         <td>09/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+         <td>09/10/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 16: Participantes Casos de uso
+
+Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WucrkTl8UE0?si=ZKRy98nzMAfoCrf5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Validação - Caso de uso
 
-A seguir temos a tabela 16, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O estudante corresponde ao perfil de estudante 2
+A seguir temos a tabela 17, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O estudante corresponde ao perfil de estudante 2
 
 <div align="center">
   <table>
@@ -314,7 +363,7 @@ A seguir temos a tabela 16, onde indica todos os participantes da validação da
   </table>
 </div>
 
-Tabela 16: Validação Caso de uso
+Tabela 17: Validação Caso de uso
 
 Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
