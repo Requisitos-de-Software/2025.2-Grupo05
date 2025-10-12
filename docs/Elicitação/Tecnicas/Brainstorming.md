@@ -126,7 +126,7 @@ Autor: [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https
 | B010          | O aplicativo deve notificar faltas após serem lançadas no aplicativo.                                                  | RF        | Não          | 1.0    | Brainstorm de elicitação de requisitos         |
 | B011          | O aplicativo deve permitir a visualização de ocorrências.                                                              | RF        | Não          | 1.0    | Brainstorm de elicitação de requisitos         |
 | B012          | O aplicativo deve ser fácil de usar e aprender suas funcionalidades.                                                   | RNF       | Sim          | 1.0    | Priorização dos requisitos pelos participantes |
-| B013          | O aplicativo deve ter uma linguagem simples adequada ao usuário.                                                       | RNF       | Sim          | 1.0    | Brainstorm de elicitação de requisitos         | 
+| B013          | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos).                                                       | RNF       | Sim          | 1.0    | Brainstorm de elicitação de requisitos         | 
 | B014          | O aplicativo deve carregar suas informações em no máximo 3 segundos.                                                   | RNF       | Não          | 1.0    | Brainstorm de elicitação de requisitos         | 
 | B015          | O aplicativo deve possibilitar o usuário emitir a declaração de vínculo da instituição de ensino.                      | RF        | Não          | 1.0    | Brainstorm de elicitação de requisitos         | 
 | B016          | O aplicativo deve possibilitar o usuário emitir seu histórico da instituição de ensino.                                | RF        | Não          | 1.0    | Brainstorm de elicitação de requisitos         | 
@@ -180,6 +180,7 @@ A seguir temos as **gravações das sessões**:
 | 1.0    | 25/09/2025 | Documentação dos requisitos da brainstorm | [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos) | [Lara Mota](https://github.com/mel14-hub) |
 | 1.1    | 25/09/2025 | Atuzalizando os requisitos | [Luísa de Souza](https://github.com/luisa12ll)|[Camila Silva](https://github.com/CamilaSilvaC)|
 | 1.2    | 02/10/2025 | Adição da tabela de participantes| [Camila Silva](https://github.com/CamilaSilvaC)| [Luísa de Souza](https://github.com/luisa12ll)|
+
 
 
 
