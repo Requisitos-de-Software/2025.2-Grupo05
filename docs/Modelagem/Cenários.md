@@ -29,7 +29,7 @@ Tabela 1 – Descrição dos itens dos cenários.
 | Exceção    | É o tratamento para uma situação excepcional ou de erro.                                                               |
 
 <p style="text-align: center; font-size: 14px;">
-Fonte: <a>  </a>.
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 </p>
 
 Para facilitar o trabalho em equipe, o grupo decidiu dividir de dividir em duplas, sendo assim cada uma deve elaborar e apresentar 8 cenários completos. Essa divisão permitiu a participação equilibrada e possibilitou uma análise mais detalhada de cada situação, promovendo uma compreensão coletiva dos requisitos e o desenvolvimento colaborativo da documentação.
