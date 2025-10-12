@@ -117,7 +117,7 @@ nav:
       - Especificação: Modelagem/Especificacao.md 
       - NFR Framework: Modelagem/NFR-Framework.md
       - Ágil: Modelagem/Àgil.md 
-      - Listas de verficações: 
+      - Listas de Verificação: 
             - Cenários: Modelagem/LVs/LVCenario.md
             - Léxico: Modelagem/LVs/LVLexico.md
             - Especificação suplementar: Modelagem/LVs/LVSuplementar.md
