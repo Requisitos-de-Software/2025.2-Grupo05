@@ -57,7 +57,7 @@ A seguir temos a tabela 1, onde indica todos os participantes da especificação
 
 ## Metodologia
 
-A elaboração da especificação suplementar seguiu os seguintes passos <a id="RP1" href="#TEC1">1.</a>:
+A elaboração da especificação suplementar seguiu os seguintes passos <a id="RP1" href="https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf">1.</a>:
 
 1. **Levantamento dos Requisitos Não Funcionais** por meio da análise dos objetivos do sistema e padrões de qualidade esperados.
 2. **Classificação dos Requisitos** segundo o modelo FURPS+, que contempla: Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suporte e extensões (como restrições e interfaces).
@@ -84,6 +84,8 @@ Este documento segue o modelo **FURPS+**, organizando os requisitos de software 
 
 
 ## Requisitos Não Funcionais
+A seguir, temos a Tabela 2, referente à Especificação Suplementar, na qual a equipe realizou a definição e o detalhamento dos requisitos não funcionais do sistema.
+
 | Código | Categoria | Requisito Não Funcional | Descrição | Justificativa | Prioridade | Implementado | Autor |
 |--------|------------|-------------------------|------------|----------------|-------------|---------|--------|
 |[RQ3](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | Confiabilidade (R)| O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. | O aplicativo deve usar blockchain para tornar a autenticação de usuários e a disponibilização de documentos seguras, confiáveis e imutáveis, garantindo a integridade e autenticidade das informações. | O uso da tecnologia blockchain oferece um alto nível de qualidade e segurança, protegendo o sistema contra fraudes e alterações indevidas nos documentos. | Alta | Sim | [Geovanna Alves](https://github.com/GeovannaUmbelino)   |
@@ -97,6 +99,59 @@ Tabela 2 – Requisitos Não Funcionais classificados de acordo com o modelo FUR
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>, <a href="https://github.com/mel14-hub">Lara Mota</a>,
 <a href="https://github.com/luisa12ll">Luisa de Souza</a>, <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 
+## Gravação 
+
+### Participantes 
+A seguir temos a tabela 3, onde indica todos os menbros da equipe que participaram da gravação.
+
+<font size="3"><p style="text-align: center">Tabela 3: Participantes</p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>11/10/2025</td>
+         </tr>
+      <tr>
+        <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
+        <td>11/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>11/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
+        <td>11/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+        <td>11/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+        <td>11/10/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></font>
+
+
+### Vídeo
+A seguir, apresentamos a gravação referente à elaboração da **especificação suplementar**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_6FJ9gH3F0?si=Dq85LAq3XjP_Z1bD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 
 ## Referência bibliográfica
@@ -109,4 +164,4 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="h
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 11/10/2025 | Adicionando introdução, participantes e metodologia |[Camila Silva](https://github), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luisa de Souza](https://github.com/Luisa12ll). | [Yan Matheus](https://github.com/Yanmatheus0812) |
+| 1.0 | 11/10/2025 | Adicionando introdução, participantes e metodologia |[Camila Silva](https://github), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luisa de Souza](https://github.com/Luisa12ll). | [Yan Matheus](https://github.com/Yanmatheus0812) |

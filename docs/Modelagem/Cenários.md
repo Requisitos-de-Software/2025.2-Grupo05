@@ -38,7 +38,7 @@ Para facilitar o trabalho em equipe, o grupo decidiu dividir de dividir em dupla
 
 A seguir temos a tabela 2, onde indica todos os participantes da elaboração dos cenários.
 
-<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Participantes</p></font>
 
 <div align="center">
   <table>
@@ -448,6 +448,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 Tabela 23 – Cenário de fórum entre estudantes <br>
 Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 <a href="https://github.com/luisa12ll">Luisa de Souza</a>
+
 ### Cenário 22: Emissão de diplomas
 
 | Item       | Descrição                                                                                                  |
@@ -502,8 +503,63 @@ Tabela 26 – Cenário de visualização de ocorrências <br>
 Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 <a href="https://github.com/luisa12ll">Luisa de Souza</a>
 
+## Gravação 
 
-# Histórico de Versões
+### Participantes 
+A seguir temos a tabela 27, onde indica todos os menbros da equipe que participaram da gravação.
+
+<font size="3"><p style="text-align: center">Tabela 27: Participantes</p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>11/10/2025</td>
+         </tr>
+      <tr>
+        <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
+        <td>11/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>11/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
+        <td>11/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+        <td>11/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+        <td>11/10/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></font>
+
+
+### Vídeo
+A seguir, apresentamos a gravação referente à elaboração dos **cenários**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iwwYGksRwcY?si=Ef5OWspuIle-WEXJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Referência bibliográfica
+
+
+
+## Histórico de Versões
 
 | Versão | Data       | Descrição                        | Autor(es)                                             | Revisor(es)                                                                                      |
 | ------ | ---------- | -------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
