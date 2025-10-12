@@ -4,10 +4,45 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 3, be
 
 ## Inspeção 3
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBXAl4vEaZ8?si=ysSv9kiJm0wuCdhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Participantes
+
+A seguir temos a tabela 1, onde indica todos os participantes da inspeção.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes Casos de uso</p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>12/10/2025</td>
+         </tr>
+      <tr>
+      <tr>
+        <td><a href="https://github.com/luisa12ll">Luísa de Souza</a></td>
+        <td>12/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+         <td>12/09/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
+
 ## Lista de Inspeção - Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
 
-
-A tabela 1 mostra a lista de verificação da modelagem de requisitos.
+A tabela 2 mostra a lista de verificação da modelagem de requisitos.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -42,14 +77,14 @@ A tabela 1 mostra a lista de verificação da modelagem de requisitos.
 | 29 \- Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento da Especificação Suplementar1? | Não Amplicável | Versão 1.0 - 12/10/2025 |
 
 
-<figcaption align="center">Tabela 1: Lista de inspeção modelagem de requisitos: Cenários , Léxico, Use Case, Especificação Suplementar.</figcaption>
+<figcaption align="center">Tabela 2: Lista de inspeção modelagem de requisitos: Cenários , Léxico, Use Case, Especificação Suplementar.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: André Barros Sales.</p></font>
 
 ## Lista de Inspeção - Cenários
 
 
-A tabela 1 mostra a lista de verificação da técnica.
+A tabela 3 mostra a lista de verificação da técnica.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -64,13 +99,13 @@ A tabela 1 mostra a lista de verificação da técnica.
 | 9 \- O cenário inclui a sequência de ações realizadas pelo ator para atingir o objetivo? | Sim | Versão 1.0 - 12/10/2025 |
 | 10 \-O cenário é rico em detalhes contextuais, evitando abstrações? | Sim| Versão 1.0 - 12/10/2025 |
 
-<figcaption align="center">Tabela 2: Lista de inspeção cenários.</figcaption>
+<figcaption align="center">Tabela 3: Lista de inspeção cenários.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza Mota](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 ## Lista de Inspeção - Léxico 
 
-A tabela 2 mostra a lista de verificação do léxico.
+A tabela 4 mostra a lista de verificação do léxico.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -85,14 +120,14 @@ A tabela 2 mostra a lista de verificação do léxico.
 | 9-   Cada símbolo tem um ou mais impactos? | Sim | Versão 1.0 - 12/10/2025 |
 | 10-   Em objetos foram definidos outros objetos com quais se relaciona?| Não aplicável | Versão 1.0 - 12/10/2025 |
 
-<figcaption align="center">Tabela 3: Lista de inspeção léxico.</figcaption>
+<figcaption align="center">Tabela 4: Lista de inspeção léxico.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Geovanna Alves](https://github.com/GeovannaUmbelino), [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza Mota](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 ## Lista de Inspeção - Especificação Suplementar 
 
 
-A tabela 3 mostra a lista de verificação da técnica.
+A tabela 5 mostra a lista de verificação da técnica.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -107,14 +142,14 @@ A tabela 3 mostra a lista de verificação da técnica.
 | 9 \- A seção Desempenho esboça as características do desempenho do sistema, incluindo tempos de resposta específicos e o rendimento do processamento (transações/segundo)? | Sim | Versão 1.0 - 12/10/2025 |
 | 10 \-Os requisitos de Suportabilidade indicam padrões de codificação, convenções de nomenclatura ou bibliotecas de classe para aprimorar a capacidade de manutenção? | Não aplicável | Versão 1.0 - 12/10/2025 |
 
-<figcaption align="center">Tabela 4: Lista de inspeção especificação suplementar.</figcaption>
+<figcaption align="center">Tabela 5: Lista de inspeção especificação suplementar.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza Mota](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 
 ## Lista de Inspeção - Caso de uso  
 
-A tabela 4 mostra a lista de verificação do caso de uso.
+A tabela 6 mostra a lista de verificação do caso de uso.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -135,7 +170,7 @@ A tabela 4 mostra a lista de verificação do caso de uso.
 | 15- Os pontos de extensão são versões detalhadas dos relacionamentos de extensão?  | Sim | Versão 1.0 - 12/10/2025 |
 
 
-<figcaption align="center">Tabela 5: Lista de verificação caso de uso.</figcaption>
+<figcaption align="center">Tabela 6: Lista de verificação caso de uso.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Geovanna Alves](https://github.com/GeovannaUmbelino), [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza Mota](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 

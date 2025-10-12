@@ -6,7 +6,40 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, be
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TDUvLCktvTI?si=0P3o6mFP_RKL9Phy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+## Participantes
+
+A seguir temos a tabela 1, onde indica todos os participantes da inspeção.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes Casos de uso</p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>30/09/2025</td>
+         </tr>
+      <tr>
+      <tr>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+         <td>30/09/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
+
 ## Lista de Verificação - Itens do Planejamento Geral do projeto Grupo 5
+
+A tabela 2 mostra a lista de verificação do planejamento geral do projeto.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -21,10 +54,13 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, be
 | 9 \- Há gravação e o(s) registro(s) da atividade de priorização dos requisitos? | Sim |Versão 1.0 \- 30/09/2025 |
 | 10 \- A equipe deve elaborar itens de verificação do conteúdo da disciplina dessa etapa com referência bibliográfica da fonte, foto do texto da referência e autor (Perfil do usuário, elicitação de requitisos, priorização etc). | Incompleto |Versão 1.0 \- 30/09/2025 |
 
+<figcaption align="center">Tabela 2: Lista de inspeção elicitação de requisitos: Planejamento geral.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: André Barros Sales.</p></font>
 
 ## Lista de Verificação - Técnica de elicitação: Análise de documentos
+
+A tabela 3 mostra a lista de verificação da técnica de elicitação análise de documentação.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -39,10 +75,13 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, be
 | 9 \- A análise identificou quais tarefas ou macroprocessos devem ser explorados em maior profundidade? Se realizada em momentos intermediários do ciclo de vida do projeto.  | Sim | Versão 1.0 \- 30/09/2025 |
 | 10 \- Os documentos analisados foram organizados de forma que possam ser recuperados facilmente? | Sim | Versão 1.0 \- 30/09/2025 |
 
+<figcaption align="center">Tabela 3: Lista de inspeção elicitação de requisitos: Análise de documentação.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 ## Lista de Verificação - Técnica de elicitação: Brainstorming
+
+A tabela 4 mostra a lista de verificação da técnica de elicitação brainstorming.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -57,10 +96,15 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, be
 | 9 \- Os participantes foram informados no início da atividade sobre os objetivos e procedimentos que irão ocorrer?  | Sim | Versão 1.0 \- 30/09/2025 |
 | 10 \- O moderador repetiu a pergunta inicial ou as regras caso os participantes tenham se desviado dos objetivos? | Sim | Versão 1.0 \- 30/09/2025 |
 
+<figcaption align="center">Tabela 4: Lista de inspeção elicitação de requisitos: Brainstorming.</figcaption>
+
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Mota](https://github.com/mel14-hub) e [Luísa de Souza](https://github.com/luisa12ll). </p></font>
 
 
 ## Lista de Verificação - Técnica de elicitação: Questionário
+
+A tabela 5 mostra a lista de verificação da técnica de elicitação questionário.
+
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
 | 1 \- A formulação das perguntas e respostas evita ambiguidade e mal-entendidos? | Sim | Versão 1.0 \- 30/09/2025 |
@@ -74,9 +118,14 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, be
 | 9 \- Foram utilizadas escalas adequadas (Likert, diferencial semântico) para medir opiniões e atitudes? | Sim | Versão 1.0 \- 30/09/2025 |
 | 10 \- O questionário apresenta claramente o objetivo da pesquisa e as instruções de preenchimento? | Sim | Versão 1.0 \- 30/09/2025 |
 
+<figcaption align="center">Tabela 5: Lista de inspeção elicitação de requisitos: Questionário.</figcaption>
+
 <font size="3"><p style="text-align: center"> Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC)
 
 ## Lista de Verificação - Técnica de elicitação: Entrevista
+
+A tabela 6 mostra a lista de verificação da técnica de elicitação entrevista.
+
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
 | 1 \- A entrevista foi realizada diretamente com usuários para compreender suas necessidades? | Sim | Versão 1.0 \- 30/09/2025  |
@@ -90,9 +139,13 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, be
 | 9 \- As respostas dadas foram validadas ao final da entrevista? | Sim | Versão 1.0 \- 30/09/2025  |
 | 10 \- A entrevista ajudou a esclarecer ambiguidades nos requisitos? | Sim | Versão 1.0 \- 30/09/2025  |
 
+<figcaption align="center">Tabela 6: Lista de inspeção elicitação de requisitos: Entrevista.</figcaption>
+
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Luisa de Souza](https://github.com/Luisa12ll)
 
 ## Lista de Verificação - Técnica de priorização: In or Out
+
+A tabela 7 mostra a lista de verificação da técnica de priorização in or out.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -107,10 +160,14 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, be
 | 9 \- Foi definido claramente que a priorização tinha como foco a primeira release do produto? | Sim | Versão 1.0 - 30/09/2025|
 | 10 \- O método In or Out foi conduzido de forma que o processo fosse menos cansativo e mais motivador para o time? | Sim | Versão 1.0 - 30/09/2025 |
 
+<figcaption align="center">Tabela 7: Lista de inspeção priorização de requisitos: In or out.</figcaption>
+
 <font size="3"><p style="text-align: center"> Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC)
 
 
 ## Lista de Verificação - Técnica de priorização: MoSCoW
+
+A tabela 8 mostra a lista de verificação da técnica de priorização moscow.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -125,9 +182,13 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, be
 | 9 \- Caso Won´t: Os requisitos que não foram implementados podem ser incluídos em uma versão futura ou não serem implementados nunca de acordo com o cliente foram classificados como won´t? | Sim | Versão 1.0 - 30/09/2025|
 | 10 \- A pessoa interessada(cliente) tinha de fato conhecimento sobre o negócio? | Sim | Versão 1.0 - 30/09/2025|
 
+<figcaption align="center">Tabela 8: Lista de inspeção priorização de requisitos: moscow.</figcaption>
+
 <font size="3"><p style="text-align: center"> Fonte: Elaboração própria. [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
 ## Lista de Verificação - Técnica de priorização: $100
+
+A tabela 9 mostra a lista de verificação da técnica de priorização $100.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -140,9 +201,13 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, be
 |7 \- Os participantes usaram proporções para refletir diferenças de importância entre requisitos?  |Sim |  Versão 1.0 \- 30/09/2025 |
 |8 \- Foram considerados múltiplos stakeholders ao somar as alocações? | Sim |  Versão 1.0 \- 30/09/2025 |
 
+<figcaption align="center">Tabela 9: Lista de inspeção priorização de requisitos: $100.</figcaption>
+
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Luisa de Souza](https://github.com/Luisa12ll)
 
 ## Lista de Verificação - Técnica de priorização: Three-level Scale
+
+A tabela 10 mostra a lista de verificação da técnica de priorização three-level scale.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -158,6 +223,7 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, be
 | 10 \- O grupo de requisitos de mais alta prioridade que foram subdivididos, foram reajustados para se encaixarem em alta prioridade? | Sim | Versão 1.0 \- 30/09/2025 |
 | 11 \- Os requisitos de alta prioridade não dependem de requisitos de prioridade menor? | Sim | Versão 1.0 \- 30/09/2025 |
 
+<figcaption align="center">Tabela 10: Lista de inspeção priorização de requisitos: three-level scale.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
