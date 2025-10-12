@@ -29,4 +29,4 @@ A tabela 1 mostra a lista de verificação do léxico.
 
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
-| 1.0    | 11/10/2025 | 11/10/2025 | Adicionando lista de verificação  |[Geovanna Alves](https://github.com/GeovannaUmbelino), [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza Mota](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812)|[Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) |
+| 1.0    | 11/10/2025 | Adicionando lista de verificação  |[Geovanna Alves](https://github.com/GeovannaUmbelino), [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza Mota](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812)|[Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) |

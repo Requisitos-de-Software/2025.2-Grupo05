@@ -35,4 +35,4 @@ A tabela 1 mostra a lista de verificação do caso de uso.
 
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
-| 1.0    | 11/10/2025 | 11/10/2025 | Adicionando lista de verificação  | [Lara Souza Mota] e [Yan Matheus](https://github.com/Yanmatheus0812)|[Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) |
+| 1.0    | 11/10/2025 | Adicionando lista de verificação  | [Lara Souza Mota] e [Yan Matheus](https://github.com/Yanmatheus0812)|[Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) |
