@@ -46,20 +46,6 @@ nav:
       - Apresentações:
           - Apresentação 1: Entregas/Apresentações/Apresentacao1.md
           - Apresentacao 2: Entregas/Apresentações/Apresentacao2.md
-      - Listas de Verificações:
-          - Entrega 1:
-              - Rich Picture: Entregas/Listas_verificações/Entrega01/Rich_pictureLV.md
-          - Entrega 2:
-              - Técnica:
-                  - Analise de Documentos: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_analise_docs.md
-                  - Entrevista: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_entrevista.md
-                  - Questionário: Entregas/Listas_verificações/Entrega02/Lv_tecnica/QuestionarioLV.md
-                  - Brainstorming: Entregas/Listas_verificações/Entrega02/Lv_tecnica/BrainstormLV.md
-              - Priorização:
-                  - In or Out: Entregas/Listas_verificações/Entrega02/Lv_priorização/In_or_outLV.md
-                  - Tree Level Scale: Entregas/Listas_verificações/Entrega02/Lv_priorização/LV_Three_level.md
-                  - 100 Dólares: Entregas/Listas_verificações/Entrega02/Lv_priorização/100_dolaresLV.md
-                  - MoSCoW: Entregas/Listas_verificações/Entrega02/Lv_priorização/MoscowLV.md
 
   - Planejamento:
       - Metodologia: Planejamento/Metodologia.md
@@ -110,6 +96,17 @@ nav:
           - In or Out: Elicitação/Priorização/In_or_Out.md
           - $100 dólares: Elicitação/Priorização/100_dolares.md
           - MoSCoW: Elicitação/Priorização/Moscow.md
+      - Listas de verificação:
+          - Inspeções:
+                - Análise de documentação: Elicitação/LVs/elicitações/Lv_analise_docs.md
+                - Entrevista: Elicitação/LVs/elicitações/Lv_entrevista.md
+                - Questionário: Elicitação/LVs/elicitações/QuestionarioLV.md
+                - Brainstorming: Elicitação/LVs/elicitações/BrainstormLV.md
+          - Priorizações:
+                - Three-level scale: Elicitação/LVs/priorizações/LV_Three_level.md
+                - Moscow: Elicitação/LVs/priorizações/MoscowLV.md
+                - 100 dólares: Elicitação/LVs/priorizações/100_dolaresLV.md
+                - In or out: Elicitação/LVs/priorizações/In_or_outLV.md
 
   - Modelagem:
       - Cenários: Modelagem/Cenários.md
