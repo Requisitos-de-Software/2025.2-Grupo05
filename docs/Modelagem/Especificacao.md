@@ -84,10 +84,22 @@ Este documento segue o modelo **FURPS+**, organizando os requisitos de software 
 
 
 ## Requisitos Não Funcionais
+| Código | Categoria | Requisito Não Funcional | Descrição | Justificativa | Prioridade | Status | Autor |
+|--------|------------|-------------------------|------------|----------------|-------------|---------|--------|
+|[RQ3](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |  | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. |  |  |  |  |  |
+|[RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |  | O aplicativo deve ser fácil de usar e aprender suas funcionalidades. |  |  |  |  |  |
+|[RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)|  | O aplicativo deve ter uma linguagem simples adequada ao usuário. |  |  |  |  |  |
+|[RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)|  | O aplicativo deve carregar suas informações em no máximo 3 segundos. |  |  |  |  |  |
+|[RQ40](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | Usabilidade (U) | O aplicativo deve ser acessível (contraste em cores, suporte à Libras e auto-descrição). | Garantir que o aplicativo siga boas práticas de acessibilidade, oferecendo contraste adequado, suporte à tradução em Libras e auto-descrição para pessoas com deficiência visual. | Promover a inclusão digital e o cumprimento de normas de acessibilidade (Lei Brasileira de Inclusão e WCAG 2.1). | Alta | Sim|[Camila Silva](https://github.com/CamilaSilvaC)|
+|[RQ55](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)| Usabilidade (U) | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. | O sistema deve oferecer uma navegação intuitiva e mecanismos de busca eficientes que permitam localizar rapidamente qualquer funcionalidade. | Facilitar o uso e reduzir o tempo de aprendizado, melhorando a experiência do usuário. | Média | Não | [Yan Matheus](https://github.com/Yanmatheus0812) |
+
+Tabela 2 – Requisitos Não Funcionais classificados de acordo com o modelo FURPS+. <br>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>, <a href="https://github.com/mel14-hub">Lara Mota</a>,
+<a href="https://github.com/luisa12ll">Luisa de Souza</a>, <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 
 
 
-## Bibliografia
+## Referência bibliográfica
 
 > <a id="RP1" href="#tec1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf)>. Acesso em: 12 de outubro 2025. p. 27–30.
 
