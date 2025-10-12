@@ -28,7 +28,7 @@ Autor: <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, <a  href="htt
 
 
 ## Referências Bibliográficas
-Fonte : BRASIL. MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Diretoria de Tecnologia da Informação. Coordenação Geral de Sistemas. Especificação Suplementar: Sigla do Projeto - Nome do Projeto. Versão 1.0. Brasília, DF
+ BRASIL. MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Diretoria de Tecnologia da Informação. Coordenação Geral de Sistemas. Especificação Suplementar: Sigla do Projeto - Nome do Projeto. Versão 1.0. Brasília, DF
 
 # Histórico de Versões
 
