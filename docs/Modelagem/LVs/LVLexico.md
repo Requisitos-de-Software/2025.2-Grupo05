@@ -8,6 +8,8 @@ O objetivo dessa página é armazenar a lista de verificação do léxico.
 
 A tabela 1 mostra a lista de verificação do léxico.
 
+<figcaption align="center">Tabela 1: Lista de verificação léxico.</figcaption>
+
 | Itens | Fontes |Autor| Acesso | Fotos | 
 | :---- | ----- | :---: | :----: | :---: |
 | 1- O léxico procura descrever os símbolos de uma linguagem? | SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. Universidade de Brasília. P. 13. | [Yan Matheus](https://github.com/Yanmatheus0812) | 11/10/2025 | [Link](https://postimg.cc/qgM5WnMF) |
@@ -21,11 +23,15 @@ A tabela 1 mostra a lista de verificação do léxico.
 | 9-   Cada símbolo tem um ou mais impactos? | SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. Universidade de Brasília. P. 16. | [Geovanna Alves](https://github.com/GeovannaUmbelino) | 11/10/2025 | [Link](https://postimg.cc/jLvdtyzh) |
 | 10-   Em objetos foram definidos outros objetos com quais se relaciona? | SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. Universidade de Brasília. P. 17. | [Lara Souza Mota](https://github.com/mel14-hub) | 11/10/2025 | [Link](https://postimg.cc/PpmTcDX1) |
 
-<figcaption align="center">Tabela 1: Lista de verificação léxico.</figcaption>
+<font size="3"><p style="text-align: center">Autor:[Geovanna Alves](https://github.com/GeovannaUmbelino), [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Luísa de Souza](https://github.com/luisa12ll)  e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Geovanna Alves](https://github.com/GeovannaUmbelino), [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza Mota](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
-# Histórico de Versões
+
+## Referências Bibliográficas
+
+> <a id="RP1" href="#tec1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf)>. Acesso em: 11 de outubro de 2025. p. 12–20.
+
+## Histórico de Versões
 
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|

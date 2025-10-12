@@ -4,6 +4,48 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 3, be
 
 ## Inspeção 3
 
+## Lista de Inspeção - Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
+
+
+A tabela 1 mostra a lista de verificação da modelagem de requisitos.
+
+| O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
+| :---- | ----- | :---: |
+| 1 \- As especificações dos cenários para o projeto? | Sim | Versão 1.0 - 12/10/2025 | 
+| 2 \-Os léxicos possuem os tipos verbo, objeto, estado? | Sim |  Versão 1.0 - 12/10/2025|
+| 3 \- Os léxicos possuem ligações entre si. (hiper links)? | Não | Versão 1.0 - 12/10/2025|
+| 4 \- Sobre o Diagrama de caso de Uso, há uma legenda explicando os componentes do diagrama (notação)? | Sim | Versão 1.0 - 12/10/2025 |
+| 5 \- No diagrama de Caso de Uso há ao menos um caso de uso com pontos de extensão?  | Sim | Versão 1.0 - 12/10/2025|
+| 6 \- A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré- Condição, Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)? Todos os itens estão preenchidos?  | Sim | Versão 1.0 - 12/10/2025|
+| 7 \-  A gravação da participação do cliente e/ou persona na validação dos Léxicos?  | Sim | Versão 1.0 - 12/10/2025 |
+| 8 \- A gravação da participação do cliente e/ou persona na validação dos Cenários? | Sim | Versão 1.0 - 12/10/2025|
+| 9 \- A gravação da participação do cliente e/ou persona na validação do Diagrama de Casa de Uso e especificação do Caso de uso? | Sim | Versão 1.0 - 12/10/2025 |
+| 10 \- A gravação da participação do cliente e/ou persona na validação do Especificação Suplementar? | Sim| Versão 1.0 - 12/10/2025 |
+| 11 \- Cada cenário é rastreável (possui o requisito de origem e esse requisito possui uma origem em ao menos uma técnica de elicitação) (com hiperlink)?| Sim | Versão 1.0 - 12/10/2025 | 
+| 12 \- Cada especificação de Caso de uso é rastreável (possui o requisito de origem e esse requisito possui uma origem em ao menos uma técnica de elicitação) (com hiperlink)? | Sim |  Versão 1.0 - 12/10/2025|
+| 13 \- Cada RNF especificado na Especificação Suplementar é rastreável (possui o requisito de origem e esse requisito possui uma origem em ao menos uma técnica de elicitação)(com hiperlink) | Sim | Versão 1.0 - 12/10/2025|
+| 14 \- Na especificação suplementar, todos os RNF podem ser testáveis? | Sim | Versão 1.0 - 12/10/2025 |
+| 15 \- Na especificação suplementar, o documento especifica qual plataforma o aplicativo pode ser executado (versão)? | Não Amplicável | Versão 1.0 - 12/10/2025|
+| 16 \- Cada item da lista de verificação de Cenários possui uma referência, com foto do texto (destacado) de origem do item?  | Sim | Versão 1.0 - 12/10/2025|
+| 17 \-  Cada item da lista de verificação de Diagrama de Caso de Uso possui uma referência, com foto do texto (destacado) de origem do item?  | Sim | Versão 1.0 - 12/10/2025 |
+| 18 \-  Na lista de verificação há um item para verificar o ator principal e ator secundário no diagrama de caso de uso? Há um texto explicando a diferença entre os dois para o avaliador? | Sim | Versão 1.0 - 12/10/2025|
+| 19 \- Na lista de verificação há um item para verificar se o ator principal está do lado esquerdo do sistema no diagrama de caso de uso? Há uma referência bibliográfica da fonte e foto do texto (destacado) da referência explicando esse item de avaliação? | Sim | Versão 1.0 - 12/10/2025 |
+| 20 \- Cada item da lista de verificação da Especificação do Caso de Uso possui uma referência, com foto do texto (destacado) de origem do item? | Sim| Versão 1.0 - 12/10/2025 |
+| 21 \- Cada item da lista de verificação da Especificação Suplementar possui uma referência, com foto do texto (destacado) de origem do item? | Sim | Versão 1.0 - 12/10/2025 | 
+| 22 \-  A gravação da inspeção do próprio grupo e do grupo +1? | Sim |  Versão 1.0 - 12/10/2025|
+| 23 \- Na lista de verificação dos Cenários, cada item de conteúdo da disciplina possui referência bibliográfica da fonte e foto do texto da referência e o autor do item? | Sim | Versão 1.0 - 12/10/2025|
+| 24 \- Na lista de verificação do Diagrama de Caso de Uso e da Especificação do Diagrama de Caso de Uso, cada item de conteúdo da disciplina possui referência bibliográfica da fonte e foto do texto da referência e o autor do item? | Sim | Versão 1.0 - 12/10/2025 |
+| 25 \- Na lista de verificação da Especificação Suplementar, cada item de conteúdo da disciplina possui referência bibliográfica da fonte e foto do texto da referência e o autor do item? | Sim | Versão 1.0 - 12/10/2025|
+| 26 \- Foi realizada a inspeção do grupo +1? | Sim | Versão 1.0 - 12/10/2025|
+| 27 \-  Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento dos Léxicos1? | Não Amplicável | Versão 1.0 - 12/10/2025 |
+| 28 \-  Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento dos Cenários1? | Não Amplicável | Versão 1.0 - 12/10/2025|
+| 29 \- Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento da Especificação Suplementar1? | Não Amplicável | Versão 1.0 - 12/10/2025 |
+
+
+<figcaption align="center">Tabela 1: Lista de inspeção modelagem de requisitos: Cenários , Léxico, Use Case, Especificação Suplementar.</figcaption>
+
+<font size="3"><p style="text-align: center">Fonte: André Barros Sales.</p></font>
+
 ## Lista de Inspeção - Cenários
 
 
@@ -22,7 +64,7 @@ A tabela 1 mostra a lista de verificação da técnica.
 | 9 \- O cenário inclui a sequência de ações realizadas pelo ator para atingir o objetivo? | Sim | Versão 1.0 - 12/10/2025 |
 | 10 \-O cenário é rico em detalhes contextuais, evitando abstrações? | Sim| Versão 1.0 - 12/10/2025 |
 
-<figcaption align="center">Tabela 1: Lista de inspeção cenários.</figcaption>
+<figcaption align="center">Tabela 2: Lista de inspeção cenários.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza Mota](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
@@ -43,7 +85,7 @@ A tabela 2 mostra a lista de verificação do léxico.
 | 9-   Cada símbolo tem um ou mais impactos? | Sim | Versão 1.0 - 12/10/2025 |
 | 10-   Em objetos foram definidos outros objetos com quais se relaciona?| Não aplicável | Versão 1.0 - 12/10/2025 |
 
-<figcaption align="center">Tabela 2: Lista de inspeção léxico.</figcaption>
+<figcaption align="center">Tabela 3: Lista de inspeção léxico.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Geovanna Alves](https://github.com/GeovannaUmbelino), [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza Mota](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
@@ -65,7 +107,7 @@ A tabela 3 mostra a lista de verificação da técnica.
 | 9 \- A seção Desempenho esboça as características do desempenho do sistema, incluindo tempos de resposta específicos e o rendimento do processamento (transações/segundo)? | Sim | Versão 1.0 - 12/10/2025 |
 | 10 \-Os requisitos de Suportabilidade indicam padrões de codificação, convenções de nomenclatura ou bibliotecas de classe para aprimorar a capacidade de manutenção? | Não aplicável | Versão 1.0 - 12/10/2025 |
 
-<figcaption align="center">Tabela 3: Lista de inspeção especificação suplementar.</figcaption>
+<figcaption align="center">Tabela 4: Lista de inspeção especificação suplementar.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza Mota](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
@@ -93,15 +135,17 @@ A tabela 4 mostra a lista de verificação do caso de uso.
 | 15- Os pontos de extensão são versões detalhadas dos relacionamentos de extensão?  | Sim | Versão 1.0 - 12/10/2025 |
 
 
-<figcaption align="center">Tabela 4: Lista de verificação caso de uso.</figcaption>
+<figcaption align="center">Tabela 5: Lista de verificação caso de uso.</figcaption>
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Lara Souza Mota](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Geovanna Alves](https://github.com/GeovannaUmbelino), [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza Mota](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 ## Bibliografia
-> <a id="RP1" href="#tec1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a…] Acesso em: 11 de outubro de 2025. p. 27–30. <br>
-BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário [livro eletrônico]. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Cap. 8.
-BRASIL. MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Diretoria de Tecnologia da Informação. Coordenação Geral de Sistemas. Especificação Suplementar: Sigla do Projeto - Nome do Projeto. Versão 1.0. Brasília, DF
-Lucid Software Português, Youtube. “Tutorial de caso de uso UML”. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 04 de setembro 2025.
+> <a id="RP1" href="#tec1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: 
+<[https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf)>. Acesso em: 06 de outubro de 2025. p. 27–30.<br>
+> <a id="RP1" href="#TEC">1.</a> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário [livro eletrônico]. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Cap. 8.
+> <a id="RP1" href="#tec">1.</a> BRASIL. MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Diretoria de Tecnologia da Informação. Coordenação Geral de Sistemas. Especificação Suplementar: Sigla do Projeto - Nome do Projeto. Versão 1.0. Brasília, DF. <br>
+> <a id="RP1" href="#TEC2">1.</a> Lucid Software Português, Youtube. “Tutorial de caso de uso UML”.Disponível em: 
+<[https://www.youtube.com/watch?v=ab6eDdwS3rA](https://www.youtube.com/watch?v=ab6eDdwS3rA)>. Acesso em: 26 set. 2025.
 
 ## Histórico de Versões
 

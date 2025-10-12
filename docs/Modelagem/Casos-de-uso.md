@@ -9,6 +9,8 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 
 A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o horário e local da aplicação da técnica.
 
+<font size="3"><p style="text-align: center">Tabela 1: Participantes Casos de uso</p></font>
+
 <div align="center">
   <table>
     <thead>
@@ -47,9 +49,7 @@ A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o 
   </table>
 </div>
 
-Tabela 1: Participantes Casos de uso
-
-Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
 
 ## Metodologia
 
@@ -57,19 +57,21 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ![Elementos](../img/elementos.png)
 
+Fonte: 
+
 <font size="3"><p style="text-align: center"><b>Figura 2</b>: Elementos das relações do diagrama de casos de uso</p></font>
 
 ![Elementos - relações](../img/elementos_setas.png)
 
 
-Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos),
+Fonte: [Lara Souza](https://github.com/mel14-hub) e [Pedro Henrique](https://github.com/pedrohpsantos)
 
 
 ## Diagrama de Casos de Uso
 
 A figura 3 demonstra o diagrama de casos de uso.
 
-<font size="3"><p style="text-align: center">Figura 3: Casos de uso do app Jornada do estudante</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 3</b>: Casos de uso do app Jornada do estudante</p></font>
 
 ![Casos de uso](../img/casoUso.png)
 
@@ -281,6 +283,8 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github
 ### Participantes 
 A seguir temos a tabela 16, onde indica todos os participantes da sessão do caso de uso, o horário e local da aplicação da técnica.
 
+<font size="3"><p style="text-align: center">Tabela 16: Participantes Casos de uso</p></font>
+
 <div align="center">
   <table>
     <thead>
@@ -319,9 +323,7 @@ A seguir temos a tabela 16, onde indica todos os participantes da sessão do cas
   </table>
 </div>
 
-Tabela 16: Participantes Casos de uso
-
-Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
 
 ### Video 
 
@@ -331,6 +333,8 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ### Participantes 
 A seguir temos a tabela 17, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O estudante corresponde ao perfil de estudante 2
+
+<font size="3"><p style="text-align: center">Tabela 17: Validação Caso de uso</p></font>
 
 <div align="center">
   <table>
@@ -363,9 +367,7 @@ A seguir temos a tabela 17, onde indica todos os participantes da validação da
   </table>
 </div>
 
-Tabela 17: Validação Caso de uso
-
-Autor: [Luisa de Souza](https://github.com/luisa12ll)
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/luisa12ll">Luísa de Souza</a></font>
 
 ### Video 
 

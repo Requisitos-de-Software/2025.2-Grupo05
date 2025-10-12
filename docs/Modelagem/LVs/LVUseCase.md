@@ -8,6 +8,8 @@ O objetivo dessa página é armazenar a lista de verificação do caso de uso.
 
 A tabela 1 mostra a lista de verificação do caso de uso.
 
+<figcaption align="center">Tabela 1: Lista de verificação caso de uso.</figcaption>
+
 | Itens | Fontes | Autor | Acesso | Fotos | 
 | :---- | ----- | :---: | :----: | :---: |
 | 1- O sistema é representado por um retângulo? | Lucid Software Português, Youtube. “Tutorial de caso de uso UML”, minuto 1:49. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. | [Lara Souza Mota](https://github.com/mel14-hub) | 26/09/2025 | [Link](https://i.postimg.cc/8zHN9Bkb/1.png) |
@@ -27,12 +29,16 @@ A tabela 1 mostra a lista de verificação do caso de uso.
 | 15- Os pontos de extensão são versões detalhadas dos relacionamentos de extensão? | Lucid Software Português, Youtube. “Tutorial de caso de uso UML”, minuto 11:56. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. | [Yan Matheus](https://github.com/Yanmatheus0812) | 26/09/2025 | [Link](https://i.postimg.cc/vT6KyMWf/15.png) |
 
 
-<figcaption align="center">Tabela 1: Lista de verificação caso de uso.</figcaption>
+<font size="3"><p style="text-align: center">Fonte:[Geovanna Alves](https://github.com/GeovannaUmbelino), [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Luísa de Souza](https://github.com/luisa12ll)  e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Lara Souza Mota] e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
-# Histórico de Versões
+## Referências Bibliográficas
+
+> <a id="RP1" href="#TEC2">1.</a> Lucid Software Português, Youtube. “Tutorial de caso de uso UML”.Disponível em: 
+<[https://www.youtube.com/watch?v=ab6eDdwS3rA](https://www.youtube.com/watch?v=ab6eDdwS3rA)>. Acesso em: 26 set. 2025.
+
+## Histórico de Versões
 
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
-| 1.0    | 11/10/2025 | Adicionando lista de verificação  | [Lara Souza Mota] e [Yan Matheus](https://github.com/Yanmatheus0812)|[Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) |
+| 1.0    | 11/10/2025 | Adicionando lista de verificação  |  [Lara Souza Mota](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812)|[Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) |
