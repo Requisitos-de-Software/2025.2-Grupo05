@@ -334,7 +334,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ12,RQ14,RQ35,RQ36,RQ57,RQ58,RQ60
 
-Tabela 18 Léxico 17: Comunicação e Interação
+Tabela 19 -  Léxico 17: Comunicação e Interação
 
 | L17| Descrição |
 |---------|---------------|
@@ -564,7 +564,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ## Gravação
 
-
+### Participantes
 A seguir temos a tabela 33, onde indica todos os participantes do léxico, o horário e local da aplicação da técnica.
 
 <div align="center">
@@ -609,10 +609,14 @@ Tabela 33: Participantes do léxico
 
 Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
+### Vídeo
+A seguir, apresentamos a gravação referente à elaboração dos **Léxicos**.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHz6GUU4eZA?si=alxyUcacnnGON7OH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Verificação
 
+### Participantes
 A seguir temos a tabela 34, onde indica todos os participantes do léxico, o horário e local da aplicação da técnica.
 
 <div align="center">
@@ -650,6 +654,9 @@ A seguir temos a tabela 34, onde indica todos os participantes do léxico, o hor
 Tabela 34: Participantes do video de verificação do léxico
 
 Autor: [Luísa de Souza](https://github.com/luisa12ll)
+
+### Vídeo
+A seguir, apresentamos a gravação referente à **verificação dos Léxicos**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OqVoQyMTJVY?si=eyXuwIGFQQUTAbjp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
