@@ -29,7 +29,7 @@ Tabela 1 – Descrição dos itens dos cenários.
 | Exceção    | É o tratamento para uma situação excepcional ou de erro.                                                               |
 
 <p style="text-align: center; font-size: 14px;">
-Fonte: <a> Penha, Igor 2023 </a>.
+Fonte: <a>  </a>.
 </p>
 
 Para facilitar o trabalho em equipe, o grupo decidiu dividir de dividir em duplas, sendo assim cada uma deve elaborar e apresentar 8 cenários completos. Essa divisão permitiu a participação equilibrada e possibilitou uma análise mais detalhada de cada situação, promovendo uma compreensão coletiva dos requisitos e o desenvolvimento colaborativo da documentação.
@@ -77,7 +77,7 @@ A seguir temos a tabela 2, onde indica todos os participantes da elaboração do
   </table>
 </div>
 
-<font size="3"><p style="text-align: center"> Autor: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a></font>
+<font size="3"><p style="text-align:center"> Autor: <a href="https://github.com/CamilaSilvaC"> Camila Silva</a></font>
 
 
 ### Cenário 1: Atualizações de pagamento do Pé-de-Meia
@@ -90,7 +90,7 @@ A seguir temos a tabela 2, onde indica todos os participantes da elaboração do
 | Contexto   | Estudante com benefício ativo.                                                                             |
 | Atores     | Estudante, aplicativo                                                                                      |
 | Recursos   | Dados financeiros do benefício                                                                             |
-| Episódios  | 1. Usuário acessa a seção de pagamentos. <br>2. Sistema mostra últimas atualizações.                       |
+| Episódios  | 1. Estudante acessa a seção de pagamentos. <br>2. Sistema mostra últimas atualizações.                       |
 | Restrições | Dados atrasados                                                                                            |
 | Exceção    | Falha na atualização do sistema                                                                            |
 
@@ -107,7 +107,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 | Contexto   | Estudante matriculado.                                                                                      |
 | Atores     | Estudante, aplicativo                                                                                       |
 | Recursos   | Base de dados acadêmica                                                                                     |
-| Episódios  | 1. Usuário acessa informações da disciplina. <br>2. Sistema exibe professor responsável.                    |
+| Episódios  | 1. Estudante acessa informações da disciplina. <br>2. Sistema exibe professor responsável.                    |
 | Restrições | Dados indisponíveis                                                                                         |
 | Exceção    | Professor não cadastrado                                                                                    |
 
@@ -124,7 +124,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 | Contexto   | Estudante matriculado.                                                                                      |
 | Atores     | Estudante, aplicativo                                                                                       |
 | Recursos   | Base de horários e salas                                                                                    |
-| Episódios  | 1. Usuário seleciona disciplina. <br>2. Sistema mostra horário e sala.                                      |
+| Episódios  | 1. Estudante seleciona disciplina. <br>2. Sistema mostra horário e sala.                                      |
 | Restrições | Falta de atualização                                                                                        |
 | Exceção    | Informações incorretas                                                                                      |
 
@@ -141,7 +141,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 | Contexto   | Estudante com disciplinas cadastradas.                                                                      |
 | Atores     | Estudante, aplicativo                                                                                       |
 | Recursos   | Banco de dados de avaliações                                                                                |
-| Episódios  | 1. Usuário acessa disciplina. <br>2. Sistema exibe informações de trabalhos.                                |
+| Episódios  | 1. Estudante acessa disciplina. <br>2. Sistema exibe informações de trabalhos.                                |
 | Restrições | Dados desatualizados                                                                                        |
 | Exceção    | Avaliações não lançadas                                                                                     |
 
@@ -152,13 +152,13 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 
 | Item       | Descrição                                                 |
 | ---------- | --------------------------------------------------------- |
-| ID         | [RQ20](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Título     | Visualização de notas das avaliações e trabalhos          |
+| ID         | [RQ20](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Objetivo   | Mostrar notas obtidas pelo estudante.                     |
 | Contexto   | Estudante com avaliações lançadas.                        |
 | Atores     | Estudante, aplicativo                                     |
 | Recursos   | Base de notas                                             |
-| Episódios  | 1. Usuário acessa disciplina. <br>2. Sistema exibe notas. |
+| Episódios  | 1. Estudante acessa disciplina. <br>2. Sistema exibe notas. |
 | Restrições | Notas não lançadas                                        |
 | Exceção    | Falha na consulta                                         |
 
@@ -169,13 +169,13 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 
 | Item       | Descrição                                                            |
 | ---------- | -------------------------------------------------------------------- |
-| ID         | [RQ23](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Título     | Emissão de histórico                                                 |
+| ID         | [RQ23](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Objetivo   | Permitir que o estudante obtenha seu histórico acadêmico.            |
 | Contexto   | Estudante cadastrado.                                                |
 | Atores     | Estudante, aplicativo                                                |
 | Recursos   | Dados acadêmicos                                                     |
-| Episódios  | 1. Usuário acessa opção de histórico.<br> 2. Sistema gera documento. |
+| Episódios  | 1. Estudante acessa opção de histórico.<br> 2. Sistema gera documento. |
 | Restrições | Dados incompletos                                                    |
 | Exceção    | Falha na geração do histórico                                        |
 
@@ -186,13 +186,13 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 
 | Item       | Descrição                                                        |
 | ---------- | ---------------------------------------------------------------- |
-| ID         | [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Título     | Visualização de boletim                                          |
+| ID         | [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Objetivo   | Permitir que o estudante veja seu boletim.                       |
 | Contexto   | Estudante cadastrado.                                            |
 | Atores     | Estudante, aplicativo                                            |
 | Recursos   | Dados acadêmicos                                                 |
-| Episódios  | 1. Usuário acessa opção de boletim. <br> 2. Sistema exibe notas. |
+| Episódios  | 1. Estudante acessa opção de boletim. <br> 2. Sistema exibe notas. |
 | Restrições | Notas não lançadas                                               |
 | Exceção    | Falha na consulta                                                |
 
@@ -203,8 +203,8 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 
 | Item       | Descrição                                                                         |
 | ---------- | --------------------------------------------------------------------------------- |
-| ID         | [RQ29](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Título     | Notificação de parcelas do Pé-de-Meia                                             |
+| ID         | [RQ29](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Objetivo   | Informar parcelas e valores do benefício.                                         |
 | Contexto   | Estudante beneficiário do programa.                                               |
 | Atores     | Estudante, aplicativo                                                             |
@@ -220,14 +220,13 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------                          |
-| ID         | [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)|
 | Título     |  Visualização do valor total  do auxílio                                                                   |
-| Objetivo   | Permitir que o usuário veja o valor total recebido do auxílio.                                             |
+| ID         | [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)|
+| Objetivo   | Permitir que o estudante veja o valor total recebido do auxílio.                                             |
 | Contexto   | Estudante beneficiário acessando informações financeiras do programa.                                      |
-| Atores     | Estudante, aplicativo                                                                                      |
+| Atores     | Estudante beneficiário, aplicativo                                                                                      |
 | Recursos   | Banco de dados de pagamentos, interface de exibição de valores.                                            |
-| Episódios  | 1. Usuário acessa a área de benefícios. <br> 2. Sistema recupera o valor total acumulado. <br> 3. Valor é 
-exibido ao usuário.                                                                                                       |
+| Episódios  | 1. Estudante acessa a área de benefícios. <br> 2. Sistema recupera o valor total acumulado. <br> 3. Valor é exibido ao estudante.|
 | Restrições | Necessidade de conexão com o servidor do programa.                                                         |
 | Exceção    |   Falha na recuperação de dados financeiros.                                                               |
 
@@ -239,14 +238,13 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------                          |
-| ID         | [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)|
 | Título     | Visualização da conta bancária cadastrada                                                                  |
+| ID         | [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)|
 | Objetivo   | Exibir os dados da conta bancária onde o auxílio é depositado.                                             |
 | Contexto   | Estudante beneficiário consultando suas informações bancárias.                                             |
-| Atores     | Estudante, aplicativo                                                                                      |
-| Recursos   | Base de dados bancária, autenticação do usuário                                                            |
-| Episódios  | 1. Usuário acessa o menu “Conta bancária”. <br> 2. Sistema recupera os dados cadastrados. <br> 3. 
-Informações são exibidas na tela.                                                                                         |
+| Atores     | Estudante beneficiário, aplicativo                                                                                      |
+| Recursos   | Base de dados bancária, autenticação do estudante                                                            |
+| Episódios  | 1. Estudante acessa o menu “Conta bancária”. <br> 2. Sistema recupera os dados cadastrados. <br> 3. Informações são exibidas na tela. |
 | Restrições | Informações sensíveis devem ser parcialmente ocultadas (ex: número da conta).                              |
 | Exceção    | Conta bancária não encontrada ou não cadastrada.                                                           |
 
@@ -258,13 +256,13 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 
 | Item       | Descrição                                                                                                               |
 | ---------- | ---------------------------------------------------------------------------------                                       |
-| ID         | [RQ34](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)             |
 | Título     | Visualização do dia de pagamento do auxílio                                                                             |
-| Objetivo   | Informar ao usuário a data prevista para o pagamento do benefício.                                                      |
+| ID         | [RQ34](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)             |
+| Objetivo   | Informar ao estudante a data prevista para o pagamento do benefício.                                                      |
 | Contexto   | Estudante beneficiário acessando informações sobre o cronograma de pagamentos.                                          |
-| Atores     | Estudante, aplicativo                                                                                                   |
+| Atores     | Estudante beneficiário, aplicativo                                                                                                   |
 | Recursos   | Base de dados de cronogramas                                                                                            |
-| Episódios  | 1. Usuário acessa a aba “Pagamentos”. <br> 2. Sistema busca a próxima data de pagamento. <br> 3. Data é exibida na tela.|
+| Episódios  | 1. Estudante acessa a aba “Pagamentos”. <br> 2. Sistema busca a próxima data de pagamento. <br> 3. Data é exibida na tela.|
 | Restrições | Datas sujeitas a alteração conforme calendário do programa.                                                             |
 | Exceção    | Data de pagamento indisponível.                                                                                         |
 
@@ -276,13 +274,13 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 
 | Item       | Descrição                                                                                                               |
 | ---------- | ---------------------------------------------------------------------------------                                       |
-| ID         | [RQ35](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)             |
 | Título     | Acesso ao fórum de dúvidas                                                                                              |
-| Objetivo   | Permitir que o usuário participe de discussões e tire dúvidas sobre o auxílio.                                          |
+| ID         | [RQ35](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)             |
+| Objetivo   | Permitir que o estudante participe de discussões e tire dúvidas sobre o auxílio.                                          |
 | Contexto   | Estudante buscando suporte e informações sobre o benefício.                                                             |
 | Atores     | Estudante,aplicativo                                                                                                    |
 | Recursos   | Plataforma de fórum, sistema de login, conexão com internet                                                             |
-| Episódios  | 1. Usuário acessa o menu “Fórum de dúvidas”. <br> 2. Sistema exibe tópicos disponíveis.  <br> 3. Usuário interage com as postagens.                                                                                                                             |
+| Episódios  | 1. Estudante acessa o menu “Fórum de dúvidas”. <br> 2. Sistema exibe tópicos disponíveis.  <br> 3. Estudante interage com as postagens.|
 | Restrições | Requer autenticação.                                                                                                    |
 | Exceção    | Fórum temporariamente fora do ar.                                                                                       |
 
@@ -294,13 +292,13 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 
 | Item       | Descrição                                                                                                          | 
 | ---------- | ---------------------------------------------------------------------------------                                  |
-| ID         | [RQ36](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)        |
 | Título     | Atendimento em canal de conversa                                                                                   |
-| Objetivo   | Possibilitar que o usuário receba atendimento via chat sobre o auxílio.                                            |
+| ID         | [RQ36](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)        |
+| Objetivo   | Possibilitar que o estudante receba atendimento via chat sobre o auxílio.                                            |
 | Contexto   | Estudante com dúvidas ou problemas relacionados ao benefício.                                                      |
 | Atores     | Estudante, atendente virtual ou humano, aplicativo                                                                 |
 | Recursos   | Sistema de chat, base de dados de atendimento, conexão à internet                                                  |
-| Episódios  | 1. Usuário acessa o canal de conversa. <br> 2. Sistema inicia sessão de chat. <br> 3. Usuário envia dúvida e recebe resposta.                                                                                                                         |
+| Episódios  | 1. Estudante acessa o canal de conversa. <br> 2. Sistema inicia sessão de chat. <br> 3. Estudante envia dúvida e recebe resposta.|
 | Restrições | Disponibilidade limitada a horários de atendimento.                                                                |
 | Exceção    | Chat indisponível ou sem atendentes disponíveis.                                                                   |
 
@@ -312,13 +310,13 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 
 | Item       | Descrição                                                                                                                 |
 | ---------- | ---------------------------------------------------------------------------------                                         |
-| ID         | [RQ37](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)               |
 | Título     | Visualização de eventos em calendário                                                                                     |
-| Objetivo   | Permitir ao usuário consultar as datas de eventos importantes.                                                            |
+| ID         | [RQ37](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)               |
+| Objetivo   | Permitir ao estudante consultar as datas de eventos importantes.                                                            |
 | Contexto   | Estudante interessado em eventos escolares.                                                                               |
 | Atores     | Estudante, aplicativo                                                                                                     |
 | Recursos   | Sistema de calendário, base de dados de eventos                                                                           |
-| Episódios  | 1. Usuário acessa o menu “Calendário”. <br> 2. Sistema exibe eventos programados. <br> 3. Usuário seleciona um evento para mais detalhes.                                                                                                                           |
+| Episódios  | 1. Estudante acessa o menu “Calendário”. <br> 2. Sistema exibe eventos programados. <br> 3. Estudante seleciona um evento para mais detalhes.|
 | Restrições | Eventos precisam estar previamente cadastrados.                                                                           |
 | Exceção    | Nenhum evento disponível para o período selecionado.                                                                      |
 
@@ -330,13 +328,13 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 
 | Item       | Descrição                                                                                                               |
 | ---------- | ---------------------------------------------------------------------------------                                       |
-| ID         | [RQ41](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)             |
 | Título     | Ranqueamento de matérias por nota                                                                                       |
+| ID         | [RQ41](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)             |
 | Objetivo   | Exibir uma lista das matérias do estudante ordenadas por desempenho.                                                    |
 | Contexto   | Estudante acompanhando seu rendimento escolar.                                                                          |
 | Atores     | Estudante, aplicativo                                                                                                   |
 | Recursos   | Base de dados de notas, sistema de ordenação e exibição                                                                 |
-| Episódios  | 1. Usuário acessa a aba “Desempenho”. <br> 2. Sistema calcula e ordena as matérias por nota. <br> 3. Resultado é exibido em forma de ranking.                                                                                                                   |
+| Episódios  | 1. Estudante acessa a aba “Desempenho”. <br> 2. Sistema calcula e ordena as matérias por nota. <br> 3. Resultado é exibido em forma de ranking.|
 | Restrições | Requer atualização periódica das notas.                                                                                 |
 | Exceção    | Dados de notas incompletos ou inconsistentes.                                                                           |
 
@@ -348,13 +346,13 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 
 | Item       | Descrição                                                                                                              |
 | ---------- | ---------------------------------------------------------------------------------                                      |
-| ID         | [RQ44](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)            |
 | Título     | Edição de informações bancárias pelo gov.br                                                                            |
-| Objetivo   | Permitir que o usuário altere suas informações bancárias por meio do portal gov.br.                                    |
+| ID         | [RQ44](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)            |
+| Objetivo   | Permitir que o estudante altere suas informações bancárias por meio do portal gov.br.                                    |
 | Contexto   | Estudante que precisa atualizar sua conta bancária vinculada ao auxílio.                                               |
-| Atores     | Estudante, aplicativo, sistema gov.br                                                                                  |
+| Atores     | Estudante beneficiário, aplicativo, sistema gov.br                                                                                  |
 | Recursos   | Integração com gov.br, autenticação segura                                                                             |
-| Episódios  | 1. Usuário acessa a opção “Editar dados bancários”. <br> 2. Sistema redireciona para o gov.br.  <br> 3. Usuário realiza login e faz a atualização.                                                                                                            |
+| Episódios  | 1. Estudante acessa a opção “Editar dados bancários”. <br> 2. Sistema redireciona para o gov.br.  <br> 3. Estudante realiza login e faz a atualização. |
 | Restrições | A alteração só é válida após confirmação no gov.br.                                                                    |
 | Exceção    | Erro na integração com o gov.br ou falha de autenticação.                                                              |
 
@@ -368,11 +366,11 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Título     | Inserir atividades na agenda                                                                                                                     |
 | ID         | [R47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                                       |
-| Objetivo   | Permitir que o usuário registre novas atividades.                                                                                                |
-| Contexto   | Usuário cadastrado.                                                                                                                              |
-| Atores     | Usuário, aplicativo                                                                                                                              |
+| Objetivo   | Permitir que o estudante registre novas atividades.                                                                                                |
+| Contexto   | Estudante cadastrado.                                                                                                                              |
+| Atores     | Estudante, aplicativo                                                                                                                              |
 | Recursos   | Agenda digital                                                                                                                                   |
-| Episódios  | 1. Usuário abre agenda. <br>2. Seleciona opção de adicionar atividade. <br>3. Preenche título, descrição e data/hora. <br>4. 4. Salva atividade. |
+| Episódios  | 1. Estudante abre agenda. <br>2. Seleciona opção de adicionar atividade. <br>3. Preenche título, descrição e data/hora. <br>4. Salva atividade. |
 | Restrições | Dados incompletos                                                                                                                                |
 | Exceção    | Falha ao salvar atividade                                                                                                                        |
 
@@ -386,11 +384,11 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Editar atividades na agenda                                                                                |
 | ID         | [R48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-| Objetivo   | Permitir que o usuário modifique atividades existentes.                                                    |
-| Contexto   | Usuário com atividades cadastradas.                                                                        |
-| Atores     | Usuário, aplicativo                                                                                        |
+| Objetivo   | Permitir que o estudante modifique atividades existentes.                                                    |
+| Contexto   | Estudante com atividades cadastradas.                                                                        |
+| Atores     | Estudante, aplicativo                                                                                        |
 | Recursos   | Agenda digital                                                                                             |
-| Episódios  | 1. Usuário acessa atividade existente. <br>2. Faz alterações. <br>3. Salva mudanças.                       |
+| Episódios  | 1. Estudante acessa atividade existente. <br>2. Faz alterações. <br>3. Salva mudanças.                       |
 | Restrições | Falta de internet                                                                                          |
 | Exceção    | Falha ao atualizar atividade                                                                               |
 
@@ -404,32 +402,32 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | ---------- | -------------------------------------------------------------------------------------------------------------------- |
 | Título     | Excluir atividades na agenda                                                                                         |
 | ID         | [R49](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)           |
-| Objetivo   | Permitir que o usuário remova atividades da agenda.                                                                  |
-| Contexto   | Usuário com atividades cadastradas.                                                                                  |
-| Atores     | Usuário, aplicativo                                                                                                  |
+| Objetivo   | Permitir que o estudante remova atividades da agenda.                                                                  |
+| Contexto   | Estudante com atividades cadastradas.                                                                                  |
+| Atores     | Estudante, aplicativo                                                                                                  |
 | Recursos   | Agenda digital                                                                                                       |
-| Episódios  | 1. Usuário abre agenda. <br>2. Usuário acessa atividade. <br>3. Seleciona excluir. <br>4. Sistema confirma exclusão. |
+| Episódios  | 1. Estudante abre agenda. <br>2. Estudante acessa atividade. <br>3. Seleciona excluir. <br>4. Sistema confirma exclusão. |
 | Restrições | Falha de conexão                                                                                                     |
 | Exceção    | Atividade não removida                                                                                               |
 
 Tabela 21 – Cenário de excluir atividades na agenda <br>
 Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 <a href="https://github.com/luisa12ll">Luisa de Souza</a>
-### Cenário 20: Inserir horário e data na atividade
+### Cenário 20: Inserir horário e data da atividade
 
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
-| Título     | Inserir horário e data na atividade                                                                        |
+| Título     | Inserir horário e data da atividade                                                                        |
 | ID         | [R51](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-| Objetivo   | Permitir que o usuário defina data e horário de cada atividade.                                            |
-| Contexto   | Usuário adicionando ou editando atividade.                                                                 |
-| Atores     | Usuário, aplicativo                                                                                        |
+| Objetivo   | Permitir que o estudante defina data e horário de cada atividade.                                            |
+| Contexto   | Estudante adicionando ou editando atividade.                                                                 |
+| Atores     | Estudante, aplicativo                                                                                        |
 | Recursos   | Agenda digital                                                                                             |
-| Episódios  | 1. Usuário seleciona atividade. <br>2. Define data e horário. <br>3. Salva alterações.                     |
+| Episódios  | 1. Estudante seleciona atividade. <br>2. Define data e horário. <br>3. Salva alterações.                     |
 | Restrições | Data/hora no passado ou conflito de horários                                                               |
 | Exceção    | Falha ao salvar atividade                                                                                  |
 
-Tabela 22 – Cenário de inserir horário e data na atividade_ <br>
+Tabela 22 – Cenário de inserir horário e data na atividade<br>
 Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 <a href="https://github.com/luisa12ll">Luisa de Souza</a>
 
@@ -460,7 +458,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Contexto   | Estudante formado e cadastrado.                                                                            |
 | Atores     | Estudantes, aplicativo                                                                                     |
 | Recursos   | Dados acadêmicos, gerador de diploma                                                                       |
-| Episódios  | 1. Usuário solicita diploma. <br>2. Sistema gera documento. <br>3. Estudante salva ou imprime.             |
+| Episódios  | 1. Estudante solicita diploma. <br>2. Sistema gera documento. <br>3. Estudante salva ou imprime.             |
 | Restrições | Sistema indisponível                                                                                       |
 | Exceção    | Falha na geração do diploma                                                                                |
 
@@ -474,11 +472,11 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização de certificados                                                                               |
 | ID         | [R61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-| Objetivo   | Permitir que o usuário veja certificados de cursos e atividades.                                           |
+| Objetivo   | Permitir que o estudante veja certificados de cursos e atividades.                                           |
 | Contexto   | Estudante cadastrado.                                                                                      |
 | Atores     | Estudantes, aplicativo                                                                                     |
 | Recursos   | Base de certificados                                                                                       |
-| Episódios  | 1. Usuário acessa certificados. <br>2. Seleciona certificado. <br>3. Sistema exibe certificado.            |
+| Episódios  | 1. Estudante acessa certificados. <br>2. Seleciona certificado. <br>3. Sistema exibe certificado.            |
 | Restrições | Falta de atualização                                                                                       |
 | Exceção    | Certificado não encontrado                                                                                 |
 
@@ -496,7 +494,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Contexto   | Estudantes cadastrado.                                                                                     |
 | Atores     | Estudantes, aplicativo                                                                                     |
 | Recursos   | Base de ocorrências                                                                                        |
-| Episódios  | 1. Usuário acessa seção de ocorrências. <br>2. Sistema exibe ocorrências registradas.                      |
+| Episódios  | 1. Estudante acessa seção de ocorrências. <br>2. Sistema exibe ocorrências registradas.                      |
 | Restrições | Falta de atualização                                                                                       |
 | Exceção    | Ocorrência não encontrada                                                                                  |
 
