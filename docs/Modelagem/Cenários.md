@@ -555,8 +555,54 @@ A seguir, apresentamos a gravação referente à elaboração dos **cenários**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iwwYGksRwcY?si=Ef5OWspuIle-WEXJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Verificação
 
-## Referência bibliográfica
+### Participantes 
+A seguir temos a tabela 28, onde indica todos os participantes do cenários, o horário e local da verificação.
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+        <td>12/10/2025</td>
+        <td>13:15</td>
+        <td>Gama - Distrito Federal</td>
+         </tr>
+      <tr>
+      <tr>
+        <td>Usuário</td>
+        <td>João Victor</td>
+        <td>12/10/2025</td>
+        <td>13:15</td>
+        <td>Gama - Distrito Federal</td>
+      </tr>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 28: Participantes do video de verificação do léxico
+
+Autor: [Luísa de Souza](https://github.com/luisa12ll)
+
+### Vídeo
+
+A seguir, apresentamos a gravação referente à verificação dos cenários.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9_QYIqSd-jk?si=w9g2GlDgjlyFtF_T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Bibliográfica
 
 > <a id="RP1" href="#tec1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf)>. Acesso em: 06 de outubro de 2025. p. 27–30.
 
