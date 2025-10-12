@@ -27,27 +27,27 @@ A seguir temos a tabela 1, onde indica todos os participantes da especificação
     <tbody>
       <tr>
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
-        <td>12/09/2025</td>
+        <td>11/10/2025</td>
          </tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
-        <td>12/09/2025</td>
+        <td>11/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
-        <td>12/09/2025</td>
+        <td>11/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
-        <td>12/09/2025</td>
+        <td>11/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
-        <td>12/09/2025</td>
+        <td>11/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
-        <td>12/09/2025</td>
+        <td>11/10/2025</td>
       </tr>
     </tbody>
   </table>
@@ -87,7 +87,7 @@ Este documento segue o modelo **FURPS+**, organizando os requisitos de software 
 | Código | Categoria | Requisito Não Funcional | Descrição | Justificativa | Prioridade | Implementado | Autor |
 |--------|------------|-------------------------|------------|----------------|-------------|---------|--------|
 |[RQ3](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | Confiabilidade (R)| O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. | O aplicativo deve usar blockchain para tornar a autenticação de usuários e a disponibilização de documentos seguras, confiáveis e imutáveis, garantindo a integridade e autenticidade das informações. | O uso da tecnologia blockchain oferece um alto nível de qualidade e segurança, protegendo o sistema contra fraudes e alterações indevidas nos documentos. | Alta | Sim | [Geovanna Alves](https://github.com/GeovannaUmbelino)   |
-|[RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | Usabilidade (U) | O aplicativo deve ser fácil de usar e aprender suas funcionalidades. | O aplicativo deve oferecer uma interface clara e intuitiva, permitindo que os usuários naveguem de forma simples e natural. As funcionalidades devem ser fáceis de entender, com instruções diretas e acessíveis. | Um aplicativo fácil de usar melhora a experiência dos usuários, reduz a ocorrência de erros e permite que eles naveguem pela plataforma de forma mais rápida e simples.  | Alta | Sim | [Pedro Henrique](https://github.com/pedrohpsantos) |
+|[RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | Usabilidade (U) | O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio. | O aplicativo deve oferecer uma interface clara e intuitiva, permitindo que os usuários naveguem de forma simples e natural. As funcionalidades devem ser fáceis de entender, com instruções diretas e acessíveis. | Um aplicativo fácil de usar melhora a experiência dos usuários, reduz a ocorrência de erros e permite que eles naveguem pela plataforma de forma mais rápida e simples.  | Alta | Sim | [Pedro Henrique](https://github.com/pedrohpsantos) |
 |[RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)| Usabilidade (U) | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos) | O aplicativo deve usar uma linguagem clara, acessível e adequada ao perfil dos usuários, evitando termos técnicos complexos e promovendo uma comunicação eficiente. | Uma linguagem simples facilita a compreensão das funcionalidades e conteúdos pelo usuário, melhorando a experiência de uso e reduzindo dúvidas e erros. | Alta |  Sim | [Lara Souza](https://github.com/mel14-hub) |
 |[RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)| Performance (P) | O aplicativo deve carregar suas informações em no máximo 3 segundos. | O sistema deve garantir tempos de carregamento rápidos para páginas e funcionalidades, com tempo máximo de 3 segundos para o carregamento completo das informações. | Garantir rapidez no carregamento melhora a experiência do usuário e evita desistência, especialmente em redes lentas ou dispositivos com menor capacidade. | Alta | Não | [Luisa de Souza](https://github.com/Luisa12ll)|
 |[RQ40](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | Usabilidade (U) | O aplicativo deve ser acessível (contraste em cores, suporte à Libras e auto-descrição). | Garantir que o aplicativo siga boas práticas de acessibilidade, oferecendo contraste adequado, suporte à tradução em Libras e auto-descrição para pessoas com deficiência visual. | Promover a inclusão digital e o cumprimento de normas de acessibilidade (Lei Brasileira de Inclusão e WCAG 2.1). | Alta | Sim | [Camila Silva](https://github.com/CamilaSilvaC)|
