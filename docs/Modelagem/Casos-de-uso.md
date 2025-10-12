@@ -2,7 +2,10 @@
 
 ## Introdução
 
-Um caso de uso se refere a uma descrição detalhada de como o sistema será utilizado em uma determinada situação ou contexto. Ele descreve as interações entre os usuários e o sistema, apresentando os passos necessários para alcançar um objetivo específico[1].
+Um caso de uso se refere a uma descrição detalhada de como o sistema será utilizado em uma determinada situação ou contexto. Ele descreve as interações entre os usuários e o sistema, apresentando os passos necessários para alcançar um objetivo específico 
+
+Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sistema, fornecendo uma visão clara dos requisitos funcionais do sistema, descrevendo as ações que os usuários podem realizar e as respostas do sistema a ações.
 
 ## Participantes
@@ -89,7 +92,7 @@ As tabelas de 2 a 5 mostram a especialização dos casos de uso.
 | Fluxo principal | entrar no aplicativo > acessar o tutorial em vídeo |
 | Relacionamentos | Associação com estudante  |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ54](/docs/Elicitação/Requisitos-Elicitados.md) |
+| Rastreabilidade | [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Luisa de Souza](https://github.com/Luisa12ll) e [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
@@ -103,7 +106,7 @@ Fonte: [Luisa de Souza](https://github.com/Luisa12ll) e [Geovanna Alves](https:/
 | Fluxo principal | entrar no aplicativo > acessar a página da disciplina |
 | Relacionamentos | Associação com estudante e extensão para "Acessar fórum da disciplina"  |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ17](/docs/Elicitação/Requisitos-Elicitados.md), [RQ18](/docs/Elicitação/Requisitos-Elicitados.md), [RQ19](/docs/Elicitação/Requisitos-Elicitados.md) e [RQ20](/docs/Elicitação/Requisitos-Elicitados.md) |
+| Rastreabilidade | [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/), [RQ18](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/), [RQ19](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) e [RQ20](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luisa de Souza](https://github.com/Luisa12ll)
 
@@ -117,7 +120,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luisa de Souza](https:
 | Fluxo principal | entrar no aplicativo > acessar a página da disciplina > acessar fórum da disciplina |
 | Relacionamentos | Extensão de "Visualizar informações da disciplina" e associação com professor  |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ58](/docs/Elicitação/Requisitos-Elicitados.md) |
+| Rastreabilidade | [RQ58](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
 
@@ -131,7 +134,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
 | Fluxo principal | entrar no aplicativo > acessar a página do auxílio |
 | Relacionamentos | Asociação com aluno e extensões com "Editar dados bancários", "Visualizar dia do pagamento do auxílio" e "Comunicar em um canal de conversa do auxílio"  |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ31](/docs/Elicitação/Requisitos-Elicitados.md) [RQ32](/docs/Elicitação/Requisitos-Elicitados.md) [RQ33](/docs/Elicitação/Requisitos-Elicitados.md) |
+| Rastreabilidade | [RQ31](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
 
@@ -146,7 +149,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
 | Fluxo principal | entrar no aplicativo > acessar a página do auxílio > Editar informações bancárias > Gov.br |
 | Relacionamentos | Asociação com Gov.br e extensão de "Consultar auxílio"  |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ31](/docs/Elicitação/Requisitos-Elicitados.md) [RQ32](/docs/Elicitação/Requisitos-Elicitados.md) [RQ33](/docs/Elicitação/Requisitos-Elicitados.md) |
+| Rastreabilidade | [RQ31](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Luisa de Souza](https://github.com/Luisa12ll)
 
@@ -160,7 +163,7 @@ Fonte: [Luisa de Souza](https://github.com/Luisa12ll)
 | Fluxo principal | entrar no aplicativo > acessar a página do auxílio > Visualizar dia do pagamento |
 | Relacionamentos | Extensão de "Consultar auxílio"  |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ34](/docs/Elicitação/Requisitos-Elicitados.md) |
+| Rastreabilidade | [RQ34](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Luisa de Souza](https://github.com/Luisa12ll)
 
@@ -174,7 +177,7 @@ Fonte: [Luisa de Souza](https://github.com/Luisa12ll)
 | Fluxo principal | entrar no aplicativo > acessar a página do auxílio > Falar com um atendente |
 | Relacionamentos | Extensão de "Consultar auxílio" e associação com Atendente |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ35](/docs/Elicitação/Requisitos-Elicitados.md) |
+| Rastreabilidade | [RQ35](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
@@ -188,7 +191,7 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 | Fluxo principal | entrar no aplicativo > Agenda |
 | Relacionamentos | Associação de Estudante, extensão para "Notificar atividades acadêmicas" e inclusão para "Adicionar grau de importância" |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ47](/docs/Elicitação/Requisitos-Elicitados.md), [RQ48](/docs/Elicitação/Requisitos-Elicitados.md) e [RQ49](/docs/Elicitação/Requisitos-Elicitados.md)|
+| Rastreabilidade | [RQ47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/), [RQ48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) e [RQ49](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)|
 
 Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
@@ -199,10 +202,10 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 | Descrição | O estudante pode receber notificações de atividades cadastradas na agenda |
 | Atores envolvidos | Estudante (primário) |
 | Ação | O estudante ativa as notificações ao criar o evento na agenda |
-| Fluxo principal | entrar no aplicativo > Agenda > Ativar notificações? |
+| Fluxo principal | entrar no aplicativo > Agenda > Criar/Editar evento > Ativar notificações? |
 | Relacionamentos | Extensão de "Cadastrar eventos na agenda" |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ50](/docs/Elicitação/Requisitos-Elicitados.md) |
+| Rastreabilidade | [RQ50](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
@@ -213,10 +216,10 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 | Descrição | O estudante seleciona o grau de importância à atribuir para o evento criado na agenda |
 | Atores envolvidos | Estudante (primário) |
 | Ação | O estudante seleciona a importância da atividade criada |
-| Fluxo principal | entrar no aplicativo > Agenda > Importância do evento |
+| Fluxo principal | entrar no aplicativo > Agenda > Criar/Editar evento > Importância do evento |
 | Relacionamentos | Inclusão de "Cadastrar eventos na agenda" |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ52](/docs/Elicitação/Requisitos-Elicitados.md) |
+| Rastreabilidade | [RQ52](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
 
@@ -230,7 +233,7 @@ Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
 | Fluxo principal | entrar no aplicativo > Emitir documentos |
 | Relacionamentos | Associação de estudante, associação de instituição de ensino e generalização para "Emitir histórico", "Emitir declaração de vínculo" e "Emitir certificados" |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ27](/docs/Elicitação/Requisitos-Elicitados.md), [RQ28](/docs/Elicitação/Requisitos-Elicitados.md) e [RQ61](/docs/Elicitação/Requisitos-Elicitados.md) |
+| Rastreabilidade | [RQ27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/), [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) e [RQ61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Pedro Henrique](https://github.com/pedrohpsantos) 
 
@@ -244,7 +247,7 @@ Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
 | Fluxo principal | entrar no aplicativo > Emitir documentos > Emtiir histórico escolar |
 | Relacionamentos | Generalização de "Requerir documentos" |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ28](/docs/Elicitação/Requisitos-Elicitados.md) |
+| Rastreabilidade | [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
@@ -258,7 +261,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github
 | Fluxo principal | entrar no aplicativo > Emitir documentos > Emtiir declaração de vínculo |
 | Relacionamentos | Generalização de "Requerir documentos" |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ27](/docs/Elicitação/Requisitos-Elicitados.md) |
+| Rastreabilidade | [RQ27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
@@ -272,9 +275,50 @@ Fonte: [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https:
 | Fluxo principal | entrar no aplicativo > Emitir documentos > Emtiir certificados |
 | Relacionamentos | Generalização de "Requerir documentos" |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ61](/docs/Elicitação/Requisitos-Elicitados.md) |
+| Rastreabilidade | [RQ61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812)
+
+## Validação - Caso de uso
+
+A seguir temos a tabela 16, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O estudante corresponde ao perfil de estudante 2
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/Yanmatheus0812)">Yan Matheus</a></td>
+        <td>10/10/2025</td>
+        <td>18:30</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+         </tr>
+      <tr>
+       <tr>
+        <td>estudante</td>
+        <td>Pedro Henrique</td>
+         <td>10/10/2025</td>
+        <td>18:30</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 16: Validação Caso de uso
+
+Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHScbBuDxsI?si=bq-b2UW7-_yEWmkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Bibliografia
