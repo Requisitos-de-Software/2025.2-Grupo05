@@ -611,9 +611,51 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHz6GUU4eZA?si=alxyUcacnnGON7OH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Verificação
+
+A seguir temos a tabela 34, onde indica todos os participantes do léxico, o horário e local da aplicação da técnica.
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+        <td>12/10/2025</td>
+        <td>13:15</td>
+        <td>Gama - Distrito Federal</td>
+         </tr>
+      <tr>
+      <tr>
+        <td>Usuário</td>
+        <td>João Victor</td>
+        <td>12/10/2025</td>
+        <td>13:15</td>
+        <td>Gama - Distrito Federal</td>
+      </tr>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 34: Participantes do video de verificação do léxico
+
+Autor: [Luísa de Souza](https://github.com/luisa12ll)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OqVoQyMTJVY?si=eyXuwIGFQQUTAbjp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Bibliografia
 
-> SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [](). Acesso em: 04/10/2025.
+> SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [Requisitos - Aula 010](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf). Acesso em: 04/10/2025.
 
 ## Referências Bibliográficas
 
