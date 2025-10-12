@@ -24,16 +24,16 @@ A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o 
          </tr>
       <tr>
       <tr>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+         <td>09/10/2025</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
         <td>09/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luísa de Souza</a></td>
         <td>09/10/2025</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
-         <td>09/09/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
@@ -296,16 +296,16 @@ A seguir temos a tabela 16, onde indica todos os participantes da sessão do cas
          </tr>
       <tr>
       <tr>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+         <td>09/10/2025</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
         <td>09/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luísa de Souza</a></td>
         <td>09/10/2025</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
-         <td>09/09/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
