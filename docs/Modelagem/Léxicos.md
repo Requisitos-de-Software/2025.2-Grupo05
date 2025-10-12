@@ -557,6 +557,46 @@ O Léxico presente na Tabela 29 está relacionado ao requisito **RQ45**, sobre o
 
 **Fonte:** [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
 
+## Validação - Three Level Scale
+
+A seguir temos a tabela 33, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O usuário corresponde ao perfil de usuário 2
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/Yanmatheus0812)">Yan Matheus</a></td>
+        <td>10/10/2025</td>
+        <td>18:30</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+         </tr>
+      <tr>
+       <tr>
+        <td>Usuário</td>
+        <td>Pedro Henrique</td>
+         <td>10/10/2025</td>
+        <td>18:30</td>
+        <td>Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 33: Validação Léxicos
+Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHScbBuDxsI?si=bq-b2UW7-_yEWmkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Bibliografia
 
 > SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [](). Acesso em: 04/10/2025.
@@ -572,3 +612,4 @@ O Léxico presente na Tabela 29 está relacionado ao requisito **RQ45**, sobre o
 | Versão | Data       | Descrição                | Autor                                                                                                                                                                                                                                                                                                     | Revisor                                               |
 | ------ | ---------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | 1.0    | 04/10/2025 | Documentação dos léxicos | [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Luisa de Souza](https://github.com/Luisa12ll) e [Camila Silva](https://github.com/CamilaSilvaC) | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
+| 1.1    | 10/10/2025 | Adicionada validação da técnica | [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC)
