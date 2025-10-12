@@ -32,7 +32,7 @@
 | Q13         | O aplicativo deve permitir a visualização de datas importantes em um calendário.               | RF       | Não | 1.0    | Questionário |
 | Q14         |  O aplicativo deve notificar notas e avaliações com dois dias e uma semana antes.       | RF       | Não |  1.0    | Questionário |
 | Q15         | O aplicativo deve ser fácil de usar e aprender suas funcionalidades.              | RNF        | Sim | 1.0    | Questionário |
-| Q16 | O aplicativo deve ter uma linguagem simples adequada ao usuário. | RNF | Sim | 1.0 | Questionário | 
+| Q16 | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos). | RNF | Sim | 1.0 | Questionário | 
 | Q17 | O aplicativo deve carregar suas informações em no máximo 3 segundos. | RNF | Não | 1.0 | Questionário | 
 | Q18 | O aplicativo deve possibilitar o usuário emitir a declaração de vínculo da instituição de ensino. | RF | Não | 1.0 | Questionário | 
 | Q19 | O aplicativo deve possibilitar o usuário visualizar seu histórico da instituição de ensino. | RF | Não | 1.0 | Questionário | 
