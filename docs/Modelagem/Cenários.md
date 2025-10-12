@@ -51,27 +51,27 @@ A seguir temos a tabela 2, onde indica todos os participantes da elaboração do
     <tbody>
       <tr>
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
-        <td>12/09/2025</td>
+        <td>06/10/2025</td>
          </tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
-        <td>12/09/2025</td>
+        <td>06/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
-        <td>12/09/2025</td>
+        <td>06/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
-        <td>12/09/2025</td>
+        <td>06/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
-        <td>12/09/2025</td>
+        <td>06/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
-        <td>12/09/2025</td>
+        <td>06/10/2025</td>
       </tr>
     </tbody>
   </table>
