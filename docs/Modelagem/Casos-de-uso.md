@@ -55,11 +55,11 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 <font size="3"><p style="text-align: center"><b>Figura 1</b>: Elementos do diagrama de casos de uso</p></font>
 
-![Elementos](/docs/img/elementos.png)
+![Elementos](../img/elementos.png)
 
 <font size="3"><p style="text-align: center"><b>Figura 2</b>: Elementos das relações do diagrama de casos de uso</p></font>
 
-![Elementos - relações](/docs/img/elementos_setas.png)
+![Elementos - relações](../img/elementos_setas.png)
 
 
 Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos),
@@ -71,7 +71,7 @@ A figura 3 demonstra o diagrama de casos de uso.
 
 <font size="3"><p style="text-align: center">Figura 3: Casos de uso do app Jornada do estudante</p></font>
 
-![Casos de uso](/docs/img/casoUso.png)
+![Casos de uso](../img/casoUso.png)
 
 Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Luisa de Souza](https://github.com/Luisa12ll) e [Camila Silva](https://github.com/CamilaSilvaC)
 
