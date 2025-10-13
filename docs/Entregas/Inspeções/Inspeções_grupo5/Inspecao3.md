@@ -60,7 +60,7 @@ A tabela 2 mostra a lista de verificação da modelagem de requisitos.
 | 12 \- Cada especificação de Caso de uso é rastreável (possui o requisito de origem e esse requisito possui uma origem em ao menos uma técnica de elicitação) (com hiperlink)? | Sim |  Versão 1.0 - 12/10/2025|
 | 13 \- Cada RNF especificado na Especificação Suplementar é rastreável (possui o requisito de origem e esse requisito possui uma origem em ao menos uma técnica de elicitação)(com hiperlink) | Sim | Versão 1.0 - 12/10/2025|
 | 14 \- Na especificação suplementar, todos os RNF podem ser testáveis? | Sim | Versão 1.0 - 12/10/2025 |
-| 15 \- Na especificação suplementar, o documento especifica qual plataforma o aplicativo pode ser executado (versão)? | Não Amplicável | Versão 1.0 - 12/10/2025|
+| 15 \- Na especificação suplementar, o documento especifica qual plataforma o aplicativo pode ser executado (versão)? | Não aplicável | Versão 1.0 - 12/10/2025|
 | 16 \- Cada item da lista de verificação de Cenários possui uma referência, com foto do texto (destacado) de origem do item?  | Sim | Versão 1.0 - 12/10/2025|
 | 17 \-  Cada item da lista de verificação de Diagrama de Caso de Uso possui uma referência, com foto do texto (destacado) de origem do item?  | Sim | Versão 1.0 - 12/10/2025 |
 | 18 \-  Na lista de verificação há um item para verificar o ator principal e ator secundário no diagrama de caso de uso? Há um texto explicando a diferença entre os dois para o avaliador? | Sim | Versão 1.0 - 12/10/2025|
