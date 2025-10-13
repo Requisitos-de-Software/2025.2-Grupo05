@@ -4,7 +4,7 @@ O Léxico é uma notação que, por meio da descrição de termos, tem como obje
 
 ## Participantes
 
-A seguir temos a tabela 1, onde indica todos os participantes da sessão do brainstorming, o horário e local da aplicação da técnica.
+A seguir temos a tabela 1, onde indica todos os participantes da elaboração dos léxicos.
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes Lexicos</p></font>
 
