@@ -177,9 +177,9 @@ A tabela 6 mostra a lista de verificação do caso de uso.
 ## Bibliografia
 > <a id="RP1" href="#tec1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: 
 <[https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf)>. Acesso em: 06 de outubro de 2025. p. 27–30.<br>
-> <a id="RP1" href="#TEC">1.</a> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário [livro eletrônico]. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Cap. 8.
-> <a id="RP1" href="#tec">1.</a> BRASIL. MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Diretoria de Tecnologia da Informação. Coordenação Geral de Sistemas. Especificação Suplementar: Sigla do Projeto - Nome do Projeto. Versão 1.0. Brasília, DF. <br>
-> <a id="RP1" href="#TEC2">1.</a> Lucid Software Português, Youtube. “Tutorial de caso de uso UML”.Disponível em: 
+> <a id="RP1" href="#TEC">2.</a> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário [livro eletrônico]. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Cap. 8.
+> <a id="RP1" href="#tec">3.</a> BRASIL. MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Diretoria de Tecnologia da Informação. Coordenação Geral de Sistemas. Especificação Suplementar: Sigla do Projeto - Nome do Projeto. Versão 1.0. Brasília, DF. <br>
+> <a id="RP1" href="#TEC2">4.</a> Lucid Software Português, Youtube. “Tutorial de caso de uso UML”.Disponível em: 
 <[https://www.youtube.com/watch?v=ab6eDdwS3rA](https://www.youtube.com/watch?v=ab6eDdwS3rA)>. Acesso em: 26 set. 2025.
 
 ## Histórico de Versões
