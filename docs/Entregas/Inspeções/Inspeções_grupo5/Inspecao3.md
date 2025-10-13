@@ -170,7 +170,7 @@ A tabela 6 mostra a lista de verificação do caso de uso.
 | 15- Os pontos de extensão são versões detalhadas dos relacionamentos de extensão?  | Sim | Versão 1.0 - 12/10/2025 |
 
 
-<figcaption align="center">Tabela 6: Lista de verificação caso de uso.</figcaption>
+<figcaption align="center">Tabela 6: Lista de inspeção caso de uso.</figcaption>
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Geovanna Alves](https://github.com/GeovannaUmbelino), [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza Mota](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
