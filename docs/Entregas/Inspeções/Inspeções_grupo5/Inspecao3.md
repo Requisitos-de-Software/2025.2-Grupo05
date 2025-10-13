@@ -72,9 +72,9 @@ A tabela 2 mostra a lista de verificação da modelagem de requisitos.
 | 24 \- Na lista de verificação do Diagrama de Caso de Uso e da Especificação do Diagrama de Caso de Uso, cada item de conteúdo da disciplina possui referência bibliográfica da fonte e foto do texto da referência e o autor do item? | Sim | Versão 1.0 - 12/10/2025 |
 | 25 \- Na lista de verificação da Especificação Suplementar, cada item de conteúdo da disciplina possui referência bibliográfica da fonte e foto do texto da referência e o autor do item? | Sim | Versão 1.0 - 12/10/2025|
 | 26 \- Foi realizada a inspeção do grupo +1? | Sim | Versão 1.0 - 12/10/2025|
-| 27 \-  Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento dos Léxicos1? | Não Amplicável | Versão 1.0 - 12/10/2025 |
-| 28 \-  Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento dos Cenários1? | Não Amplicável | Versão 1.0 - 12/10/2025|
-| 29 \- Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento da Especificação Suplementar1? | Não Amplicável | Versão 1.0 - 12/10/2025 |
+| 27 \-  Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento dos Léxicos1? | Não aplicável | Versão 1.0 - 12/10/2025 |
+| 28 \-  Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento dos Cenários1? | Não aplicável | Versão 1.0 - 12/10/2025|
+| 29 \- Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento da Especificação Suplementar1? | Não aplicável | Versão 1.0 - 12/10/2025 |
 
 
 <figcaption align="center">Tabela 2: Lista de inspeção modelagem de requisitos: Cenários , Léxico, Use Case, Especificação Suplementar.</figcaption>
