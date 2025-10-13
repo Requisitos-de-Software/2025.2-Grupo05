@@ -1,6 +1,6 @@
 ## Introdução
 
-O objetivo dessa página é armazenar o vídeo da apresentação da entrega 3 e demais documentos relacionados. Acesse o vídeo clicando no link correspondente.
+O objetivo dessa página é armazenar o vídeo da apresentação da entrega 3 e demais documentos relacionados. Acesse o vídeo da apresentação clicando no link correspondente.
 
 ## Apresentação 3
 
