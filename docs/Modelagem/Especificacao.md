@@ -151,8 +151,11 @@ A seguir, apresentamos a gravação referente à elaboração da **especificaç�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A_6FJ9gH3F0?si=Dq85LAq3XjP_Z1bD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Vídeo
 
+A seguir, apresentamos a gravação referente à **verificação da especificação suplementar**.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Ftv27sXi84?si=a5Nmri1FrK-mMkQN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Referência bibliográfica
 
