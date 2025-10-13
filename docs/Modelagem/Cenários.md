@@ -605,7 +605,7 @@ A seguir, apresentamos a gravação referente à **verificação dos cenários**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9_QYIqSd-jk?si=w9g2GlDgjlyFtF_T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Bibliográfica
+## Bibliografia
 
 > <a id="RP1" href="#tec1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf)>. Acesso em: 06 de outubro de 2025. p. 27–30.
 
