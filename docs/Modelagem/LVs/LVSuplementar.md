@@ -3,7 +3,7 @@
 
 ## Introdução
 
-O obejtivo desta página é armazaer a lista de verificação especificação suplementar
+O objetivo desta página é armazenar a lista de verificação especificação suplementar
 
 ## Lista de verificação - Especificação Suplementar 
 
