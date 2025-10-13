@@ -3,7 +3,7 @@
 
 ## Introdução
 
-O obejtivo desta página é armazaer a lista de verificação de cenários
+O obejtivo desta página é armazenar a lista de verificação de cenários
 
 ## Lista de verificação - Cenários
 
