@@ -1,6 +1,6 @@
 ## Introdução
 
-Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, bem como demais documentos relacionados, referentes ao nosso grupo.
+Esta página tem como objetivo armazenar a inspeção da Entrega 2, bem como demais documentos relacionados, referentes ao nosso grupo.
 
 ## Inspeção 2
 
@@ -11,7 +11,7 @@ Esta página tem como objetivo armazenar o vídeo da inspeção da Entrega 2, be
 
 A seguir temos a tabela 1, onde indica todos os participantes da inspeção.
 
-<font size="3"><p style="text-align: center">Tabela 1: Participantes Casos de uso</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Participantes inspeção 2</p></font>
 
 <div align="center">
   <table>

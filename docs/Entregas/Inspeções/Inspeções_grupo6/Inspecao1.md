@@ -1,12 +1,59 @@
 ## Introdução
 
-O objetivo dessa página é armazenar o vídeo da inspeção da entrega 1 e demais documentos relacionados. Acesse o vídeo clicando no link correspondente.
+O objetivo dessa página é armazenar a inspeção da entrega 1 e demais documentos relacionados. Acesse o vídeo clicando no link correspondente.
 
 ## Inspeção 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uXs-pqlbXPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Participantes
+
+A seguir temos a tabela 1, onde indica todos os participantes da inspeção.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes inspeção 1 do grupo 6 </p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>10/09/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+         <td>10/09/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/luisa12ll">Luísa de Souza</a></td>
+        <td>10/09/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+         <td>10/09/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+         <td>10/09/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+         <td>10/09/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
+
 ## Lista de Verificação - Itens do Planejamento Geral do projeto Grupo 6
+
+A tabela 2 mostra a lista de verificação dos planejamento geral.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -21,9 +68,13 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 1 e dema
 | 9 \- Possui opção de contraste de cores? | Sim | Versão 1.0 \- 10/09/2025 |
 | 10 \- Uma página com as atas de reunião com o acesso a gravação (vídeo), quando houver. | Sim | Versão 1.0 \- 10/09/2025 |
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Camila Cavalcante](https://github.com/CamilaSilvaC), [Geovanna Umbelino](https://github.com/GeovannaUmbelino) e [Luísa Ferreira](https://github.com/luisa12ll).</p></font>
+<figcaption align="center">Tabela 2: Lista de inspeção planejamento geral.</figcaption>
+
+<font size="3"><p style="text-align: center">Fonte: André Barros Sales.</p></font>
 
 ## Lista de Verificação - Itens do Desenvolvimento do projeto Grupo 6
+
+A tabela 3 mostra a lista de verificação do desenvolvimento do projeto.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | :---- | :---- |
@@ -38,9 +89,13 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 1 e dema
 | 9 \- Vídeo de apresentação na categoria “não listado” no youtube? | Sim | **Versão 1.0 \- 10/09/2025** |
 | 10 \- . Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | Sim | **Versão 1.0 \- 10/09/2025** |
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Camila Cavalcante](https://github.com/CamilaSilvaC), [Geovanna Umbelino](https://github.com/GeovannaUmbelino) e [Luísa Ferreira](https://github.com/luisa12ll).</p></font>
+<figcaption align="center">Tabela 3: Lista de inspeção desenvolvimento do projeto.</figcaption>
+
+<font size="3"><p style="text-align: center">Fonte: André Barros Sales.</p></font>
 
 ## Lista de Verificação - Rich Picture Grupo 6
+
+A tabela 4 mostra a lista de verificação do rich picture.
 
 | Item | Descrição | Verificação | Descrição do problema | Sugestão de Ação Corretiva | Observação |
 |------|-----------|-------------|------------------------|-----------------------------|-------------|
@@ -76,6 +131,8 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 1 e dema
 | 30 | Utilizou balões de pensamento para caricaturar as preocupações dos envolvidos? | Não | Não utilizou | Adicionar um balão de pensamento para esclarecer diversas questões já comentadas |  |
 | 31 | O Rich Picture contém imagens, figuras ou rótulos descritivos? | Sim | Contém tudo descritivo |  |  |
 
+<figcaption align="center">Tabela 4: Lista de inspeção do rich picture.</figcaption>
+
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Lara Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 ## Histórico de Versões
@@ -85,3 +142,4 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 1 e dema
 | 1.0    | 10/09/2025 | Documentação da inspeção 1    | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
 | 1.1    | 15/09/2025 | Correção nas fontes          | [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |
 | 1.2    | 18/09/2025 | Alteração de caminho e nome da página          | [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |
+| 1.3    | 13/10/2025 | Alteração nas declaração das tabelas         | [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |

@@ -34,15 +34,18 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Sobre: Sobre/Sobre.md
+
   - Entregas:
       - Reuniões: Entregas/Reunioes.md
       - Inspeções:
           - Inspeções grupo 5:
+              - Inspeção 1: Entregas/Inspeções/Inspeções_grupo5/Inspecao1.md
               - Inspeção 2: Entregas/Inspeções/Inspeções_grupo5/Inspecao2.md
               - Inspeção 3: Entregas/Inspeções/Inspeções_grupo5/Inspecao3.md
           - Inspeções grupo 6:
               - Inspeção 1: Entregas/Inspeções/Inspeções_grupo6/Inspecao1.md
               - Inspeção 2: Entregas/Inspeções/Inspeções_grupo6/Inspecao2.md
+              - Inspeção 3: Entregas/Inspeções/Inspeções_grupo6/Inspecao3.md
       - Apresentações:
           - Apresentação 1: Entregas/Apresentações/Apresentacao1.md
           - Apresentação 2: Entregas/Apresentações/Apresentacao2.md

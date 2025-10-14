@@ -1,12 +1,47 @@
 ## Introdução
 
-O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e demais documentos relacionados. Acesse o vídeo clicando no link correspondente.
+O objetivo dessa página é armazenar a inspeção da entrega 2 e demais documentos relacionados. Acesse o vídeo clicando no link correspondente.
 
 ## Inspeção 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ChWfyY-DhzU?si=dlgHMaZmONEasBtJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Participantes
+
+A seguir temos a tabela 1, onde indica todos os participantes da inspeção.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes inspeção 2 do grupo 6 </p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+         <td>29/09/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+         <td>29/09/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+         <td>29/09/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
+
 ## Lista de Verificação - Itens do Planejamento Geral do projeto Grupo 6
+
+A tabela 2 mostra a lista de verificação dos planejamento geral.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -21,9 +56,13 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 | 9 \- Todas as priorizações contém a participação do usuário? | Não | Versão 1.0 \- 30/09/2025 |
 | 10 \- Há gravação e o(s) registro(s) da atividade de priorização dos requisitos? | Sim |Versão 1.0 \- 30/09/2025 |
 
+<figcaption align="center">Tabela 2: Lista de inspeção planejamento geral.</figcaption>
+
 <font size="3"><p style="text-align: center">Fonte: André Barros Sales.</p></font>
 
 ## Lista de Verificação - Técnica de elicitação: Análise de documentos
+
+A tabela 3 mostra a lista de verificação da tecnica de elicitação análise de documentos.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -38,9 +77,14 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 | 9 \- A análise identificou quais tarefas ou macroprocessos devem ser explorados em maior profundidade? Se realizada em momentos intermediários do ciclo de vida do projeto.  | Não se aplica | Versão 1.0 \- 30/09/2025 |
 | 10 \- Os documentos analisados foram organizados de forma que possam ser recuperados facilmente? | Não se aplica | Versão 1.0 \- 30/09/2025 |
 
+<figcaption align="center">Tabela 3: Lista de inspeção da tecnica de elicitação análise de documentos.</figcaption>
+
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Lara Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 ## Lista de Verificação - Técnica de elicitação: Questionário
+
+A tabela 4 mostra a lista de verificação da tecnica de elicitação questionário.
+
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
 | 1 \- A formulação das perguntas e respostas evita ambiguidade e mal-entendidos? | Não se aplica | Versão 1.0 \- 30/09/2025 |
@@ -54,9 +98,13 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 | 9 \- Foram utilizadas escalas adequadas (Likert, diferencial semântico) para medir opiniões e atitudes? | Não se aplica | Versão 1.0 \- 30/09/2025 |
 | 10 \- O questionário apresenta claramente o objetivo da pesquisa e as instruções de preenchimento? | Não se aplica | Versão 1.0 \- 30/09/2025 |
 
+<figcaption align="center">Tabela 4: Lista de inspeção da tecnica de elicitação questionário.</figcaption>
+
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Lara Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 ## Lista de verificação - Técnica de elicitação: Brainstorm
+
+A tabela 5 mostra a lista de verificação da tecnica de elicitação brainstorm.
 
 | Questão: O github pages possui: |  |  | Resposta (Sim / Não / Incompleto) | Versão, Data e hora da avaliação |
  | :---- | ----- | ----- | :---- | :---- |
@@ -71,10 +119,14 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 | 9 \- Os participantes foram informados no início da atividade sobre os objetivos e procedimentos que irão ocorrer?  |  |  | Sim | 1.0 |
  | 10 \- O moderador repetiu a pergunta inicial ou as regras caso os participantes tenham se desviado dos objetivos? |  |  | Sim | 1.0 |
 
+<figcaption align="center">Tabela 5: Lista de inspeção da tecnica de elicitação brainstorm.</figcaption>
+
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Lara Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 
 ## Lista de verificação - Técnica de elicitação: Entrevista
+
+A tabela 6 mostra a lista de verificação da tecnica de elicitação entrevista.
 
 | Questão: O github pages possui: |  |  | Resposta (Sim / Não / Incompleto) | Versão, Data e hora da avaliação |
  | :---- | ----- | ----- | :---- | :---- |
@@ -89,10 +141,14 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 | 9 \- As respostas dadas foram validadas ao final da entrevista? |  |  | Não | 1.0 |
 | 10 \- A entrevista ajudou a esclarecer ambiguidades nos requisitos? |  |  | Sim | 1.0 |
 
+<figcaption align="center">Tabela 6: Lista de inspeção da tecnica de elicitação entrevista.</figcaption>
+
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Lara Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 
 ## Lista de verificação - Técnica de priorização: In or out
+
+A tabela 7 mostra a lista de verificação da tecnica de priorização in or out.
 
 | Questão: O github pages possui: |  |  | Resposta (Sim / Não / Incompleto) | Versão, Data e hora da avaliação |
 | :---- | ----- | ----- | :---- | :---- |
@@ -107,11 +163,14 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 | 9 \- Foi definido claramente que a priorização tinha como foco a primeira release do produto? |  |  | Sim | 1.0 |
 | 10 \- O método In or Out foi conduzido de forma que o processo fosse menos cansativo e mais motivador para o time? |  |  | Sim | 1.0 |
 
+<figcaption align="center">Tabela 7: Lista de inspeção da tecnica de priorização in or out.</figcaption>
+
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Lara Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 
 ## Lista de verificação - Técnica de priorização: Moscow
 
+A tabela 8 mostra a lista de verificação da tecnica de priorização moscow.
 
 | Questão: O github pages possui: |  |  | Resposta (Sim / Não / Incompleto) | Versão, Data e hora da avaliação |
  | :---- | ----- | ----- | :---- | :---- |
@@ -126,11 +185,14 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 | 9 \- Caso Won´t: Os requisitos que não foram implementados podem ser incluídos em uma versão futura ou não serem implementados nunca de acordo com o cliente foram classificados como won´t? |  |  | Sim | 1.0 |
 | 10 \- A pessoa interessada(cliente) tinha de fato conhecimento sobre o negócio? |  |  | Não | 1.0 |
 
+<figcaption align="center">Tabela 8: Lista de inspeção da tecnica de priorização moscow.</figcaption>
+
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Lara Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 
 ## Lista de verificação - Técnica de priorização: 100$
 
+A tabela 9 mostra a lista de verificação da tecnica de priorização 100$.
 
 | Questão: O github pages possui: |  |  | Resposta (Sim / Não / Incompleto) | Versão, Data e hora da avaliação |
 | :---- | ----- | ----- | :---- | :---- |
@@ -143,9 +205,13 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 | 7 \- Os participantes usaram proporções para refletir diferenças de importância entre requisitos?  |  |  | Sim | 1.0 |
 | 8 \- Foram considerados múltiplos stakeholders ao somar as alocações? |  |  | Não | 1.0 |
 
+<figcaption align="center">Tabela 9: Lista de inspeção da tecnica de priorização 100$.</figcaption>
+
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Lara Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 ## Lista de Verificação - Técnica de priorização: Three-level Scale
+
+A tabela 10 mostra a lista de verificação da tecnica de priorização three-level scale.
 
 | O github pages possui: | Avaliação | Versão, Data e hora da avaliação |
 | :---- | ----- | :---: |
@@ -161,6 +227,8 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 | 10 \- O grupo de requisitos de mais alta prioridade que foram subdivididos, foram reajustados para se encaixarem em alta prioridade? | Não se aplica | Versão 1.0 \- 30/09/2025 |
 | 11 \- Os requisitos de alta prioridade não dependem de requisitos de prioridade menor? | Não se aplica | Versão 1.0 \- 30/09/2025 |
 
+<figcaption align="center">Tabela 10: Lista de inspeção da tecnica de priorização three-level scale.</figcaption>
+
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Lara Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 ## Histórico de Versões
@@ -168,3 +236,4 @@ O objetivo dessa página é armazenar o vídeo da inspeção da entrega 2 e dema
 | Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
 |--------|------------|------------------------------|-----------------------------------|-------------------------------------|
 | 1.0    | 01/10/2025 | Documentação da inspeção 2   | [Yan Matheus](https://github.com/Yanmatheus0812) | [Geovanna Umbelino](https://github.com/GeovannaUmbelino) |
+| 1.3    | 13/10/2025 | Alteração nas declaração das tabelas         | [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |
