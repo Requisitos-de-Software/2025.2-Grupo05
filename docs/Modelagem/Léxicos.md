@@ -93,7 +93,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L02: Cadastrar informações
 
-O Léxico presente na Tabela 4, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ13, RQ47 e RQ51
+O Léxico presente na Tabela 4, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ13, RQ46 e RQ50
 
 Tabela 4 - Léxico 02: Cadastrar credenciais (L02)
 
@@ -108,7 +108,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L03: Consultar informações
 
-O Léxico presente na Tabela 5, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ5, RQ7, RQ8, RQ9, RQ11, RQ17, RQ18, RQ19, RQ20, RQ30, RQ31, RQ32, RQ33, RQ34, RQ37, RQ61 e RQ62
+O Léxico presente na Tabela 5, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ5, RQ7, RQ8, RQ9, RQ11, RQ17, RQ18, RQ19, RQ20, RQ30, RQ31, RQ32, RQ33, RQ34, RQ37, RQ60 e RQ61
 
 Tabela 5 - Léxico 03: Consultar informações (L03)
 
@@ -123,7 +123,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L04: Emitir documentos
 
-O Léxico presente na Tabela 6, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ27, RQ28, RQ29 e RQ59
+O Léxico presente na Tabela 6, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ27, RQ28, RQ29 e RQ58
 
 Tabela 6 - Léxico 04: Emitir documentos (L04)
 
@@ -138,7 +138,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L05: Editar informações
 
-O Léxico presente na Tabela 7, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ43, RQ44 e RQ48
+O Léxico presente na Tabela 7, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ43, RQ44 e RQ47
 
 Tabela 7 - Léxico 05: Editar informações (L05)
 
@@ -153,7 +153,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L06: Excluir atividades
 
-O Léxico presente na Tabela 8, faz o uso do seguinte requisito de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ49
+O Léxico presente na Tabela 8, faz o uso do seguinte requisito de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ48
 
 Tabela 8 - Léxico 06: Excluir atividades (L06)
 
@@ -168,7 +168,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L07: Notificar eventos
 
-O Léxico presente na Tabela 9, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ14, RQ21, RQ22, RQ23, RQ50 e RQ56
+O Léxico presente na Tabela 9, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ14, RQ21, RQ22, RQ23, RQ49 e RQ55
 
 Tabela 9 - Léxico 07: Notificar eventos (L07)
 
@@ -198,7 +198,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L09: Comunicar em canais
 
-O Léxico presente na Tabela 11, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ35, RQ36, RQ57, RQ58 e RQ60
+O Léxico presente na Tabela 11, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ35, RQ36, RQ56, RQ57 e RQ59
 
 Tabela 11 - Léxico 09: Ser atendido em canal de conversa (L09)
 
@@ -213,7 +213,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L10: Oferecer serviços
 
-O Léxico presente na Tabela 12, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ41, RQ46, RQ53 e RQ54
+O Léxico presente na Tabela 12, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ41, RQ45, RQ52 e RQ53
 
 Tabela 12 - Léxico 10: Oferecer serviços (L10)
 
@@ -247,14 +247,14 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L12: Professor
 
- O lexico presente na Tabela 14, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ17,RQ58
+ O lexico presente na Tabela 14, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ17,RQ57
 
  Tabela 14- Léxico 12: Professor
 
 | L12| Descrição |
 |---------|---------------|
 | Classificação | Objeto |
-| Impacto |  O aplicativo deve permitir que o professor visualize informações de suas disciplinas (RQ17), participe de fóruns por disciplina junto com estudantes (RQ58) e utilize o sistema como canal de comunicação com seus alunos |
+| Impacto |  O aplicativo deve permitir que o professor visualize informações de suas disciplinas (RQ17), participe de fóruns por disciplina junto com estudantes (RQ57) e utilize o sistema como canal de comunicação com seus alunos |
 | Noção | O professor representa um educador vinculado a uma instituição de ensino cadastrado no sistema, que possui credenciais de acesso via gov.br e tem permissão para gerenciar informações de suas disciplinas e interagir com estudantes|
 | Dicionário | Docente, Educador, Mestre, Instrutor, Ministrante|
 
@@ -316,14 +316,14 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L16: Documentação Oficial
 
-O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ27,RQ28,RQ59,RQ61,RQ3
+O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ27,RQ28,RQ58,RQ60,RQ3
 
 Tabela 18- Léxico 16: Documentação Oficial
 
 | L16| Descrição |
 |---------|---------------|
 | Classificação | Objeto |
-| Impacto |  O aplicativo deve possibilitar o estudante emitir a declaração de vínculo da instituição de ensino (RQ27), emitir seu histórico escolar (RQ28), permitir a emissão de diplomas (RQ59), permitir a visualização de certificados (RQ61), utilizando tecnologia blockchain para disponibilização desses documentos (RQ3). |
+| Impacto |  O aplicativo deve possibilitar o estudante emitir a declaração de vínculo da instituição de ensino (RQ27), emitir seu histórico escolar (RQ28), permitir a emissão de diplomas (RQ58), permitir a visualização de certificados (RQ60), utilizando tecnologia blockchain para disponibilização desses documentos (RQ3). |
 | Noção |  Representa documentos oficiais emitidos pela instituição que possuem validade legal e comprovam vínculo ou conclusão, sendo gerados automaticamente pelo sistema. |
 | Dicionário | Documento, Declaração, Atestado, Histórico escolar, Diploma, Certificado, Comprovante de matrícula, Comprovante de vínculo|
 
@@ -333,14 +333,14 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L17: Comunicação e Interação
 
-O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ12,RQ14,RQ35,RQ36,RQ57,RQ58,RQ60
+O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ12,RQ14,RQ35,RQ36,RQ56,RQ57,RQ59
 
 Tabela 19 -  Léxico 17: Comunicação e Interação
 
 | L17| Descrição |
 |---------|---------------|
 | Classificação | Objeto |
-| Impacto |   O aplicativo deve ser um canal direto de comunicação entre o MEC e os estudantes (RQ12), possibilitar que os estudantes recebam novidades do Governo Federal voltadas à educação através de um canal de comunicação (RQ14), possibilitar o estudante acessar um fórum de dúvidas sobre o auxílio (RQ35), ser atendido em um canal de conversa sobre o auxílio (RQ36), ter um fórum entre estudantes (RQ57), um fórum por disciplina entre estudantes e professores (RQ58) e ter um canal de suporte ao estudante (RQ60).  |
+| Impacto |   O aplicativo deve ser um canal direto de comunicação entre o MEC e os estudantes (RQ12), possibilitar que os estudantes recebam novidades do Governo Federal voltadas à educação através de um canal de comunicação (RQ14), possibilitar o estudante acessar um fórum de dúvidas sobre o auxílio (RQ35), ser atendido em um canal de conversa sobre o auxílio (RQ36), ter um fórum entre estudantes (RQ56), um fórum por disciplina entre estudantes e professores (RQ57) e ter um canal de suporte ao estudante (RQ59).  |
 | Noção |   Representa os canais de comunicação disponíveis no sistema que facilitam a interação entre estudantes, professores, suporte e MEC, permitindo troca de informações e esclarecimento de dúvidas. |
 | Dicionário |Fórum, Chat, Canal de comunicação, Mensagem, Discussão, Suporte técnico, Atendimento, Canal MEC|
 
@@ -348,14 +348,14 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L18: Calendário e Eventos
 
-O lexico presente na Tabela 20, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ37,RQ46,RQ47,RQ48,RQ49,RQ51,RQ52,RQ50,RQ21,RQ56
+O lexico presente na Tabela 20, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ37,RQ45,RQ46,RQ47,RQ48,RQ50,RQ51,RQ49,RQ21,RQ55
 
 Tabela 20- Léxico 18: Calendário e Eventos
 
 | L18| Descrição |
 |---------|---------------|
 | Classificação | Objeto |
-| Impacto |  O aplicativo deve possibilitar o estudante visualizar datas de eventos em um calendário (RQ37), possuir uma agenda para organização pessoal através de atividades (RQ46), permitindo que a agenda possua a opção do estudante inserir (RQ47), editar (RQ48) e excluir atividades (RQ49), inserir horário e data na criação de uma atividade (RQ51), avaliar suas atividades com grau de importância (RQ52), além de notificar o estudante sobre atividades inseridas com um dia de antecedência (RQ50), notificar avaliações com uma semana antes e dois dias de antecedência (RQ21) e notificar quando editais de vestibulares forem abertos (RQ56). |
+| Impacto |  O aplicativo deve possibilitar o estudante visualizar datas de eventos em um calendário (RQ37), possuir uma agenda para organização pessoal através de atividades (RQ45), permitindo que a agenda possua a opção do estudante inserir (RQ46), editar (RQ47) e excluir atividades (RQ48), inserir horário e data na criação de uma atividade (RQ50), avaliar suas atividades com grau de importância (RQ51), além de notificar o estudante sobre atividades inseridas com um dia de antecedência (RQ49), notificar avaliações com uma semana antes e dois dias de antecedência (RQ21) e notificar quando editais de vestibulares forem abertos (RQ55). |
 | Noção |   Representa compromissos e datas importantes do calendário acadêmico incluindo eventos, provas, entregas e atividades institucionais que são gerenciados pelo estudante e sincronizados com o sistema. |
 | Dicionário |Evento, Calendário, Agenda, Compromisso, Atividade, Data importante, Cronograma, Prazo, Lembrete|
 
@@ -533,7 +533,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L29: Funcionalidade encontrada ≤ 45 segundos
 
-O Léxico presente na Tabela 28 está associado ao requisito RQ55, sobre a navegabilidade do aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 28 está associado ao requisito RQ54, sobre a navegabilidade do aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 31 - Léxico 289 Funcionalidade encontrada ≤ 45 segundos (L29)
 
@@ -550,7 +550,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L30: Design sem sobrecarga de informações
 
-O Léxico presente na Tabela 29 está relacionado ao requisito RQ45, sobre o design limpo e objetivo do aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 29 está relacionado ao requisito RQ02, sobre o design limpo e objetivo do aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 32 - Léxico 30: Design sem sobrecarga de informações (L30)
 
