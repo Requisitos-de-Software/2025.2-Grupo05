@@ -506,13 +506,13 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 A tabela 34 mostra a história de usuário 33.
 
-<font size="3"><p style="text-align: center">Tabela 34: Editar informações bancárias</p></font>
-
 | HU33 | Informações |
 | ----- | ---------- |
 | Descrição | Eu, como estudante, desejo que o aplicativo me possibilite editar minha informações bancárias, para eu ter controle de minhas informações e serem atualizadas para o recebimento do meu auxílio |
 | Critérios de aceitação | Na página de perfil do aplicativo, deverá ser possível editar as informações bancárias através de um link externo para o Gov.br |
 | Rastreabilidade | [RQ44](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+Tabela 34: Editar informações bancárias
 
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
@@ -520,13 +520,13 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 A tabela 35 mostra a história de usuário 34.
 
-<font size="3"><p style="text-align: center">Tabela 35: Agenda de organização pessoal</p></font>
-
 | HU34 | Informações |
 | ----- | ---------- |
 | Descrição | Eu, como estudante, desejo que o aplicativo me disponibilize uma agenda para organização pessoal onde agrupo minhas atividades escolares |
 | Critérios de aceitação | Na página inicial do aplicativo, deverá haver uma seção de agenda, a qual será possível organizar e agrupar atividades escolares |
 | Rastreabilidade | [RQ45](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+Tabela 35: Agenda de organização pessoal
 
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
@@ -534,21 +534,17 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 A tabela 36 mostra a história de usuário 35.
 
-<font size="3"><p style="text-align: center">Tabela 36: Inserir atividades na agenda</p></font>
-
 | HU35 | Informações |
 | ----- | ---------- |
 | Descrição | Eu, como estudante, desejo que o aplicativo me possibilite de criar atividades na agenda para eu ter maior controle de minhas organizações escolares |
 | Critérios de aceitação | Na página da agenda, deverá haver a opção de inserir uma nova atividade |
 | Rastreabilidade | [RQ46](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+Tabela 36: Inserir atividades na agenda
+
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ### HU36 - Editar atividades na agenda
-
-A tabela 37 mostra a história de usuário 36.
-
-<font size="3"><p style="text-align: center">Tabela 37: Editar atividades na agenda</p></font>
 
 | HU36 | Informações |
 | ----- | ---------- |
@@ -556,13 +552,15 @@ A tabela 37 mostra a história de usuário 36.
 | Critérios de aceitação | Na página da agenda, deverá haver a opção de editar atividade já existente, alterando seu dia e horário por exemplo |
 | Rastreabilidade | [RQ47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+Tabela 37: Editar atividades na agenda
+
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ### HU37 - Excluir atividades na agenda
 
 A tabela 38 mostra a história de usuário 37.
 
-<font size="3"><p style="text-align: center">Tabela 38: Excluir atividades na agenda</p></font>
+Tabela 38: Excluir atividades na agenda
 
 | HU37 | Informações |
 | ----- | ---------- |
@@ -570,13 +568,13 @@ A tabela 38 mostra a história de usuário 37.
 | Critérios de aceitação | Na página da agenda, deverá haver a opção de excluir uma atividade já existente, tirando sua visibilidade da agenda |
 | Rastreabilidade | [RQ48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+Tabela 38: Excluir atividades na agenda
+
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ### HU38 - Notificar atividades na agenda
 
 A tabela 39 mostra a história de usuário 38.
-
-<font size="3"><p style="text-align: center">Tabela 39: Notificar atividades na agenda</p></font>
 
 | HU38 | Informações |
 | ----- | ---------- |
@@ -584,13 +582,13 @@ A tabela 39 mostra a história de usuário 38.
 | Critérios de aceitação | O aplicativo deverá notificar o estudante quando uma atividade estiver a um dia antes de vencer seu prazo na agenda |
 | Rastreabilidade | [RQ49](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+Tabela 39: Notificar atividades na agenda
+
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ### HU39 - Inserir data e horário em atividades na agenda
 
 A tabela 40 mostra a história de usuário 39.
-
-<font size="3"><p style="text-align: center">Tabela 40: Inserir data e horário em atividades na agenda</p></font>
 
 | HU39 | Informações |
 | ----- | ---------- |
@@ -598,7 +596,166 @@ A tabela 40 mostra a história de usuário 39.
 | Critérios de aceitação | - A agenda deverá possibilitar o estudante inserir uma data e horário para a conclusão da atividade durante sua criação <br> - A agenda deverá ajustar a visualização da atividade para o dia de seu vencimento na agenda |
 | Rastreabilidade | [RQ50](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+Tabela 40: Inserir data e horário em atividades na agenda
+
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+### HU40 - Avaliar atividades com grau de importância
+
+A tabela 41 mostra a história de usuário 40.
+
+| HU40 | Informações |
+| ----- | ---------- |
+| Descrição | Eu, como estudante, desejo avaliar minhas atividades com grau de importância, para poder priorizar melhor o que deve ser feito. |
+| Critérios de aceitação | - O sistema deve permitir ao estudante atribuir um grau de importância (baixa, média ou alta) a cada atividade. <br> - O sistema deve possibilitar filtrar as atividades por grau de importância. |
+| Rastreabilidade | [RQ51](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+Tabela 41: Avaliar atividades com grau de importância
+
+Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
+
+
+### HU41 - Integração da agenda com outros aplicativos
+
+A tabela 42 mostra a história de usuário 41.
+
+| HU41 | Informações |
+| ----- | ---------- |
+| Descrição | Eu, como estudante, desejo integrar minha agenda com outros aplicativos de organização pessoal, para ter todos os meus compromissos em um só lugar. |
+| Critérios de aceitação | - A agenda deve permitir a sincronização com aplicativos externos, como Google Calendar e Outlook. <br> - O sistema deve atualizar automaticamente as informações sincronizadas. |
+| Rastreabilidade | [RQ52](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+Tabela 42: Integração da agenda com outros aplicativos
+
+Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
+
+### HU42 - Tutorial em vídeo sobre funcionalidades
+
+A tabela 43 mostra a história de usuário 42.
+
+| HU42 | Informações |
+| ----- | ---------- |
+| Descrição | Eu, como novo usuário, desejo acessar um tutorial em vídeo sobre as funcionalidades do aplicativo, para aprender a utilizá-lo com mais facilidade. |
+| Critérios de aceitação | - O aplicativo deve disponibilizar um tutorial em vídeo acessível no menu inicial. <br> - O vídeo deve apresentar as principais funcionalidades do aplicativo. |
+| Rastreabilidade | [RQ53](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+Tabela 43: Tutorial em vídeo sobre funcionalidades
+
+Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
+
+### HU43 - Localizar funcionalidades em até 45 segundos
+
+A tabela 44 mostra a história de usuário 43.
+
+| HU43 | Informações |
+| ----- | ---------- |
+| Descrição | Eu, como usuário, desejo encontrar qualquer funcionalidade do aplicativo em até 45 segundos, para ter uma navegação ágil e intuitiva. |
+| Critérios de aceitação | - O aplicativo deve garantir que todas as funções sejam acessíveis em até três cliques ou 45 segundos. <br> - O design deve priorizar usabilidade e clareza na navegação. |
+| Rastreabilidade | [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+Tabela 44: Localizar funcionalidades em até 45 segundos
+
+Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
+
+### HU44 - Notificação sobre abertura de editais de vestibulares
+
+A tabela 45 mostra a história de usuário 44.
+
+| HU44 | Informações |
+| ----- | ---------- |
+| Descrição | Eu, como estudante, desejo receber notificações quando editais de vestibulares forem abertos, para não perder prazos importantes. |
+| Critérios de aceitação | - O aplicativo deve notificar o usuário sempre que um novo edital for publicado. <br> - As notificações devem exibir o nome da instituição e a data limite de inscrição. |
+| Rastreabilidade | [RQ55](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+Tabela 45: Notificação sobre abertura de editais de vestibulares
+
+Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
+
+### HU45 - Fórum entre estudantes
+
+A tabela 46 mostra a história de usuário 45.
+
+| HU45 | Informações |
+| ----- | ---------- |
+| Descrição |Eu, como estudante, desejo acessar um fórum com outros estudantes, para trocar experiências e tirar dúvidas. |
+| Critérios de aceitação | - O aplicativo deve permitir criar e responder tópicos de discussão entre estudantes. <br> - O fórum deve ter categorias para organização dos temas. |
+| Rastreabilidade | [RQ56](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+Tabela 46: Fórum entre estudantes
+
+Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
+
+### HU46 - Fórum por disciplina entre estudantes e professores
+
+A tabela 47 mostra a história de usuário 46.
+
+| HU46 | Informações |
+| ----- | ---------- |
+| Descrição |Eu, como estudante, desejo participar de um fórum por disciplina com estudantes e professores, para esclarecer dúvidas sobre os conteúdos das aulas. |
+| Critérios de aceitação | - O sistema deve permitir a criação de fóruns específicos por disciplina. <br> - Professores e alunos devem poder interagir por meio de comentários e respostas. |
+| Rastreabilidade | [RQ57](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+Tabela 47: Fórum por disciplina entre estudantes e professores
+
+Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
+
+### HU47 - Emissão de diplomas
+
+A tabela 48 mostra a história de usuário 47.
+
+| HU47 | Informações |
+| ----- | ---------- |
+| Descrição |Eu, como estudante, desejo emitir meu diploma diretamente pelo aplicativo, para facilitar o acesso ao documento após a conclusão do curso.|
+| Critérios de aceitação | - O aplicativo deve permitir solicitar e gerar o diploma em formato digital. <br> - O documento deve conter autenticação e validação oficial. |
+| Rastreabilidade | [RQ58](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+Tabela 48: Emissão de diplomas
+
+Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
+
+### HU48 - Canal de suporte ao usuário
+
+A tabela 49 mostra a história de usuário 48.
+
+| HU48 | Informações |
+| ----- | ---------- |
+| Descrição |Eu, como usuário, desejo acessar um canal de suporte dentro do aplicativo, para obter ajuda em caso de dúvidas ou problemas.|
+| Critérios de aceitação | - O aplicativo deve disponibilizar um canal de contato direto com a equipe de suporte. <br> - O suporte deve responder em tempo hábil, via chat.|
+| Rastreabilidade | [RQ59](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+Tabela 49: Canal de suporte ao usuário
+
+Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
+
+
+### HU49 - Visualização de certificados
+
+A tabela 50 mostra a história de usuário 49.
+
+| HU49 | Informações |
+| ----- | ---------- |
+| Descrição | Eu, como estudante, desejo visualizar meus certificados diretamente no aplicativo, para acessar rapidamente meus comprovantes de participação.|
+| Critérios de aceitação | - O sistema deve listar todos os certificados emitidos ao usuário. <br> - Cada certificado deve poder ser baixado em formato PDF.|
+| Rastreabilidade | [RQ60](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+Tabela 50: Visualização de certificados
+
+Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
+
+### HU50 - Visualização de ocorrências
+
+A tabela 51 mostra a história de usuário 50.
+
+| HU50 | Informações |
+| ----- | ---------- |
+| Descrição | Eu, como estudante, desejo visualizar minhas ocorrências no aplicativo, para acompanhar registros relacionados ao meu desempenho ou comportamento.|
+| Critérios de aceitação | - O sistema deve exibir uma lista de ocorrências vinculadas ao perfil do estudante.. <br> - Cada ocorrência deve conter a data, descrição e status de resolução.|
+| Rastreabilidade | [RQ61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+Tabela 50: Visualização de ocorrências
+
+Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
+
 
 ### Video 
 
