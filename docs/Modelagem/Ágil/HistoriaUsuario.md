@@ -643,110 +643,96 @@ Tabela 43: Tutorial em vídeo sobre funcionalidades
 
 Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
 
-### HU43 - Localizar funcionalidades em até 45 segundos
+### HU43 - Notificação sobre abertura de editais de vestibulares
 
 A tabela 44 mostra a história de usuário 43.
 
 | HU43 | Informações |
 | ----- | ---------- |
-| Descrição | Eu, como usuário, desejo encontrar qualquer funcionalidade do aplicativo em até 45 segundos, para ter uma navegação ágil e intuitiva. |
-| Critérios de aceitação | - O aplicativo deve garantir que todas as funções sejam acessíveis em até três cliques ou 45 segundos. <br> - O design deve priorizar usabilidade e clareza na navegação. |
-| Rastreabilidade | [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Descrição | Eu, como estudante, desejo receber notificações quando editais de vestibulares forem abertos, para não perder prazos importantes. |
+| Critérios de aceitação | - O aplicativo deve notificar o usuário sempre que um novo edital for publicado. <br> - As notificações devem exibir o nome da instituição e a data limite de inscrição. |
+| Rastreabilidade | [RQ55](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-Tabela 44: Localizar funcionalidades em até 45 segundos
+Tabela 44: Notificação sobre abertura de editais de vestibulares
 
 Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
 
-### HU44 - Notificação sobre abertura de editais de vestibulares
+### HU44 - Fórum entre estudantes
 
 A tabela 45 mostra a história de usuário 44.
 
 | HU44 | Informações |
 | ----- | ---------- |
-| Descrição | Eu, como estudante, desejo receber notificações quando editais de vestibulares forem abertos, para não perder prazos importantes. |
-| Critérios de aceitação | - O aplicativo deve notificar o usuário sempre que um novo edital for publicado. <br> - As notificações devem exibir o nome da instituição e a data limite de inscrição. |
-| Rastreabilidade | [RQ55](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Descrição |Eu, como estudante, desejo acessar um fórum com outros estudantes, para trocar experiências e tirar dúvidas. |
+| Critérios de aceitação | - O aplicativo deve permitir criar e responder tópicos de discussão entre estudantes. <br> - O fórum deve ter categorias para organização dos temas. |
+| Rastreabilidade | [RQ56](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-Tabela 45: Notificação sobre abertura de editais de vestibulares
+Tabela 45: Fórum entre estudantes
 
 Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
 
-### HU45 - Fórum entre estudantes
+### HU45 - Fórum por disciplina entre estudantes e professores
 
 A tabela 46 mostra a história de usuário 45.
 
 | HU45 | Informações |
 | ----- | ---------- |
-| Descrição |Eu, como estudante, desejo acessar um fórum com outros estudantes, para trocar experiências e tirar dúvidas. |
-| Critérios de aceitação | - O aplicativo deve permitir criar e responder tópicos de discussão entre estudantes. <br> - O fórum deve ter categorias para organização dos temas. |
-| Rastreabilidade | [RQ56](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Descrição |Eu, como estudante, desejo participar de um fórum por disciplina com estudantes e professores, para esclarecer dúvidas sobre os conteúdos das aulas. |
+| Critérios de aceitação | - O sistema deve permitir a criação de fóruns específicos por disciplina. <br> - Professores e alunos devem poder interagir por meio de comentários e respostas. |
+| Rastreabilidade | [RQ57](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-Tabela 46: Fórum entre estudantes
+Tabela 46: Fórum por disciplina entre estudantes e professores
 
 Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
 
-### HU46 - Fórum por disciplina entre estudantes e professores
+### HU46 - Emissão de diplomas
 
 A tabela 47 mostra a história de usuário 46.
 
 | HU46 | Informações |
 | ----- | ---------- |
-| Descrição |Eu, como estudante, desejo participar de um fórum por disciplina com estudantes e professores, para esclarecer dúvidas sobre os conteúdos das aulas. |
-| Critérios de aceitação | - O sistema deve permitir a criação de fóruns específicos por disciplina. <br> - Professores e alunos devem poder interagir por meio de comentários e respostas. |
-| Rastreabilidade | [RQ57](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Descrição |Eu, como estudante, desejo emitir meu diploma diretamente pelo aplicativo, para facilitar o acesso ao documento após a conclusão do curso.|
+| Critérios de aceitação | - O aplicativo deve permitir solicitar e gerar o diploma em formato digital. <br> - O documento deve conter autenticação e validação oficial. |
+| Rastreabilidade | [RQ58](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-Tabela 47: Fórum por disciplina entre estudantes e professores
+Tabela 47: Emissão de diplomas
 
 Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
 
-### HU47 - Emissão de diplomas
+### HU47 - Canal de suporte ao usuário
 
 A tabela 48 mostra a história de usuário 47.
 
 | HU47 | Informações |
 | ----- | ---------- |
-| Descrição |Eu, como estudante, desejo emitir meu diploma diretamente pelo aplicativo, para facilitar o acesso ao documento após a conclusão do curso.|
-| Critérios de aceitação | - O aplicativo deve permitir solicitar e gerar o diploma em formato digital. <br> - O documento deve conter autenticação e validação oficial. |
-| Rastreabilidade | [RQ58](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Descrição |Eu, como usuário, desejo acessar um canal de suporte dentro do aplicativo, para obter ajuda em caso de dúvidas ou problemas.|
+| Critérios de aceitação | - O aplicativo deve disponibilizar um canal de contato direto com a equipe de suporte. <br> - O suporte deve responder em tempo hábil, via chat.|
+| Rastreabilidade | [RQ59](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-Tabela 48: Emissão de diplomas
+Tabela 48: Canal de suporte ao usuário
 
 Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
 
-### HU48 - Canal de suporte ao usuário
+
+### HU48 - Visualização de certificados
 
 A tabela 49 mostra a história de usuário 48.
 
 | HU48 | Informações |
 | ----- | ---------- |
-| Descrição |Eu, como usuário, desejo acessar um canal de suporte dentro do aplicativo, para obter ajuda em caso de dúvidas ou problemas.|
-| Critérios de aceitação | - O aplicativo deve disponibilizar um canal de contato direto com a equipe de suporte. <br> - O suporte deve responder em tempo hábil, via chat.|
-| Rastreabilidade | [RQ59](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-
-Tabela 49: Canal de suporte ao usuário
-
-Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
-
-
-### HU49 - Visualização de certificados
-
-A tabela 50 mostra a história de usuário 49.
-
-| HU49 | Informações |
-| ----- | ---------- |
 | Descrição | Eu, como estudante, desejo visualizar meus certificados diretamente no aplicativo, para acessar rapidamente meus comprovantes de participação.|
 | Critérios de aceitação | - O sistema deve listar todos os certificados emitidos ao usuário. <br> - Cada certificado deve poder ser baixado em formato PDF.|
 | Rastreabilidade | [RQ60](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-Tabela 50: Visualização de certificados
+Tabela 49: Visualização de certificados
 
 Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
 
-### HU50 - Visualização de ocorrências
+### HU49 - Visualização de ocorrências
 
-A tabela 51 mostra a história de usuário 50.
+A tabela 50 mostra a história de usuário 49.
 
-| HU50 | Informações |
+| HU49 | Informações |
 | ----- | ---------- |
 | Descrição | Eu, como estudante, desejo visualizar minhas ocorrências no aplicativo, para acompanhar registros relacionados ao meu desempenho ou comportamento.|
 | Critérios de aceitação | - O sistema deve exibir uma lista de ocorrências vinculadas ao perfil do estudante.. <br> - Cada ocorrência deve conter a data, descrição e status de resolução.|
