@@ -93,7 +93,7 @@ A tabela 4 mostra a história de usuário 3.
 | HU03 | Informações |
 |----|------|
 | Descrição |   Eu, como estudante beneficiário, desejo acompanhar o status do programa Pé-de-Meia para verificar minha elegibilidade e situação dos pagamentos. |
-| Critérios de Aceitação | -  O aplicativo deve exibir o status atual do benefício Pé-de-Meia.<br> -  As informações devem ser atualizadas conforme os dados oficiais do programa.. <br> . |
+| Critérios de Aceitação | -  O aplicativo deve exibir o status atual do benefício Pé-de-Meia.<br> -  As informações devem ser atualizadas conforme os dados oficiais do programa. <br>  |
 | Rastreabilidade | [RQ05](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 Fonte: [Lara Souza](https://github.com/mel14-hub)
@@ -150,8 +150,9 @@ A tabela 8 mostra a história de usuário 7.
 | HU07 | Informações |
 | ----- | ---------- |
 | Descrição | Eu como estudante desejo me comunicar com o MEC por um canal direto de informações entre o MEC e os estudantes |
-| Critérios de aceitação | - Exibir notificações com novas informações - Receber menssagens e comunicados oficiais |
+| Critérios de aceitação | - Exibir notificações com novas informações.<br>- Receber menssagens e comunicados oficiais.|
 | Rastreabilidade | [RQ12](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
  
  ### HU08 - Registro de curso
@@ -161,8 +162,9 @@ A tabela 9 mostra a história de usuário 8.
 | HU08 | Informações |
 | ----- | ---------- |
 | Descrição | Eu como estudante desejo informa o curso que concluir e que estou cursando no aplicativo |
-| Critérios de aceitação | - Adicionar informações sobre o curso - Editar informações do curso - Visualizar dados salvos no perfil |
+| Critérios de aceitação | - Adicionar informações sobre o curso.<br> - Editar informações do curso.<br> - Visualizar dados salvos no perfil. |
 | Rastreabilidade | [RQ13](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
  
 ### HU09 - Novidades e programs do Governo Federal
@@ -174,8 +176,10 @@ A tabela 10 mostra a história de usuário 9.
 | HU09 | Informações |
 | ----- | ---------- |
 | Descrição | Eu como estudante desejo visualizar novidades e programas  voltados à educação enviadas pelo governo federal.|
-| Critérios de aceitação | - Exibir notificação de novidade e programas voltados a educação - Visualizar seção dedicada aos programas novidades educacionais |
+| Critérios de aceitação | - Exibir notificação de novidade e programas voltados a educação<br> - Visualizar seção dedicada aos programas novidades educacionais |
 | Rastreabilidade | [RQ14](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
+ <font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
  
  ### HU10 - Novidades e programs do Governo Federal
 
@@ -189,6 +193,7 @@ A tabela 11 mostra a história de usuário 10.
 | Descrição | Eu como estudante desejo acesso aos serviços estudantis (como FIES, ENEM, ProUni, etc.) pelo aplicativo.|
 | Critérios de aceitação | - Vizualizar seção que e dedicada a levar o estudande direto para esses serviços em pouco tempo |
 | Rastreabilidade | [RQ15](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
  
 ### HU11 - Integração com a Instituição de Ensino
@@ -200,8 +205,9 @@ A tabela 12 mostra a história de usuário 11.
 | HU11 | Informações |
 | ----- | ---------- |
 | Descrição | Eu como estudante desejo ter minhas informações da escola ou universidade integrada com o sistema do aplicativo.|
-| Critérios de aceitação | - Acessar o perfil de estudante  - visualizar informações acadêmicas diretamente pelo aplicativo.|
+| Critérios de aceitação | - Acessar o perfil de estudante<br>  - visualizar informações acadêmicas diretamente pelo aplicativo.|
 | Rastreabilidade | [RQ16](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
  
  ### HU12 - Visualizar disciplina e professor
@@ -215,6 +221,7 @@ A tabela 13 mostra a história de usuário 12.
 | Descrição | Eu como estudante desejo visualizar as disciplinas e os professores responsáveis.|
 | Critérios de aceitação | - Visualizar lista de diciplisnas que contém o nome do professor responsavel |
 | Rastreabilidade | [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
  
   ### HU13 - Horário e sala de aula
@@ -226,8 +233,10 @@ A tabela 14 mostra a história de usuário 13.
  
 | HU13 | Informações |
 | ----- | ---------- |
-| Descrição | Eu como estudante desejo visualizar  o horário e a sala da disciplina| - Acessar o cronograma de aulas de forma facíl - Visualizar a sala no cronograma |
+| Descrição | Eu como estudante desejo visualizar  o horário e a sala da disciplina| 
+| Critérios de aceitação | - Acessar o cronograma de aulas de forma facíl<br> - Visualizar a sala no cronograma |
 | Rastreabilidade | [RQ18](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
  
    ### HU14 - Avaliações e Trabalhos da Disciplina
@@ -239,8 +248,10 @@ A tabela 15 mostra a história de usuário 14.
  
 | HU14 | Informações |
 | ----- | ---------- |
-| Descrição | Eu como estudante desejo visualizar  informações sobre trabalho, data de avaliação, tipo de avaliação e o peso na média| - Visualizar inrfomações sobre as avaliações da diciplina de forma detalhada (tipo, data e peso)  - Atualização em caso de mudança  |
+| Descrição | Eu como estudante desejo visualizar  informações sobre trabalho, data de avaliação, tipo de avaliação e o peso na média|
+| Critérios de aceitação |- Visualizar inrfomações sobre as avaliações da diciplina de forma detalhada (tipo, data e peso)<br>  - Atualização em caso de mudança  |
 | Rastreabilidade | [RQ19](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
 
 
@@ -370,10 +381,10 @@ A tabela 24 mostra a história de usuário 23.
 | HU23 | Informações |
 | ----- | ---------- |
 | Descrição | Eu, como beneficiário do auxílio, desejo visualizar o valor total recebido, para ter  controle sobre o montante total do benefício. |
-| Critérios de aceitação | - O sistema deve exibir o valor total somando todas as parcelas pagas.
-<br> - O valor total deve ser atualizado automaticamente conforme novas parcelas são pagas. |
+| Critérios de aceitação | - O sistema deve exibir o valor total somando todas as parcelas pagas.<br> - O valor total deve ser atualizado automaticamente conforme novas parcelas são pagas. |
 | Rastreabilidade | [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a></p>
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
  
 ### HU24 – Visualizar Conta Bancária Cadastrada
 
@@ -384,10 +395,10 @@ A tabela 25 mostra a história de usuário 24.
 | HU24 | Informações |
 | ----- | ---------- |
 | Descrição | Eu, como beneficiário do auxílio, desejo visualizar a conta bancária cadastrada para o recebimento, a fim de confirmar se os dados estão corretos. |
-| Critérios de aceitação | - O sistema deve exibir o banco, agência e número da conta vinculada.
-<br> - O sistema deve ocultar parcialmente informações sensíveis (ex.: dígitos finais). |
+| Critérios de aceitação | - O sistema deve exibir o banco, agência e número da conta vinculada.<br> - O sistema deve ocultar parcialmente informações sensíveis (ex.: dígitos finais). |
 | Rastreabilidade | [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a></p>
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
  
 ### HU25 – Visualizar Dia do Pagamento do Auxílio
 
@@ -398,10 +409,10 @@ A tabela 26 mostra a história de usuário 25.
 | HU25 | Informações |
 | ----- | ---------- |
 | Descrição | Eu, como beneficiário do auxílio, desejo visualizar o dia de pagamento, para me planejar financeiramente. |
-| Critérios de aceitação | - O sistema deve exibir a data prevista para o próximo pagamento.
-<br> - O sistema deve indicar se o pagamento já foi efetuado ou está pendente |
+| Critérios de aceitação | - O sistema deve exibir a data prevista para o próximo pagamento.<br> - O sistema deve indicar se o pagamento já foi efetuado ou está pendente |
 | Rastreabilidade | [RQ34](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a></p>
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
  
 ### HU26 – Acesso ao Fórum de Dúvidas
 
@@ -412,10 +423,10 @@ A tabela 27 mostra a história de usuário 26.
 | HU26 | Informações |
 | ----- | ---------- |
 | Descrição | Eu, como beneficiário do auxílio, desejo acessar um fórum de dúvidas, para trocar informações e esclarecer questões sobre o benefício. |
-| Critérios de aceitação | - O sistema deve permitir a visualização de tópicos e respostas existentes.
-<br> - O sistema deve permitir ao  usuário postar novas dúvidas e responder outras.|
+| Critérios de aceitação | - O sistema deve permitir a visualização de tópicos e respostas existentes.<br> - O sistema deve permitir ao  usuário postar novas dúvidas e responder outras.|
 | Rastreabilidade | [RQ35](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a></p>
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
  
 ### HU27 – Atendimento via Canal de Conversa
 
@@ -426,10 +437,10 @@ A tabela 28 mostra a história de usuário 27.
 | HU27 | Informações |
 | ----- | ---------- |
 | Descrição | Eu, como beneficiário do auxílio, desejo ser atendido em um canal de conversa, para resolver dúvidas ou problemas relacionados ao auxílio. |
-| Critérios de aceitação | - O sistema deve oferecer um chat com atendente virtual ou humano.
-<br> - O usuário deve poder registrar solicitações e acompanhar respostas. <br> - O sistema deve registrar o histórico de conversas.|
+| Critérios de aceitação | - O sistema deve oferecer um chat com atendente virtual ou humano.<br> - O usuário deve poder registrar solicitações e acompanhar respostas. <br> - O sistema deve registrar o histórico de conversas.|
 | Rastreabilidade | [RQ36](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a></p>
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
  
 ### HU28 – Visualizar Eventos em Calendário
 
@@ -440,10 +451,10 @@ A tabela 29 mostra a história de usuário 28.
 | HU28 | Informações |
 | ----- | ---------- |
 | Descrição | Eu, como estudante, desejo visualizar as datas de eventos no calendário, para me organizar e participar das atividades programadas. |
-| Critérios de aceitação | - O sistema deve exibir um calendário com as datas dos eventos.
- <br> - O usuário deve poder clicar em uma data e visualizar detalhes do evento.|
+| Critérios de aceitação | - O sistema deve exibir um calendário com as datas dos eventos.<br> - O usuário deve poder clicar em uma data e visualizar detalhes do evento.|
 | Rastreabilidade | [RQ37](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a></p>
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
  
 ### HU29 – Informações Unificadas sobre Jornada Escolar
 
@@ -454,10 +465,10 @@ A tabela 30 mostra a história de usuário 29.
 | HU29 | Informações |
 | ----- | ---------- |
 | Descrição | Eu, como estudante, desejo visualizar informações unificadas sobre minha jornada escolar, para acompanhar meu desempenho e atividades acadêmicas.|
-| Critérios de aceitação | - O sistema deve exibir dados sobre notas, frequência, disciplinas, e outros.
-<br> - As informações devem estar centralizadas em uma única tela.|
+| Critérios de aceitação | - O sistema deve exibir dados sobre notas, frequência, disciplinas, e outros.<br> - As informações devem estar centralizadas em uma única tela.|
 | Rastreabilidade | [RQ38](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a></p>
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
  
 ### HU30 – Ranqueamento de Matérias por Nota
 
@@ -468,10 +479,10 @@ A tabela 31 mostra a história de usuário 30.
 | HU30 | Informações |
 | ----- | ---------- |
 | Descrição | Eu, como estudante, desejo visualizar um ranqueamento das matérias com base nas minhas notas, para identificar em quais preciso focar mais.|
-| Critérios de aceitação | - O sistema deve exibir as matérias ordenadas por nota, da menor para a maior.  
-<br> - O sistema deve destacar matérias com desempenho abaixo da média.|
+| Critérios de aceitação | - O sistema deve exibir as matérias ordenadas por nota, da menor para a maior.<br> - O sistema deve destacar matérias com desempenho abaixo da média.|
 | Rastreabilidade | [RQ41](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a></p>
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
 
 
 ### HU31 - Página de perfil do estudante
