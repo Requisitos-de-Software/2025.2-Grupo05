@@ -189,7 +189,7 @@ O Backlog do Produto é um artefato da metodologia ágil que toma a forma de uma
   </thead>
   <tbody>
     <tr>
-      <td rowspan="6" style="padding: 8px; vertical-align: top;">Épico 4 - Editar</td>
+      <td rowspan="7" style="padding: 8px; vertical-align: top;">Épico 4 - Editar</td>
       <td rowspan="2" style="padding: 8px; vertical-align: top;">Feature 1 - Edição de informações pessoais</td>
       <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU32</a> - Editar informações do perfil do estudante</td>
       <td style="padding: 8px; text-align: center;">-</td>
@@ -207,6 +207,21 @@ O Backlog do Produto é um artefato da metodologia ágil que toma a forma de uma
       <td style="padding: 8px; vertical-align: top;">Feature 3 - Edição de atividades</td>
       <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU36</a> - Editar atividades na agenda</td>
       <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;">Feature 4 - Edição de atividades</td>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU35</a> - Inserir atividades na agenda</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;">Feature 5 - Edição de atividades</td>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU39</a> - Inserir Data e horário em atividades na agenda</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;">Feature 6 - Edição de atividades</td>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU37</a> - Excluir Atividades na agenda</td>
+      <td style="padding: 8px; text-align: left;">-</td>
     </tr>
   </tbody>
 </table>
