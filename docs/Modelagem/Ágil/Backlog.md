@@ -1,8 +1,14 @@
+## Introdução
+
+O Backlog do Produto é um artefato da metodologia ágil que toma a forma de uma lista de todas as tarefas pendentes a serem feitas em um projeto. O responsável por sugerir e priorizar os itens é o Dono do Produto (_Product Owner_). Vale ressaltar que o Backlog do Produto é um artefato dinâmico, ou seja, ele cresce e muda à medida que os requisitos e a visão do produto são alterados.
+
+
 ## Metodologia
 
-<center>
 
-*Tabela 2* - Product Backlog Elaborado com o Product Owner.
+<p align="center">
+  <em>Tabela 2 - Épico 1 - Acompanhar</em>
+</p>
 <table>
 <thead>
   <tr>
@@ -94,7 +100,7 @@
 </center>
 
 <p align="center">
-  <em>Tabela 3 - Product Backlog Elaborado com o Product Owner.</em>
+  <em>Tabela 3 - Épico 2 - Unificar.</em>
 </p>
 
 <table align="center">
@@ -145,6 +151,9 @@
 </table>
 
 
+<p align="center">
+  <em>Tabela 3 - Épico 3 - Autenticar</em>
+</p>
 <table align="center">
   <thead>
     <tr>
@@ -166,7 +175,7 @@
 </table>
 
 <p align="center">
-  <em>Tabela 4 - Product Backlog Elaborado com o Product Owner.</em>
+  <em>Tabela 4 - Épico 4 - Editar</em>
 </p>
 
 <table align="center">
@@ -203,7 +212,7 @@
 </table>
 
 <p align="center">
-  <em>Tabela 5 - Product Backlog Elaborado com o Product Owner.</em>
+  <em>Tabela 5 - Épico 5 - Avaliar</em>
 </p>
 
 
@@ -227,10 +236,54 @@
 </table>
 
 <p align="center">
-  <em>Tabela 6 - Product Backlog Elaborado com o Product Owner.</em>
+  <em>Tabela 6 - Épico 6 - .</em>
 </p>
 
+## Temas
 
+Analisando as histórias de usuário, foi possível organizá-las inicialmente em dois grandes temas.
 
+- **Funcionalidades**: Agrupa funcionalidades que o sistema precisa oferecer para que o usuário consiga realizar com sucesso suas tarefas.
+- **Perfil**: Agrupa funcionalidades relacionadas a como o usuário se apropria do sistema e o modifica de acordo com seus gostos e desejos.
 
+## Épicos
 
+Após a definição dos temas, eles são "quebrados" em épicos de modo a diminuir ainda mais a abstração das atividades que deverão ser realizadas no projeto. Para esse projeto, os épicos foram descritos utilizando o padrão de escrita das histórias de usuário e possuem um nível de abstração a mais chamado de _Features_.
+
+## Features
+
+Definido um épico, são geradas _features_, que são descrições simplificadas do que o produto faz para atender os objetivos dos usuários.  Elas representam as funcionalidades em um nível de abstração maior que as histórias de usuário.
+
+## Histórias de Usuário
+
+Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](../Ágil/HistoriaUsuario.md). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
+
+### Épico 1 - Acompanhar
+
+### Épico 2 - Unificar
+
+### Épico 3 - Autenticar
+
+### Épico 4 - Editar
+
+### Épico 5 - Avaliar
+
+### Épico 6 - 
+
+## Bibliografia
+
+> SOUZA, Nicolas; MACEDO, Lucas. Backlog do Produto. Repositório do Grupo Lichess da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/>>. Acesso em: 18 maio 2023.
+
+> POPOV, Arthur Taylor de Jesus; SANTOS, Eduardo Schuindt. Backlog do Produto. Repositório do Grupo MEI da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/>>. Acesso em: 18 maio 2023.
+
+> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
+
+> Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3. p. 38.
+
+> HENRIQUE, Matheus; FERREIRA, Rafael. Backlog. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/). Acesso em: 18 out. 2025
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                | Autor                                                                                                                                                                                                                                                                                                     | Revisor                                               |
+| ------ | ---------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| 1.0    | 18/10/2025 | Documentação dos primeiros backlogs | [Luisa de Souza](https://github.com/Luisa12ll), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) | [Luisa de Souza](https://github.com/Luisa12ll) |
