@@ -138,9 +138,9 @@ A tabela 7 mostra a história de usuário 6.
 | Critérios de aceitação | - Exibir informações completas do histórico estudantil |
 | Rastreabilidade | [RQ11](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
  
-<font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
+Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
  
- ### HU07 - Comunicação do MEC com estudante
+### HU07 - Comunicação do MEC com estudante
 
 A tabela 8 mostra a história de usuário 7.
 
@@ -153,9 +153,9 @@ A tabela 8 mostra a história de usuário 7.
 | Critérios de aceitação | - Exibir notificações com novas informações.<br>- Receber menssagens e comunicados oficiais.|
 | Rastreabilidade | [RQ12](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
+Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
  
- ### HU08 - Registro de curso
+### HU08 - Registro de curso
 
 A tabela 9 mostra a história de usuário 8.
 
@@ -165,7 +165,7 @@ A tabela 9 mostra a história de usuário 8.
 | Critérios de aceitação | - Adicionar informações sobre o curso.<br> - Editar informações do curso.<br> - Visualizar dados salvos no perfil. |
 | Rastreabilidade | [RQ13](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
+Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
  
 ### HU09 - Novidades e programs do Governo Federal
 
@@ -179,9 +179,9 @@ A tabela 10 mostra a história de usuário 9.
 | Critérios de aceitação | - Exibir notificação de novidade e programas voltados a educação<br> - Visualizar seção dedicada aos programas novidades educacionais |
 | Rastreabilidade | [RQ14](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
- <font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
+ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
  
- ### HU10 - Novidades e programs do Governo Federal
+### HU10 - Novidades e programs do Governo Federal
 
 A tabela 11 mostra a história de usuário 10.
  
@@ -194,7 +194,7 @@ A tabela 11 mostra a história de usuário 10.
 | Critérios de aceitação | - Vizualizar seção que e dedicada a levar o estudande direto para esses serviços em pouco tempo |
 | Rastreabilidade | [RQ15](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
+Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
  
 ### HU11 - Integração com a Instituição de Ensino
 
@@ -208,9 +208,9 @@ A tabela 12 mostra a história de usuário 11.
 | Critérios de aceitação | - Acessar o perfil de estudante<br>  - visualizar informações acadêmicas diretamente pelo aplicativo.|
 | Rastreabilidade | [RQ16](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
+Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
  
- ### HU12 - Visualizar disciplina e professor
+### HU12 - Visualizar disciplina e professor
 
 A tabela 13 mostra a história de usuário 12.
  
@@ -222,9 +222,9 @@ A tabela 13 mostra a história de usuário 12.
 | Critérios de aceitação | - Visualizar lista de diciplisnas que contém o nome do professor responsavel |
 | Rastreabilidade | [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
+Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
  
-  ### HU13 - Horário e sala de aula
+### HU13 - Horário e sala de aula
 
 A tabela 14 mostra a história de usuário 13.
  
@@ -237,9 +237,9 @@ A tabela 14 mostra a história de usuário 13.
 | Critérios de aceitação | - Acessar o cronograma de aulas de forma facíl<br> - Visualizar a sala no cronograma |
 | Rastreabilidade | [RQ18](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
+Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
  
-   ### HU14 - Avaliações e Trabalhos da Disciplina
+### HU14 - Avaliações e Trabalhos da Disciplina
 
 A tabela 15 mostra a história de usuário 14.
  
@@ -252,7 +252,7 @@ A tabela 15 mostra a história de usuário 14.
 | Critérios de aceitação |- Visualizar inrfomações sobre as avaliações da diciplina de forma detalhada (tipo, data e peso)<br>  - Atualização em caso de mudança  |
 | Rastreabilidade | [RQ19](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
+Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
 
 ### HU15: Visualização de Notas
@@ -775,3 +775,4 @@ Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
 | Versão | Data       | Descrição                | Autor                                                                                                                                                                                                                                                                                                     | Revisor                                               |
 | ------ | ---------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | 1.0    | 16/10/2025 | Documentação das histórias de usuários | [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) | [Luisa de Souza](https://github.com/Luisa12ll) |
+| 1.1    | 18/10/2025 | Corrigindo formatações | [Luisa de Souza](https://github.com/Luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812)|  [Geovanna Alves](https://github.com/GeovannaUmbelino) |
