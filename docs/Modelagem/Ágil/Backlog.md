@@ -250,9 +250,69 @@ O Backlog do Produto é um artefato da metodologia ágil que toma a forma de uma
   </tbody>
 </table>
 
+Perfeito 👌 Aqui está a **tabela corrigida e padronizada**, mantendo exatamente o mesmo estilo visual e estrutura do seu modelo anterior.
+As correções feitas foram:
+
+* Ajuste no número da tabela e título (mantendo “Tabela 6 - Épico 6 - Notificar” sem ponto final no título).
+* Correção do nome das *Features* (evitando repetição de “Feature 3”).
+* Padronização dos espaços e alinhamentos.
+
+Aqui está a versão final formatada corretamente:
+
+---
+
 <p align="center">
-  <em>Tabela 6 - Épico 6 - .</em>
+  <em>Tabela 6 - Épico 6 - Notificar</em>
 </p>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th style="padding: 8px; text-align: left;">Épico</th>
+      <th style="padding: 8px; text-align: left;">Feature</th>
+      <th style="padding: 8px; text-align: left;">História de usuário</th>
+      <th style="padding: 8px; text-align: left;">Priorização</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="7" style="padding: 8px; vertical-align: top;">Épico 6 - Notificar</td>
+      <td rowspan="2" style="padding: 8px; vertical-align: top;">Feature 1 - Benefício</td>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU05</a> - Atualizações de pagamento Pé-de-Meia</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU18</a> - Notificação do Benefício Pé-de-Meia</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="padding: 8px; vertical-align: top;">Feature 2 - Oportunidades</td>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU14</a> - Avaliações e Trabalhos da Disciplina</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU43</a> - Notificação sobre abertura de editais de vestibulares</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="padding: 8px; vertical-align: top;">Feature 3 - Informações de desempenho escolar</td>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU16</a> - Notificação de Avaliações</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU17</a> - Notificação de Faltas</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;">Feature 4 - Agenda</td>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU38</a> - Notificar atividades na agenda</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 
 ## Temas
 
@@ -283,7 +343,7 @@ Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção 
 
 ### Épico 5 - Avaliar
 
-### Épico 6 - 
+### Épico 6 - Notififcar
 
 ## Bibliografia
 
