@@ -92,3 +92,79 @@
 </table>
 
 </center>
+
+<p align="center">
+  <em>Tabela 3 - Product Backlog Elaborado com o Product Owner.</em>
+</p>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Épico</th>
+      <th>Feature</th>
+      <th>História de usuário</th>
+      <th>Priorização</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="7">Épico 2 - Unificar</td>
+      <td rowspan="2">Feature 1 - Eventos na agenda</td>
+      <td><a href="../Ágil/HistoriaUsuario.md">HU34</a> - Agenda para organização pessoal onde serão agrupadas as atividades escolares</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="../Ágil/HistoriaUsuario.md">HU41</a> - A agenda deve permitir a sincronização com aplicativos externos</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Feature 2 - Informações acadêmicas</td>
+      <td><a href="../Ágil/HistoriaUsuario.md">HU02</a> - Visualizar informações consolidadas de diferentes instituições de ensino em uma única interface</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="../Ágil/HistoriaUsuario.md">HU29</a> - Visualizar informações unificadas sobre minha jornada escolar, para acompanhar meu desempenho e atividades acadêmicas.</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Feature 3 - Instituição de ensino</td>
+      <td><a href="../Ágil/HistoriaUsuario.md">HU11</a> - Visualizar informações acadêmicas e pessoais diretamente pelo aplicativo.</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Feature 4 - Informações pessoais</td>
+      <td><a href="../Ágil/HistoriaUsuario.md">HU31</a> - Visualizar página de perfil com minha informações pessoais</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Feature 5 - Serviços estudantis</td>
+      <td><a href="../Ágil/HistoriaUsuario.md">HU28</a> - Acessar os serviços estudantis (como FIES, ENEM, ProUni, etc.) pelo aplicativo.</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <em>Tabela 4 - Product Backlog Elaborado com o Product Owner.</em>
+</p>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th style="padding: 8px; text-align: left;">Épico</th>
+      <th style="padding: 8px; text-align: left;">Feature</th>
+      <th style="padding: 8px; text-align: left;">História de usuário</th>
+      <th style="padding: 8px; text-align: left;">Priorização</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tbody>
+    <tr>
+      <td rowspan="7" style="padding: 8px; vertical-align: top;">Épico 3 - Autenticar</td>
+      <td rowspan="2" style="padding: 8px; vertical-align: top;">Feature 1 - Autenticação do Estudante</td>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU01</a> - Poder escolher fazer login com Gov.br na tela inicial, para acessar o aplicativo de forma rápida e segura utilizando a conta do gov.</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+</tbody>
+</table>
+
