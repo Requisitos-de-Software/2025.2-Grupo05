@@ -144,9 +144,6 @@
   </tbody>
 </table>
 
-<p align="center">
-  <em>Tabela 4 - Product Backlog Elaborado com o Product Owner.</em>
-</p>
 
 <table align="center">
   <thead>
@@ -167,4 +164,73 @@
     </tr>
 </tbody>
 </table>
+
+<p align="center">
+  <em>Tabela 4 - Product Backlog Elaborado com o Product Owner.</em>
+</p>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th style="padding: 8px; text-align: left;">Épico</th>
+      <th style="padding: 8px; text-align: left;">Feature</th>
+      <th style="padding: 8px; text-align: left;">História de usuário</th>
+      <th style="padding: 8px; text-align: left;">Priorização</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6" style="padding: 8px; vertical-align: top;">Épico 4 - Editar</td>
+      <td rowspan="2" style="padding: 8px; vertical-align: top;">Feature 1 - Edição de informações pessoais</td>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU32</a> - Editar informações do perfil do estudante</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU08</a> - Editar dados pessoais do usuário</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;">Feature 2 - Edição de informações bancárias</td>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU33</a> - Editar informações bancárias do estudante</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top;">Feature 3 - Edição de atividades</td>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU36</a> - Editar atividades na agenda</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <em>Tabela 5 - Product Backlog Elaborado com o Product Owner.</em>
+</p>
+
+
+<table align="center">
+  <thead>
+    <tr>
+      <th style="padding: 8px; text-align: left;">Épico</th>
+      <th style="padding: 8px; text-align: left;">Feature</th>
+      <th style="padding: 8px; text-align: left;">História de usuário</th>
+      <th style="padding: 8px; text-align: left;">Priorização</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="padding: 8px; vertical-align: top;">Épico 5 - Avaliar</td>
+      <td style="padding: 8px; vertical-align: top;">Feature 1 - Avaliação de atividades</td>
+      <td style="padding: 8px;"><a href="../Ágil/HistoriaUsuario.md">HU40</a> - Avaliar atividades com grau de importância</td>
+      <td style="padding: 8px; text-align: center;">-</td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <em>Tabela 6 - Product Backlog Elaborado com o Product Owner.</em>
+</p>
+
+
+
+
 
