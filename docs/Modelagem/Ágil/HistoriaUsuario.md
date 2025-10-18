@@ -322,7 +322,6 @@ A tabela 20 mostra a história de usuário 19.
 | HU19 | Informações |
 | :--- | :--- |
 | **Descrição** | Eu, como **estudante**, quero **emitir a declaração de vínculo com a instituição de ensino através do aplicativo** para que eu possa **comprovar minha matrícula de forma rápida e fácil**. |
-| **Critérios de Aceitação** | - Ao selecionar a opção "Emitir Declaração", o sistema deve gerar um documento em formato PDF.<br>- O documento deve conter o nome completo do aluno, curso, status da matrícula e data de emissão.<br>- O PDF gerado deve possuir um código de verificação de autenticidade. |
 | **Rastreabilidade** | [RQ27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
  Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
@@ -336,7 +335,8 @@ A tabela 21 mostra a história de usuário 20.
  
 | HU20 | Informações |
 | :--- | :--- |
-| **Descrição** | Eu, como **estudante**, quero **emitir meu histórico escolar pelo aplicativo** para que eu possa **consultar ou apresentar meu desempenho acadêmico completo quando necessário**. |
+| **Descrição** | Eu, como **estudante**, quero **emitir meu histórico escolar | **Critérios de Aceitação** | - Ao selecionar a opção "Emitir Declaração", o sistema deve gerar um documento em formato PDF.<br>- O documento deve conter o nome completo do aluno, curso, status da matrícula e data de emissão.<br>- O PDF gerado deve possuir um código de verificação de autenticidade. |
+pelo aplicativo** para que eu possa **consultar ou apresentar meu desempenho acadêmico completo quando necessário**. |
 | **Critérios de Aceitação** | - Ao selecionar a opção "Emitir Histórico", o sistema deve gerar um documento em formato PDF.<br>- O documento deve conter todas as disciplinas cursadas, notas finais e status (Aprovado/Reprovado).<br>- O usuário deve ter as opções de baixar e compartilhar o documento gerado. |
 | **Rastreabilidade** | [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
  
