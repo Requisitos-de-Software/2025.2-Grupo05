@@ -76,7 +76,7 @@ A tabela 3 mostra a lista de verificação para a técnica de História de Usuá
 | 7 - A história é testável e possui critérios de aceite claros ("Testable")?              |           |     Versão 1.0 - 20/10/2025      |
 
 <figcaption align="center">Tabela 3: Lista de inspeção da técnica História de Usuário.</figcaption>
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza Mota](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
+Autor: <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>, <a href="https://github.com/mel14-hub">Lara Mota</a>, <a href="https://github.com/luisa12ll">Luisa de Souza</a>, <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 
 ## Lista de Verificação - Backlog
 
@@ -91,7 +91,7 @@ A tabela 4 mostra a lista de verificação para o artefato Backlog.
 | 5 - O backlog está visível e transparente para todos os stakeholders?      |           |     Versão 1.0 - 20/10/2025      |
 
 <figcaption align="center">Tabela 4: Lista de inspeção do artefato Backlog.</figcaption>
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza Mota](https://github.com/mel14-hub).</p></font>
+Autor: <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>, <a href="https://github.com/mel14-hub">Lara Mota</a>, <a href="https://github.com/luisa12ll">Luisa de Souza</a>, <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 
 ## Lista de Verificação - NFR Framework
 
@@ -99,25 +99,33 @@ A tabela 5 mostra a lista de verificação para a técnica NFR Framework.
 
 | O github pages possui:                                                                  | Avaliação | Versão, Data e hora da avaliação |
 | :-------------------------------------------------------------------------------------- | :-------: | :------------------------------: |
-| 1 - Os Requisitos Não-Funcionais (RNFs) são identificados como softgoals?               |           |     Versão 1.0 - 20/10/2025      |
-| 2 - Os softgoals são decompostos em sub-softgoals mais específicos?                     |           |     Versão 1.0 - 20/10/2025      |
-| 3 - Foram identificadas as contribuições (positivas e negativas) entre os softgoals?    |           |     Versão 1.0 - 20/10/2025      |
-| 4 - As alternativas de implementação (operacionalizações) para os RNFs estão definidas? |           |     Versão 1.0 - 20/10/2025      |
-| 5 - A rationale por trás das decisões de design para os RNFs está documentada?          |           |     Versão 1.0 - 20/10/2025      |
+| 1 - O NFR Framework foi utilizado para representar e analisar requisitos não-funcionais?              |           |  Versão 1.0 - 20/10/2025      |
+| 2 - O NFR Framework utilizou o conceito de softgoal para expressar requisitos não-funcionais?                  |           |     Versão 1.0 - 20/10/2025      |
+| 3 - O NFR Framework representou os requisitos não-funcionais através de um grafo SIG (Softgoal Interdependency Graph)?   |           |     Versão 1.0 - 20/10/2025      |
+| 4 - O SIG contém decisões de projeto e justificativas associadas?|           |     Versão 1.0 - 20/10/2025      |
+| 5 - O NFR Framework classificou softgoals em três tipos distintos (NFR, Operacionalização e Afirmação)?          |           |     Versão 1.0 - 20/10/2025      |
+| 6 - O procedimento de avaliação define o grau de satisfação de cada softgoal?      |           |     Versão 1.0 - 20/10/2025      |
+| 7 - Para representar os softgoals NFR foram usadas nuvens claras?         |           |     Versão 1.0 - 20/10/2025      |
+| 8 - Os softgoals de Operacionalização foram usados para representar soluções de implementação para satisfazer RNFs?|           |     Versão 1.0 - 20/10/2025      |
+| 9 - Para representar os softgoals de Operacionalização foram usadas nuvens com linhas mais grossas?    |           |     Versão 1.0 - 20/10/2025      |
+| 10 - Para representar os softgoals de Afirmação foram usadas nuvens com linhas tracejadas?        |           |     Versão 1.0 - 20/10/2025      |
+
 
 <figcaption align="center">Tabela 5: Lista de inspeção da técnica NFR Framework.</figcaption>
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)</p></font>
+Autor: <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>, <a href="https://github.com/mel14-hub">Lara Mota</a>, <a href="https://github.com/luisa12ll">Luisa de Souza</a>, <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 
 ## Bibliografia
 
 > 1. PRESSMAN, Roger S.; MAXIM, Bruce R. Engenharia de Software: Uma Abordagem Profissional. 9. ed. Porto Alegre: AMGH, 2021.
 > 2. Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3.
 > 3. SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf.
+> 4.  SILVA, Reinaldo; CASTRO, Jaelson; PIMENTEL, João. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. In: Recife, Brasil: Even3, 2020.
 
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                  |                     Autor(es)                      |                   Revisor(es)                    |
 | :----: | :--------: | :------------------------- | :------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 20/10/2025 | Documentação da inspeção 4 | [Pedro Henrique](https://github.com/pedrohpsantos) | [Yan Matheus](https://github.com/Yanmatheus0812) |
+|  1.1   | 20/10/2025 | Atualizando lista de verificação -NFR |   [Camila Silva](https://github.com/CamilaSilvaC)  e [Geovanna Alves](https://github.com/GeovannaUmbelino) | [Pedro Henrique](https://github.com/pedrohpsantos) |
 
 ---
