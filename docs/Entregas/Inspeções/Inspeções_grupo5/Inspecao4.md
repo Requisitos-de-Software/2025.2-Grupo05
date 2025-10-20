@@ -75,7 +75,7 @@ A tabela 3 mostra a lista de verificação para a técnica de História de Usuá
 | 6 - A história é pequena o suficiente para ser concluída em uma iteração ("Small")?      |           |     Versão 1.0 - 20/10/2025      |
 | 7 - A história é testável e possui critérios de aceite claros ("Testable")?              |           |     Versão 1.0 - 20/10/2025      |
 
-<figcaption align="center">Tabela 3: Lista de inspeção da técnica História de Usuário.</figcaption>
+<figcaption align="center">Tabela 3: Lista de inspeção da técnica História de Usuário.</figcaption><br>
 Autor: <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>, <a href="https://github.com/mel14-hub">Lara Mota</a>, <a href="https://github.com/luisa12ll">Luisa de Souza</a>, <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 
 ## Lista de Verificação - Backlog
@@ -90,7 +90,7 @@ A tabela 4 mostra a lista de verificação para o artefato Backlog.
 | 4 - Cada item do backlog possui uma estimativa de esforço?                 |           |     Versão 1.0 - 20/10/2025      |
 | 5 - O backlog está visível e transparente para todos os stakeholders?      |           |     Versão 1.0 - 20/10/2025      |
 
-<figcaption align="center">Tabela 4: Lista de inspeção do artefato Backlog.</figcaption>
+<figcaption align="center">Tabela 4: Lista de inspeção do artefato Backlog.</figcaption><br>
 Autor: <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>, <a href="https://github.com/mel14-hub">Lara Mota</a>, <a href="https://github.com/luisa12ll">Luisa de Souza</a>, <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 
 ## Lista de Verificação - NFR Framework
@@ -111,7 +111,7 @@ A tabela 5 mostra a lista de verificação para a técnica NFR Framework.
 | 10 - Para representar os softgoals de Afirmação foram usadas nuvens com linhas tracejadas?        |           |     Versão 1.0 - 20/10/2025      |
 
 
-<figcaption align="center">Tabela 5: Lista de inspeção da técnica NFR Framework.</figcaption>
+<figcaption align="center">Tabela 5: Lista de inspeção da técnica NFR Framework.</figcaption><br>
 Autor: <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>, <a href="https://github.com/mel14-hub">Lara Mota</a>, <a href="https://github.com/luisa12ll">Luisa de Souza</a>, <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 
 ## Bibliografia
