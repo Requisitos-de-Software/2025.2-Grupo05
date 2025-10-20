@@ -54,7 +54,7 @@ A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o 
 
 ## Histórias de usuário
 
-As tabelas 2 a XX descrevem as histórias de usuários elicitadas
+As tabelas 2 a 50 descrevem as histórias de usuários elicitadas
 
 ### HU01 - Autenticação gov.br
 
@@ -64,7 +64,7 @@ A tabela 2 mostra a história de usuário 1.
 
 | HU01                   | Informações                                                                                                                                                                                                                                                                                 |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Descrição              | Eu, como usuário, desejo acessar o aplicativo através de autenticação com gov.br para garantir segurança e facilidade no login.                                                                                                                                                             |
+| Descrição              | Eu, como estudante, desejo acessar o aplicativo através de autenticação com gov.br para garantir segurança e facilidade no login.                                                                                                                                                             |
 | Critérios de Aceitação | - O aplicativo deve exibir a opção de login com gov.br na tela inicial. <br> - Ao selecionar a opção, o usuário deve ser redirecionado para a página de autenticação do gov.br. <br> - Após autenticação bem-sucedida, o usuário deve ter acesso completo às funcionalidades do aplicativo. |
 | Rastreabilidade        | [RQ01](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                                                                                                                                                                                 |
 
@@ -161,13 +161,13 @@ A tabela 9 mostra a história de usuário 8.
 
 | HU08                   | Informações                                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Descrição              | Eu como estudante desejo informa o curso que concluir e que estou cursando no aplicativo                           |
+| Descrição              | Eu como estudante desejo informa o curso que conclui e que estou cursando no aplicativo                           |
 | Critérios de aceitação | - Adicionar informações sobre o curso.<br> - Editar informações do curso.<br> - Visualizar dados salvos no perfil. |
 | Rastreabilidade        | [RQ13](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)        |
 
 Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
-### HU09 - Novidades e programs do Governo Federal
+### HU09 - Novidades e programas do Governo Federal
 
 A tabela 10 mostra a história de usuário 9.
 
@@ -181,7 +181,7 @@ A tabela 10 mostra a história de usuário 9.
 
 Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
-### HU10 - Novidades e programs do Governo Federal
+### HU10 - Novidades e programas do Governo Federal
 
 A tabela 11 mostra a história de usuário 10.
 
@@ -331,8 +331,7 @@ A tabela 21 mostra a história de usuário 20.
  
 | HU20 | Informações |
 | :--- | :--- |
-| **Descrição** | Eu, como **estudante**, quero **emitir meu histórico escolar | **Critérios de Aceitação** | - Ao selecionar a opção "Emitir Declaração", o sistema deve gerar um documento em formato PDF.<br>- O documento deve conter o nome completo do aluno, curso, status da matrícula e data de emissão.<br>- O PDF gerado deve possuir um código de verificação de autenticidade. |
-pelo aplicativo** para que eu possa **consultar ou apresentar meu desempenho acadêmico completo quando necessário**. |
+| **Descrição** | Eu, como **estudante**, quero **emitir meu histórico escolar | **Critérios de Aceitação** | - Ao selecionar a opção "Emitir Declaração", o sistema deve gerar um documento em formato PDF.<br>- O documento deve conter o nome completo do aluno, curso, status da matrícula e data de emissão.<br>- O PDF gerado deve possuir um código de verificação de autenticidade. | pelo aplicativo** para que eu possa **consultar ou apresentar meu desempenho acadêmico completo quando necessário**. |
 | **Critérios de Aceitação** | - Ao selecionar a opção "Emitir Histórico", o sistema deve gerar um documento em formato PDF.<br>- O documento deve conter todas as disciplinas cursadas, notas finais e status (Aprovado/Reprovado).<br>- O usuário deve ter as opções de baixar e compartilhar o documento gerado. |
 | **Rastreabilidade** | [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
  
@@ -708,7 +707,7 @@ A tabela 48 mostra a história de usuário 47.
 
 | HU47                   | Informações                                                                                                                                      |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Descrição              | Eu, como usuário, desejo acessar um canal de suporte dentro do aplicativo, para obter ajuda em caso de dúvidas ou problemas.                     |
+| Descrição              | Eu, como estudante, desejo acessar um canal de suporte dentro do aplicativo, para obter ajuda em caso de dúvidas ou problemas.                     |
 | Critérios de aceitação | - O aplicativo deve disponibilizar um canal de contato direto com a equipe de suporte. <br> - O suporte deve responder em tempo hábil, via chat. |
 | Rastreabilidade        | [RQ59](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                                      |
 
@@ -744,9 +743,97 @@ Tabela 50: Visualização de ocorrências
 
 Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
 
-### Video
+## Gravação 
+
+### Participantes 
+A seguir temos a tabela 51, onde indica todos os participantes da sessão história de usuário, o horário e local da aplicação da técnica.
+
+<font size="3"><p style="text-align: center">Tabela 51: Participantes Casos de uso</p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>09/10/2025</td>
+         </tr>
+      <tr>
+      <tr>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+         <td>09/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>09/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+         <td>09/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+         <td>09/10/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
+
+### Video 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ABpGp8DPYMQ?si=2aRXT1LRjyqqCgDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Validação - História de usuário
+
+### Participantes 
+A seguir temos a tabela 52, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O estudante corresponde ao perfil de estudante 2
+
+<font size="3"><p style="text-align: center">Tabela 52: Validação Caso de uso</p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/Yanmatheus0812)">Yan Matheus</a></td>
+        <td>19/10/2025</td>
+        <td>13:00</td>
+        <td>Santa Maria - DF</td>
+         </tr>
+      <tr>
+       <tr>
+        <td>estudante</td>
+        <td>Pedro Henrique</td>
+         <td>19/10/2025</td>
+        <td>13:00</td>
+        <td>Santa Maria - DF</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
+
+### Video 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lQ7N3OCHZr0?si=NMPi0STS9uj_Z4fl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bibliografia
 
@@ -764,3 +851,4 @@ Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
 | ------ | ---------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | 1.0    | 16/10/2025 | Documentação das histórias de usuários | [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) | [Luisa de Souza](https://github.com/Luisa12ll)        |
 | 1.1    | 18/10/2025 | Corrigindo formatações                 | [Luisa de Souza](https://github.com/Luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                                                                                         | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
+| 1.2    | 19/10/2025 | Corrigindo formatações                 | [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                                                                                         | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
