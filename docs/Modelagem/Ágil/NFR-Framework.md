@@ -44,3 +44,20 @@
 | Conflitos | Nenhum |
 
 <font size="3"><p style="text-align: center">Autor: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a></font>
+
+
+<font size="3"><p style="text-align: center">Tabela 5: Tempo para realizar funções principais </p></font>
+
+| Itens                 | Descrição                                                                                                                                                                                                                                             |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RNF                   | O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio.                                                                   |
+| Rastreabilidade       | [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                                                                                                                                           |
+| Classificação         | Usabilidade (U)                                                                                                                                                                                                                                       |
+| Descrição             | O requisito estipula que um novo usuário deve conseguir executar as tarefas essenciais da aplicação — como se cadastrar, fazer login, buscar informações e enviar dados — em um tempo máximo de 8 minutos, sem precisar de qualquer guia ou tutorial. |
+| Justificativa         | Garantir uma curva de aprendizado baixa e uma primeira experiência positiva, aumentando a taxa de adoção e a satisfação do usuário ao permitir que ele utilize as funcionalidades chave de forma rápida e intuitiva.                                  |
+| Critério de Aceitação | Durante os testes de usabilidade, pelo menos 95% dos usuários de teste devem ser capazes de completar o fluxo de cadastro, login, busca e envio de dados com sucesso em menos de 8 minutos, sem assistência externa.                                  |
+| Dependências          | Design de interface (UI) e experiência do usuário (UX) claros e intuitivos, fluxo de navegação simplificado e tempo de resposta do sistema para cada ação.                                                                                            |
+| Prioridade            | Alta                                                                                                                                                                                                                                                  |
+| Conflitos             | Nenhum                                                                                                                                                                                                                                                |
+
+<font size="3"><p style="text-align: center">Autor: <a  href="(https://github.com/pedrohpsantos)">Pedro Henrique</a></font>
