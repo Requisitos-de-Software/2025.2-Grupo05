@@ -123,7 +123,7 @@ Os frameworks foram separados por temas, esses temas foram divididos em três pa
 
 ## Cartões de Especificação
 
-<font size="3"><p style="text-align: center">Tabela 2:Tecnologia blockchain para autenticação e disponibilização de documentos </p></font>
+<font size="3"><p style="text-align: center">Tabela 2:Tecnologia blockchain para autenticação e disponubilização de documentos </p></font>
 
 | Itens | Descrição |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -186,5 +186,198 @@ Os frameworks foram separados por temas, esses temas foram divididos em três pa
 | Prioridade            | Alta                                                                                                                                                                                                                                                  |
 | Conflitos             | Nenhum                                                                                                                                                                                                                                                |
 
-
 <font size="3"><p style="text-align: center">Autor: <a  href="(https://github.com/pedrohpsantos)">Pedro Henrique</a></font>
+
+<font size="3"><p style="text-align: center">Tabela 6: Carregar informações em 3 segundos </p></font>
+
+| Itens | Descrição |
+| ---| --- |
+| RNF | O aplicativo deve carregar suas informações em no máximo 3 segundos. |
+| Rastreabilidade| [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Classificação | Performance (P) |
+| Descrição | O requisito define que o aplicativo deve possibilitar ao estudante carregar qualquer informação desejada em um tempo máximo de 3 segundos, garantindo eficiência na navegação. |
+| Justificativa | Facilitar o uso e reduzir o tempo de aprendizado, melhorando a experiência do usuário e a eficiência na interação com o aplicativo. |
+| Critério de Aceitação | O sistema deve oferecer um rápido carregamento de informações principais em até 3 segundos. |
+| Dependências | Infraestrutura de backend e banco de dados, otimização de requisições, arquitetura de cache e CDN, desempenho dos serviços externos. |
+| Prioridade | Alta |
+| Conflitos | Nenhum |
+
+<font size="3"><p style="text-align: center">Autor: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus</a></font>
+
+## NFR 01 - Usabilidade
+
+Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabela 8:
+
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - Usabilidade</p></font>
+
+<figure markdown markdown class="usecaseElement">
+
+![Usabilidade](../../img/usabilidade.png)
+
+</figure>
+
+### Análise confiabilidade 
+Figura 4 - Análise diagrama - Usabilidade
+![UsabilidadeAnal](../../img/usabilidadeAnal.pngg)
+
+
+### Requisitos Não-Funcionais - Usabilidade
+
+Na Tabela 8, estão listados os RNF presentes no NFR Famework de Usabilidade :
+
+
+<b>Tabela 8</b> - Requisitos Não-Funcionais 1
+
+| RNF (Fonte) | Descrição | Classificação |
+|-------------|---------|-------|
+| [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio. | Usabilidade | 
+| [RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos). | Usabilidade | 
+| [RQ40](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ser acessível (contraste em cores, suporte à Libras e auto-descrição). | Usabilidade | 
+
+Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+## NFR 02 - Performance
+
+Os Requisitos utilizados para a confecção da Figura 4 estão presentes na Tabela 9:
+
+<font size="3"><p style="text-align: center"><b>Figura 5</b> - Performance</p></font>
+
+<figure markdown markdown class="usecaseElement">
+
+![Performance](../../img/performance.png)
+
+</figure>
+
+### Análise confiabilidade 
+Figura 5 - Análise diagrama - Perfomance
+
+![PerformanceAnal](../../img/performanceAnal.png)
+
+### Requisitos Não-Funcionais - Performance
+
+Na Tabela 9, estão listados os RNF presentes no NFR Famework de Usabilidade :
+
+
+<b>Tabela 9</b> - Requisitos Não-Funcionais 2
+
+| RNF (Fonte) | Descrição | Classificação |
+|-------------|---------|-------|
+| [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve carregar suas informações em no máximo 3 segundos. | Performance | 
+| [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. | Performance | 
+
+Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+## NFR 03 - Segurança
+
+Os Requisitos utilizados para a confecção da Figura 6 estão presentes na Tabela 10:
+
+<font size="3"><p style="text-align: center"><b>Figura 5</b> - Segurança</p></font>
+
+<figure markdown markdown class="usecaseElement">
+
+![SegurançaAnal](../../img/seguranca.png)
+
+</figure>
+
+### Análise confiabilidade 
+Figura 6 - Análise diagrama - Segurança
+
+![SegurancaAnal](../../img/segurancaAnal.png)
+
+### Requisitos Não-Funcionais - Segurança
+
+Na Tabela 10, estão listados os RNF presentes no NFR Famework de Usabilidade :
+
+
+<b>Tabela 10</b> - Requisitos Não-Funcionais 3
+
+| RNF (Fonte) | Descrição | Classificação |
+|-------------|---------|-------|
+| [RQ03](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. | Segurança | 
+
+Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+## Requisitos Não-Funcionais
+
+A Tabela 11 a seguir lista os Requisitos Não-Funcionais utilizados para a criação do NFR Framework.
+
+<p style="text-align: center"><b>Tabela 11</b> - Requisitos Não-Funcionais </p>
+
+| ID    | Descrição    |  
+| ------------- | ---- |
+| [RQ03](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. |
+| [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio. |
+| [RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos). |
+| [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve carregar suas informações em no máximo 3 segundos. |
+| [RQ40](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ser acessível (contraste em cores, suporte à Libras e auto-descrição). |
+| [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. |
+
+Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+## Gravação 
+
+### Participantes 
+A seguir temos a tabela 8, onde indica todos os participantes da sessão NFR Framework, o horário e local da aplicação da técnica.
+
+<font size="3"><p style="text-align: center">Tabela 8: Participantes NFR Framwork</p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>17/10/2025</td>
+         </tr>
+      <tr>
+      <tr>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+         <td>17/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>17/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Luisa12ll">Luísa de Souza</a></td>
+        <td>17/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+         <td>17/10/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
+
+### Video 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZolIzMOZ5J0?si=dbfvRF6vv7gEiFmn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Bibliografia
+
+> PAIM, F. R. S., CASTRO, J. F. B. Enhancing Data Warehouse Design with the NFR Framework. Centro de Informática UFPE, Recife, 2019. Disponível em: <http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/paim.pdf>. Acesso em: 22/05/2023
+
+## Referências Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 22/05/2023.
+
+> <a id="REF2" href="#anchor_2">2.</a>CHUNG, L., NIXON, B. A., YU, E., MYLOPOULOS, J. Non-functional requirementsin software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5.
+
+> Melo, Arthur. NFR Framework. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#historico-de-versoes](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/#historico-de-versoes). Acesso em: 19 out. 2025
+
+> PENHA, Igor. NFR Framework. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/nfr_framework](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/nfr_framework). Acesso em: 19 out. 2025
+
+## Histórico de Versões
+
+| Versão |    Data    |               Descrição               |                                                                                                                                                   Autor                                                                                                                                                   |                      Revisor                       |
+| :----: | :--------: | :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
+|  1.0   | 18/10/2025 |  Documentação dos primeiros NFRs  | [Luisa de Souza](https://github.com/Luisa12ll), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) |   [Luisa de Souza](https://github.com/Luisa12ll)   |
