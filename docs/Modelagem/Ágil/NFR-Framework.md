@@ -1,3 +1,126 @@
+## Introdução
+
+Uma forma de representação e análise dos requisitos Não-Funcionais é o NFR Framework, o qual visa à implementação de resoluções particulares. Sendo assim, para tal, considera-se as características gerais do sistema em questão e de seu domínio. No NFR Framework, faz-se o uso do modelo de Softgoal Interdependency Graph (SIG).
+
+## Participantes
+
+A seguir temos a tabela 1, onde indica todos os participantes da elaboração dos cenários.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>17/10/2025</td>
+         </tr>
+      <tr>
+        <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
+        <td>17/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>17/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
+        <td>17/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+        <td>17/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+        <td>17/10/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align:center"> Autor: <a href="https://github.com/Yanmatheus0812"> Yan Matheus</a></font>
+
+## Softgoal Interdependency Graph
+
+O Softgoal Interdependency Graph (SIG) é uma forma de visualização do funcionamento do NFR Framework. Dessa forma, trata-se de um gráfico que registra os posicionamentos da equipe de desenvolvimento acerca dos softgoals e explicita suas interdependências de forma gráfica e concisa<a id="anchor_1" href="#REF1">[1]</a>.
+
+### Tipos de Softgoal
+
+Para a compreensão do SIG, é inexorável discernir a definição de NFR Softgoal: um objetivo que não é explicitamente definido e seus critérios de satisfação são imprecisos. Sendo assim, um softgoal é uma característica abstrata que está sujeita à vistoria, ou seja, postula-se posteriormente o destino de um determinado softgoal. Além disso, os softgoals podem ser operacionalizados, nesse caso, tomam uma forma concreta. Portanto, entende-se como funcionalidades. Por fim, há os softgoals de afirmação, os quais são escritos em linguagem natural e se tratam de registros adicionais e argumentativos, os quais podem ser incrementados ao modelo<a id="anchor_1" href="#REF1">[1]</a>. Os tipos de softgoal estão ilustrados na Figura 1.
+
+
+
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Tipos de Softgoal</p></font>
+<figure markdown class="usecaseElement">
+
+![TIPOS](../../img/tipos.png)
+
+</figure>
+<font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
+
+### Interdependências
+
+As interdependências são definições para as associações que ocorrem entre softgoals. Tais são divididas em decomposições e contribuições:
+
+#### Decomposições
+
+As decomposições podem ocorrer em todos os níveis de abstração: Softgoals de NFR, de Operacionalização e de Afirmação. Nas três primeiras decomposições, os softgoals são subdivididos em softgoals especificados (SILVA, 2019)<a id="anchor_1" href="#REF1">[1]</a>. Os quatro tipos estão explicitados na figura 2.
+
+- Decomposição NFR: ajuda a dividir vicissitudes primordiais em partes menores, o que reduz as ambiguidades e facilita a priorização.
+- Decomposição de Operacionalização: tem por finalidade refinar uma solução geral em soluções particulares.
+- Decomposição de Afirmação: serve como afirmação ou negação de justificativas específicas do projeto.
+- Decomposição de Priorização: trata-se de uma decomposição especial, na qual o softgoal é refinado em outro softgoal de mesmo tipo e tópico. No entanto, associa-se uma prioridade.
+
+
+
+<font size="3"><p style="text-align: center"><b>Figura 2</b> - Tipos de Decomposição</p></font>
+
+<figure markdown class="usecaseElement">
+
+![DECOMPOSIÇÃO](../../img/decompL.png)
+
+</figure>
+<font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
+
+
+
+#### Contribuições
+
+Num NFR Framework, os softgoals se especializam cada vez mais. Por conseguinte, o um softgoal derivado de outro pode contribuir de forma integral ou truncada, e também de forma positiva ou negativa, para o softgoal do qual ele derivou. Portanto, listar-se-á os tipos de contribuição<a id="anchor_2" href="#REF2">^2^</a>:
+
+- AND: se os softgoals derivados forem satisfeitos, o softgoal primordial também será.
+- OR: se algum dos softgoals derivados forem satisfeitos, o softgoal primordial também será.
+- MAKE(++): um softgoal originado contribui de forma plenamente positiva, logo o softgoal original também será satisfeito.
+- BREAK(--): um softgoal originado contribui de forma plenamente negativa, logo o softgoal original será negado.
+- HELP(+): um softgoal originado realiza uma contribuição restritamente positiva, o que reflete da mesma forma e na mesma intensidade no softgoal primordial.
+- HURT(-): um softgoal originado realiza uma contribuição restritamente negativa, o que reflete da mesma forma e na mesma intensidade no softgoal primordial.
+- UNKNOWN(?): contribuição incógnita.
+- EQUALS: relação direta entre as satisfações do softgoal derivado e a do primordial.
+- SOME: a forma de contribuição é conhecida, no entanto, a intensidade dessa contribuição é desconhecida.
+
+#### Propagação de Impactos
+
+A propagação de impactos no NFR Framework  envolve a identificação das relações de dependência entre os requisitos não funcionais, bem como a análise de como uma mudança em um requisito pode afetar outros requisitos relacionados. Isso requer uma compreensão clara das interações entre os requisitos, bem como a capacidade de avaliar as prioridades e trade-offs entre eles. Ao considerar a propagação de impactos, os engenheiros de requisitos podem tomar decisões informadas sobre mudanças e gerenciar os possíveis efeitos colaterais de forma eficaz. A seguir são apresentados os tipos de softgoals de impacto e suas respectivas notações<a id="anchor_2" href="#REF2">^2^</a>:
+
+- ✓ (satisfeito): Indica que um requisito não funcional contribui positivamente para a satisfação de outro requisito.
+- 𝒲+ (fracamente satisfeito): ndica uma relação de impacto positiva, mas menos forte do que a notação ✓.
+- X (negado): Indica que um requisito não funcional afeta negativamente outro requisito, negando ou contradizendo sua realização. 
+- 𝒲- (fracamente negado): Similar à notação X, mas com uma relação de negação mais fraca. 
+- 🗲 (conflitante): Indica uma relação de conflito entre requisitos não funcionais. Isso significa que os requisitos possuem características positivas e negativas.
+- u (indeterminado): Uma relação indeterminada ou desconhecida entre requisitos não funcionais. Isso ocorre quando não há informações suficientes para determinar o impacto de um requisito em outro.
+
+## Metodologia
+
+Os frameworks foram separados por temas, esses temas foram divididos em três para limitar o escopo aqui trabalhado. Após isso, fez-se uma introspecção para a construção do SIG a partir dos tópicos gerais definidos, a fim de fazer relações com os Requisitos Não-Funcionais da Tabela 12, após isso, fez-se o uma revisão na literatura e foi feita a validação do SIG confeccionado. A plataforma utilizada para a elaboração foi o Draw.io.
+
+
 ## Cartões de Especificação
 
 <font size="3"><p style="text-align: center">Tabela 2:Tecnologia blockchain para autenticação e disponibilização de documentos </p></font>
@@ -5,7 +128,7 @@
 | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
 | RNF | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. |
 | Rastriabilidade | [RQ03](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-| Classificação | Performance (P) |
+| Classificação | Segurança (S) |
 | Descrição | O requisito define que aplicativo deve ter tecnologia blockchain para autenticação e diponibilização de documentos ,garantindo ratreabiliade e segurança dos dados. |
 | Justificativa | O uso da tecnologia blockchain garante a segurança dos dados ,reduzindo a perda de dados. |
 | Critério de Aceitação | O sistema deve realizar autenticação e disponibilização de documentos via blockchain,em um tempo médio garantindo a integridade dos dados. |
@@ -16,6 +139,7 @@
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/mel14-hub">Lara Souza Mota</a></font>
 
 <font size="3"><p style="text-align: center">Tabela 3: Tempo de localização de funcionalidades </p></font>
+
 | Itens | Descrição |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
 | RNF | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. |
@@ -31,6 +155,7 @@
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></font>
 
 <font size="3"><p style="text-align: center">Tabela 4: Linguagem adequada ao usuário </p></font>
+
 | Itens | Descrição |
 | ---| --- |
 | RNF | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos). |

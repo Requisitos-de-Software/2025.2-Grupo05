@@ -2,6 +2,52 @@
 
 O Backlog do Produto é um artefato da metodologia ágil que toma a forma de uma lista de todas as tarefas pendentes a serem feitas em um projeto. O responsável por sugerir e priorizar os itens é o Dono do Produto (_Product Owner_). Vale ressaltar que o Backlog do Produto é um artefato dinâmico, ou seja, ele cresce e muda à medida que os requisitos e a visão do produto são alterados.
 
+## Participantes
+
+A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o horário e local da aplicação da técnica.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes histórias de usuário</p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>16/10/2025</td>
+         </tr>
+      <tr>
+      <tr>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+         <td>16/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>16/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/luisa12ll">Luísa de Souza</a></td>
+        <td>16/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+         <td>16/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+         <td>16/10/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
+
 ## Metodologia
 
 <p align="center"> <em>Tabela 2 - Épico 1 - Acompanhar</em> </p> <table align="center"> <thead> <tr> <th>Épico</th> <th>Feature</th> <th>História de usuário</th> <th>Priorização</th> </tr> </thead> <tbody> <tr> <td rowspan="17">Épico 1 - Acompanhar</td> <td rowspan="2">Feature 1 - Oportunidades</td> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU09 </a> - Acompanhar novidades e programas do Governo Federal</td> <td>-</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU22 </a> - Visalizar Programas estudantis</td> <td>-</td> </tr> <tr> <td rowspan="6">Feature 2 - Informações de desempenho escolar</td> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU04 </a> - Classificar eventos por modalidade</td> <td>-</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU06 </a> - Acompanhamento da vida estudantil </td> <td>-</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU15 </a> - Visualização de notas </td> <td>-</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU12 </a> -Visualizar disciplina e professor </td> <td>-</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU13 </a> - Visualizar horário e sala de aula</td> <td>-</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU30 </a> - Visualizar ranqueamento por nota </td> <td>-</td> </tr> <tr> <td rowspan="3">Feature 3 - Documentos institucionais</td> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU21 </a> - Visualização de boletim</td> <td>-</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU48 </a> - Visualização de certificados</td> <td>-</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU49 </a> - Visualoização de ocorrências</td> <td>-</td> </tr> <tr> <td rowspan="4">Feature 4 - Benefícios</td> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU03 </a> - Acompanhar pé de meia</td> <td>-</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU23 </a> - Visualizar valor total do auxílio</td> <td>-</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU24 </a> - Visualizar conta bancária cadastrada</td> <td>-</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU25 </a> - Visualizar dia do pagamento do auxílio</td> <td>-</td> </tr> <tr> <td rowspan="1">Feature 5 - Meios de organização</td> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU28 </a> - Visualizar eventos em um calendário</td> <td>-</td> </tr> <tr> <td rowspan="1">Feature 6 - Tutorial em vídeo</td> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU42 </a> - Visualizar um tutorial em vídeo sobre funcionalidades</td> <td>-</td> </tr> </tbody> </table>
@@ -71,7 +117,7 @@ Esse épico apresenta as funcionalidades que permite aos estudantes editarem det
 
 Esse épico apresenta as funcionalidades que permite aos estudantes avaliar uma atividade com um grau de importância selecionado, para uma melhor priorização e organização de atividades acadêmicas.
 
-### Épico 6 - Notififcar
+### Épico 6 - Notificar
 
 Esse épico apresenta as funcionalidades que permite aos estudantes serem notificados por diversas funcionalidades dentro do aplicativo, como em relação ao benefício, oportunidades, informações de desempenho escolar e agenda
 
