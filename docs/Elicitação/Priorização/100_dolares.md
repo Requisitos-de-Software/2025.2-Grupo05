@@ -199,3 +199,4 @@ As gravações da priorização podem ser conferidas em:
 |--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
 | 1.0    | 30/09/2025 | Adição da técnica dos 100 dólares | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luísa de Souza](https://github.com/luisa12ll)| [Yan Matheus](https://github.com/Yanmatheus0812)|
 | 1.1   | 02/10/2025 | Atualização dos links | [Camila Silva](https://github.com/CamilaSilvaC)| [Luísa de Souza](https://github.com/luisa12ll)|
+| 1.2   | 20/10/2025 | Atualização da tabela| [Pedro Henrique](https://github.com/pedrohpsantos)| [Lara Souza](https://github.com/mel14-hub) |
