@@ -1,6 +1,6 @@
 ## Cartões de Especificação
 
-<font size="3"><p style="text-align: center">Tabela 2:Tecnologia blockchain para autenticação e disponubilização de documentos </p></font>
+<font size="3"><p style="text-align: center">Tabela 2:Tecnologia blockchain para autenticação e disponibilização de documentos </p></font>
 | Itens | Descrição |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
 | RNF | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. |
@@ -59,5 +59,6 @@
 | Dependências          | Design de interface (UI) e experiência do usuário (UX) claros e intuitivos, fluxo de navegação simplificado e tempo de resposta do sistema para cada ação.                                                                                            |
 | Prioridade            | Alta                                                                                                                                                                                                                                                  |
 | Conflitos             | Nenhum                                                                                                                                                                                                                                                |
+
 
 <font size="3"><p style="text-align: center">Autor: <a  href="(https://github.com/pedrohpsantos)">Pedro Henrique</a></font>
