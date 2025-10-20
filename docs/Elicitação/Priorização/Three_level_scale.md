@@ -58,7 +58,7 @@ A seguir temos a tabela 1, onde indica todos os participantes da aplicação da 
   </table>
 </div>
 
-Tabela 1: Participantes Three Level Scale
+Tabela 1: Participantes Three Level Scale<br>
 Autor: [Camila Silva](https://github.com/CamilaSilvaC)
 
 
@@ -190,7 +190,7 @@ A seguir temos a tabela 3, onde indica todos os participantes da validação da 
   </table>
 </div>
 
-Tabela 3: Validação Three Level Scale
+Tabela 3: Validação Three Level Scale<br>
 Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7dHSH_HDoe8?si=3MS1eDxreI3A8g83" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
