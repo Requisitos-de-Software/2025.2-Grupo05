@@ -748,7 +748,7 @@ Fonte: [Luísa de Souza](https://github.com/Luisa12ll)
 ### Participantes 
 A seguir temos a tabela 51, onde indica todos os participantes da sessão história de usuário, o horário e local da aplicação da técnica.
 
-<font size="3"><p style="text-align: center">Tabela 51: Participantes Casos de uso</p></font>
+<font size="3"><p style="text-align: center">Tabela 51: Participantes História de usuários</p></font>
 
 <div align="center">
   <table>
@@ -761,24 +761,24 @@ A seguir temos a tabela 51, onde indica todos os participantes da sessão histó
     <tbody>
       <tr>
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
-        <td>09/10/2025</td>
+        <td>15/10/2025</td>
          </tr>
       <tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
-         <td>09/10/2025</td>
+         <td>15/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
-        <td>09/10/2025</td>
+        <td>15/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
-         <td>09/10/2025</td>
+         <td>15/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
-         <td>09/10/2025</td>
+         <td>15/10/2025</td>
       </tr>
     </tbody>
   </table>
@@ -796,7 +796,7 @@ A seguir temos a tabela 51, onde indica todos os participantes da sessão histó
 ### Participantes 
 A seguir temos a tabela 52, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O estudante corresponde ao perfil de estudante 2
 
-<font size="3"><p style="text-align: center">Tabela 52: Validação Caso de uso</p></font>
+<font size="3"><p style="text-align: center">Tabela 52: Validação História de usuários</p></font>
 
 <div align="center">
   <table>
