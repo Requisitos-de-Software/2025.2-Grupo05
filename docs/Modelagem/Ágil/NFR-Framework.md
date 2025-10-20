@@ -93,7 +93,7 @@ As decomposições podem ocorrer em todos os níveis de abstração: Softgoals d
 
 #### Contribuições
 
-Num NFR Framework, os softgoals se especializam cada vez mais. Por conseguinte, o um softgoal derivado de outro pode contribuir de forma integral ou truncada, e também de forma positiva ou negativa, para o softgoal do qual ele derivou. Portanto, listar-se-á os tipos de contribuição<a id="anchor_2" href="#REF2">^2^</a>:
+Num NFR Framework, os softgoals se especializam cada vez mais. Por conseguinte, o um softgoal derivado de outro pode contribuir de forma integral ou truncada, e também de forma positiva ou negativa, para o softgoal do qual ele derivou. Portanto, listar-se-á os tipos de contribuição<a id="anchor_2" href="#REF2">[2]</a>:
 
 - AND: se os softgoals derivados forem satisfeitos, o softgoal primordial também será.
 - OR: se algum dos softgoals derivados forem satisfeitos, o softgoal primordial também será.
@@ -107,7 +107,7 @@ Num NFR Framework, os softgoals se especializam cada vez mais. Por conseguinte, 
 
 #### Propagação de Impactos
 
-A propagação de impactos no NFR Framework  envolve a identificação das relações de dependência entre os requisitos não funcionais, bem como a análise de como uma mudança em um requisito pode afetar outros requisitos relacionados. Isso requer uma compreensão clara das interações entre os requisitos, bem como a capacidade de avaliar as prioridades e trade-offs entre eles. Ao considerar a propagação de impactos, os engenheiros de requisitos podem tomar decisões informadas sobre mudanças e gerenciar os possíveis efeitos colaterais de forma eficaz. A seguir são apresentados os tipos de softgoals de impacto e suas respectivas notações<a id="anchor_2" href="#REF2">^2^</a>:
+A propagação de impactos no NFR Framework  envolve a identificação das relações de dependência entre os requisitos não funcionais, bem como a análise de como uma mudança em um requisito pode afetar outros requisitos relacionados. Isso requer uma compreensão clara das interações entre os requisitos, bem como a capacidade de avaliar as prioridades e trade-offs entre eles. Ao considerar a propagação de impactos, os engenheiros de requisitos podem tomar decisões informadas sobre mudanças e gerenciar os possíveis efeitos colaterais de forma eficaz. A seguir são apresentados os tipos de softgoals de impacto e suas respectivas notações<a id="anchor_2" href="#REF2">[2]</a>:
 
 - ✓ (satisfeito): Indica que um requisito não funcional contribui positivamente para a satisfação de outro requisito.
 - 𝒲+ (fracamente satisfeito): ndica uma relação de impacto positiva, mas menos forte do que a notação ✓.
@@ -124,6 +124,7 @@ Os frameworks foram separados por temas, esses temas foram divididos em três pa
 ## Cartões de Especificação
 
 <font size="3"><p style="text-align: center">Tabela 2:Tecnologia blockchain para autenticação e disponibilização de documentos </p></font>
+
 | Itens | Descrição |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
 | RNF | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. |
