@@ -9,8 +9,6 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 
 A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o horário e local da aplicação da técnica.
 
-<font size="3"><p style="text-align: center">Tabela 1: Participantes Casos de uso</p></font>
-
 <div align="center">
   <table>
     <thead>
@@ -49,6 +47,8 @@ A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o 
   </table>
 </div>
 
+<font size="3"><p style="text-align: center">Tabela 1: Participantes Casos de uso</p></font>
+
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
 
 ## Metodologia
@@ -57,7 +57,8 @@ A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o 
 
 ![Elementos](../img/elementos.png)
 
-Fonte: 
+Fonte: Fonte: [Lara Souza](https://github.com/mel14-hub) e [Pedro Henrique](https://github.com/pedrohpsantos)
+
 
 <font size="3"><p style="text-align: center"><b>Figura 2</b>: Elementos das relações do diagrama de casos de uso</p></font>
 
@@ -79,9 +80,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://gith
 
 ## Especialização dos casos de uso
 
-As tabelas de 2 a 5 mostram a especialização dos casos de uso.
-
-<font size="3"><p style="text-align: center">Tabela 2: Acessar tutorial</p></font>
+As tabelas de 2 a 15 apresentam a especialização dos casos de uso.
 
 | UC01 | Informações |
 | ----- | ---------- |
@@ -93,9 +92,10 @@ As tabelas de 2 a 5 mostram a especialização dos casos de uso.
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+<font size="3"><p style="text-align: center">Tabela 2: Acessar tutorial</p></font>
+
 Fonte: [Luisa de Souza](https://github.com/Luisa12ll) e [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
-<font size="3"><p style="text-align: center">Tabela 3: Visualizar informações da disciplina</p></font>
 
 | UC02 | Informações |
 | ----- | ---------- |
@@ -107,9 +107,10 @@ Fonte: [Luisa de Souza](https://github.com/Luisa12ll) e [Geovanna Alves](https:/
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/), [RQ18](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/), [RQ19](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) e [RQ20](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+<font size="3"><p style="text-align: center">Tabela 3: Visualizar informações da disciplina</p></font>
+
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luisa de Souza](https://github.com/Luisa12ll)
 
-<font size="3"><p style="text-align: center">Tabela 4: Acessar fórum da disciplina</p></font>
 
 | UC03 | Informações |
 | ----- | ---------- |
@@ -121,9 +122,10 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luisa de Souza](https:
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ58](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+<font size="3"><p style="text-align: center">Tabela 4: Acessar fórum da disciplina</p></font>
+
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
 
-<font size="3"><p style="text-align: center">Tabela 5: Consultar auxílio</p></font>
 
 | UC04 | Informações |
 | ----- | ---------- |
@@ -135,10 +137,10 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ31](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+<font size="3"><p style="text-align: center">Tabela 5: Consultar auxílio</p></font>
+
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
 
-
-<font size="3"><p style="text-align: center">Tabela 6: Editar dados bancários</p></font>
 
 | UC05 | Informações |
 | ----- | ---------- |
@@ -150,9 +152,10 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ31](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+<font size="3"><p style="text-align: center">Tabela 6: Editar dados bancários</p></font>
+
 Fonte: [Luisa de Souza](https://github.com/Luisa12ll)
 
-<font size="3"><p style="text-align: center">Tabela 7: Visualizar dia do pagamento do auxílio</p></font>
 
 | UC06 | Informações |
 | ----- | ---------- |
@@ -164,9 +167,10 @@ Fonte: [Luisa de Souza](https://github.com/Luisa12ll)
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ34](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+<font size="3"><p style="text-align: center">Tabela 7: Visualizar dia do pagamento do auxílio</p></font>
+
 Fonte: [Luisa de Souza](https://github.com/Luisa12ll)
 
-<font size="3"><p style="text-align: center">Tabela 8: Comunicar em um canal de conversa do auxílio</p></font>
 
 | UC07 | Informações |
 | ----- | ---------- |
@@ -178,9 +182,10 @@ Fonte: [Luisa de Souza](https://github.com/Luisa12ll)
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ35](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+<font size="3"><p style="text-align: center">Tabela 8: Comunicar em um canal de conversa do auxílio</p></font>
+
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
-<font size="3"><p style="text-align: center">Tabela 9: Cadastrar eventos na agenda </p></font>
 
 | UC08 | Informações |
 | ----- | ---------- |
@@ -192,9 +197,9 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ46](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/), [RQ47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) e [RQ48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)|
 
-Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
+<font size="3"><p style="text-align: center">Tabela 9: Cadastrar eventos na agenda </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 10: Notificar atividades com antecedência </p></font>
+Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
 | UC09| Informações |
 | ----- | ---------- |
@@ -206,9 +211,9 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ50](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
+<font size="3"><p style="text-align: center">Tabela 10: Notificar atividades com antecedência </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 11: Adicionar grau de importância </p></font>
+Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 
 | UC010 | Informações |
 | ----- | ---------- |
@@ -220,9 +225,9 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ52](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
-Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
+<font size="3"><p style="text-align: center">Tabela 11: Adicionar grau de importância </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 12: Requerir documentos </p></font>
+Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
 
 | UC011 | Informações |
 | ----- | ---------- |
@@ -234,9 +239,10 @@ Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/), [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) e [RQ61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+<font size="3"><p style="text-align: center">Tabela 12: Requerir documentos </p></font>
+
 Fonte: [Pedro Henrique](https://github.com/pedrohpsantos) 
 
-<font size="3"><p style="text-align: center">Tabela 13: Emitir histórico </p></font>
 
 | UC012 | Informações |
 | ----- | ---------- |
@@ -248,9 +254,10 @@ Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+<font size="3"><p style="text-align: center">Tabela 13: Emitir histórico </p></font>
+
 Fonte: [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
-<font size="3"><p style="text-align: center">Tabela 14: Emitir declaração de vínculo </p></font>
 
 | UC013 | Informações |
 | ----- | ---------- |
@@ -262,9 +269,10 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+<font size="3"><p style="text-align: center">Tabela 14: Emitir declaração de vínculo </p></font>
+
 Fonte: [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
-<font size="3"><p style="text-align: center">Tabela 15: Emitir certificados </p></font>
 
 | UC014 | Informações |
 | ----- | ---------- |
@@ -276,14 +284,14 @@ Fonte: [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https:
 | Data de Criação | 09/10/2025 |
 | Rastreabilidade | [RQ61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
+<font size="3"><p style="text-align: center">Tabela 15: Emitir certificados </p></font>
+
 Fonte: [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ## Gravação 
 
 ### Participantes 
 A seguir temos a tabela 16, onde indica todos os participantes da sessão do caso de uso, o horário e local da aplicação da técnica.
-
-<font size="3"><p style="text-align: center">Tabela 16: Participantes Casos de uso</p></font>
 
 <div align="center">
   <table>
@@ -323,6 +331,8 @@ A seguir temos a tabela 16, onde indica todos os participantes da sessão do cas
   </table>
 </div>
 
+<font size="3"><p style="text-align: center">Tabela 16: Participantes Casos de uso</p></font>
+
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
 
 ### Video 
@@ -333,8 +343,6 @@ A seguir temos a tabela 16, onde indica todos os participantes da sessão do cas
 
 ### Participantes 
 A seguir temos a tabela 17, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O estudante corresponde ao perfil de estudante 2
-
-<font size="3"><p style="text-align: center">Tabela 17: Validação Caso de uso</p></font>
 
 <div align="center">
   <table>
@@ -366,6 +374,8 @@ A seguir temos a tabela 17, onde indica todos os participantes da validação da
     </tbody>
   </table>
 </div>
+
+<font size="3"><p style="text-align: center">Tabela 17: Validação Caso de uso</p></font>
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/luisa12ll">Luísa de Souza</a></font>
 
