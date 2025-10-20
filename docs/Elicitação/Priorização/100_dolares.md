@@ -98,9 +98,6 @@ Cada participante recebeu 100 dólares em notas fictícias, sendo 5 notas de 1, 
 A técnica foi aplicada de forma coletiva, respeitando as decisões individuais de cada participante. Em seguida, os resultados foram consolidados em uma tabela (Tabela 2), que apresenta os valores atribuídos a cada requisito. A tabela organiza os itens por ordem de prioridade, do mais relevante (com maior valor acumulado) ao menos prioritário, permitindo visualizar claramente a percepção do grupo sobre a importância de cada requisito.
 
 
-
-<font size="3"><p style="text-align: center">Tabela 2: Planilha de priorização dos 100 dólares.</p></font>
-
 <a name="Req"></a>
 
 | Identificação | Descrição                                                                                                                                                  |  Referência   | Gabriel | Julia |  Maria Eduarda|   Vitor| Wallysson|  Total |                                                                          
@@ -168,6 +165,7 @@ A técnica foi aplicada de forma coletiva, respeitando as decisões individuais 
 | RQ57          | O aplicativo deve ter um fórum entre estudantes.                                                                                                              | [Brainstorming](./Tecnicas/Brainstorming.md)  |0 |0 |  0|   0| 0|   0|  
 | RQ62          | O aplicativo deve permitir a visualização de ocorrências.                                                                 | [Brainstorming](./Tecnicas/Brainstorming.md)         | 0 | 0 | 0|   0| 0|  0|  
 
+<font size="3"><p style="text-align: center">Tabela 2: Planilha de priorização dos 100 dólares.</p></font>
 <p style="text-align: center; font-size: 10pt;">Autor: <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,   
 <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a> e <a href="https://github.com/luisa12ll">Luisa de Souza</a>.</p></p>
 
