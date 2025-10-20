@@ -90,7 +90,7 @@ As tabelas de 2 a 15 apresentam a especialização dos casos de uso.
 | Fluxo principal | entrar no aplicativo > acessar o tutorial em vídeo |
 | Relacionamentos | Associação com estudante  |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Rastreabilidade | [RQ53](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 <font size="3"><p style="text-align: center">Tabela 2: Acessar tutorial</p></font>
 
@@ -120,7 +120,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Luisa de Souza](https:
 | Fluxo principal | entrar no aplicativo > acessar a página da disciplina > acessar fórum da disciplina |
 | Relacionamentos | Extensão de "Visualizar informações da disciplina" e associação com professor  |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ58](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Rastreabilidade | [RQ57](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 <font size="3"><p style="text-align: center">Tabela 4: Acessar fórum da disciplina</p></font>
 
@@ -195,7 +195,7 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 | Fluxo principal | entrar no aplicativo > Agenda |
 | Relacionamentos | Associação de Estudante, extensão para "Notificar atividades acadêmicas" e inclusão para "Adicionar grau de importância" |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ46](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/), [RQ47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) e [RQ48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)|
+| Rastreabilidade | [RQ45](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/), [RQ46](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) e [RQ47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)|
 
 <font size="3"><p style="text-align: center">Tabela 9: Cadastrar eventos na agenda </p></font>
 
@@ -209,7 +209,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 | Fluxo principal | entrar no aplicativo > Agenda > Criar/Editar evento > Ativar notificações? |
 | Relacionamentos | Extensão de "Cadastrar eventos na agenda" |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ50](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Rastreabilidade | [RQ49](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 <font size="3"><p style="text-align: center">Tabela 10: Notificar atividades com antecedência </p></font>
 
@@ -223,7 +223,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino)
 | Fluxo principal | entrar no aplicativo > Agenda > Criar/Editar evento > Importância do evento |
 | Relacionamentos | Inclusão de "Cadastrar eventos na agenda" |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ52](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Rastreabilidade | [RQ51](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 <font size="3"><p style="text-align: center">Tabela 11: Adicionar grau de importância </p></font>
 
@@ -237,7 +237,7 @@ Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
 | Fluxo principal | entrar no aplicativo > Emitir documentos |
 | Relacionamentos | Associação de estudante, associação de instituição de ensino e generalização para "Emitir histórico", "Emitir declaração de vínculo" e "Emitir certificados" |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/), [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) e [RQ61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Rastreabilidade | [RQ27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/), [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) e [RQ60](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 <font size="3"><p style="text-align: center">Tabela 12: Requerir documentos </p></font>
 
@@ -282,7 +282,7 @@ Fonte: [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https:
 | Fluxo principal | entrar no aplicativo > Emitir documentos > Emtiir certificados |
 | Relacionamentos | Generalização de "Requerir documentos" |
 | Data de Criação | 09/10/2025 |
-| Rastreabilidade | [RQ61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Rastreabilidade | [RQ60](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 
 <font size="3"><p style="text-align: center">Tabela 15: Emitir certificados </p></font>
 
@@ -399,3 +399,4 @@ A seguir temos a tabela 17, onde indica todos os participantes da validação da
 | Versão | Data       | Descrição                | Autor                                                                                                                                                                                                                                                                                                     | Revisor                                               |
 | ------ | ---------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | 1.0    | 10/10/2025 | Documentação dos do caso de uso | [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Luisa de Souza](https://github.com/Luisa12ll) e [Camila Silva](https://github.com/CamilaSilvaC) | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
+| 1.1   | 20/10/2025 | Atualização da tabela| [Pedro Henrique](https://github.com/pedrohpsantos)| [Lara Souza](https://github.com/mel14-hub) |
