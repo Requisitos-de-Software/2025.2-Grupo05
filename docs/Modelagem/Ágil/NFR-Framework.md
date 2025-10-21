@@ -9,41 +9,49 @@ A seguir temos a tabela 1, onde indica todos os participantes da elaboração do
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
 <div align="center">
-  <table>
+  <table border="1" cellspacing="0" cellpadding="5">
     <thead>
       <tr>
         <th>Nome</th>
+        <th>quais etapas participou</th>
         <th>Data</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>Elaborou o cartão de especificação do NFR25 e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
-         </tr>
+      </tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
+        <td>Elaborou o cartão de especificação do NFR54 e colaborou na confecção do grafo SIG </td>
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>Elaborou o cartão de especificação do NFR03 e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
+        <td>Elaborou o cartão de especificação do NFR40 e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+        <td>Elaborou o cartão de especificação do NFR24 e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+        <td>Elaborou o cartão de especificação do NFR26 e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
       </tr>
     </tbody>
   </table>
 </div>
+
 
 <font size="3"><p style="text-align:center"> Autor: <a href="https://github.com/Yanmatheus0812"> Yan Matheus</a></font>
 
@@ -385,3 +393,4 @@ A seguir temos a tabela 11, onde indica todos os participantes da sessão NFR Fr
 |  1.0   | 18/10/2025 |  Documentação dos primeiros NFRs  | [Luisa de Souza](https://github.com/Luisa12ll), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) |   [Luisa de Souza](https://github.com/Luisa12ll)   |
 
 | 1.1   | 20/10/2025 | Atualização da tabela| [Pedro Henrique](https://github.com/pedrohpsantos)| [Lara Souza](https://github.com/mel14-hub) |
+
