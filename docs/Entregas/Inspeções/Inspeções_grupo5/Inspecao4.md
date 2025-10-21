@@ -41,7 +41,7 @@ A tabela 2 mostra a lista de verificação da modelagem de requisitos ágil, bas
 
 | O github pages possui:                                                                                                                                             | Avaliação | Versão, Data e hora da avaliação |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :------------------------------: |
-| 1 - As Histórias de Usuário?                                                                                                                                       |           |     Versão 1.0 - 20/10/2025      |
+| 1 - As Histórias de Usuário?                                                                                                                                       |           |     Versão 1.0 - 20/10/2025      | 
 | 2 - O "quem", "o que" e o "por que" estão definidos na história de usuário?                                                                                        |           |     Versão 1.0 - 20/10/2025      |
 | 3 - A validação das histórias de usuário de modo presencial com o usuário?                                                                                         |           |     Versão 1.0 - 20/10/2025      |
 | 4 - A gravação da validação das histórias de usuário?                                                                                                              |           |     Versão 1.0 - 20/10/2025      |
@@ -87,10 +87,10 @@ A tabela 4 mostra a lista de verificação para o artefato Backlog.
 | 1 - O backlog é uma lista ordenada de todos os itens desejados no produto? |           |     Versão 1.0 - 20/10/2025      |
 | 2 - Os itens no topo do backlog são mais detalhados e de maior prioridade? |           |     Versão 1.0 - 20/10/2025      |
 | 3 - O backlog é um artefato vivo, constantemente atualizado?               |           |     Versão 1.0 - 20/10/2025      |
-| 4 - As especificações dos itens do product backlog foram baseados em histórias de usuários? | | Versão 1.0 - 20/10/2025 |
+| 4 - As especificações dos itens do product backlog foram baseados em histórias de usuários? |  | Versão 1.0 - 20/10/2025 |
 | 5 - O backlog está visível e transparente para todos os stakeholders?      |           |     Versão 1.0 - 20/10/2025      |
-| 6 - Os itens do product backlog tem critérios de aceitação? | | Versão 1.0 - 20/10/2025 |
-| 7 - O Product Backlog foi uma lista de funcionalidades desejadas? | | Versão 1.0 - 20/10/2025 |
+| 6 - Os itens do product backlog tem critérios de aceitação? |  | Versão 1.0 - 20/10/2025 |
+| 7 - O Product Backlog foi uma lista de funcionalidades desejadas? |  | Versão 1.0 - 20/10/2025 |
 
 <figcaption align="center">Tabela 4: Lista de inspeção do artefato Backlog.</figcaption><br>
 Autor: <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>, <a href="https://github.com/mel14-hub">Lara Mota</a>, <a href="https://github.com/luisa12ll">Luisa de Souza</a>, <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
