@@ -12,49 +12,15 @@ A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o 
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes histórias de usuário</p></font>
 
-<div align="center">
-  <table border="1" cellspacing="0" cellpadding="5">
-    <thead>
-      <tr>
-        <th>Nome</th>
-        <th>Histórias de usuário elaboradas</th>
-        <th>Data</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
-        <td>Elaborou as histórias de usuário HU23, HU24, HU25, HU26, HU27, HU28, HU29 e HU30</td>
-        <td>20/10/2025</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
-        <td>Elaborou as histórias de usuário HU06, HU07, HU08, HU09, HU10, HU11, HU12, HU13 e HU14</td>
-        <td>20/10/2025</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
-        <td>Elaborou as histórias de usuário HU01, HU02, HU03, HU04 e HU05</td>
-        <td>20/10/2025</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
-        <td>Elaborou as histórias de usuário HU40 HU41, HU42, HU43, HU44, HU45, HU46, HU47, HU48 e HU49</td>
-        <td>20/10/2025</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
-        <td>Elaborou as histórias de usuário HU15, HU16, HU17, HU18, HU19, HU20, HU21 e HU22</td>
-        <td>20/10/2025</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
-        <td>Elaborou as histórias de usuário HU31, HU32, HU33, HU34, HU35, HU36, HU37, HU38 e HU39</td>
-        <td>20/10/2025</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| Nome | Histórias de usuário elaboradas | Data |
+|------|----------------------------------|------|
+| [Camila Silva](https://github.com/CamilaSilvaC) | Elaborou as histórias de usuário HU11, HU23, HU24, HU25, HU26, HU27, HU28, HU29 e HU30 | 20/10/2025 |
+| [Geovanna Alves](https://github.com/GeovannaUmbeliino) | Elaborou as histórias de usuário [HU06](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu06-acompanhamento-da-vida-estudantil:~:text=Fonte%3A%20Lara%20Souza-,HU06%20%2D%20Acompanhamento%20da%20vida%20estudantil,-A%20tabela%207), [HU08](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu08-registro-de-curso:~:text=Fonte%3A%20Pedro%20Henrique-,HU08%20%2D%20Registro%20de%20curso,-A%20tabela%209), HU10, HU12, HU13, HU14, HU21, HU31 e HU40 | 20/10/2025 |
+| [Lara Souza](https://github.com/mel14-hub) | Elaborou as histórias de usuário [HU01](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu01-autenticacao-govbr:~:text=de%20usu%C3%A1rios%20elicitadas-,HU01%20%2D%20Autentica%C3%A7%C3%A3o%20gov.br,-A%20tabela%202), [HU04](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu04-visualizacao-de-faltas:~:text=Lu%C3%ADsa%20de%20Souza-,HU04%20%2D%20Visualiza%C3%A7%C3%A3o%20de%20faltas,-A%20tabela%205), [HU05](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu05-atualizacoes-de-pagamento-pe-de-meia:~:text=Fonte%3A%20Lara%20Souza-,HU05%20%2D%20Atualiza%C3%A7%C3%B5es%20de%20pagamento%20P%C3%A9%2Dde%2DMeia,-A%20tabela%206), HU47, HU49 e HU50 | 20/10/2025 |
+| [Luisa de Souza](https://github.com/luisa12ll) | Elaborou as histórias de usuário [HU02](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu02-unificacao-do-acesso-a-suas-informacoes-academicas:~:text=Fonte%3A%20Lara%20Souza-,HU02%20%2D%20Unifica%C3%A7%C3%A3o%20do%20acesso%20a%20suas%20informa%C3%A7%C3%B5es%20acad%C3%AAmicas,-A%20tabela%203), [HU03](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu03-acompanhamento-pe-de-meia:~:text=Lu%C3%ADsa%20de%20Souza-,HU03%20%2D%20Acompanhamento%20P%C3%A9%2Dde%2DMeia,-A%20tabela%204), HU41, HU42, HU43, HU44, HU45, HU46 e HU48 | 20/10/2025 |
+| [Pedro Henrique](https://github.com/pedrohpsantos) | Elaborou as histórias de usuário [HU07](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu07-comunicacao-do-mec-com-estudante:~:text=Fonte%3A%20Geovanna%20Alves-,HU07%20%2D%20Comunica%C3%A7%C3%A3o%20do%20MEC%20com%20estudante,-A%20tabela%208), HU15, HU16, HU17, HU18, HU19, HU20 e HU22 | 20/10/2025 |
+| [Yan Matheus](https://github.com/Yanmatheus0812) | Elaborou as histórias de usuário [HU09](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu09-novidades-e-programas-do-governo-federal:~:text=Fonte%3A%20Geovanna%20Alves-,HU09%20%2D%20Novidades%20e%20programas%20do%20Governo%20Federal,-A%20tabela%2010), HU32, HU33, HU34, HU35, HU36, HU37, HU38 e HU39 | 20/10/2025 |
+
 
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
@@ -207,7 +173,7 @@ Tabela 10:  História de novidades e programas do governo federal.
 
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
-### HU10 - Novidades e programas do Governo Federal
+### HU10 - Programas estudantis do Governo Federal
 
 A tabela 11 mostra a história de usuário 10.
  
