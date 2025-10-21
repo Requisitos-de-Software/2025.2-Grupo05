@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento descreve a especificação de cenários de uso relacionados à experiência do usuário no aplicativo Jornada do Estudante. Os cenários foram desenvolvidos a partir de requisitos funcionais ainda não implementados, identificados durante a análise das necessidades dos usuários, com ênfase na clareza das informações e na confiabilidade da interação.
+Cenário se trata de uma estratégia reconhecida para compreender as interações entre ambientes e sistemas, assi, como elicitar a parte comportamental do software, sua dinâmica e seu fluxo <a id="anchor_1" href="#REF1">[1]</a>. Este documento descreve a especificação de cenários de uso relacionados à experiência do usuário no aplicativo Jornada do Estudante. Os cenários foram desenvolvidos a partir de requisitos funcionais ainda não implementados, identificados durante a análise das necessidades dos usuários, com ênfase na clareza das informações e na confiabilidade da interação.
 
 O objetivo é apresentar, de forma organizada, como o sistema deve se comportar para atender às expectativas dos usuários, adotando uma abordagem centrada na experiência do usuário e na interação entre humanos e o sistema.
 
@@ -365,7 +365,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 | Item       | Descrição                                                                                                                                        |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Título     | Inserir atividades na agenda                                                                                                                     |
-| ID         | [R47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                                       |
+| ID         | [R46](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                                       |
 | Objetivo   | Permitir que o estudante registre novas atividades.                                                                                                |
 | Contexto   | Estudante cadastrado.                                                                                                                              |
 | Atores     | Estudante, aplicativo                                                                                                                              |
@@ -383,7 +383,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Editar atividades na agenda                                                                                |
-| ID         | [R48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [R47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Objetivo   | Permitir que o estudante modifique atividades existentes.                                                    |
 | Contexto   | Estudante com atividades cadastradas.                                                                        |
 | Atores     | Estudante, aplicativo                                                                                        |
@@ -401,7 +401,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Item       | Descrição                                                                                                            |
 | ---------- | -------------------------------------------------------------------------------------------------------------------- |
 | Título     | Excluir atividades na agenda                                                                                         |
-| ID         | [R49](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)           |
+| ID         | [R48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)           |
 | Objetivo   | Permitir que o estudante remova atividades da agenda.                                                                  |
 | Contexto   | Estudante com atividades cadastradas.                                                                                  |
 | Atores     | Estudante, aplicativo                                                                                                  |
@@ -418,7 +418,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Inserir horário e data da atividade                                                                        |
-| ID         | [R51](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [R50](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Objetivo   | Permitir que o estudante defina data e horário de cada atividade.                                            |
 | Contexto   | Estudante adicionando ou editando atividade.                                                                 |
 | Atores     | Estudante, aplicativo                                                                                        |
@@ -436,7 +436,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Fórum entre estudantes                                                                                     |
-| ID         | [R57](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [R56](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Objetivo   | Permitir que estudantes troquem informações e dúvidas.                                                     |
 | Contexto   | Estudante logado no módulo de fóruns.                                                                      |
 | Atores     | Estudante, aplicativo                                                                                      |
@@ -454,7 +454,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Emissão de diplomas                                                                                        |
-| ID         | [R59](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [R58](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Objetivo   | Permitir que o estudante gere seu diploma digital.                                                         |
 | Contexto   | Estudante formado e cadastrado.                                                                            |
 | Atores     | Estudantes, aplicativo                                                                                     |
@@ -472,7 +472,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização de certificados                                                                               |
-| ID         | [R61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [R60](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Objetivo   | Permitir que o estudante veja certificados de cursos e atividades.                                           |
 | Contexto   | Estudante cadastrado.                                                                                      |
 | Atores     | Estudantes, aplicativo                                                                                     |
@@ -490,7 +490,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização de ocorrências                                                                                |
-| ID         | [R62](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [R61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
 | Objetivo   | Permitir que o estudantes visualize ocorrências registradas na instituição.                                |
 | Contexto   | Estudantes cadastrado.                                                                                     |
 | Atores     | Estudantes, aplicativo                                                                                     |
@@ -607,7 +607,7 @@ A seguir, apresentamos a gravação referente à **verificação dos cenários**
 
 ## Bibliografia
 
-> <a id="RP1" href="#tec1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf)>. Acesso em: 06 de outubro de 2025. p. 27–30.
+> <a id="REF1" href="#anchor_1">1.</a>. SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf)>. Acesso em: 06 de outubro de 2025. p. 8.
 
 
 ## Histórico de Versões

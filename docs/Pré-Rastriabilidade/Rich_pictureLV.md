@@ -42,7 +42,7 @@ A tabela_1 mostra a lista de verificação de análise de documentação.
 | 30- Utilizou balões de pensamento para caricaturar as preocupações dos envolvidos?                                          | ANDREW MONK AND STEVE HOWARD.The Rich Picture: A Tool for Reasoning About Work Context.Monk, A. F.; Howard, S. The Rich Picture: A Tool for Reasoning About Work Context. interactions, ACM, 1998. pg. 23.                           | [Geovanna Alves](https://github.com/GeovannaUmbelino) | 06/09/2025 | [Link](https://i.postimg.cc/RFcQkVSR/30.png) |
 | 31- O Rich Picture contém imagens, figuras ou rótulos descritivos?                                                          | CTEC2402 Software Development Project. Introducing Rich Pictures. Leicester: De Montfort University, 2025. p. 3.                                                                                                                     |    [Camila Silva](https://github.com/CamilaSilvaC)    | 06/09/2025 | [Link](https://i.postimg.cc/zBnSsXzT/31.png) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 # Histórico de Versões
 

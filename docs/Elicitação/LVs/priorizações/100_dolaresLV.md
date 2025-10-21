@@ -21,7 +21,7 @@ A tabela 1 mostra a lista de verificação da técnica 100 dólares.
 
 <figcaption align="center">Tabela 1: Lista de.</figcaption>
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Luísa de Souza](https://github.com/Luisa12ll).</p></font>
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 # Histórico de Versões
 

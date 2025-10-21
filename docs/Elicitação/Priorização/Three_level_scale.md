@@ -58,7 +58,7 @@ A seguir temos a tabela 1, onde indica todos os participantes da aplicação da 
   </table>
 </div>
 
-Tabela 1: Participantes Three Level Scale
+Tabela 1: Participantes Three Level Scale<br>
 Autor: [Camila Silva](https://github.com/CamilaSilvaC)
 
 
@@ -123,24 +123,23 @@ Autor: [Camila Silva](https://github.com/CamilaSilvaC)
 | RQ45          | O aplicativo deve ter uma página de perfil com as informações do usuário (nome, instituição e ano/semestre).                                                 | RF        | Sim          | 1.0    | Alta            |
 | RQ46          | O aplicativo deve possibilitar o usuário editar suas informações na página de perfil.                                                                                     | RF        | Sim          | 1.1    | Média                                                        |
 | RQ47          | O aplicativo deve possibilirar o usuário conseguir editar suas informações bancárias pelo gov.                                                                                      | RF        | Não          | 1.1    | Média                                                         |
-| RQ48          | O aplicativo deve ter um design sem sobrecarga de informações na tela.                                                                                       | RI        | Sim          | 1.0    | Média                                                           |
-| RQ49          | O aplicativo deve possuir uma agenda para organização pessoal do usuário através de atividades.                                                               | RF        | Não          | 1.0    | Média                                                       |
-| RQ50          | A agenda deve possuir a opção do usuário inserir atividades.                                                                                                  | RF        | Não          | 1.0    | Alta                                                       |
-| RQ51          | A agenda deve possuir a opção do usuário editar atividades.                                                                                                   | RF        | Não          | 1.0    | Média                                                       |
-| RQ52          | A agenda deve possuir a opção do usuário excluir atividades.                                                                                                  | RF        | Não          | 1.0    | Média                                                       |
-| RQ53          | A agenda deve notificar o usuário sobre atividades inseridas com um dia de antecedência.                                                                     | RF        | Não          | 1.0    | Alta                                                      |
-| RQ54          | A agenda deve permitir o usuário inserir um horário e data na criação de uma atividade.                                                                      | RF        | Não          | 1.0    | Alta                                                       |
-| RQ55          | A agenda deve permitir o usuário avaliar suas atividades com grau de importância.                                                                            | RF        | Não          | 1.0    | Alta                                                       |
-| RQ56          | O aplicativo deve oferecer integração na agenda entre outros aplicativos de organização pessoal.                                                              | RF        | Não          | 1.0    | Alta                                                      |
-| RQ57          | O aplicativo deve oferecer um tutorial em vídeo sobre suas funcionalidades.                                                                                  | RF        | Não          | 1.0    | Média                                                      |
-| RQ58          | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos.                                                      | RNF       | Não          | 1.0    |      Média     |
-| RQ59          | O aplicativo deve notificar quando editais de vestibulares forem abertos.                                                                                      | RF        | Não          | 1.0    |    Alta       |
-| RQ60          | O aplicativo deve ter um fórum entre estudantes.                                                                                                            | RF        | Não          | 1.1    | Alta  |
-| RQ61          | O aplicativo deve ter um fórum por disciplina entre estudantes e professores.                                                                                  | RF        | Não          | 1.0    |Média  |
-| RQ62          | O aplicativo deve permitir a emissão de diplomas.                                                                                                            | RF        | Não          | 1.0    |   Alta     |
-| RQ63          | O aplicativo deve ter um canal de suporte ao usuário.                                                                  | RF        | Sim          | 1.0    | Alta  |
-| RQ64           | O aplicativo deve permitir a visualização de certificados.                                                             | RF        | Não          | 1.0    |     Alta      |
-| RQ65          | O aplicativo deve permitir a visualização de ocorrências.                                                              | RF        | Não          | 1.0    |      Média     |
+| RQ48          | O aplicativo deve possuir uma agenda para organização pessoal do usuário através de atividades.                                                               | RF        | Não          | 1.0    | Média                                                       |
+| RQ49          | A agenda deve possuir a opção do usuário inserir atividades.                                                                                                  | RF        | Não          | 1.0    | Alta                                                       |
+| RQ50          | A agenda deve possuir a opção do usuário editar atividades.                                                                                                   | RF        | Não          | 1.0    | Média                                                       |
+| RQ51          | A agenda deve possuir a opção do usuário excluir atividades.                                                                                                  | RF        | Não          | 1.0    | Média                                                       |
+| RQ52          | A agenda deve notificar o usuário sobre atividades inseridas com um dia de antecedência.                                                                     | RF        | Não          | 1.0    | Alta                                                      |
+| RQ53          | A agenda deve permitir o usuário inserir um horário e data na criação de uma atividade.                                                                      | RF        | Não          | 1.0    | Alta                                                       |
+| RQ54          | A agenda deve permitir o usuário avaliar suas atividades com grau de importância.                                                                            | RF        | Não          | 1.0    | Alta                                                       |
+| RQ55          | O aplicativo deve oferecer integração na agenda entre outros aplicativos de organização pessoal.                                                              | RF        | Não          | 1.0    | Alta                                                      |
+| RQ56          | O aplicativo deve oferecer um tutorial em vídeo sobre suas funcionalidades.                                                                                  | RF        | Não          | 1.0    | Média                                                      |
+| RQ57          | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos.                                                      | RNF       | Não          | 1.0    |      Média     |
+| RQ58          | O aplicativo deve notificar quando editais de vestibulares forem abertos.                                                                                      | RF        | Não          | 1.0    |    Alta       |
+| RQ59          | O aplicativo deve ter um fórum entre estudantes.                                                                                                            | RF        | Não          | 1.1    | Alta  |
+| RQ60          | O aplicativo deve ter um fórum por disciplina entre estudantes e professores.                                                                                  | RF        | Não          | 1.0    |Média  |
+| RQ61          | O aplicativo deve permitir a emissão de diplomas.                                                                                                            | RF        | Não          | 1.0    |   Alta     |
+| RQ62          | O aplicativo deve ter um canal de suporte ao usuário.                                                                  | RF        | Sim          | 1.0    | Alta  |
+| RQ63           | O aplicativo deve permitir a visualização de certificados.                                                             | RF        | Não          | 1.0    |     Alta      |
+| RQ64          | O aplicativo deve permitir a visualização de ocorrências.                                                              | RF        | Não          | 1.0    |      Média     |
 
 
 <p style="text-align: center; font-size: 14px;">
@@ -190,7 +189,7 @@ A seguir temos a tabela 3, onde indica todos os participantes da validação da 
   </table>
 </div>
 
-Tabela 3: Validação Three Level Scale
+Tabela 3: Validação Three Level Scale<br>
 Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7dHSH_HDoe8?si=3MS1eDxreI3A8g83" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -211,3 +210,4 @@ Press, 2013. Cap. 13 “Three-level scale”, p. 319
 | 1.0    | 25/09/2025 | Documentação dos requisitos priorizados | [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC)  |
 | 1.1    | 02/10/2025 | Adição da tabela de participantes| [Camila Silva](https://github.com/CamilaSilvaC)| [Yan Matheus](https://github.com/Yanmatheus0812)|
 | 1.2   | 03/10/2025 | Adição da tabela de validação | [Yan Matheus](https://github.com/Yanmatheus0812)| [Camila Silva](https://github.com/CamilaSilvaC)
+| 1.3   | 20/10/2025 | Atualização da tabela| [Pedro Henrique](https://github.com/pedrohpsantos)| [Lara Souza](https://github.com/mel14-hub) |

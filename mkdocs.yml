@@ -42,10 +42,12 @@ nav:
               - Inspeção 1: Entregas/Inspeções/Inspeções_grupo5/Inspecao1.md
               - Inspeção 2: Entregas/Inspeções/Inspeções_grupo5/Inspecao2.md
               - Inspeção 3: Entregas/Inspeções/Inspeções_grupo5/Inspecao3.md
+              - Inspeção 4: Entregas/Inspeções/Inspeções_grupo5/Inspecao4.md
           - Inspeções grupo 6:
               - Inspeção 1: Entregas/Inspeções/Inspeções_grupo6/Inspecao1.md
               - Inspeção 2: Entregas/Inspeções/Inspeções_grupo6/Inspecao2.md
               - Inspeção 3: Entregas/Inspeções/Inspeções_grupo6/Inspecao3.md
+              - Inspeção 4: Entregas/Inspeções/Inspeções_grupo6/Inspecao4.md
       - Apresentações:
           - Apresentação 1: Entregas/Apresentações/Apresentacao1.md
           - Apresentação 2: Entregas/Apresentações/Apresentacao2.md
@@ -118,12 +120,20 @@ nav:
       - Casos de Uso: Modelagem/Casos-de-uso.md 
       - Especificação: Modelagem/Especificacao.md 
       - NFR Framework: Modelagem/NFR-Framework.md
-      - Ágil: Modelagem/Àgil.md 
+      - Ágil: 
+            - Histórias de usuário: Modelagem/Ágil/HistoriaUsuario.md
+            - Backlog: Modelagem/Ágil/Backlog.md
+            - NFR Framework: Modelagem/Ágil/NFR-Framework.md
+        
       - Listas de Verificação: 
             - Cenários: Modelagem/LVs/LVCenario.md
             - Léxico: Modelagem/LVs/LVLexico.md
             - Especificação suplementar: Modelagem/LVs/LVSuplementar.md
             - Caso de uso: Modelagem/LVs/LVUseCase.md
+            - Ágil: 
+                - História de usuário: Modelagem/LVS/Ágil/HULV.md
+                - Backlog: Modelagem/LVS/Ágil/BacklogLV.md
+                - NFR Framework: Modelagem/LVS/Ágil/NFRLV.md
   - Análise:
       - Verificação: Análise/Verificação.md
       - Validação: Análise/Validação.md

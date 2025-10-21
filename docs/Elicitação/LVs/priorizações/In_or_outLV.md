@@ -21,7 +21,7 @@ A tabela_1 mostra a lista de verificação da técnica In or Out.
 | 10 \- O método In or Out foi conduzido de forma que o processo fosse menos cansativo e mais motivador para o time?| WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Cap. 16, p.318.| 18/09/2025| [Link](https://postimg.cc/ZW6rHvdg)|
 
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Camila Silva](https://github.com/CamilaSilvaC).</p></font>
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 # Histórico de Versões
 
