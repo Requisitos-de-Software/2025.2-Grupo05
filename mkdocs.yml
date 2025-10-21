@@ -119,7 +119,6 @@ nav:
       - Léxicos: Modelagem/Léxicos.md
       - Casos de Uso: Modelagem/Casos-de-uso.md 
       - Especificação: Modelagem/Especificacao.md 
-      - NFR Framework: Modelagem/NFR-Framework.md
       - Ágil: 
             - Histórias de usuário: Modelagem/Ágil/HistoriaUsuario.md
             - Backlog: Modelagem/Ágil/Backlog.md
@@ -131,9 +130,9 @@ nav:
             - Especificação suplementar: Modelagem/LVs/LVSuplementar.md
             - Caso de uso: Modelagem/LVs/LVUseCase.md
             - Ágil: 
-                - História de usuário: Modelagem/LVS/Ágil/HULV.md
-                - Backlog: Modelagem/LVS/Ágil/BacklogLV.md
-                - NFR Framework: Modelagem/LVS/Ágil/NFRLV.md
+                - História de usuário: Modelagem/LVs/Ágil/HULV.md
+                - Backlog: Modelagem/LVs/Ágil/BacklogLV.md
+                - NFR Framework: Modelagem/LVs/Ágil/NFRLV.md
   - Análise:
       - Verificação: Análise/Verificação.md
       - Validação: Análise/Validação.md

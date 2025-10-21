@@ -235,8 +235,6 @@ Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabe
 
 <font size="3"><p style="text-align: center"><b>Figura 3</b> - Usabilidade</p></font>
 
-<figure markdown markdown class="usecaseElement">
-
 ![Usabilidade](../../img/usabilidade.png)
 
 </figure>
@@ -268,8 +266,6 @@ Os Requisitos utilizados para a confecção da Figura 4 estão presentes na Tabe
 
 <font size="3"><p style="text-align: center"><b>Figura 5</b> - Performance</p></font>
 
-<figure markdown markdown class="usecaseElement">
-
 ![Performance](../../img/performance.png)
 
 </figure>
@@ -299,9 +295,7 @@ Os Requisitos utilizados para a confecção da Figura 6 estão presentes na Tabe
 
 <font size="3"><p style="text-align: center"><b>Figura 5</b> - Segurança</p></font>
 
-<figure markdown markdown class="usecaseElement">
-
-![SegurançaAnal](../../img/seguranca.png)
+![Segurança](../../img/seguranca.png)
 
 </figure>
 
