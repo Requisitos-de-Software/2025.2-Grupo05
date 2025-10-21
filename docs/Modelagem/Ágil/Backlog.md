@@ -1,6 +1,6 @@
 ## Introdução
 
-O Backlog do Produto é um artefato da metodologia ágil que toma a forma de uma lista de todas as tarefas pendentes a serem feitas em um projeto. O responsável por sugerir e priorizar os itens é o Dono do Produto (_Product Owner_). Vale ressaltar que o Backlog do Produto é um artefato dinâmico, ou seja, ele cresce e muda à medida que os requisitos e a visão do produto são alterados.
+O Backlog do Produto é um artefato da metodologia ágil que representa o que deve ser feito no projeto — uma lista priorizada de todas as funcionalidades, melhorias e correções a serem desenvolvidas. Ele existe para organizar e guiar o trabalho da equipe de desenvolvimento, garantindo que o produto evolua de acordo com o valor entregue ao usuário e com os objetivos do negócio. Vale ressaltar que o Backlog do Produto é um artefato dinâmico, ou seja, ele cresce e muda à medida que os requisitos e a visão do produto são alterados.
 
 ## Participantes
 
@@ -50,6 +50,25 @@ A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o 
 
 ## Metodologia
 
+### Temas
+
+Analisando as histórias de usuário, foi possível organizá-las inicialmente em dois grandes temas.
+
+- **Funcionalidades**: Agrupa funcionalidades que o sistema precisa oferecer para que o usuário consiga realizar com sucesso suas tarefas.
+- **Perfil**: Agrupa funcionalidades relacionadas a como o usuário se apropria do sistema e o modifica de acordo com seus gostos e desejos.
+
+### Épicos
+
+Após a definição dos temas, eles são "quebrados" em épicos de modo a diminuir ainda mais a abstração das atividades que deverão ser realizadas no projeto. Para esse projeto, os épicos foram descritos utilizando o padrão de escrita das histórias de usuário e possuem um nível de abstração a mais chamado de _Features_.
+
+### Features
+
+Definido um épico, são geradas _features_, que são descrições simplificadas do que o produto faz para atender os objetivos dos usuários. Elas representam as funcionalidades em um nível de abstração maior que as histórias de usuário.
+
+### Histórias de Usuário
+
+Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](https://www.google.com/search?q=../%C3%81gil/HistoriaUsuario.md). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para \_\_\_."
+
 <p align="center"> <em>Tabela 2 - Épico 1 - Acompanhar</em> </p> <table align="center"> <thead> <tr> <th>Épico</th> <th>Feature</th> <th>História de usuário</th> <th>Priorização</th> </tr> </thead> <tbody> <tr> <td rowspan="17">Épico 1 - Acompanhar</td> <td rowspan="2">Feature 1 - Oportunidades</td> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU09 </a> - Acompanhar novidades e programas do Governo Federal</td> <td>Alta</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU22 </a> - Visalizar Programas estudantis</td> <td>Alta</td> </tr> <tr> <td rowspan="6">Feature 2 - Informações de desempenho escolar</td> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU04 </a> - Classificar eventos por modalidade</td> <td>Alta</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU06 </a> - Acompanhamento da vida estudantil </td> <td>Alta</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU15 </a> - Visualização de notas </td> <td>Alta</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU12 </a> -Visualizar disciplina e professor </td> <td>Alta</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU13 </a> - Visualizar horário e sala de aula</td> <td>Alta</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU30 </a> - Visualizar ranqueamento por nota </td> <td>Alta</td> </tr> <tr> <td rowspan="3">Feature 3 - Documentos institucionais</td> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU21 </a> - Visualização de boletim</td> <td>Média</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU48 </a> - Visualização de certificados</td> <td>Alta</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU49 </a> - Visualoização de ocorrências</td> <td>Média</td> </tr> <tr> <td rowspan="4">Feature 4 - Benefícios</td> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU03 </a> - Acompanhar pé de meia</td> <td>Média</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU23 </a> - Visualizar valor total do auxílio</td> <td>Média</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU24 </a> - Visualizar conta bancária cadastrada</td> <td>Alta</td> </tr> <tr> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU25 </a> - Visualizar dia do pagamento do auxílio</td> <td>Média</td> </tr> <tr> <td rowspan="1">Feature 5 - Meios de organização</td> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU28 </a> - Visualizar eventos em um calendário</td> <td>Alta</td> </tr> <tr> <td rowspan="1">Feature 6 - Tutorial em vídeo</td> <td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/"> HU42 </a> - Visualizar um tutorial em vídeo sobre funcionalidades</td> <td>Alta</td> </tr> </tbody> </table>
 
 <p align="center"> <em>Tabela 3 - Épico 2 - Unificar</em> </p>
@@ -78,54 +97,36 @@ A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o 
 
 <table align="center"> <thead> <tr> <th style="padding: 8px; text-align: left;">Épico</th> <th style="padding: 8px; text-align: left;">Feature</th> <th style="padding: 8px; text-align: left;">História de usuário</th> <th style="padding: 8px; text-align: left;">Priorização</th> </tr> </thead> <tbody> <tr> <td rowspan="3" style="padding: 8px; vertical-align: top;">Épico 8 - Emitir</td> <td rowspan="3" style="padding: 8px; vertical-align: top;">Feature 1 - Documentos institucionais</td> <td style="padding: 8px;"><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/">HU19</a> - Emitir a carteira de estudante</td> <td style="padding: 8px; text-align: center;">Alta</td> </tr> <tr> <td style="padding: 8px;"><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/">HU20</a> - Emitir o histórico escolar</td> <td style="padding: 8px; text-align: center;">Alta</td> </tr> <tr> <td style="padding: 8px;"><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/">HU46</a> - Emitir a declaração de matrícula</td> <td style="padding: 8px; text-align: center;">Média</td> </tr> </tbody> </table>
 
-## Temas
 
-Analisando as histórias de usuário, foi possível organizá-las inicialmente em dois grandes temas.
-
-- **Funcionalidades**: Agrupa funcionalidades que o sistema precisa oferecer para que o usuário consiga realizar com sucesso suas tarefas.
-- **Perfil**: Agrupa funcionalidades relacionadas a como o usuário se apropria do sistema e o modifica de acordo com seus gostos e desejos.
-
-## Épicos
-
-Após a definição dos temas, eles são "quebrados" em épicos de modo a diminuir ainda mais a abstração das atividades que deverão ser realizadas no projeto. Para esse projeto, os épicos foram descritos utilizando o padrão de escrita das histórias de usuário e possuem um nível de abstração a mais chamado de _Features_.
-
-## Features
-
-Definido um épico, são geradas _features_, que são descrições simplificadas do que o produto faz para atender os objetivos dos usuários. Elas representam as funcionalidades em um nível de abstração maior que as histórias de usuário.
-
-## Histórias de Usuário
-
-Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](https://www.google.com/search?q=../%C3%81gil/HistoriaUsuario.md). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para \_\_\_."
-
-### Épico 1 - Acompanhar
+## Épico 1 - Acompanhar
 
 Esse épico apresenta as funcionalidades que permite aos estudantes acompanharem e visualizarem informações como oportunidades, desempenho escolar, documentos institucionais, benefícios, meios d eorganização e tutorial em vídeo.
 
-### Épico 2 - Unificar
+## Épico 2 - Unificar
 
 Esse épico apresenta as funcionalidades que permite aos estudantes unifiarem suas informções dentro do aplicativo, como informações acadêmicas, serviços estudantis, instituição de ensino, informações pessoais e eventos na agenda.
 
-### Épico 3 - Autenticar
+## Épico 3 - Autenticar
 
 Esse épico apresenta as funcionalidades que permite aos estudantes autenticas suas informações junto ao Gov.br para acessar o aplicativo
 
-### Épico 4 - Editar
+## Épico 4 - Editar
 
 Esse épico apresenta as funcionalidades que permite aos estudantes editarem determinadas informações dentro do aplicativo, como informações bancárias e edição, inserção e remoção de atividades na agenda.
 
-### Épico 5 - Avaliar
+## Épico 5 - Avaliar
 
 Esse épico apresenta as funcionalidades que permite aos estudantes avaliar uma atividade com um grau de importância selecionado, para uma melhor priorização e organização de atividades acadêmicas.
 
-### Épico 6 - Notificar
+## Épico 6 - Notificar
 
 Esse épico apresenta as funcionalidades que permite aos estudantes serem notificados por diversas funcionalidades dentro do aplicativo, como em relação ao benefício, oportunidades, informações de desempenho escolar e agenda
 
-### Épico 7 - Comunicar
+## Épico 7 - Comunicar
 
 Esse épico apresenta as funcionalidades que permite aos estudantes comuncarem com outros usuários do aplicativo, como em um fórum, canais de comunicação e uma comunicação do MEC com os estudantes.
 
-### Épico 8 - Emitir
+## Épico 8 - Emitir
 
 Esse épico apresenta as funcionalidades que permite aos estudantes emitirem documentos institucioanais.
 
