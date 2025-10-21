@@ -128,8 +128,8 @@ Autor: <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, <a  href="htt
 ## Bibliografia
 
 > 1. PRESSMAN, Roger S.; MAXIM, Bruce R. Engenharia de Software: Uma Abordagem Profissional. 9. ed. Porto Alegre: AMGH, 2021.
-> 2. Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3.
-> 3. SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf.
+> 2. Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: [http://www.computer.org/web/swebok/v3.](http://www.computer.org/web/swebok/v3.)
+> 3. SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf.](https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf.)
 > 4.  SILVA, Reinaldo; CASTRO, Jaelson; PIMENTEL, João. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. In: Recife, Brasil: Even3, 2020.
 
 ## Histórico de Versões
