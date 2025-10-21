@@ -120,10 +120,27 @@ A propagação de impactos no NFR Framework  envolve a identificação das rela�
 
 Os frameworks foram separados por temas, esses temas foram divididos em três para limitar o escopo aqui trabalhado. Após isso, fez-se uma introspecção para a construção do SIG a partir dos tópicos gerais definidos, a fim de fazer relações com os Requisitos Não-Funcionais da Tabela 12, após isso, fez-se o uma revisão na literatura e foi feita a validação do SIG confeccionado. A plataforma utilizada para a elaboração foi o Draw.io.
 
+## Requisitos Não-Funcionais
+
+A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criação do NFR Framework.
+
+<p style="text-align: center"><b>Tabela 2</b> - Requisitos Não-Funcionais </p>
+
+| ID    | Descrição    |  
+| ------------- | ---- |
+| [RQ03](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. |
+| [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio. |
+| [RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos). |
+| [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve carregar suas informações em no máximo 3 segundos. |
+| [RQ40](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ser acessível (contraste em cores, suporte à Libras e auto-descrição). |
+| [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. |
+
+Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
+
 
 ## Cartões de Especificação
 
-<font size="3"><p style="text-align: center">Tabela 2:Tecnologia blockchain para autenticação e disponubilização de documentos </p></font>
+<font size="3"><p style="text-align: center">Tabela 3:Tecnologia blockchain para autenticação e disponubilização de documentos </p></font>
 
 | Itens | Descrição |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -139,7 +156,7 @@ Os frameworks foram separados por temas, esses temas foram divididos em três pa
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/mel14-hub">Lara Souza Mota</a></font>
 
-<font size="3"><p style="text-align: center">Tabela 3: Tempo de localização de funcionalidades </p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Tempo de localização de funcionalidades </p></font>
 
 | Itens | Descrição |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -155,7 +172,7 @@ Os frameworks foram separados por temas, esses temas foram divididos em três pa
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></font>
 
-<font size="3"><p style="text-align: center">Tabela 4: Linguagem adequada ao usuário </p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Linguagem adequada ao usuário </p></font>
 
 | Itens | Descrição |
 | ---| --- |
@@ -172,7 +189,7 @@ Os frameworks foram separados por temas, esses temas foram divididos em três pa
 <font size="3"><p style="text-align: center">Autor: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a></font>
 
 
-<font size="3"><p style="text-align: center">Tabela 5: Tempo para realizar funções principais </p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Tempo para realizar funções principais </p></font>
 
 | Itens                 | Descrição                                                                                                                                                                                                                                             |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -188,7 +205,7 @@ Os frameworks foram separados por temas, esses temas foram divididos em três pa
 
 <font size="3"><p style="text-align: center">Autor: <a  href="(https://github.com/pedrohpsantos)">Pedro Henrique</a></font>
 
-<font size="3"><p style="text-align: center">Tabela 6: Carregar informações em 3 segundos </p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Carregar informações em 3 segundos </p></font>
 
 | Itens | Descrição |
 | ---| --- |
@@ -218,7 +235,8 @@ Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabe
 
 ### Análise confiabilidade 
 Figura 4 - Análise diagrama - Usabilidade
-![UsabilidadeAnal](../../img/usabilidadeAnal.pngg)
+
+![UsabilidadeAnal](../../img/usabilidadeAnal.png)
 
 
 ### Requisitos Não-Funcionais - Usabilidade
@@ -297,29 +315,13 @@ Na Tabela 10, estão listados os RNF presentes no NFR Famework de Usabilidade :
 
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
-## Requisitos Não-Funcionais
-
-A Tabela 11 a seguir lista os Requisitos Não-Funcionais utilizados para a criação do NFR Framework.
-
-<p style="text-align: center"><b>Tabela 11</b> - Requisitos Não-Funcionais </p>
-
-| ID    | Descrição    |  
-| ------------- | ---- |
-| [RQ03](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. |
-| [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio. |
-| [RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos). |
-| [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve carregar suas informações em no máximo 3 segundos. |
-| [RQ40](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ser acessível (contraste em cores, suporte à Libras e auto-descrição). |
-| [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. |
-
-Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ## Gravação 
 
 ### Participantes 
-A seguir temos a tabela 8, onde indica todos os participantes da sessão NFR Framework, o horário e local da aplicação da técnica.
+A seguir temos a tabela 11, onde indica todos os participantes da sessão NFR Framework, o horário e local da aplicação da técnica.
 
-<font size="3"><p style="text-align: center">Tabela 8: Participantes NFR Framwork</p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Participantes NFR Framwork</p></font>
 
 <div align="center">
   <table>
@@ -381,4 +383,5 @@ A seguir temos a tabela 8, onde indica todos os participantes da sessão NFR Fra
 | Versão |    Data    |               Descrição               |                                                                                                                                                   Autor                                                                                                                                                   |                      Revisor                       |
 | :----: | :--------: | :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
 |  1.0   | 18/10/2025 |  Documentação dos primeiros NFRs  | [Luisa de Souza](https://github.com/Luisa12ll), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) |   [Luisa de Souza](https://github.com/Luisa12ll)   |
+
 | 1.1   | 20/10/2025 | Atualização da tabela| [Pedro Henrique](https://github.com/pedrohpsantos)| [Lara Souza](https://github.com/mel14-hub) |
