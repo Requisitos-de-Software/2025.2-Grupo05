@@ -93,7 +93,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L02: Cadastrar informações
 
-O Léxico presente na Tabela 4, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ13, RQ46 e RQ50
+O Léxico presente na Tabela 4, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ13, RQ45 e RQ49
 
 Tabela 4 - Léxico 02: Cadastrar credenciais (L02)
 
@@ -108,7 +108,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L03: Consultar informações
 
-O Léxico presente na Tabela 5, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ5, RQ7, RQ8, RQ9, RQ11, RQ17, RQ18, RQ19, RQ20, RQ30, RQ31, RQ32, RQ33, RQ34, RQ37, RQ60 e RQ61
+O Léxico presente na Tabela 5, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ5, RQ7, RQ8, RQ9, RQ11, RQ17, RQ18, RQ19, RQ20, RQ30, RQ31, RQ32, RQ33, RQ34, RQ37, RQ59 e RQ60
 
 Tabela 5 - Léxico 03: Consultar informações (L03)
 
@@ -123,7 +123,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L04: Emitir documentos
 
-O Léxico presente na Tabela 6, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ27, RQ28, RQ29 e RQ58
+O Léxico presente na Tabela 6, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ27, RQ28, RQ29 e RQ57
 
 Tabela 6 - Léxico 04: Emitir documentos (L04)
 
@@ -138,7 +138,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L05: Editar informações
 
-O Léxico presente na Tabela 7, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ43, RQ44 e RQ47
+O Léxico presente na Tabela 7, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ43, RQ44 e RQ46
 
 Tabela 7 - Léxico 05: Editar informações (L05)
 
@@ -153,7 +153,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L06: Excluir atividades
 
-O Léxico presente na Tabela 8, faz o uso do seguinte requisito de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ48
+O Léxico presente na Tabela 8, faz o uso do seguinte requisito de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ47
 
 Tabela 8 - Léxico 06: Excluir atividades (L06)
 
@@ -168,7 +168,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L07: Notificar eventos
 
-O Léxico presente na Tabela 9, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ14, RQ21, RQ22, RQ23, RQ49 e RQ55
+O Léxico presente na Tabela 9, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ14, RQ21, RQ22, RQ23, RQ48 e RQ54
 
 Tabela 9 - Léxico 07: Notificar eventos (L07)
 
@@ -198,7 +198,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L09: Comunicar em canais
 
-O Léxico presente na Tabela 11, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ35, RQ36, RQ56, RQ57 e RQ59
+O Léxico presente na Tabela 11, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ35, RQ36, RQ55, RQ56 e RQ58
 
 Tabela 11 - Léxico 09: Ser atendido em canal de conversa (L09)
 
@@ -213,7 +213,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L10: Oferecer serviços
 
-O Léxico presente na Tabela 12, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ41, RQ45, RQ52 e RQ53
+O Léxico presente na Tabela 12, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ41, RQ51 e RQ52
 
 Tabela 12 - Léxico 10: Oferecer serviços (L10)
 
@@ -247,7 +247,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L12: Professor
 
- O lexico presente na Tabela 14, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ17,RQ57
+ O lexico presente na Tabela 14, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ17,RQ56
 
  Tabela 14- Léxico 12: Professor
 
@@ -316,7 +316,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L16: Documentação Oficial
 
-O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ27,RQ28,RQ58,RQ60,RQ3
+O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ27,RQ28,RQ57,RQ59,RQ3
 
 Tabela 18- Léxico 16: Documentação Oficial
 
@@ -333,7 +333,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L17: Comunicação e Interação
 
-O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ12,RQ14,RQ35,RQ36,RQ56,RQ57,RQ59
+O lexico presente na Tabela 18, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ12,RQ14,RQ35,RQ36,RQ55,RQ56,RQ58
 
 Tabela 19 -  Léxico 17: Comunicação e Interação
 
@@ -348,7 +348,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L18: Calendário e Eventos
 
-O lexico presente na Tabela 20, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ37,RQ45,RQ46,RQ47,RQ48,RQ50,RQ51,RQ49,RQ21,RQ55
+O lexico presente na Tabela 20, faz uso  dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ37,RQ45,RQ46,RQ47,RQ49,RQ50,RQ48,RQ21,RQ54
 
 Tabela 20- Léxico 18: Calendário e Eventos
 
@@ -533,7 +533,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L29: Funcionalidade encontrada ≤ 45 segundos
 
-O Léxico presente na Tabela 28 está associado ao requisito RQ54, sobre a navegabilidade do aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 28 está associado ao requisito RQ53, sobre a navegabilidade do aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 31 - Léxico 289 Funcionalidade encontrada ≤ 45 segundos (L29)
 
@@ -677,3 +677,4 @@ A seguir, apresentamos a gravação referente à **verificação dos Léxicos**.
 | ------ | ---------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | 1.0    | 05/10/2025 | Documentação dos léxicos | [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Luisa de Souza](https://github.com/Luisa12ll) e [Camila Silva](https://github.com/CamilaSilvaC) | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
 | 1.1    | 10/10/2025 | Adicionada validação da técnica | [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC)
+| 1.2   | 20/10/2025 | Atualização da tabela| [Pedro Henrique](https://github.com/pedrohpsantos)| [Lara Souza](https://github.com/mel14-hub) |
