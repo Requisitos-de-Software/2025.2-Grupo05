@@ -87,8 +87,7 @@ A tabela 4 mostra a lista de verificação para o artefato Backlog.
 | 1 - O backlog é uma lista ordenada de todos os itens desejados no produto? |           |     Versão 1.0 - 20/10/2025      |
 | 2 - Os itens no topo do backlog são mais detalhados e de maior prioridade? |           |     Versão 1.0 - 20/10/2025      |
 | 3 - O backlog é um artefato vivo, constantemente atualizado?               |           |     Versão 1.0 - 20/10/2025      |
-| 4 - As especificações dos itens do product backlog foram baseados em histórias de
-usuários? | | Versão 1.0 - 20/10/2025 |
+| 4 - As especificações dos itens do product backlog foram baseados em histórias de usuários? | | Versão 1.0 - 20/10/2025 |
 | 5 - O backlog está visível e transparente para todos os stakeholders?      |           |     Versão 1.0 - 20/10/2025      |
 | 6 - Os itens do product backlog tem critérios de aceitação? | | Versão 1.0 - 20/10/2025 |
 | 7 - O Product Backlog foi uma lista de funcionalidades desejadas? | | Versão 1.0 - 20/10/2025 |
