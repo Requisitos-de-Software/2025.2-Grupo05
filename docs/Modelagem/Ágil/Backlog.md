@@ -9,42 +9,49 @@ A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes histórias de usuário</p></font>
 
 <div align="center">
-  <table>
-    <thead>
+  <table border="1" cellspacing="0" cellpadding="5">
+    <thead style="background-color:#f2f2f2;">
       <tr>
         <th>Nome</th>
+        <th>Participação no Backlog</th>
         <th>Data</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
-        <td>16/10/2025</td>
-         </tr>
+        <td>Participou da criação de todos os épicos do Product Backlog</td>
+        <td>20/10/2025</td>
+      </tr>
       <tr>
-      <tr>
-        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
-         <td>16/10/2025</td>
+        <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
+        <td>Participou da criação de todos os épicos do Product Backlog</td>
+        <td>20/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
-        <td>16/10/2025</td>
+        <td>Participou da criação de todos os épicos do Product Backlog</td>
+        <td>20/10/2025</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/luisa12ll">Luísa de Souza</a></td>
-        <td>16/10/2025</td>
+        <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
+        <td>Participou da criação de todos os épicos do Product Backlog</td>
+        <td>20/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
-         <td>16/10/2025</td>
+        <td>Participou da criação de todos os épicos do Product Backlog</td>
+        <td>20/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
-         <td>16/10/2025</td>
+        <td>Participou da criação de todos os épicos do Product Backlog</td>
+        <td>20/10/2025</td>
       </tr>
     </tbody>
   </table>
 </div>
+
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
 
