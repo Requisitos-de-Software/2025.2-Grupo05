@@ -21,7 +21,7 @@ A tabela_1 mostra a lista de verificação da técnica MoSCoW
 | 10 \- A pessoa interessada(cliente) tinha de fato  conhecimento sobre o negócio?  | ERRANO, Milene; SERRANO, Maurício. Requisitos-Aula07: modelagem, elicitação e análise. p. 36.  | 18/09/2025| [Link](https://i.postimg.cc/g0cJbxps/image-17.jpg)|
 
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Geovanna Alves](https://github.com/GeovannaUmbelino).</p></font>
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 # Histórico de Versões
 

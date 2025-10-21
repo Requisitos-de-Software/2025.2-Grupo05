@@ -23,7 +23,7 @@ A tabela_1 mostra a lista de verificação da técnica brainstorming.
 | 9 – Uma atividade de priorização é realizada ao final do brainstorming para identificar os itens essenciais? | BARBOSA, Simone D. J.. _INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO._ Cap. 7, p. 154     | 09/10/2025 | [Link](https://postimg.cc/30mJ0F5h) |
 | 10 – Uma sessão-piloto foi realizada para avaliar o procedimento e os materiais antes da sessão principal?   | BARBOSA, Simone D. J.. _INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO._ Cap. 7, p. 155     | 09/10/2025 | [Link](https://postimg.cc/Z9QTfMJT) |
 
-<font size="3"><p align="center">Fonte: Elaboração própria. [Pedro Henrique Pereira Santos](https://github.com/PedroHenriqueSantos).</p></font>
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ---
 

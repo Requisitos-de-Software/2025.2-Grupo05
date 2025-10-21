@@ -21,7 +21,7 @@ A tabela_1 mostra a lista de verificação de Three level scale.
 | 9- Os dois grupos de requisitos de menor prioridade que foram subdivididos, foram reajustados para se encaixarem em média prioridade? | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. Cap. 13 “Three-level scale”, p. 319. | [Yan Matheus](https://github.com/Yanmatheus0812) | 04/10/2025 | [Link](https://i.postimg.cc/T1RW9R79/9.png)  |
 | 10- O grupo de requisitos de mais alta prioridade que foram subdivididos, foram reajustados para se encaixarem em alta prioridade?    | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. Cap. 13 “Three-level scale”, p. 319. | [Yan Matheus](https://github.com/Yanmatheus0812) | 04/10/2025 | [Link](https://i.postimg.cc/k4NbKVcD/10.png) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 # Histórico de Versões
 

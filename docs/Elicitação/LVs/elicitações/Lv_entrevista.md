@@ -23,7 +23,7 @@ A tabela_1 mostra a lista de verificação da técnica.
 | 9 \- O roteiro da entrevista permite o registro eficiente das respostas?    | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. . Cap. 7, p. 26| 11/10/2025 | [Link](hhttps://ibb.co/NDX6Xwg) |
 | 10 \- O entrevistadores conhecem claramnete o roteiro e pretam atenção no que os entrevistados dizem?           |Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. . Cap. 7, p. 163 | 11/10/2025 | [Link](https://ibb.co/PvdSkQPt) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Lara  Souza](https://github.com/mel14-hub).</p></font>
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 # Histórico de Versões
 
