@@ -68,7 +68,7 @@ Para a compreensão do SIG, é inexorável discernir a definição de NFR Softgo
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Tipos de Softgoal</p></font>
 <figure markdown class="usecaseElement">
 
-![TIPOS](../../img/tipos.png)
+![TIPOS](../img/tipos.png)
 
 </figure>
 <font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
@@ -391,6 +391,6 @@ A seguir temos a tabela 11, onde indica todos os participantes da sessão NFR Fr
 | Versão |    Data    |               Descrição               |                                                                                                                                                   Autor                                                                                                                                                   |                      Revisor                       |
 | :----: | :--------: | :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
 |  1.0   | 18/10/2025 |  Documentação dos primeiros NFRs  | [Luisa de Souza](https://github.com/Luisa12ll), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) |   [Luisa de Souza](https://github.com/Luisa12ll)   |
-
 | 1.1   | 20/10/2025 | Atualização da tabela| [Pedro Henrique](https://github.com/pedrohpsantos)| [Lara Souza](https://github.com/mel14-hub) |
+
 
