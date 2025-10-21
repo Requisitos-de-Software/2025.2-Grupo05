@@ -20,32 +20,32 @@ A seguir temos a tabela 1, onde indica todos os participantes da elaboração do
     <tbody>
       <tr>
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
-        <td>Elaborou o <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05/blob/main/docs/Modelagem/%C3%81gil/NFR-Framework.md#:~:text=Tabela%205%3A%20Linguagem,Autor%3A%20Camila%20Silva ">Cartão de especificação do NFR25</a>  e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou o <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05/blob/main/docs/Modelagem/%C3%81gil/NFR-Framework.md#:~:text=Tabela%205%3A%20Linguagem%20adequada%20ao%20usu%C3%A1rio">Cartão de especificação do NFR25</a>  e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
-        <td>Elaborou o cartão de especificação do NFR54 e colaborou na confecção do grafo SIG </td>
+        <td>Elaborou o <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05/blob/main/docs/Modelagem/%C3%81gil/NFR-Framework.md#:~:text=Tabela%204%3A%20Tempo%20de%20localiza%C3%A7%C3%A3o%20de%20funcionalidades">Cartão de especificação do NFR54</a> e colaborou na confecção do grafo SIG </td>
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
-        <td>Elaborou o cartão de especificação do NFR03 e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou o <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05/blob/main/docs/Modelagem/%C3%81gil/NFR-Framework.md#:~:text=Tabela%203%3ATecnologia%20blockchain%20para%20autentica%C3%A7%C3%A3o%20e%20disponubiliza%C3%A7%C3%A3o%20de%20documentos">Cartão de especificação do NFR03</a>  e colaborou na confecção do grafo SIG</td> 
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
-        <td>Elaborou o cartão de especificação do NFR40 e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou o <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05/blob/main/docs/Modelagem/%C3%81gil/NFR-Framework.md#:~:text=Tabela%206%3A%20Tempo%20para%20realizar%20fun%C3%A7%C3%B5es%20principais">Cartão de especificação do NFR40</a> e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
-        <td>Elaborou o cartão de especificação do NFR24 e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou o <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05/blob/main/docs/Modelagem/%C3%81gil/NFR-Framework.md#:~:text=Tabela%206%3A%20Tempo%20para%20realizar%20fun%C3%A7%C3%B5es%20principais">Cartão de especificação do NFR24</a> e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
-        <td>Elaborou o cartão de especificação do NFR26 e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou o <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05/blob/main/docs/Modelagem/%C3%81gil/NFR-Framework.md#:~:text=Tabela%207%3A%20Carregar%20informa%C3%A7%C3%B5es%20em%203%20segundos">Cartão de especificação do NFR26</a> e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
       </tr>
     </tbody>
@@ -211,7 +211,7 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 | Prioridade            | Alta                                                                                                                                                                                                                                                  |
 | Conflitos             | Nenhum                                                                                                                                                                                                                                                |
 
-<font size="3"><p style="text-align: center">Autor: <a  href="(https://github.com/pedrohpsantos)">Pedro Henrique</a></font>
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></font>
 
 <font size="3"><p style="text-align: center">Tabela 7: Carregar informações em 3 segundos </p></font>
 
@@ -386,6 +386,7 @@ A seguir temos a tabela 11, onde indica todos os participantes da sessão NFR Fr
 | :----: | :--------: | :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
 |  1.0   | 18/10/2025 |  Documentação dos primeiros NFRs  | [Luisa de Souza](https://github.com/Luisa12ll), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) |   [Luisa de Souza](https://github.com/Luisa12ll)   |
 | 1.1   | 20/10/2025 | Atualização da tabela| [Pedro Henrique](https://github.com/pedrohpsantos)| [Lara Souza](https://github.com/mel14-hub) |
+
 
 
 
