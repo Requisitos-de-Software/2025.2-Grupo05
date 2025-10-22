@@ -67,9 +67,8 @@ Para a compreensão do SIG, é inexorável discernir a definição de NFR Softgo
 
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Tipos de Softgoal</p></font>
 
-![TIPOS](../img/tipos.png)
+![TIPOS](../../img/tipos.png)
 
-</figure>
 <font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
 
 ### Interdependências
