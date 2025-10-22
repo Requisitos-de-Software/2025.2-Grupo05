@@ -20,32 +20,32 @@ A seguir temos a tabela 1, onde indica todos os participantes da elaboração do
     <tbody>
       <tr>
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
-        <td>Elaborou o cartão de especificação do NFR25 e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou o <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05/blob/main/docs/Modelagem/%C3%81gil/NFR-Framework.md#:~:text=Tabela%205%3A%20Linguagem%20adequada%20ao%20usu%C3%A1rio">Cartão de especificação do NFR25</a>  e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
-        <td>Elaborou o cartão de especificação do NFR54 e colaborou na confecção do grafo SIG </td>
+        <td>Elaborou o <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05/blob/main/docs/Modelagem/%C3%81gil/NFR-Framework.md#:~:text=Tabela%204%3A%20Tempo%20de%20localiza%C3%A7%C3%A3o%20de%20funcionalidades">Cartão de especificação do NFR54</a> e colaborou na confecção do grafo SIG </td>
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
-        <td>Elaborou o cartão de especificação do NFR03 e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou o <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05/blob/main/docs/Modelagem/%C3%81gil/NFR-Framework.md#:~:text=Tabela%203%3ATecnologia%20blockchain%20para%20autentica%C3%A7%C3%A3o%20e%20disponubiliza%C3%A7%C3%A3o%20de%20documentos">Cartão de especificação do NFR03</a>  e colaborou na confecção do grafo SIG</td> 
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
-        <td>Elaborou o cartão de especificação do NFR40 e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou o <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05/blob/main/docs/Modelagem/%C3%81gil/NFR-Framework.md#:~:text=Tabela%206%3A%20Tempo%20para%20realizar%20fun%C3%A7%C3%B5es%20principais">Cartão de especificação do NFR40</a> e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
-        <td>Elaborou o cartão de especificação do NFR24 e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou o <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05/blob/main/docs/Modelagem/%C3%81gil/NFR-Framework.md#:~:text=Tabela%206%3A%20Tempo%20para%20realizar%20fun%C3%A7%C3%B5es%20principais">Cartão de especificação do NFR24</a> e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
-        <td>Elaborou o cartão de especificação do NFR26 e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou o <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05/blob/main/docs/Modelagem/%C3%81gil/NFR-Framework.md#:~:text=Tabela%207%3A%20Carregar%20informa%C3%A7%C3%B5es%20em%203%20segundos">Cartão de especificação do NFR26</a> e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
       </tr>
     </tbody>
@@ -132,28 +132,28 @@ Os frameworks foram separados por temas, esses temas foram divididos em três pa
 
 A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criação do NFR Framework.
 
-<p style="text-align: center"><b>Tabela 2</b> - Requisitos Não-Funcionais </p>
-
 | ID    | Descrição    |  
 | ------------- | ---- |
-| [RQ03](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. |
-| [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio. |
-| [RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos). |
-| [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve carregar suas informações em no máximo 3 segundos. |
-| [RQ40](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ser acessível (contraste em cores, suporte à Libras e auto-descrição). |
-| [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. |
+| [RQ03](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Autor-,RQ3,-Confiabilidade%20(R)) | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. |
+| [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Geovanna%20Alves-,RQ24,-Usabilidade%20(U)) | O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio. |
+| [RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Pedro%20Henrique-,RQ25,-Usabilidade%20(U)) | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos). |
+| [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Lara%20Souza-,RQ26,-Performance%20(P)) | O aplicativo deve carregar suas informações em no máximo 3 segundos. |
+| [RQ40](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Luisa%20de%20Souza-,RQ40,-Usabilidade%20(U)) | O aplicativo deve ser acessível (contraste em cores, suporte à Libras e auto-descrição). |
+|  [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Camila%20Silva-,RQ54,-Performance%20(P)) | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. |
+
+<p style="text-align: center"><b>Tabela 2</b> - Requisitos Não-Funcionais </p>
 
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 
 ## Cartões de Especificação
 
-<font size="3"><p style="text-align: center">Tabela 3:Tecnologia blockchain para autenticação e disponubilização de documentos </p></font>
+Na tabela 3, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Segurança, com foco na Tecnologia blockchain para autenticação e disponubilização de documentos.
 
 | Itens | Descrição |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
 | RNF | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. |
-| Rastriabilidade | [RQ03](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Rastriabilidade | [RQ03](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Autor-,RQ3,-Confiabilidade%20(R)) |
 | Classificação | Segurança (S) |
 | Descrição | O requisito define que aplicativo deve ter tecnologia blockchain para autenticação e diponibilização de documentos ,garantindo ratreabiliade e segurança dos dados. |
 | Justificativa | O uso da tecnologia blockchain garante a segurança dos dados ,reduzindo a perda de dados. |
@@ -162,30 +162,36 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 |Prioridade | Alta |
 |Conflitos | Nenhum |
 
+<font size="3"><p style="text-align: center">Tabela 3: Tecnologia blockchain para autenticação e disponubilização de documentos </p></font>
+
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/mel14-hub">Lara Souza Mota</a></font>
 
-<font size="3"><p style="text-align: center">Tabela 4: Tempo de localização de funcionalidades </p></font>
 
-| Itens | Descrição |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------- |
-| RNF | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. |
-| Rastriabilidade | [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
-| Classificação | Performance (P) |
-| Descrição | O requisito define que o aplicativo deve possibilitar ao usuário localizar qualquer funcionalidade desejada em um tempo máximo de 45 segundos, garantindo eficiência na navegação. |
-| Justificativa | Facilitar o uso e reduzir o tempo de aprendizado, melhorando a experiência do usuário e a eficiência na interação com o aplicativo. |
-| Critério de Aceitação | O sistema deve oferecer navegação intuitiva, menus organizados e mecanismos de busca eficientes que permitam ao usuário localizar rapidamente qualquer funcionalidade. |
-| Dependências | Design de interface intuitiva, estrutura hierárquica de menus, mecanismos de busca eficientes e tempo de resposta do sistema. |
-|Prioridade | Média |
-|Conflitos | Nenhum |
+Tabela 4, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Usabilidade, com foco no tempo para realizar funções principais.
 
-<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></font>
 
-<font size="3"><p style="text-align: center">Tabela 5: Linguagem adequada ao usuário </p></font>
+| Itens                 | Descrição                                                                                                                                                                                                                                             |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RNF                   | O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio.     |
+| Rastreabilidade       | [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Geovanna%20Alves-,RQ24,-Usabilidade%20(U))  |
+| Classificação         | Usabilidade (U) |
+| Descrição             | O requisito estipula que um novo usuário deve conseguir executar as tarefas essenciais da aplicação — como se cadastrar, fazer login, buscar informações e enviar dados — em um tempo máximo de 8 minutos, sem precisar de qualquer guia ou tutorial. |
+| Justificativa         | Garantir uma curva de aprendizado baixa e uma primeira experiência positiva, aumentando a taxa de adoção e a satisfação do usuário ao permitir que ele utilize as funcionalidades chave de forma rápida e intuitiva.   |
+| Critério de Aceitação | Durante os testes de usabilidade, pelo menos 95% dos usuários de teste devem ser capazes de completar o fluxo de cadastro, login, busca e envio de dados com sucesso em menos de 8 minutos, sem assistência externa.  |
+| Dependências          | Design de interface (UI) e experiência do usuário (UX) claros e intuitivos, fluxo de navegação simplificado e tempo de resposta do sistema para cada ação. |
+| Prioridade            | Alta  |
+| Conflitos             | Nenhum|
+
+<font size="3"><p style="text-align: center">Tabela 4: Tempo para realizar funções principais </p></font>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></font>
+
+A tabela 5, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Usabilidade, com foco na linguagem adequada ao usuário.
 
 | Itens | Descrição |
 | ---| --- |
 | RNF | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos). |
-| Rastreabilidade| [RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Rastreabilidade| [RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Pedro%20Henrique-,RQ25,-Usabilidade%20(U)) |
 | Classificação | Usabilidade (U) |
 | Descrição | O requisito define que o aplicativo deve usar uma linguagem clara, acessível e adequada ao perfil dos usuários, evitando termos técnicos complexos e promovendo uma comunicação eficiente em todos os textos de interface. |
 | Justificativa | Uma linguagem simples facilita a compreensão das funcionalidades e conteúdos pelo usuário, melhorando a experiência de uso, reduzindo o tempo de aprendizado, dúvidas e erros. |
@@ -194,31 +200,16 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 | Prioridade | Alta |
 | Conflitos | Nenhum |
 
+<font size="3"><p style="text-align: center">Tabela 5: Linguagem adequada ao usuário </p></font>
+
 <font size="3"><p style="text-align: center">Autor: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a></font>
 
-
-<font size="3"><p style="text-align: center">Tabela 6: Tempo para realizar funções principais </p></font>
-
-| Itens                 | Descrição                                                                                                                                                                                                                                             |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RNF                   | O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio.                                                                   |
-| Rastreabilidade       | [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                                                                                                                                           |
-| Classificação         | Usabilidade (U)                                                                                                                                                                                                                                       |
-| Descrição             | O requisito estipula que um novo usuário deve conseguir executar as tarefas essenciais da aplicação — como se cadastrar, fazer login, buscar informações e enviar dados — em um tempo máximo de 8 minutos, sem precisar de qualquer guia ou tutorial. |
-| Justificativa         | Garantir uma curva de aprendizado baixa e uma primeira experiência positiva, aumentando a taxa de adoção e a satisfação do usuário ao permitir que ele utilize as funcionalidades chave de forma rápida e intuitiva.                                  |
-| Critério de Aceitação | Durante os testes de usabilidade, pelo menos 95% dos usuários de teste devem ser capazes de completar o fluxo de cadastro, login, busca e envio de dados com sucesso em menos de 8 minutos, sem assistência externa.                                  |
-| Dependências          | Design de interface (UI) e experiência do usuário (UX) claros e intuitivos, fluxo de navegação simplificado e tempo de resposta do sistema para cada ação.                                                                                            |
-| Prioridade            | Alta                                                                                                                                                                                                                                                  |
-| Conflitos             | Nenhum                                                                                                                                                                                                                                                |
-
-<font size="3"><p style="text-align: center">Autor: <a  href="(https://github.com/pedrohpsantos)">Pedro Henrique</a></font>
-
-<font size="3"><p style="text-align: center">Tabela 7: Carregar informações em 3 segundos </p></font>
+A tabela 6, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Performace, com foco em carregar informações em 3 segundos.
 
 | Itens | Descrição |
 | ---| --- |
 | RNF | O aplicativo deve carregar suas informações em no máximo 3 segundos. |
-| Rastreabilidade| [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| Rastreabilidade| [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Lara%20Souza-,RQ26,-Performance%20(P)) |
 | Classificação | Performance (P) |
 | Descrição | O requisito define que o aplicativo deve possibilitar ao estudante carregar qualquer informação desejada em um tempo máximo de 3 segundos, garantindo eficiência na navegação. |
 | Justificativa | Facilitar o uso e reduzir o tempo de aprendizado, melhorando a experiência do usuário e a eficiência na interação com o aplicativo. |
@@ -227,7 +218,49 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 | Prioridade | Alta |
 | Conflitos | Nenhum |
 
+<font size="3"><p style="text-align: center">Tabela 6: Carregar informações em 3 segundos </p></font>
+
 <font size="3"><p style="text-align: center">Autor: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus</a></font>
+
+A tabela 7, está apresentados o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Usabilidade, com foco em acessibilidade e inclusão digital.
+
+| Itens | Descrição |
+| ---| --- |
+| RNF | O aplicativo deve ser acessível, oferecendo contraste adequado de cores, suporte à tradução em Libras e auto-descrição para pessoas com deficiência visual. |
+| Rastreabilidade| [RQ40](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Luisa%20de%20Souza-,RQ40,-Usabilidade%20(U)) |
+| Classificação | Usabilidade (U) |
+| Descrição | O requisito estabelece que o aplicativo deve seguir boas práticas de acessibilidade, garantindo contraste de cores apropriado, suporte à Libras e recursos de auto-descrição para usuários com deficiência visual. |
+| Justificativa | Promover a inclusão digital e assegurar o cumprimento das normas de acessibilidade, conforme a Lei Brasileira de Inclusão (Lei nº 13.146/2015) e as diretrizes da WCAG 2.1. |
+| Critério de Aceitação | O sistema deve apresentar contraste visual adequado, suporte a tradução em Libras e recursos de leitura ou auto-descrição para pessoas com deficiência visual.|
+| Dependências | Design de interface acessível, recursos de tradução em Libras, compatibilidade com tecnologias assistivas e testes de acessibilidade.|
+| Prioridade | Alta |
+| Conflitos | Nenhum |
+
+<font size="3"><p style="text-align: center">Tabela 7: Acessibilidade e inclusão digital </p></font>
+
+<font size="3"><p style="text-align: center">Autor: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a></font>
+
+A tabela 8, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Performance, com foco no tempo de localização de funcionalidades.
+
+| Itens | Descrição |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------- |
+| RNF | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. |
+| Rastriabilidade | [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Camila%20Silva-,RQ54,-Performance%20(P)) |
+| Classificação | Performance (P) |
+| Descrição | O requisito define que o aplicativo deve possibilitar ao usuário localizar qualquer funcionalidade desejada em um tempo máximo de 45 segundos, garantindo eficiência na navegação. |
+| Justificativa | Facilitar o uso e reduzir o tempo de aprendizado, melhorando a experiência do usuário e a eficiência na interação com o aplicativo. |
+| Critério de Aceitação | O sistema deve oferecer navegação intuitiva, menus organizados e mecanismos de busca eficientes que permitam ao usuário localizar rapidamente qualquer funcionalidade. |
+| Dependências | Design de interface intuitiva, estrutura hierárquica de menus, mecanismos de busca eficientes e tempo de resposta do sistema. |
+|Prioridade | Média |
+|Conflitos | Nenhum |
+
+<font size="3"><p style="text-align: center">Tabela 8: Tempo de localização de funcionalidades </p></font>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></font>
+
+
+
+
 
 ## NFR 01 - Usabilidade
 
@@ -254,9 +287,9 @@ Na Tabela 8, estão listados os RNF presentes no NFR Famework de Usabilidade :
 
 | RNF (Fonte) | Descrição | Classificação |
 |-------------|---------|-------|
-| [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio. | Usabilidade | 
-| [RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos). | Usabilidade | 
-| [RQ40](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ser acessível (contraste em cores, suporte à Libras e auto-descrição). | Usabilidade | 
+| [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Geovanna%20Alves-,RQ24,-Usabilidade%20(U)) | O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio. | Usabilidade | 
+| [RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Pedro%20Henrique-,RQ25,-Usabilidade%20(U)) | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos). | Usabilidade | 
+| [RQ40](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Luisa%20de%20Souza-,RQ40,-Usabilidade%20(U)) | O aplicativo deve ser acessível (contraste em cores, suporte à Libras e auto-descrição). | Usabilidade | 
 
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
@@ -284,8 +317,8 @@ Na Tabela 9, estão listados os RNF presentes no NFR Famework de Usabilidade :
 
 | RNF (Fonte) | Descrição | Classificação |
 |-------------|---------|-------|
-| [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve carregar suas informações em no máximo 3 segundos. | Performance | 
-| [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. | Performance | 
+| [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Lara%20Souza-,RQ26,-Performance%20(P)) | O aplicativo deve carregar suas informações em no máximo 3 segundos. | Performance | 
+| [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Camila%20Silva-,RQ54,-Performance%20(P)) | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. | Performance | 
 
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
@@ -313,7 +346,7 @@ Na Tabela 10, estão listados os RNF presentes no NFR Famework de Usabilidade :
 
 | RNF (Fonte) | Descrição | Classificação |
 |-------------|---------|-------|
-| [RQ03](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. | Segurança | 
+|  [RQ03](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Autor-,RQ3,-Confiabilidade%20(R)) | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. | Segurança | 
 
 Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
@@ -386,5 +419,8 @@ A seguir temos a tabela 11, onde indica todos os participantes da sessão NFR Fr
 | :----: | :--------: | :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
 |  1.0   | 18/10/2025 |  Documentação dos primeiros NFRs  | [Luisa de Souza](https://github.com/Luisa12ll), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) |   [Luisa de Souza](https://github.com/Luisa12ll)   |
 | 1.1   | 20/10/2025 | Atualização da tabela| [Pedro Henrique](https://github.com/pedrohpsantos)| [Lara Souza](https://github.com/mel14-hub) |
+
+
+
 
 
