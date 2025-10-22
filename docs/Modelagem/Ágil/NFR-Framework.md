@@ -266,11 +266,10 @@ A tabela 8, está apresentado o cartão de especificação do Requisito Não Fun
 
 Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabela 8:
 
-<font size="3"><p style="text-align: center"><b>Figura 3</b> - Usabilidade</p></font>
+Figura 3 - Usabilidade
 
 ![Usabilidade](../../img/usabilidade.png)
 
-</figure>
 
 ### Análise confiabilidade 
 Figura 4 - Análise diagrama - Usabilidade
@@ -297,11 +296,10 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 Os Requisitos utilizados para a confecção da Figura 4 estão presentes na Tabela 9:
 
-<font size="3"><p style="text-align: center"><b>Figura 5</b> - Performance</p></font>
+igura 5 - Performance
 
 ![Performance](../../img/performance.png)
 
-</figure>
 
 ### Análise confiabilidade 
 Figura 5 - Análise diagrama - Perfomance
@@ -326,11 +324,10 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 Os Requisitos utilizados para a confecção da Figura 6 estão presentes na Tabela 10:
 
-<font size="3"><p style="text-align: center"><b>Figura 5</b> - Segurança</p></font>
+Figura 5 - Segurança
 
 ![Segurança](../../img/seguranca.png)
 
-</figure>
 
 ### Análise confiabilidade 
 Figura 6 - Análise diagrama - Segurança
