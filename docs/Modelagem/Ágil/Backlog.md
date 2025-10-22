@@ -204,6 +204,50 @@ A seguir temos a tabela 10, onde indica todos os participantes da sessão backlo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zBxrQMN5DXI?si=sFWeXT1z7AZBj2oA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Validação - Backlog
+
+### Participantes 
+A seguir temos a tabela 11, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O estudante corresponde ao perfil de estudante 2
+
+<font size="3"><p style="text-align: center">Tabela 11: Validação Backlog</p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/Yanmatheus0812)">Yan Matheus</a></td>
+        <td>21/10/2025</td>
+        <td>17:00</td>
+        <td>Faculdade de Ciência e Tecnologia em Engenharias - UnB Campus Gama</td>
+         </tr>
+      <tr>
+       <tr>
+        <td>estudante</td>
+        <td>Arthur Evangelista</td>
+         <td>21/10/2025</td>
+        <td>17:00</td>
+        <td>Faculdade de Ciência e Tecnologia em Engenharias - UnB Campus Gama</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
+
+### Video 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-IMxRHtBVM?si=Q3nI-FOttbwGbupE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Bibliografia
 
