@@ -8,7 +8,7 @@ Esse documento propõe trazer uma descrição detalhada e critérios de aceitaç
 
 ## Participantes
 
-A seguir temos a tabela 1, onde indica todos os participantes do caso de uso, o horário e local da aplicação da técnica.
+A seguir temos a tabela 1, onde indica todos os participantes das histórias de usuário, o horário e local da aplicação da técnica.
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes histórias de usuário</p></font>
 

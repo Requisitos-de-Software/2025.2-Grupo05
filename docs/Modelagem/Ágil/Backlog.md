@@ -74,7 +74,7 @@ Definido um épico, são geradas _features_, que são descrições simplificadas
 
 ### Histórias de Usuário
 
-Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](https://www.google.com/search?q=../%C3%81gil/HistoriaUsuario.md). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para \_\_\_."
+Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para \_\_\_."
 
 ## Product Backlog
 A tabela 2 mostra o product backlog
