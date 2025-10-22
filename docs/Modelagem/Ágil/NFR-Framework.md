@@ -66,7 +66,6 @@ Para a compreensão do SIG, é inexorável discernir a definição de NFR Softgo
 
 
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Tipos de Softgoal</p></font>
-<figure markdown class="usecaseElement">
 
 ![TIPOS](../img/tipos.png)
 
@@ -89,8 +88,6 @@ As decomposições podem ocorrer em todos os níveis de abstração: Softgoals d
 
 
 <font size="3"><p style="text-align: center"><b>Figura 2</b> - Tipos de Decomposição</p></font>
-
-<figure markdown class="usecaseElement">
 
 ![DECOMPOSIÇÃO](../../img/decompL.png)
 
