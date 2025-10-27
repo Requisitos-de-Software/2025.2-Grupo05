@@ -311,7 +311,7 @@ Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 | Implementação | Implementado |
 | Evidência|[imagem do aplicativo](https://ibb.co/8DSHbqFw)|
 
-<p style="font-size: 14px;">Tabela 25 - EF29 - Cartão do Requisito Funcional 29</p>
+<p style="font-size: 14px;">Tabela 26 - EF30 - Cartão do Requisito Funcional 30</p>
 Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 
 
@@ -326,7 +326,7 @@ Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 | Implementação | Implementado |
 | Evidência|[imagem do aplicativo](https://ibb.co/5hwWHV7g)|
 
-<p style="font-size: 14px;">Tabela 26 - EF31 - Cartão do Requisito Funcional 31</p>
+<p style="font-size: 14px;">Tabela 27- EF31 - Cartão do Requisito Funcional 31</p>
 Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 
 ### EF32 - Rastrebilidade Forward From do requisito RF32
@@ -340,7 +340,7 @@ Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 | Implementação | Não Implementado |
 | Evidência|Nenhuma|
 
-<p style="font-size: 14px;">Tabela 27 - EF32 - Cartão do Requisito Funcional 32</p>
+<p style="font-size: 14px;">Tabela 28 - EF32 - Cartão do Requisito Funcional 32</p>
 Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 
 ### EF33 - Rastrebilidade Forward From do requisito RF33
@@ -354,7 +354,7 @@ Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 | Implementação |Não Implementado |
 | Evidência|Nenhuma|
 
-<p style="font-size: 14px;">Tabela 27 - EF33 - Cartão do Requisito Funcional 33</p>
+<p style="font-size: 14px;">Tabela 29 - EF33 - Cartão do Requisito Funcional 33</p>
 Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 
 ### EF34 - Rastrebilidade Forward From do requisito RF34
@@ -368,7 +368,7 @@ Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 | Implementação | Não Implementado |
 | Evidência|Nenhuma|
 
-<p style="font-size: 14px;">Tabela 28 - EF34 - Cartão do Requisito Funcional 34</p>
+<p style="font-size: 14px;">Tabela 30 - EF34 - Cartão do Requisito Funcional 34</p>
 Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 
 
@@ -384,7 +384,7 @@ Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 | Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Entrevista%201-,RQ24,-O%20usu%C3%A1rio%20deve)<br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out]()<br>Satisfação - O requisito recebeu $12,25 na técnica [$100 dólares](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=13%2C50-,RQ24,-O%20usu%C3%A1rio%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale]() <br>Satisfação - O requisito não funcional é satisfeito pelo NFR framework[Cartão de Especificação 2](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/NFR-Framework/#:~:text=Rastreabilidade-,RQ24,-Classifica%C3%A7%C3%A3o) <br> Alocação - O requisito não funcional foi alocado na categoria de Usabilidade na [Especificação Suplementar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Geovanna%20Alves-,RQ24,-Usabilidade%20(U)). <br> 
 | Implementação | Implementado |
 | Evidência| Nenhuma |
-<p style="font-size: 14px;">Tabela 19 - EF02 - Cartão do Requisito Não Funcional 24</p>
+<p style="font-size: 14px;">Tabela 31 - EF02 - Cartão do Requisito Não Funcional 24</p>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
 ### EF03- Rastrebilidade Forward From do requisito RNF25
@@ -397,7 +397,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 | Implementação | Implementado |
 | Evidência| Nenhuma |
 
-<p style="font-size: 14px;">Tabela 28 - EF03 - Cartão do Requisito Funcional 25</p>
+<p style="font-size: 14px;">Tabela 32 - EF03 - Cartão do Requisito Funcional 25</p>
 Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 
 
