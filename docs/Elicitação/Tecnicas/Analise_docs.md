@@ -57,7 +57,7 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 | ADD05         | O aplicativo deve permitir aos estudantes do Brasil unificar o acesso a suas informações acadêmicas, como dados de cursos, disciplinas e progresso.               | RF       | sim | 1.0    | VAZQUES; SIMÕES, 2016 | [link]() |
 | ADD06         |  O aplicativo deve permitir o acompanhamento do programa Pé-de-Meia.       | RF       | Sim |  1.0    | VAZQUES; SIMÕES, 2016 | [link]() |
 | ADD07         |   O aplicativo não deve ter informações desatualizadas ou incorretas, que levem ao bloqueio do programa Pé-de-Meia.| RR       | Não | 1.0    | Google, 2025 | [link](https://i.postimg.cc/59vNG3rf/doc7.png) |
-| ADD8         | A página do aplicativo pode não refletir a situação atualizada do estudante.              | RR        | Sim | 1.0    | Google, 2025 | [link](https://i.postimg.cc/QN5xPbyv/doc8.png) |
+| ADD08         |  O aplicativo deve apresentar os dados do estudante conforme a ultima atualização recebida do sistema acadêmico, podendo haver divergência em relação ao status final.           | RR        | Sim | 1.0    | Google, 2025 | [link](https://i.postimg.cc/QN5xPbyv/doc8.png) |
 | ADD09 | O aplicativo deve possibilitar a visualização de faltas do estudante | RF | Sim | 1.0 | Google, 2025 | [link]() |
 | ADD010 | O aplicativo deve apresentar atualizações referente ao pagamento do pé de meia disponível em até um mês. | RF | Não | 1.0 | VAZQUES; SIMÕES, 2016 | [link]() |
 | ADD011 | O aplicativo deve possibilitar a visualização de documentos digitais estudantis autenticados, como, diplomas e histórico escolar. | RF | Não | 1.0 |  VAZQUES; SIMÕES, 2016 | [link]() |
