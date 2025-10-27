@@ -116,7 +116,7 @@ Fonte:  <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="
 | ------------- | ---- |
 | [RQ14](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ14,-O%20aplicativo%20deve) | O aplicativo deve possibilitar que os usuários recebam, através de um canal de comunicação, novidades do Governo Federal voltadas à educação. |
 | Categoria | Desenvolvimento |
-| Elementos |  [Lexico 7](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L07%3A%20Notificar%20eventos,-O%20L%C3%A9xico%20presente) e [História de Usuario 9](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Geovanna%20Alves-,HU09%20%2D%20Novidades%20e%20programas%20do%20Governo%20Federal,-A%20tabela%2010)  |
+| Elementos |  [Lexico 7](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L07%3A%20Notificar%20eventos,-O%20L%C3%A9xico%20presente),  [Lexico 17](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L17%3A%20Comunica%C3%A7%C3%A3o%20e%20Intera%C3%A7%C3%A3o,-O%20lexico%20presente) e [História de Usuario 9](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Geovanna%20Alves-,HU09%20%2D%20Novidades%20e%20programas%20do%20Governo%20Federal,-A%20tabela%2010)  |
 | Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ14,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ14,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $1 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=1-,RQ14,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=M%C3%A9dia-,RQ14,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 6 - Notificar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=HU14%20%2D%20Avalia%C3%A7%C3%B5es%20e%20Trabalhos%20da%20Disciplina)|
 | Implementação | Implementado |
 | Evidência|  [Imagem retirada diretamente do aplicativo.](https://ibb.co/LhnvDD6Q) |
@@ -124,8 +124,125 @@ Fonte:  <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="
 <p style="font-size: 14px;">Tabela 10 - EF14 - Cartão do Requisito Funcional 14</p>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
+### EF15 - Rastrebilidade Forward From do requisito RF15
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ15](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ15,-O%20aplicativo%20deve) | O aplicativo deve possibilitar acessar rapidamente serviços estudantis. |
+| Categoria | Desenvolvimento |
+| Elementos |  [Lexico 8](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Yan%20Matheus.-,L08%3A%20Acessar%20p%C3%A1ginas,-O%20L%C3%A9xico%20presente) e [História de Usuario 10](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu10-programas-estudantis-do-governo-federal:~:text=Fonte%3A%20Yan%20Matheus-,HU10%20%2D%20Programas%20estudantis%20do%20Governo%20Federal,-A%20tabela%2011)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ15,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ15,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $0 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=0-,RQ15,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Média na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ15,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 6 - Notificar](http://127.0.0.1:8000/Modelagem/%C3%81gil/Backlog/#:~:text=HU10%20%2D%20Acessar%20os%20servi%C3%A7os%20estudantis%20(como%20FIES%2C%20ENEM%2C%20ProUni%2C%20etc.)%20pelo%20aplicativo.)|
+| Implementação | Implementado |
+| Evidência|  [Imagem retirada diretamente do aplicativo.](https://ibb.co/v4s215LH) |
+
+<p style="font-size: 14px;">Tabela 11 - EF15 - Cartão do Requisito Funcional 15</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
+
+### EF16 - Rastrebilidade Forward From do requisito RF16
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ16](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ15,-O%20aplicativo%20deve) | O aplicativo deve possibilitar acessar rapidamente serviços estudantis. |
+| Elementos |  [Lexico 14](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L14%3A%20Infraestrutura%20Institucional,-O%20lexico%20presente) e [História de Usuario 11](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Geovanna%20Alves-,HU11%20%2D%20Integra%C3%A7%C3%A3o%20com%20a%20Institui%C3%A7%C3%A3o%20de%20Ensino,-A%20tabela%2012)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ16,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ16,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $0 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=0-,RQ16,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Média na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=M%C3%A9dia-,RQ16,-O%20aplicativo%20n%C3%A3o) <br>Agregação - O requisito é classificado no [Épico 2 - Unificar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=HU11%20%2D%20Visualizar%20informa%C3%A7%C3%B5es%20acad%C3%AAmicas%20e%20pessoais%20diretamente%20pelo%20aplicativo.)|
+| Implementação | Implementado |
+| Evidência|  [Imagem retirada diretamente do aplicativo.](https://ibb.co/ksYn4ft1) |
+
+<p style="font-size: 14px;">Tabela 12 - EF16 - Cartão do Requisito Funcional 16</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
+
+### EF17 - Rastrebilidade Forward From do requisito RF17
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ17,-O%20aplicativo%20deve) | O aplicativo deve permitir a visualização da disciplina e o professor que ministra. |
+| Elementos | [Cenário 2](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=ID-,RQ17,-Objetivo), [Lexico 3](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Yan%20Matheus.-,L03%3A%20Consultar%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente), [Léxico 12](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L12%3A%20Professor,-O%20lexico%20presente), [Léxico 13](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L13%3A%20Dados%20Acad%C3%AAmicos%20e%20Avalia%C3%A7%C3%B5es,-O%20lexico%20presente), [Caso de uso 2](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Casos-de-uso/#:~:text=e%20Geovanna%20Alves-,UC02,-Informa%C3%A7%C3%B5es) e [História de Usuario 12](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Camila%20Silva-,HU12%20%2D%20Visualizar%20disciplina%20e%20professor,-A%20tabela%2013)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ17,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ17,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $8 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=8%2C50-,RQ17,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=M%C3%A9dia-,RQ17,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 1 - Acompanhar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=HU12%20%2DVisualizar%20disciplina%20e%20professor)|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 13 - EF17 - Cartão do Requisito Funcional 17</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
+
+### EF18 - Rastrebilidade Forward From do requisito RF18
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ18](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ18,-O%20aplicativo%20deve) | O aplicativo deve permitir a visualização do horário e sala da disciplina. |
+| Elementos | [Cenário 3](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=ID-,RQ18,-Objetivo), [Lexico 3](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Yan%20Matheus.-,L03%3A%20Consultar%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente), [Léxico 13](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L13%3A%20Dados%20Acad%C3%AAmicos%20e%20Avalia%C3%A7%C3%B5es,-O%20lexico%20presente), [Caso de uso 2](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Casos-de-uso/#:~:text=e%20Geovanna%20Alves-,UC02,-Informa%C3%A7%C3%B5es) e [História de Usuario 13](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Geovanna%20Alves-,HU13%20%2D%20Hor%C3%A1rio%20e%20sala%20de%20aula,-A%20tabela%2014)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=1%2C%20Brainstorming-,RQ18,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=1%2C%20Brainstorming-,RQ18,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $2 na técnica [$100 dólares](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=2%2C50-,RQ18,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ18,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 1 - Acompanhar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=HU13%20%2D%20Visualizar%20hor%C3%A1rio%20e%20sala%20de%20aula)|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 14 - EF18 - Cartão do Requisito Funcional 18</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
+
+### EF19 - Rastrebilidade Forward From do requisito RF19
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ19](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ19,-O%20aplicativo%20deve) | O aplicativo deve permitir a visualização das informações e trabalhos da disciplina (data, peso e tipo de avaliação). |
+| Elementos | [Cenário 4](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=ID-,RQ19,-Objetivo), [Lexico 3](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Yan%20Matheus.-,L03%3A%20Consultar%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente), [Léxico 13](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L13%3A%20Dados%20Acad%C3%AAmicos%20e%20Avalia%C3%A7%C3%B5es,-O%20lexico%20presente), [Caso de uso 2](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Casos-de-uso/#:~:text=e%20Geovanna%20Alves-,UC02,-Informa%C3%A7%C3%B5es) e [História de Usuario 14](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Geovanna%20Alves-,HU14%20%2D%20Avalia%C3%A7%C3%B5es%20e%20Trabalhos%20da%20Disciplina,-A%20tabela%2015)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=1%2C%20Brainstorming-,RQ19,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=1%2C%20Brainstorming-,RQ19,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $0 na técnica [$100 dólares](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=0-,RQ19,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Média na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ19,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 6 - Notificar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=HU14%20%2D%20Avalia%C3%A7%C3%B5es%20e%20Trabalhos%20da%20Disciplina)|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 15 - EF19 - Cartão do Requisito Funcional 19</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
+
+### EF20 - Rastrebilidade Forward From do requisito RF20
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ20](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ20,-O%20aplicativo%20deve) | O aplicativo deve permitir a visualização das notas das avaliações e trabalhos da disciplina. |
+| Elementos | [Cenário 5](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=ID-,RQ20,-Objetivo), [Lexico 3](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Yan%20Matheus.-,L03%3A%20Consultar%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente), [Léxico 13](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L13%3A%20Dados%20Acad%C3%AAmicos%20e%20Avalia%C3%A7%C3%B5es,-O%20lexico%20presente), [Caso de uso 2](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Casos-de-uso/#:~:text=e%20Geovanna%20Alves-,UC02,-Informa%C3%A7%C3%B5es) e [História de Usuario 15](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Geovanna%20Alves-,HU15%3A%20Visualiza%C3%A7%C3%A3o%20de%20Notas,-A%20tabela%2016)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ20,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ20,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $0 na técnica [$100 dólares](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=0-,RQ20,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ20,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 6 - Notificar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=HU15%20%2D%20Visualiza%C3%A7%C3%A3o%20de%20notas)|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 16 - EF20 - Cartão do Requisito Funcional 20</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
+
+### EF21 - Rastrebilidade Forward From do requisito RF21
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ21](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ21,-O%20aplicativo%20deve) | O aplicativo deve notificar avaliações com uma semana antes e dois dias de antecedência. |
+| Elementos |  [Lexico 7](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L07%3A%20Notificar%20eventos,-O%20L%C3%A9xico%20presente), [Léxico 18](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L18%3A%20Calend%C3%A1rio%20e%20Eventos,-O%20lexico%20presente) e [História de Usuario 16](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Pedro%20Henrique-,HU16%3A%20Notifica%C3%A7%C3%A3o%20de%20Avalia%C3%A7%C3%B5es,-A%20tabela%2017)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ21,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ21,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $08na técnica [$100 dólares](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=8-,RQ21,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Média na técnica [Three-Level Scale](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ21,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 6 - Notificar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=HU16%20%2D%20Notifica%C3%A7%C3%A3o%20de%20Avalia%C3%A7%C3%B5es)|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 17 - EF21 - Cartão do Requisito Funcional 21</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
+
+### EF22 - Rastrebilidade Forward From do requisito RF22
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ22](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ22,-O%20aplicativo%20deve) | O aplicativo deve notificar faltas após serem lançadas no aplicativo. |
+| Elementos |  [Lexico 7](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L07%3A%20Notificar%20eventos,-O%20L%C3%A9xico%20presente) e [História de Usuario 17](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Pedro%20Henrique-,HU17%3A%20Notifica%C3%A7%C3%A3o%20de%20Faltas,-A%20tabela%2018)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Should na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ22,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ22,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $17,50 na técnica [$100 dólares](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=18-,RQ22,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Média na técnica [Three-Level Scale](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=M%C3%A9dia-,RQ22,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 6 - Notificar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=HU17%20%2D%20Notifica%C3%A7%C3%A3o%20de%20Faltas)|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 18 - EF22 - Cartão do Requisito Funcional 22</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
 ## Rastreabilidade Forward From - Requisitos Não Funcionais
+
+### EF02 - Rastrebilidade Forward From do requisito RNF24
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%201-,RQ24,-O%20usu%C3%A1rio%20deve) | O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio. |
+| Elementos | -  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Entrevista%201-,RQ24,-O%20usu%C3%A1rio%20deve)<br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out]()<br>Satisfação - O requisito recebeu $12,25 na técnica [$100 dólares](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=13%2C50-,RQ24,-O%20usu%C3%A1rio%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale]() <br>Satisfação - O requisito não funcional é satisfeito pelo NFR framework[Cartão de Especificação 2](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/NFR-Framework/#:~:text=Rastreabilidade-,RQ24,-Classifica%C3%A7%C3%A3o) <br> Alocação - O requisito não funcional foi alocado na categoria de Usabilidade na [Especificação Suplementar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Geovanna%20Alves-,RQ24,-Usabilidade%20(U)). <br> 
+| Implementação | Implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 19 - EF02 - Cartão do Requisito Não Funcional 24</p>
+Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
 
 
