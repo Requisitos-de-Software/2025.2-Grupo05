@@ -140,7 +140,7 @@ Autor: [Camila Silva](https://github.com/CamilaSilvaC)
 | E08         |  O aplicativo deve notificar notas e avaliações com dois dias e uma semana antes.       | RF       | Não |  1.0    | Entrevista 1 |
 | E09         |  O aplicativo deve notificar faltas após serem lançadas no aplicativo.       | RF       | Não |  1.0    | Entrevista 1 |
 | E010         |   O aplicativo deve notificar informações sobre o benefício pé de meia sobre parcelas e valores.| RF       | Não | 1.0    | Entrevista 1 |
-| E011         | O aplicativo deve ser fácil de usar e aprender suas funcionalidades.              | RNF        | Sim | 1.0    | Entrevista 1 |
+| E011         |O usuário deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio.            | RNF        | Sim | 1.0    | Entrevista 1 |
 | E012 | OO aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos) | RNF | Sim | 1.0 | Entrevista 1 | 
 | E013 | O aplicativo deve carregar suas informações em no máximo 3 segundos. | RNF | Não | 1.0 | Entrevista 1 | 
 | E014 | O aplicativo deve possibilitar o usuário emitir a declaração de vínculo da instituição de ensino. | RF | Não | 1.0 | Entrevista 2 | 
