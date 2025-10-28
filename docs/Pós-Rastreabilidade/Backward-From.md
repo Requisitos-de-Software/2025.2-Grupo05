@@ -485,6 +485,157 @@ Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
 <p style="font-size: 14px;">Tabela 35 - EB43 - Cartão do Requisito Funcional 43</p>
 Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
 
+## EB44 - Rastreabilidade Backward From do requisito RF44
+
+| Itens                                                                                                                                                           | Descrição                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [RQ44](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%203-,RQ44,-O%20aplicativo%20deve) | O aplicativo deve possibilitar o usuário conseguir editar suas informações bancárias pelo gov. |
+| Categoria                                                                                                                                                       | Desenvolvimento                                                                                |
+| Origem                                                                                                                                                          | Entrevista 3                                                                                   |
+| Elos Backward-From                                                                                                                                              | Agregação - O requisito originou-se da Técnica de Entrevista E003 <br>                         |
+| Implementação                                                                                                                                                   | Não implementado                                                                               |
+| Evidência                                                                                                                                                       | Nenhuma                                                                                        |
+
+<p style="font-size: 14px">Tabela 36 - EB44 - Cartão do Requisito Funcional 44</p>
+
+**Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
+
+---
+
+## EB45 - Rastreabilidade Backward From do requisito RF45
+
+| Itens                                                                                                                                                           | Descrição                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [RQ45](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%203-,RQ45,-O%20aplicativo%20deve) | O aplicativo deve possuir uma agenda para organização pessoal do usuário através de atividades. |
+| Categoria                                                                                                                                                       | Desenvolvimento                                                                                 |
+| Origem                                                                                                                                                          | Questionário 32                                                                                 |
+| Elos Backward-From                                                                                                                                              | Agregação - O requisito originou-se da Técnica de Questionário Q32 <br>                         |
+| Implementação                                                                                                                                                   | Não implementado                                                                                |
+| Evidência                                                                                                                                                       | Nenhuma                                                                                         |
+
+<p style="font-size: 14px">Tabela 37 - EB45 - Cartão do Requisito Funcional 45</p>
+
+**Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
+
+---
+
+## EB46 - Rastreabilidade Backward From do requisito RF46
+
+| Itens                                                                                                                                                          | Descrição                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [RQ46](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ46,-A%20agenda%20deve) | A agenda deve possuir a opção do usuário inserir atividades.            |
+| Categoria                                                                                                                                                      | Desenvolvimento                                                         |
+| Origem                                                                                                                                                         | Questionário 33                                                         |
+| Elos Backward-From                                                                                                                                             | Agregação - O requisito originou-se da Técnica de Questionário Q33 <br> |
+| Implementação                                                                                                                                                  | Não implementado                                                        |
+| Evidência                                                                                                                                                      | Nenhuma                                                                 |
+
+<p style="font-size: 14px">Tabela 38 - EB46 - Cartão do Requisito Funcional 46</p>
+
+**Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
+
+---
+
+## EB47 - Rastreabilidade Backward From do requisito RF47
+
+| Itens                                                                                                                                                          | Descrição                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [RQ47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ47,-A%20agenda%20deve) | A agenda deve possuir a opção do usuário editar atividades.             |
+| Categoria                                                                                                                                                      | Desenvolvimento                                                         |
+| Origem                                                                                                                                                         | Questionário 34                                                         |
+| Elos Backward-From                                                                                                                                             | Agregação - O requisito originou-se da Técnica de Questionário Q34 <br> |
+| Implementação                                                                                                                                                  | Não implementado                                                        |
+| Evidência                                                                                                                                                      | Nenhuma                                                                 |
+
+<p style="font-size: 14px">Tabela 39 - EB47 - Cartão do Requisito Funcional 47</p>
+
+**Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
+
+---
+
+## EB48 - Rastreabilidade Backward From do requisito RF48
+
+| Itens                                                                                                                                                          | Descrição                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [RQ48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ48,-A%20agenda%20deve) | A agenda deve possuir a opção do usuário excluir atividades.            |
+| Categoria                                                                                                                                                      | Desenvolvimento                                                         |
+| Origem                                                                                                                                                         | Questionário 35                                                         |
+| Elos Backward-From                                                                                                                                             | Agregação - O requisito originou-se da Técnica de Questionário Q35 <br> |
+| Implementação                                                                                                                                                  | Não implementado                                                        |
+| Evidência                                                                                                                                                      | Nenhuma                                                                 |
+
+<p style="font-size: 14px">Tabela 40 - EB48 - Cartão do Requisito Funcional 48</p>
+
+**Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
+
+---
+
+## EB49 - Rastreabilidade Backward From do requisito RF49
+
+| Itens                                                                                                                                                          | Descrição                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [RQ49](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ49,-A%20agenda%20deve) | A agenda deve notificar o usuário sobre atividades inseridas com um dia de antecedência. |
+| Categoria                                                                                                                                                      | Desenvolvimento                                                                          |
+| Origem                                                                                                                                                         | Questionário                                                                             |
+| Elos Backward-From                                                                                                                                             | Agregação - O requisito originou-se da Técnica de Questionário <br>                      |
+| Implementação                                                                                                                                                  | Não implementado                                                                         |
+| Evidência                                                                                                                                                      | Nenhuma                                                                                  |
+
+<p style="font-size: 14px">Tabela 41 - EB49 - Cartão do Requisito Funcional 49</p>
+
+**Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
+
+---
+
+## EB50 - Rastreabilidade Backward From do requisito RF50
+
+| Itens                                                                                                                                                          | Descrição                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [RQ50](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ50,-A%20agenda%20deve) | A agenda deve permitir o usuário inserir um horário e data na criação de uma atividade. |
+| Categoria                                                                                                                                                      | Desenvolvimento                                                                         |
+| Origem                                                                                                                                                         | Questionário 37                                                                         |
+| Elos Backward-From                                                                                                                                             | Agregação - O requisito originou-se da Técnica de Questionário Q37 <br>                 |
+| Implementação                                                                                                                                                  | Não implementado                                                                        |
+| Evidência                                                                                                                                                      | Nenhuma                                                                                 |
+
+<p style="font-size: 14px">Tabela 42 - EB50 - Cartão do Requisito Funcional 50</p>
+
+**Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
+
+---
+
+## EB51 - Rastreabilidade Backward From do requisito RF51
+
+| Itens                                                                                                                                                          | Descrição                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [RQ51](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ51,-A%20agenda%20deve) | A agenda deve permitir o usuário avaliar suas atividades com grau de importância. |
+| Categoria                                                                                                                                                      | Desenvolvimento                                                                   |
+| Origem                                                                                                                                                         | Questionário 38                                                                   |
+| Elos Backward-From                                                                                                                                             | Agregação - O requisito originou-se da Técnica de Questionário Q38 <br>           |
+| Implementação                                                                                                                                                  | Não implementado                                                                  |
+| Evidência                                                                                                                                                      | Nenhuma                                                                           |
+
+<p style="font-size: 14px">Tabela 43 - EB51 - Cartão do Requisito Funcional 51</p>
+
+**Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
+
+---
+
+## EB52 - Rastreabilidade Backward From do requisito RF52
+
+| Itens                                                                                                                                                              | Descrição                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| [RQ52](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ52,-O%20aplicativo%20deve) | O aplicativo deve oferecer integração na agenda entre outros aplicativos de organização pessoal. |
+| Categoria                                                                                                                                                          | Desenvolvimento                                                                                  |
+| Origem                                                                                                                                                             | Questionário 39                                                                                  |
+| Elos Backward-From                                                                                                                                                 | Agregação - O requisito originou-se da Técnica de Questionário Q39 <br>                          |
+| Implementação                                                                                                                                                      | Não implementado                                                                                 |
+| Evidência                                                                                                                                                          | Nenhuma                                                                                          |
+
+<p style="font-size: 14px">Tabela 44 - EB52 - Cartão do Requisito Funcional 52</p>
+
+**Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
+
 ### EB53 - Rastrebilidade Backward From do requisito RF53
 
 | Itens                                                                                                                                                              | Descrição                                                                                                                                                                                                                               |
@@ -626,6 +777,21 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
 <p style="font-size: 14px;">Tabela 19 - EB04 - Cartão do Requisito Não Funcional 26</p>
 Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
+
+## EB40 - Rastreabilidade Backward From do requisito RNF40
+
+| Itens                                                                                                                                                                                  | Descrição                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [RNF40](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ40,-O%20aplicativo%20deve) | O aplicativo deve ser acessível (contraste em cores, suporte Libras e auto-descrição).                                                                                                                           |
+| Categoria                                                                                                                                                                              | Desenvolvimento                                                                                                                                                                                                  |
+| Origem                                                                                                                                                                                 | Entrevista 27, Questionário 31 e Brainstorming 22                                                                                                                                                                |
+| Elos Backward-From                                                                                                                                                                     | Agregação - O requisito originou-se da Técnica de Entrevista E027 <br> Agregação - O requisito originou-se da Técnica de Questionário Q31 <br> Agregação - O requisito originou-se da Técnica de Brainstorm B022 |
+| Implementação                                                                                                                                                                          | Não implementado                                                                                                                                                                                                 |
+| Evidência                                                                                                                                                                              | Nenhuma                                                                                                                                                                                                          |
+
+<p style="font-size: 14px">Tabela 35 - EB40 - Cartão do Requisito Não Funcional 40</p>
+
+**Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
 
 ### EB05 - Rastrebilidade Backward From do requisito RF61
 
