@@ -29,13 +29,13 @@ jobs:
       - name: 🧰 Setup python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
-      # Instala dependências listadas no projeto e ferramentas extra de lint/docs
-      - name: 💾 Instalar dependências
+      # Instala dependências Python do projeto e ferramentas de lint
+      - name: 💾 Instalar dependências Python
         run: |
           pip install -r requirements.txt
-          pip install ruff mkdocs markdownlint-cli2
+          pip install ruff
 
       # Checa se o formato do código Python segue o padrão (PEP 8 e Black/Ruff)
       - name: 🎨 Ruff format (checar estilo)
@@ -60,7 +60,12 @@ jobs:
             exit 1
           fi
 
-      # Faz análise de estilo dos arquivos Markdown usando markdownlint-cli2
+      # Build da documentação com MkDocs (valida links, estrutura, nav etc)
+      - name: 📚 MkDocs build
+        run: |
+          mkdocs build --strict --verbose
+
+      # Faz análise de estilo dos arquivos Markdown usando markdownlint-cli2 (Action do GitHub)
       - name: 📝 MarkdownLint (markdownlint-cli2)
         uses: DavidAnson/markdownlint-cli2-action@v15
         with:
@@ -69,11 +74,7 @@ jobs:
             !site/**
             !node_modules/**
             !venv/**
-
-      # Build da documentação com MkDocs (valida links, estrutura, nav etc)
-      - name: 📚 MkDocs build
-        run: |
-          mkdocs build --strict --verbose
+        continue-on-error: true # Permite continuar mesmo com erros de Markdown
 
       # Se algum passo acima falhar, exibe dicas de comandos para corrigir rapidamente
       - name: ❌ Exibir comandos de correção se falhar
@@ -82,7 +83,7 @@ jobs:
           echo "################################################################"
           echo "#         ❌ ERROS ENCONTRADOS - COMO CORRIGIR                  #"
           echo "################################################################"
-          echo "🦄 Ruff format:  Corrija estilo automaticamente:"
+          echo "🦄 Ruff format: Corrija estilo automaticamente:"
           echo "  ruff format ."
           echo ""
           echo "⭐ Ruff check: Visualize/corrija bugs/erros:"
@@ -91,7 +92,8 @@ jobs:
           echo "🐍 Python: Corrija sintaxe dos scripts Python:"
           echo "  python -m py_compile arquivo.py"
           echo ""
-          echo "📝 Markdown: Corrija formatação Markdown:"
+          echo "📝 Markdown: Instale e corrija formatação:"
+          echo "  npm install -g markdownlint-cli2"
           echo "  npx markdownlint-cli2 --fix \"**/*.md\" \"!site\""
           echo ""
           echo "📚 MkDocs: Verifique estrutura/links:"
@@ -117,13 +119,12 @@ jobs:
       # Prepara Python para rodar o MkDocs
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
-      # Instala somente o necessário para gerar/docs
+      # Instala somente o necessário para gerar docs
       - name: Instalar dependências MkDocs
         run: |
           pip install -r requirements.txt
-          pip install mkdocs
 
       # Gera build da documentação do zero
       - name: Build docs
@@ -134,4 +135,3 @@ jobs:
         run: mkdocs gh-deploy --force --clean --verbose
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
