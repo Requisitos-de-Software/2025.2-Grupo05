@@ -114,6 +114,123 @@ Fonte:  <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="
 
 ## Rastreabilidade Backward From - Requisitos Funcionais
 
+### EB01 - Rastrebilidade Backward From do requisito RF01
+Itens | Descrição
+| ------------- | ---- |
+| [RQ1](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Refer%C3%AAncia-,RQ1,-O%20aplicativo%20deve) | O aplicativo deve permitir o acesso do usuário através de uma autenticação com o gov. |
+| Categoria | Desenvolvimento. |
+| Origem | [Análise de documentação 01](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD01,-O%20aplicativo%20deve)|
+| Elos Backward-From | Representação — documentado como requisito funcional; Recurso — depende do provedor de identidade gov.br; Responsabilidade — MEC como mantenedor do canal/app. |
+| Evidência | Requisito listado como implementado (versão 1.1), indicando login via gov.br ativo no app. |
+
+<p style="font-size: 14px;">Tabela 3 - EF01 - Cartão do Requisito Funcional 01</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
+
+### EB02 - Rastrebilidade Backward From do requisito RNF03
+
+Itens | Descrição
+| ------------- | ---- |
+| [RQ03](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ3,-O%20aplicativo%20deve) | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. |
+| Categoria | Desenvolvimento (RNF). |
+| Origem | [Análise de documentação 04](hhttps://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD04,-O%20aplicativo%20deve) |
+| Elos Backward-From | Agregação — decisão arquitetural agregada ao design; Satisfação — visa integridade/segurança dos documentos; Representação — registrado em artefatos técnicos do projeto. |
+| Evidência | Requisito RNF listado como implementado (versão 1.0). |
+
+<p style="font-size: 14px;">Tabela 4 - EF03 - Cartão do Requisito Não Funcional 03</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
+
+### EB03 - Rastrebilidade Backward From do requisito RF04
+
+Itens | Descrição
+| ------------- | ---- |
+| [RQ04](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ4,-O%20aplicativo%20deve) | O aplicativo deve permitir aos estudantes do Brasil unificar o acesso a suas informações acadêmicas, como dados de cursos, disciplinas e progresso. |
+| Categoria | Desenvolvimento (RF). |
+| Origem | [Análise de documentação 05](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD05,-O%20aplicativo%20deve) |
+| Elos Backward-From | Agregação — compõe a visão de jornada integrada; Representação — casos/fluxos de consulta; Recurso — integrações com bases acadêmicas. |
+| Evidência | Requisito funcional implementado (versão 1.0). |
+
+<p style="font-size: 14px;">Tabela 5 - EF04 - Cartão do Requisito Funcional 04</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
+
+### EB04 - Rastrebilidade Backward From do requisito RF05
+
+Itens | Descrição
+| ------------- | ---- |
+| [RQ05](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ5,-O%20aplicativo%20deve) | O aplicativo deve permitir o acompanhamento o status do programa Pé-de-Meia. |
+| Categoria | Desenvolvimento (RF). |
+| Origem | [Análise de documentação 06](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD06,-O%20aplicativo%20deve) |
+| Elos Backward-From | Representação — consulta de situação/extratos; Recurso — depende de dados das redes de ensino; Satisfação — monitora elegibilidade e parcelas. |
+| Evidência | Requisito funcional implementado (versão 1.0). |
+
+<p style="font-size: 14px;">Tabela 6 - EF05 - Cartão do Requisito Funcional 05</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
+
+### EB05 - Rastrebilidade Backward From do requisito RF08
+
+Itens | Descrição
+| ------------- | ---- |
+| [RQ08](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ8,-O%20aplicativo%20deve) | O aplicativo deve possibilitar a visualização de faltas do estudante. |
+| Categoria | Desenvolvimento (RF). |
+| Origem | [Análise de documentação 09](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD09,-O%20aplicativo%20deve) |
+| Elos Backward-From | Recurso — consome dados de frequência; Agregação — integra informações acadêmicas; Representação — fluxo de consulta ligado à elegibilidade. |
+| Evidência | Requisito funcional implementado (versão 1.0). |
+
+<p style="font-size: 14px;">Tabela 7 - EF08 - Cartão do Requisito Funcional 08</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
+
+### EB06 - Rastrebilidade Backward From do requisito RF09
+
+Itens | Descrição
+| ------------- | ---- |
+| [RQ09](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ9,-O%20aplicativo%20deve) | O aplicativo deve apresentar atualizações referente ao pagamento do Pé-de-Meia disponível em até um mês. |
+| Categoria | Desenvolvimento (RF). |
+| Origem | [Análise de documentação 10](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD010,-O%20aplicativo%20deve) |
+| Elos Backward-From | Satisfação — acompanha ciclo mensal; Recurso — depende do cronograma operacional; Representação — atualização de status conforme processamento. |
+| Evidência | Requisito listado como não implementado (versão 1.0). |
+
+<p style="font-size: 14px;">Tabela 8 - EF09 - Cartão do Requisito Funcional 09</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
+
+### EB07 - Rastrebilidade Backward From do requisito RF11
+
+Itens | Descrição
+| ------------- | ---- |
+| [RQ11](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ11,-O%20aplicativo%20deve) | O aplicativo deve possibilitar o acompanhamento de registros estudantis desde o ingresso até níveis superiores. |
+| Categoria | Desenvolvimento (RF). |
+| Origem | [Análise de documentação 13](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD013,-O%20aplicativo%20deve) |
+| Elos Backward-From | Agregação — visão longitudinal da jornada; Recurso — integrações contínuas com bases escolares; Representação — fluxos de histórico/situação. |
+| Evidência | Requisito funcional implementado (versão 1.0). |
+
+<p style="font-size: 14px;">Tabela 9 - EF11 - Cartão do Requisito Funcional 11</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
+
+### EB08 - Rastrebilidade Backward From do requisito RF12
+
+Itens | Descrição
+| ------------- | ---- |
+| [RQ12](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ12,-O%20aplicativo%20deve) | O aplicativo deve ser um canal direto de comunicação entre o MEC e os estudantes. |
+| Categoria | Desenvolvimento (RF). |
+| Origem | [Análise de documentação 15](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD015,-O%20aplicativo%20deve) |
+| Elos Backward-From | Representação — finalidade comunicacional; Satisfação — objetivo organizacional de comunicação; Responsabilidade — MEC como emissor institucional. |
+| Evidência | Requisito funcional implementado (versão 1.0). |
+
+<p style="font-size: 14px;">Tabela 10 - EF12 - Cartão do Requisito Funcional 12</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
+
+### EB09 - Rastrebilidade Backward From do requisito RF13
+
+Itens | Descrição
+| ------------- | ---- |
+| [RQ13](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ13,-O%20aplicativo%20deve) | O aplicativo deve possibilitar informar um curso que você estudou ou está cursando. |
+| Categoria | Desenvolvimento (RF). |
+| Origem | [Análise de documentação 16](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD016,-O%20aplicativo%20deve)|
+| Elos Backward-From | Recurso — atualização/integração de dados escolares; Representação — fluxo de atualização de perfil acadêmico; Agregação — parte do conjunto de informações unificadas. |
+| Evidência | Requisito funcional implementado (versão 1.0). |
+
+<p style="font-size: 14px;">Tabela 11 - EF13 - Cartão do Requisito Funcional 13</p>
+Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
+
+
 ### EB14 - Rastrebilidade Backward From do requisito RF14
 
 | Itens  | Descrição    |  
