@@ -39,34 +39,35 @@ jobs:
 
       # Checa se o formato do código Python segue o padrão (PEP 8 e Black/Ruff)
       - name: 🎨 Ruff format (checar estilo)
+        id: ruff-format
         run: |
           ruff format --check .
-        continue-on-error: true # Segue mesmo se falhar para mostrar todos os erros no final
+        continue-on-error: true
 
       # Faz lint completo, apontando possíveis bugs e antipadrões no Python
       - name: 🛁 Ruff check (bug/lint)
+        id: ruff-check
         run: |
           ruff check .
         continue-on-error: true
 
       # Verifica a sintaxe de todos os arquivos Python do repositório (ex.: animações)
       - name: 🐍 Python syntax (animações)
+        id: python-syntax
         run: |
-          set +e
           find . -name "*.py" -type f -exec python -m py_compile {} \;
-          result=$?
-          if [ "$result" != "0" ]; then
-            echo "❌ Python syntax errors found"
-            exit 1
-          fi
+        continue-on-error: true
 
       # Build da documentação com MkDocs (valida links, estrutura, nav etc)
       - name: 📚 MkDocs build
+        id: mkdocs-build
         run: |
           mkdocs build --strict --verbose
+        continue-on-error: true
 
       # Faz análise de estilo dos arquivos Markdown usando markdownlint-cli2 (Action do GitHub)
       - name: 📝 MarkdownLint (markdownlint-cli2)
+        id: markdown-lint
         uses: DavidAnson/markdownlint-cli2-action@v15
         with:
           globs: |
@@ -74,30 +75,54 @@ jobs:
             !site/**
             !node_modules/**
             !venv/**
-        continue-on-error: true # Permite continuar mesmo com erros de Markdown
+        continue-on-error: true
 
-      # Se algum passo acima falhar, exibe dicas de comandos para corrigir rapidamente
-      - name: ❌ Exibir comandos de correção se falhar
-        if: failure()
+      # Verifica se algum step falhou e exibe os comandos de correção
+      - name: ❌ Exibir comandos de correção se houver erros
+        if: |
+          steps.ruff-format.outcome == 'failure' ||
+          steps.ruff-check.outcome == 'failure' ||
+          steps.python-syntax.outcome == 'failure' ||
+          steps.mkdocs-build.outcome == 'failure' ||
+          steps.markdown-lint.outcome == 'failure'
         run: |
           echo "################################################################"
           echo "#         ❌ ERROS ENCONTRADOS - COMO CORRIGIR                  #"
           echo "################################################################"
-          echo "🦄 Ruff format: Corrija estilo automaticamente:"
-          echo "  ruff format ."
-          echo ""
-          echo "⭐ Ruff check: Visualize/corrija bugs/erros:"
-          echo "  ruff check . --fix"
-          echo ""
-          echo "🐍 Python: Corrija sintaxe dos scripts Python:"
-          echo "  python -m py_compile arquivo.py"
-          echo ""
-          echo "📝 Markdown: Instale e corrija formatação:"
-          echo "  npm install -g markdownlint-cli2"
-          echo "  npx markdownlint-cli2 --fix \"**/*.md\" \"!site\""
-          echo ""
-          echo "📚 MkDocs: Verifique estrutura/links:"
-          echo "  mkdocs build --strict"
+
+          # Verifica cada step individualmente e mostra comandos específicos
+          if [[ "${{ steps.ruff-format.outcome }}" == "failure" ]]; then
+            echo "🦄 Ruff format: Corrija estilo automaticamente:"
+            echo "  ruff format ."
+            echo ""
+          fi
+
+          if [[ "${{ steps.ruff-check.outcome }}" == "failure" ]]; then
+            echo "⭐ Ruff check: Visualize/corrija bugs/erros:"
+            echo "  ruff check . --fix"
+            echo ""
+          fi
+
+          if [[ "${{ steps.python-syntax.outcome }}" == "failure" ]]; then
+            echo "🐍 Python: Corrija sintaxe dos scripts Python:"
+            echo "  python -m py_compile arquivo.py"
+            echo ""
+          fi
+
+          if [[ "${{ steps.markdown-lint.outcome }}" == "failure" ]]; then
+            echo "📝 Markdown: Corrija links vazios como [Foto]() e [Link da segunda reunião]():"
+            echo "  # Substitua [Foto]() por [Foto](caminho/para/imagem.jpg)"
+            echo "  # Substitua [Link da segunda reunião]() por [Link da segunda reunião](url-real)"
+            echo "  # Ou remova os links vazios se não foram necessários"
+            echo ""
+          fi
+
+          if [[ "${{ steps.mkdocs-build.outcome }}" == "failure" ]]; then
+            echo "📚 MkDocs: Verifique estrutura/links:"
+            echo "  mkdocs build --strict"
+            echo ""
+          fi
+
           echo "################################################################"
           exit 1
 
