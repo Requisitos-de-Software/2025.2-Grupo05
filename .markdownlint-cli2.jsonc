@@ -6,12 +6,7 @@
     // Permite o uso de HTML
     "MD033": false
   },
-  
+
   // Define os arquivos que serão analisados pelo CLI
-  "globs": [
-    "**/*.md",
-    "!node_modules",
-    "!site",
-    "!venv"
-  ]
+  "globs": ["**/*.md", "!node_modules", "!site", "!venv"]
 }
