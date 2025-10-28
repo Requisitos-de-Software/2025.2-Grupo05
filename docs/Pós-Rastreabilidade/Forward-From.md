@@ -701,3 +701,4 @@ Fonte: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus </a>
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | 26/10/2025 | Adicionando introdução, participantes e metodologia |[Camila Silva](https://github) e [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luisa de Souza](https://github.com/Luisa12ll). | [Yan Matheus](https://github.com/Yanmatheus0812) |
+| 1.1 | 28/10/2025 | Adicionando forward-from | [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github) e [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luisa de Souza](https://github.com/Luisa12ll). |
