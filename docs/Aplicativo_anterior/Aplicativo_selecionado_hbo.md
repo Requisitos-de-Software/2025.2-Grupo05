@@ -3,7 +3,6 @@
 ## HBO Max
 
 ![logo_HBOmax](https://i.postimg.cc/9MkV7GyR/icons8-hbo-max-240.png)
-
 **Figura 1 – Logo do HBO Max**
 
 ## Introdução
@@ -25,10 +24,10 @@ No início da disciplina, cada integrante do grupo apresentou sugestões de apli
 O HBO Max é uma plataforma de streaming que oferece filmes, séries, documentários, animações e produções originais da HBO e de outras produtoras. Possui conteúdos exclusivos e populares, além de séries clássicas e entretenimento para toda a família.
 
 O aplicativo permite criar perfis personalizados, adicionar conteúdos aos favoritos, baixar vídeos para assistir offline, continuar de onde parou e usar o recurso Minha Lista. Está disponível em diversos dispositivos, suporta reprodução em alta qualidade até 4K e oferece som surround, incluindo Dolby Atmos em planos específicos. A disponibilidade de conteúdos e recursos pode variar por região. A interface do aplicativo pode ser observada na Figura 2.
+
 </div>
 
 ![logo_HBOmax](https://i.postimg.cc/V6tt1sbJ/play-google-hbomax-com.jpg)
-
 **Figura 2 – Aplicativo HBO Max**
 
 ## Termo de Uso
@@ -43,10 +42,10 @@ Termo de Uso: [https://hbomax.com/terms-of-use](https://hbomax.com/terms-of-use)
 
 ## Histórico de Versões
 
-| Versão   | Data       | Descrição                                | Autor                    | Revisor |
-|----------|------------|------------------------------------------|--------------------------|---------|
-| 1.0      | 07/09/2025 | Seleção de aplicativo     |  [Geovanna Alves](https://github.com/GeovannaUmbelino)          |  [Camila Silva](https://github.com/CamilaSilvaC)   |
-| 1.1      | 09/09/2025 | Adicionando termo de uso     |  [Geovanna Alves](https://github.com/GeovannaUmbelino)                  |  [Camila Silva](https://github.com/CamilaSilvaC)  |
+| Versão | Data       | Descrição                | Autor                                                 | Revisor                                         |
+| ------ | ---------- | ------------------------ | ----------------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 07/09/2025 | Seleção de aplicativo    | [Geovanna Alves](https://github.com/GeovannaUmbelino) | [Camila Silva](https://github.com/CamilaSilvaC) |
+| 1.1    | 09/09/2025 | Adicionando termo de uso | [Geovanna Alves](https://github.com/GeovannaUmbelino) | [Camila Silva](https://github.com/CamilaSilvaC) |
 
 ## Bibliografia
 

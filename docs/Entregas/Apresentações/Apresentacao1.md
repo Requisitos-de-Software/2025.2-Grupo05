@@ -1,4 +1,4 @@
-## Introdução
+# Introdução
 
 O objetivo dessa página é armazenar o vídeo da apresentação da entrega 1 e demais documentos relacionados. Acesse o vídeo clicando no link correspondente.
 
@@ -10,6 +10,6 @@ O objetivo dessa página é armazenar o vídeo da apresentação da entrega 1 e 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
-|--------|------------|------------------------------|-----------------------------------|-------------------------------------|
-| 1.0    | 18/09/2023 | Documentação da apresentação 1   | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
+| Versão | Data       | Descrição                      | Autor(es)                                        | Revisor(es)                                        |
+| ------ | ---------- | ------------------------------ | ------------------------------------------------ | -------------------------------------------------- |
+| 1.0    | 18/09/2025 | Documentação da apresentação 1 | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |

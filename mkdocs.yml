@@ -1,5 +1,5 @@
 site_name: Jornada do Estudante
-repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo05 
+repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo05
 theme:
   name: material
   custom_dir: overrides
@@ -34,31 +34,25 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Sobre: Sobre/Sobre.md
+
   - Entregas:
       - Reuniões: Entregas/Reunioes.md
       - Inspeções:
           - Inspeções grupo 5:
+              - Inspeção 1: Entregas/Inspeções/Inspeções_grupo5/Inspecao1.md
               - Inspeção 2: Entregas/Inspeções/Inspeções_grupo5/Inspecao2.md
+              - Inspeção 3: Entregas/Inspeções/Inspeções_grupo5/Inspecao3.md
+              - Inspeção 4: Entregas/Inspeções/Inspeções_grupo5/Inspecao4.md
           - Inspeções grupo 6:
               - Inspeção 1: Entregas/Inspeções/Inspeções_grupo6/Inspecao1.md
               - Inspeção 2: Entregas/Inspeções/Inspeções_grupo6/Inspecao2.md
+              - Inspeção 3: Entregas/Inspeções/Inspeções_grupo6/Inspecao3.md
+              - Inspeção 4: Entregas/Inspeções/Inspeções_grupo6/Inspecao4.md
       - Apresentações:
           - Apresentação 1: Entregas/Apresentações/Apresentacao1.md
-          - Apresentacao 2: Entregas/Apresentações/Apresentacao2.md
-      - Listas de Verificações:
-          - Entrega 1:
-              - Rich Picture: Entregas/Listas_verificações/Entrega01/Rich_pictureLV.md
-          - Entrega 2:
-              - Técnica:
-                  - Analise de Documentos: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_analise_docs.md
-                  - Entrevista: Entregas/Listas_verificações/Entrega02/Lv_tecnica/Lv_entrevista.md
-                  - Questionário: Entregas/Listas_verificações/Entrega02/Lv_tecnica/QuestionarioLV.md
-                  - Brainstorming: Entregas/Listas_verificações/Entrega02/Lv_tecnica/BrainstormLV.md
-              - Priorização:
-                  - In or Out: Entregas/Listas_verificações/Entrega02/Lv_priorização/In_or_outLV.md
-                  - Tree Level Scale: Entregas/Listas_verificações/Entrega02/Lv_priorização/LV_Three_level.md
-                  - 100 Dólares: Entregas/Listas_verificações/Entrega02/Lv_priorização/100_dolaresLV.md
-                  - MoSCoW: Entregas/Listas_verificações/Entrega02/Lv_priorização/MoscowLV.md
+          - Apresentação 2: Entregas/Apresentações/Apresentacao2.md
+          - Apresentação 3: Entregas/Apresentações/Apresentacao3.md
+          - Apresentação 4: Entregas/Apresentações/Apresentacao4.md
 
   - Planejamento:
       - Metodologia: Planejamento/Metodologia.md
@@ -72,35 +66,35 @@ nav:
       - Validações da monitora: Planejamento/ValidacaoMonitora.md
 
   - Atas:
-      - 1. Ata de Reunião(04/09): Atas/ata04-09.md
-      - 2. Ata de Reunião(05/09): Atas/ata05-09.md
-      - 3. Ata de Reunião(06/09): Atas/ata06-09.md
-      - 4. Ata de Reunião(07/09): Atas/ata07-09.md
-      - 5. Ata de Reunião(07/09): Atas/ata07-09_2.md
+      - 1. Ata de Reunião(04/09): Atas/ata09-04.md
+      - 2. Ata de Reunião(05/09): Atas/ata09-05.md
+      - 3. Ata de Reunião(06/09): Atas/ata09-06.md
+      - 4. Ata de Reunião(07/09): Atas/ata09-07_1.md
+      - 5. Ata de Reunião(07/09): Atas/ata09-07_2.md
       - 6. Ata de Reunião(09/09): Atas/ata09-09.md
-      - 7. Ata de Reunião(12/09): Atas/ata12-09.md
-      - 8. Ata de Reunião(13/09): Atas/ata13-09.md
-      - 9. Ata de Reunião(13/09): Atas/ata13-09_2.md
-      - 10. Ata de Reunião(13/09): Atas/ata13-09_3.md
-      - 11. Ata de Reunião(15/09): Atas/ata15-09.md
-      - 12. Ata de Reunião(16/09): Atas/ata16-09.md
-      - 13. Ata da Reunião(18/09): Atas/ata18-09.md
-      - 14. Ata da Reunião(21/09): Atas/ata21-09.md
-      - 15. Ata da Reunião(22/09): Atas/ata22-09.md
-      - 16. Ata da Reunião(24/09): Atas/ata24-09.md
-      - 17. Ata da Reunião(25/09): Atas/ata25-09.md
-      - 18. Ata da Reunião(25/09): Atas/ata25-09_2.md
-      - 19. Ata da Reunião(03/10): Atas/ata03-10.md
+      - 7. Ata de Reunião(12/09): Atas/ata09-12.md
+      - 8. Ata de Reunião(13/09): Atas/ata09-13_1.md
+      - 9. Ata de Reunião(13/09): Atas/ata09-13_2.md
+      - 10. Ata de Reunião(13/09): Atas/ata09-13_3.md
+      - 11. Ata de Reunião(15/09): Atas/ata09-15.md
+      - 12. Ata de Reunião(16/09): Atas/ata09-16.md
+      - 13. Ata da Reunião(18/09): Atas/ata09-18.md
+      - 14. Ata da Reunião(21/09): Atas/ata09-21.md
+      - 15. Ata da Reunião(22/09): Atas/ata09-22.md
+      - 16. Ata da Reunião(24/09): Atas/ata09-24.md
+      - 17. Ata da Reunião(25/09): Atas/ata09-25_1.md
+      - 18. Ata da Reunião(25/09): Atas/ata09-25_2.md
+      - 19. Ata da Reunião(03/10): Atas/ata10-03.md
 
   - Pré-Rastreabilidade:
-      - Rich Picture: Pré-Rastriabilidade/Rich-picture.md 
-      - Lista de verificação: Pré-Rastriabilidade/Rich_pictureLV.md 
+      - Rich Picture: Pré-Rastriabilidade/Rich-picture.md
+      - Lista de verificação: Pré-Rastriabilidade/Rich_pictureLV.md
 
   - Elicitação:
       - Perfil de usuário: Elicitação/Perfil_usuario.md
       - Tecnicas:
           - Análise de documentação: Elicitação/Tecnicas/Analise_docs.md
-          - Brainstorming: Elicitação/Tecnicas/Brainstorming.md 
+          - Brainstorming: Elicitação/Tecnicas/Brainstorming.md
           - Entrevista: Elicitação/Tecnicas/Entrevista.md
           - Questionário: Elicitação/Tecnicas/Questionário.md
       - Requisitos Elicitados: Elicitação/Requisitos-Elicitados.md
@@ -109,19 +103,37 @@ nav:
           - In or Out: Elicitação/Priorização/In_or_Out.md
           - $100 dólares: Elicitação/Priorização/100_dolares.md
           - MoSCoW: Elicitação/Priorização/Moscow.md
+      - Listas de verificação:
+          - Inspeções:
+              - Análise de documentação: Elicitação/LVs/elicitações/Lv_analise_docs.md
+              - Entrevista: Elicitação/LVs/elicitações/Lv_entrevista.md
+              - Questionário: Elicitação/LVs/elicitações/QuestionarioLV.md
+              - Brainstorming: Elicitação/LVs/elicitações/BrainstormLV.md
+          - Priorizações:
+              - Three-level scale: Elicitação/LVs/priorizações/LV_Three_level.md
+              - Moscow: Elicitação/LVs/priorizações/MoscowLV.md
+              - 100 dólares: Elicitação/LVs/priorizações/100_dolaresLV.md
+              - In or out: Elicitação/LVs/priorizações/In_or_outLV.md
 
   - Modelagem:
       - Cenários: Modelagem/Cenários.md
       - Léxicos: Modelagem/Léxicos.md
-      - Casos de Uso: Modelagem/Casos-de-uso.md 
-      - Especificação: Modelagem/Especificacao.md 
-      - NFR Framework: Modelagem/NFR-Framework.md
-      - Ágil: Modelagem/Àgil.md 
-      - Listas de verficações: 
-            - Cenários: Modelagem/LVs/LVCenario.md
-            - Léxico: Modelagem/LVs/LVLexico.md
-            - Especificação suplementar: Modelagem/LVs/LVSuplementar.md
-            - Caso de uso: Modelagem/LVs/LVUseCase.md
+      - Casos de Uso: Modelagem/Casos-de-uso.md
+      - Especificação: Modelagem/Especificacao.md
+      - Ágil:
+          - Histórias de usuário: Modelagem/Ágil/HistoriaUsuario.md
+          - Backlog: Modelagem/Ágil/Backlog.md
+          - NFR Framework: Modelagem/Ágil/NFR-Framework.md
+
+      - Listas de Verificação:
+          - Cenários: Modelagem/LVs/LVCenario.md
+          - Léxico: Modelagem/LVs/LVLexico.md
+          - Especificação suplementar: Modelagem/LVs/LVSuplementar.md
+          - Caso de uso: Modelagem/LVs/LVUseCase.md
+          - Ágil:
+              - História de usuário: Modelagem/LVs/Ágil/HULV.md
+              - Backlog: Modelagem/LVs/Ágil/BacklogLV.md
+              - NFR Framework: Modelagem/LVs/Ágil/NFRLV.md
   - Análise:
       - Verificação: Análise/Verificação.md
       - Validação: Análise/Validação.md

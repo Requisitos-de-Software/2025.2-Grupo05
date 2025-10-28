@@ -1,6 +1,5 @@
 [tool.ruff]
-# Adiciona get-pip.py à lista de arquivos excluídos
 exclude = [
     "get-pip.py",
-    "venv", # É uma boa prática excluir a pasta do ambiente virtual também
+    "venv", 
 ]
