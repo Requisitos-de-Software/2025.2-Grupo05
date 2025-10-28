@@ -1,72 +1,60 @@
-name: CI - Docs & Code
+name: CI & Deploy
 
 on:
-  # Roda a pipeline em todo push e PR para main e devel
+  # Só roda em push para main (deploy) ou devel (validação)
   push:
-    branches:
-      - main
-      - devel
+    branches: [main, devel]
+
+  # Roda em PRs, mas só se NÃO for push simultâneo
   pull_request:
-    branches:
-      - main
-      - devel
+    branches: [main, devel]
     types: [opened, synchronize, reopened]
 
 jobs:
   # ===================================================================
-  # 1º JOB: Validação Geral de Código, Markdown e Documentação
+  # JOB 1: Validação Completa
   # ===================================================================
-  ci:
-    name: "🔍 CI: Validação Geral"
+  validate:
+    name: "🔍 Validação Geral"
     runs-on: ubuntu-latest
+    # Evita execução duplicada: se for PR de uma branch do mesmo repo, pula o push
+    if: github.event_name == 'pull_request' || (github.event_name == 'push' && !contains(github.event.head_commit.message, 'Merge pull request'))
 
     steps:
-      # Checkout do código do repositório
       - name: 🔦 Checkout
         uses: actions/checkout@v4
 
-      # Prepara o Python para tarefas do projeto
       - name: 🧰 Setup python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # Instala dependências Python do projeto e ferramentas de lint
       - name: 💾 Instalar dependências Python
         run: |
           pip install -r requirements.txt
           pip install ruff
 
-      # Checa se o formato do código Python segue o padrão (PEP 8 e Black/Ruff)
       - name: 🎨 Ruff format (checar estilo)
         id: ruff-format
-        run: |
-          ruff format --check .
+        run: ruff format --check .
         continue-on-error: true
 
-      # Faz lint completo, apontando possíveis bugs e antipadrões no Python
       - name: 🛁 Ruff check (bug/lint)
         id: ruff-check
-        run: |
-          ruff check .
+        run: ruff check .
         continue-on-error: true
 
-      # Verifica a sintaxe de todos os arquivos Python do repositório (ex.: animações)
       - name: 🐍 Python syntax (animações)
         id: python-syntax
-        run: |
-          find . -name "*.py" -type f -exec python -m py_compile {} \;
+        run: find . -name "*.py" -type f -exec python -m py_compile {} \;
         continue-on-error: true
 
-      # Build da documentação com MkDocs (valida links, estrutura, nav etc)
       - name: 📚 MkDocs build
         id: mkdocs-build
-        run: |
-          mkdocs build --strict --verbose
+        run: mkdocs build --strict --verbose
         continue-on-error: true
 
-      # Faz análise de estilo dos arquivos Markdown usando markdownlint-cli2 (Action do GitHub)
-      - name: 📝 MarkdownLint (markdownlint-cli2)
+      - name: 📝 MarkdownLint
         id: markdown-lint
         uses: DavidAnson/markdownlint-cli2-action@v15
         with:
@@ -77,7 +65,6 @@ jobs:
             !venv/**
         continue-on-error: true
 
-      # Verifica se algum step falhou e exibe os comandos de correção
       - name: ❌ Exibir comandos de correção se houver erros
         if: |
           steps.ruff-format.outcome == 'failure' ||
@@ -90,72 +77,54 @@ jobs:
           echo "#         ❌ ERROS ENCONTRADOS - COMO CORRIGIR                  #"
           echo "################################################################"
 
-          # Verifica cada step individualmente e mostra comandos específicos
           if [[ "${{ steps.ruff-format.outcome }}" == "failure" ]]; then
-            echo "🦄 Ruff format: Corrija estilo automaticamente:"
-            echo "  ruff format ."
-            echo ""
+            echo "🦄 Ruff format: ruff format ."
           fi
 
           if [[ "${{ steps.ruff-check.outcome }}" == "failure" ]]; then
-            echo "⭐ Ruff check: Visualize/corrija bugs/erros:"
-            echo "  ruff check . --fix"
-            echo ""
+            echo "⭐ Ruff check: ruff check . --fix"
           fi
 
           if [[ "${{ steps.python-syntax.outcome }}" == "failure" ]]; then
-            echo "🐍 Python: Corrija sintaxe dos scripts Python:"
-            echo "  python -m py_compile arquivo.py"
-            echo ""
+            echo "🐍 Python: python -m py_compile arquivo.py"
           fi
 
           if [[ "${{ steps.markdown-lint.outcome }}" == "failure" ]]; then
-            echo "📝 Markdown: Corrija links vazios como [Foto]() e [Link da segunda reunião]():"
-            echo "  # Substitua [Foto]() por [Foto](caminho/para/imagem.jpg)"
-            echo "  # Substitua [Link da segunda reunião]() por [Link da segunda reunião](url-real)"
-            echo "  # Ou remova os links vazios se não foram necessários"
-            echo ""
+            echo "📝 Markdown: Corrija links vazios [Foto]() e [Link]()"
           fi
 
           if [[ "${{ steps.mkdocs-build.outcome }}" == "failure" ]]; then
-            echo "📚 MkDocs: Verifique estrutura/links:"
-            echo "  mkdocs build --strict"
-            echo ""
+            echo "📚 MkDocs: mkdocs build --strict"
           fi
 
           echo "################################################################"
           exit 1
 
   # ===================================================================
-  # 2º JOB: Deploy da documentação (SÓ se todas as validações passarem)
+  # JOB 2: Deploy (SÓ em push para main)
   # ===================================================================
   deploy:
-    name: "🚀 Deploy Docs"
-    needs: ci
+    name: "🚀 Deploy"
+    needs: validate
     runs-on: ubuntu-latest
-    # Só faz deploy se todas validações passaram, push na main (não PRs)
-    if: ${{ success() && github.ref == 'refs/heads/main' && github.event_name == 'push' }}
+    # Deploy APENAS em push para main (nunca em PRs)
+    if: success() && github.event_name == 'push' && github.ref == 'refs/heads/main'
+
     steps:
-      # Checkout da branch main para deploy final
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # Prepara Python para rodar o MkDocs
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # Instala somente o necessário para gerar docs
-      - name: Instalar dependências MkDocs
-        run: |
-          pip install -r requirements.txt
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
 
-      # Gera build da documentação do zero
       - name: Build docs
         run: mkdocs build --verbose
 
-      # Faz deploy do site para o GitHub Pages (gh-pages branch)
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force --clean --verbose
         env:
