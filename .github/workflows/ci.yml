@@ -1,196 +1,162 @@
-# .github/workflows/ci.yml
-
-name: CI/CD Pipeline
+name: CI - Docs & Code
 
 on:
-  # Executar em push para main e devel
+  # Roda a pipeline em todo push e PR para main e devel
   push:
     branches:
       - main
       - devel
-
-  # Executar em pull requests para main e devel (PROTEÇÃO)
   pull_request:
     branches:
       - main
       - devel
     types: [opened, synchronize, reopened]
 
-# Configurações globais
-env:
-  PYTHON_VERSION: "3.11"
-
 jobs:
-  # ================================================================
-  # JOB 1: VALIDAÇÃO DE DOCUMENTAÇÃO (Required para PRs)
-  # ================================================================
-  validate:
-    name: "🔍 Validate Documentation"
+  # ===================================================================
+  # 1º JOB: Validação Geral de Código, Markdown e Documentação
+  # ===================================================================
+  ci:
+    name: "🔍 CI: Validação Geral"
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout com fetch completo
-      - name: Checkout repository
+      # Checkout do código do repositório
+      - name: 🔦 Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      # Setup Python otimizado
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      # Prepara o Python para tarefas do projeto
+      - name: 🧰 Setup python
+        uses: actions/setup-python@v5
         with:
-          python-version: ${{ env.PYTHON_VERSION }}
-          cache: "pip"
+          python-version: "3.12"
 
-      # Instalar dependências do MkDocs
-      - name: Install MkDocs dependencies
+      # Instala dependências Python do projeto e ferramentas de lint
+      - name: 💾 Instalar dependências Python
         run: |
-          python -m pip install --upgrade pip
           pip install -r requirements.txt
+          pip install ruff
 
-      # Validar estrutura de arquivos obrigatórios
-      - name: Check required files
+      # Checa se o formato do código Python segue o padrão (PEP 8 e Black/Ruff)
+      - name: 🎨 Ruff format (checar estilo)
+        id: ruff-format
         run: |
-          test -f requirements.txt || (echo "❌ requirements.txt not found" && exit 1)
-          test -f mkdocs.yml || (echo "❌ mkdocs.yml not found" && exit 1)
-          test -d docs || (echo "❌ docs/ directory not found" && exit 1)
-          echo "✅ Required files and directories present"
+          ruff format --check .
+        continue-on-error: true
 
-      # Verificar sintaxe de arquivos Python (animações)
-      - name: Check Python syntax
+      # Faz lint completo, apontando possíveis bugs e antipadrões no Python
+      - name: 🛁 Ruff check (bug/lint)
+        id: ruff-check
         run: |
-          echo "🐍 Checking Python syntax for animation scripts..."
-          find . -name "*.py" -type f -exec python -m py_compile {} \; || (echo "❌ Python syntax errors found" && exit 1)
-          echo "✅ Python syntax validation passed"
+          ruff check .
+        continue-on-error: true
 
-      # Validar build do MkDocs (estrutura e links)
-      - name: Validate MkDocs build
+      # Verifica a sintaxe de todos os arquivos Python do repositório (ex.: animações)
+      - name: 🐍 Python syntax (animações)
+        id: python-syntax
         run: |
-          echo "📚 Building MkDocs documentation..."
+          find . -name "*.py" -type f -exec python -m py_compile {} \;
+        continue-on-error: true
+
+      # Build da documentação com MkDocs (valida links, estrutura, nav etc)
+      - name: 📚 MkDocs build
+        id: mkdocs-build
+        run: |
           mkdocs build --strict --verbose
+        continue-on-error: true
 
-      # Validar Markdown - usar arquivo de configuração existente se houver
-      - name: Lint Markdown files
+      # Faz análise de estilo dos arquivos Markdown usando markdownlint-cli2 (Action do GitHub)
+      - name: 📝 MarkdownLint (markdownlint-cli2)
+        id: markdown-lint
         uses: DavidAnson/markdownlint-cli2-action@v15
         with:
-          # Usar apenas globs, sem config inline
           globs: |
             **/*.md
             !site/**
             !node_modules/**
             !venv/**
+        continue-on-error: true
 
-      # Verificar estrutura básica da documentação
-      - name: Check documentation structure
-        run: |
-          echo "📋 Checking documentation structure..."
-
-          # Verificar se existe README principal
-          test -f README.md || echo "⚠️ README.md not found in root"
-
-          # Verificar estrutura básica do docs/
-          test -f docs/index.md || echo "⚠️ docs/index.md not found"
-
-          # Listar estrutura para debug
-          echo "📁 Current documentation structure:"
-          find docs -type f -name "*.md" | head -10 || echo "No markdown files found in docs/"
-
-          echo "✅ Documentation structure check completed"
-
-  # ================================================================
-  # JOB 2: SUGESTÕES DE CORREÇÃO (apenas em falha)
-  # ================================================================
-  fix-suggestions:
-    name: "🛠️ Fix Suggestions"
-    runs-on: ubuntu-latest
-    if: failure() && needs.validate.result == 'failure'
-    needs: validate
-
-    steps:
-      - name: Show fix commands
+      # Verifica se algum step falhou e exibe os comandos de correção
+      - name: ❌ Exibir comandos de correção se houver erros
+        if: |
+          steps.ruff-format.outcome == 'failure' ||
+          steps.ruff-check.outcome == 'failure' ||
+          steps.python-syntax.outcome == 'failure' ||
+          steps.mkdocs-build.outcome == 'failure' ||
+          steps.markdown-lint.outcome == 'failure'
         run: |
           echo "################################################################"
-          echo "#                                                              #"
-          echo "#          ❌ ERROS DE DOCUMENTAÇÃO - COMANDOS PARA CORRIGIR   #"
-          echo "#                                                              #"
-          echo "################################################################"
-          echo ""
-          echo "📝 Para corrigir erros de Markdown:"
-          echo "   npx markdownlint-cli2 --fix \"**/*.md\" \"#site\""
-          echo ""
-          echo "🐍 Para verificar sintaxe Python (animações):"
-          echo "   python -m py_compile arquivo.py"
-          echo ""
-          echo "📚 Para testar build do MkDocs:"
-          echo "   mkdocs build --strict"
-          echo ""
-          echo "🔍 Para servir localmente:"
-          echo "   mkdocs serve"
-          echo ""
+          echo "#         ❌ ERROS ENCONTRADOS - COMO CORRIGIR                  #"
           echo "################################################################"
 
-  # ================================================================
-  # JOB 3: DEPLOY (apenas main com validação aprovada)
-  # ================================================================
+          # Verifica cada step individualmente e mostra comandos específicos
+          if [[ "${{ steps.ruff-format.outcome }}" == "failure" ]]; then
+            echo "🦄 Ruff format: Corrija estilo automaticamente:"
+            echo "  ruff format ."
+            echo ""
+          fi
+
+          if [[ "${{ steps.ruff-check.outcome }}" == "failure" ]]; then
+            echo "⭐ Ruff check: Visualize/corrija bugs/erros:"
+            echo "  ruff check . --fix"
+            echo ""
+          fi
+
+          if [[ "${{ steps.python-syntax.outcome }}" == "failure" ]]; then
+            echo "🐍 Python: Corrija sintaxe dos scripts Python:"
+            echo "  python -m py_compile arquivo.py"
+            echo ""
+          fi
+
+          if [[ "${{ steps.markdown-lint.outcome }}" == "failure" ]]; then
+            echo "📝 Markdown: Corrija links vazios como [Foto]() e [Link da segunda reunião]():"
+            echo "  # Substitua [Foto]() por [Foto](caminho/para/imagem.jpg)"
+            echo "  # Substitua [Link da segunda reunião]() por [Link da segunda reunião](url-real)"
+            echo "  # Ou remova os links vazios se não foram necessários"
+            echo ""
+          fi
+
+          if [[ "${{ steps.mkdocs-build.outcome }}" == "failure" ]]; then
+            echo "📚 MkDocs: Verifique estrutura/links:"
+            echo "  mkdocs build --strict"
+            echo ""
+          fi
+
+          echo "################################################################"
+          exit 1
+
+  # ===================================================================
+  # 2º JOB: Deploy da documentação (SÓ se todas as validações passarem)
+  # ===================================================================
   deploy:
-    name: "🚀 Deploy Documentation"
+    name: "🚀 Deploy Docs"
+    needs: ci
     runs-on: ubuntu-latest
-    needs: validate
-    # Deploy apenas em push para main (não PRs) e com validação OK
-    if: |
-      success() && 
-      github.event_name == 'push' && 
-      github.ref == 'refs/heads/main'
-
+    # Só faz deploy se todas validações passaram, push na main (não PRs)
+    if: ${{ success() && github.ref == 'refs/heads/main' && github.event_name == 'push' }}
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      # Checkout da branch main para deploy final
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      # Prepara Python para rodar o MkDocs
+      - uses: actions/setup-python@v5
         with:
-          python-version: ${{ env.PYTHON_VERSION }}
-          cache: "pip"
+          python-version: "3.12"
 
-      - name: Install documentation dependencies
+      # Instala somente o necessário para gerar docs
+      - name: Instalar dependências MkDocs
         run: |
-          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Build documentation
-        run: |
-          echo "📚 Building documentation for deployment..."
-          mkdocs build --verbose
+      # Gera build da documentação do zero
+      - name: Build docs
+        run: mkdocs build --verbose
 
+      # Faz deploy do site para o GitHub Pages (gh-pages branch)
       - name: Deploy to GitHub Pages
-        id: deployment
-        run: |
-          echo "🚀 Deploying to GitHub Pages..."
-          mkdocs gh-deploy --force --clean --verbose
-          echo "page_url=https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}" >> $GITHUB_OUTPUT
+        run: mkdocs gh-deploy --force --clean --verbose
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  # ================================================================
-  # JOB 4: NOTIFICAÇÃO DE STATUS
-  # ================================================================
-  notify:
-    name: "📢 Notify Status"
-    runs-on: ubuntu-latest
-    needs: [validate, deploy]
-    if: always()
-
-    steps:
-      - name: Notify success
-        if: needs.validate.result == 'success'
-        run: |
-          echo "✅ Documentação validada com sucesso!"
-          echo "📚 Site: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
-
-      - name: Notify failure
-        if: needs.validate.result == 'failure'
-        run: |
-          echo "❌ Validação da documentação falhou."
-          echo "💡 Verifique os erros de Markdown, Python ou estrutura acima."
