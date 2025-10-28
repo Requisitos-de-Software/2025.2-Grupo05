@@ -1,4 +1,4 @@
-## Introdução
+# Introdução
 
 Esta página tem como objetivo armazenar a inspeção da Entrega 4, bem como demais documentos relacionados, referentes ao nosso próprio grupo.
 
