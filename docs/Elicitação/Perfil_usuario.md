@@ -8,13 +8,13 @@ No intuito de se conhecer melhor os usuários do aplicativo é necessário elabo
 
 Para a aquisição de dados para a criação do perfil de usuário, foram usadas duas técnicas de elicitação de requisitos, o questionário e entrevistas. Em ambas as técnicas o grupo optou por não entrevistar menores de dezoito anos para evitar maiores burocracias.
 
-O questionário possuía 13 questões sobre aspectos gerais de possíveis usuários do aplicativo, o questionário foi divulgado amplamente em grupos dos aplicativos WhatsApp e Telegram  entre o período de 22 a 24 de setembro de 2025. Os responsáveis pela elaboração do questionário foram os integrantes do grupo [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812). Informações mais detalhadas quanto ao [questionário](/docs/Elicitação/Tecnicas/Questionário.md), estão disponíveis na página do artefato. 
+O questionário possuía 13 questões sobre aspectos gerais de possíveis usuários do aplicativo, o questionário foi divulgado amplamente em grupos dos aplicativos WhatsApp e Telegram entre o período de 22 a 24 de setembro de 2025. Os responsáveis pela elaboração do questionário foram os integrantes do grupo [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812). Informações mais detalhadas quanto ao [questionário](./Tecnicas/Questionário.md), estão disponíveis na página do artefato.
 
-As entrevistas tinham em torno de 13 questões também sobre aspectos gerais de possíveis usuários do aplicativo. As entrevistas foram realizadas com 55 estudantes da Universidade de Brasília e um aluno do ensino médio, entre o período de 22 a 24 de setembro de 2025. Os responsáveis pela gravação e condução das entrevistas foram [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812). Informações mais detalhadas quanto as [entrevistas](/docs/Elicitação/Tecnicas/Entrevista.md), estão disponíveis no artefato.
+As entrevistas tinham em torno de 13 questões também sobre aspectos gerais de possíveis usuários do aplicativo. As entrevistas foram realizadas com 55 estudantes da Universidade de Brasília e um aluno do ensino médio, entre o período de 22 a 24 de setembro de 2025. Os responsáveis pela gravação e condução das entrevistas foram [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812). Informações mais detalhadas quanto as [entrevistas](./Tecnicas/Entrevista.md), estão disponíveis no artefato.
 
 ## Resultados
 
-O resultado no questionário teve o total de 55 respostas todas de acordo com o [termo de consentimento](/docs/Elicitação/Termo_de_consentimento_questionario.pdf). O resultado das respostas são apresentados nas figuras de 1 a 5.
+O resultado no questionário teve o total de 55 respostas todas de acordo com o [termo de consentimento](./Termo_de_consentimento_questionario.pdf). O resultado das respostas são apresentados nas figuras de 1 a 5.
 
 De acordo com a figura 1, a faixa etária dos participantes possui ampla diversidade, mas apresenta destaque em pessoas acima de 45 anos com 41%, as demais idades ficam bem divididas em entre 35 e 44 anos (21%), entre 25 e 34 anos (18%) e entre 18 a 24 anos (16%), sendo menores de 18 anos 1%.
 
@@ -51,7 +51,7 @@ De acordo com a figura 5, os usuários sentem falta de uma forma centralizada de
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-No total foram entrevistadas 3 pessoas, todas com livre consentimento do uso da imagem e participação das entrevistas como mostrados nos vídeos [Entrevista 1](https://youtu.be/zYS0moDR_gI?si=nT_8HgC8Zjb8DSeF), [Entrevista 2](https://youtu.be/KCEM_y5eoc4?si=Awz-9LCvNOI0ITNX) e [Entrevista 3](https://youtu.be/Jo30F-G7l6Q?si=NlXoVrENAPo4FQcl). 
+No total foram entrevistadas 3 pessoas, todas com livre consentimento do uso da imagem e participação das entrevistas como mostrados nos vídeos [Entrevista 1](https://youtu.be/zYS0moDR_gI?si=nT_8HgC8Zjb8DSeF), [Entrevista 2](https://youtu.be/KCEM_y5eoc4?si=Awz-9LCvNOI0ITNX) e [Entrevista 3](https://youtu.be/Jo30F-G7l6Q?si=NlXoVrENAPo4FQcl).
 
 De acordo com a figura 6, os usuários entrevistados tem entre 18 e 19 anos.
 
@@ -126,13 +126,12 @@ Após uma análise das respostas, foi traçado dois perfis de usuário, o primei
 - **Grau de escolaridade:** Ensino médio incompleto
 - **Tarefas desejadas:** Organizar atividades acadêmicas e fácil acesso ao programa Pé de meia.
 
-### Usuário 2 - Estudante de faculdade 
+### Usuário 2 - Estudante de faculdade
 
 - **Idade:** Entre 18 e 60 anos.
 - **Afinidade com dispositivos eletrônicos:** Média experiência.
 - **Grau de escolaridade:** Ensino superior incompleto a superior completo
 - **Tarefas desejadas:** Organizar atividades acadêmicas e centralizar suas respectivas informações.
-
 
 ## Referências Bibliográficas
 
@@ -142,9 +141,8 @@ Após uma análise das respostas, foi traçado dois perfis de usuário, o primei
 
 > HENRIQUE, Matheus e FERREIRA, Rafael. Perfil de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 24 set. 2025.
 
-
 ## Histórico de Versões
 
-| Versão | Data       | Descrição           | Autor                                                      | Revisor                                                 |
-|--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
-| 1.0    | 25/09/2025 | Documentação do perfil de usuário |  [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza](https://github.com/mel14-hub), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |
+| Versão | Data       | Descrição                         | Autor                                                                                                                                                                                                                                                     | Revisor                                        |
+| ------ | ---------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 25/09/2025 | Documentação do perfil de usuário | [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza](https://github.com/mel14-hub), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |

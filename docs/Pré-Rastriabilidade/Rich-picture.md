@@ -8,7 +8,7 @@ No caso da Jornada do Estudante, a Rich Picture representa a plataforma, suas pr
 
 ## Parrticipantes
 
-A seguir temos a tabela 1, onde indica todos os participantes da criação do Rich picture, o horário e local. 
+A seguir temos a tabela 1, onde indica todos os participantes da criação do Rich picture, o horário e local.
 
 <div align="center">
   <table>
@@ -51,17 +51,17 @@ A ferramenta Draw.io foi fundamental para a elaboração de elementos visuais-ch
 
 ![Richpicturev1](../img/RichPicture.png)
 
-<font size="3"><p style="text-align: center">Fonte: [Luísa de Souza](https://github.com/luisa12ll)  e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Luísa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 ### Legenda
 
-A construção das Rich Pictures foi elaborada com base em cinco elementos principais, conforme destacado por Revadi (2018, p. 4): atores, operações, armazenamentos de dados, setas e o limite do sistema. Esses elementos, essenciais para a representação do contexto do projeto, podem ser observados na *Imagem 2*
+A construção das Rich Pictures foi elaborada com base em cinco elementos principais, conforme destacado por Revadi (2018, p. 4): atores, operações, armazenamentos de dados, setas e o limite do sistema. Esses elementos, essenciais para a representação do contexto do projeto, podem ser observados na _Imagem 2_
 
 <font size="3"><p style="text-align: center">Figura 1: Legenda versão 1.</p></font>
 
 ![Legendav1](../img/RichPicture-leg.png)
 
-<font size="3"><p style="text-align: center">Fonte: [Luísa de Souza](https://github.com/luisa12ll)  e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Luísa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 ## Bibliografia
 
@@ -69,8 +69,8 @@ A construção das Rich Pictures foi elaborada com base em cinco elementos princ
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                   | Autor             | Revisor         |
-|--------|------------|-----------------------------|-------------------|-----------------|
-| 1.0    | 07/09/2025 | Elaboração do Rich picture do aplicativo           | [Geovanna Alves](https://github.com/GeovannaUmbelino)   | [Pedro Henrique](https://github.com/pedrohpsantos)  |
-| 1.1    | 13/09/2025 | Elaboração do Rich picture do novo aplicativo      | [Luisa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812)  | [Pedro Henrique](https://github.com/pedrohpsantos)  |
-| 1.2   | 03/10/2025 | Adição da tabela de validação | [Yan Matheus](https://github.com/Yanmatheus0812)| [Camila Silva](https://github.com/CamilaSilvaC)
+| Versão | Data       | Descrição                                     | Autor                                                                                             | Revisor                                            |
+| ------ | ---------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 1.0    | 07/09/2025 | Elaboração do Rich picture do aplicativo      | [Geovanna Alves](https://github.com/GeovannaUmbelino)                                             | [Pedro Henrique](https://github.com/pedrohpsantos) |
+| 1.1    | 13/09/2025 | Elaboração do Rich picture do novo aplicativo | [Luisa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
+| 1.2    | 03/10/2025 | Adição da tabela de validação                 | [Yan Matheus](https://github.com/Yanmatheus0812)                                                  | [Camila Silva](https://github.com/CamilaSilvaC)    |

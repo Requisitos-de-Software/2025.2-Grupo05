@@ -2,7 +2,7 @@
 
 ## Introdução
 
-- Essa página reune todos os requisitos elicitados usando as técnicas de [Análise de documentação](./Tecnicas/Analise_docs.md), [Entrevista](./Tecnicas/Entrevista.md), [Questionário](./Tecnicas/Questionário.md) e [Brainstorm](./Tecnicas/Braintorming.md).
+- Essa página reune todos os requisitos elicitados usando as técnicas de [Análise de documentação](./Tecnicas/Analise_docs.md), [Entrevista](./Tecnicas/Entrevista.md), [Questionário](./Tecnicas/Questionário.md) e [Brainstorm](./Tecnicas/Brainstorming.md).
 
 ## Tabela de Requisitos
 
@@ -76,13 +76,13 @@ A tabela 1 disposta abaixo representa todos os requisitos levantados durante a a
 |          RQ56 | O aplicativo deve ter um fórum entre estudantes.                                                                                                                                    |    RF     |     Não      |  1.1   | [Brainstorming](./Tecnicas/Brainstorming.md)                                                                                       |
 |          RQ57 | O aplicativo deve ter um fórum por disciplina entre estudantes e professores.                                                                                                       |    RF     |     Não      |  1.0   | [Brainstorming](./Tecnicas/Brainstorming.md)                                                                                       |
 |          RQ58 | O aplicativo deve permitir a emissão de diplomas.                                                                                                                                   |    RF     |     Não      |  1.0   | [Brainstorming](./Tecnicas/Brainstorming.md)                                                                                       |
-|          RQ59 | O aplicativo deve ter um canal de suporte ao usuário.                                                                                                                               |    RF     |     Sim      |  1.0   | [Brainstorming](./Tecnicas/Brainstorming.md)                                                                                       |
+|          RQ59 | O aplicativo deve ter um canal de suporte ao usuário.                                                                                                                               |    RF     |     Não      |  1.1   | [Brainstorming](./Tecnicas/Brainstorming.md)                                                                                       |
 |          RQ60 | O aplicativo deve permitir a visualização de certificados.                                                                                                                          |    RF     |     Não      |  1.0   | [Brainstorming](./Tecnicas/Brainstorming.md)                                                                                       |
 |          RQ61 | O aplicativo deve permitir a visualização de ocorrências.                                                                                                                           |    RF     |     Não      |  1.0   | [Brainstorming](./Tecnicas/Brainstorming.md)                                                                                       |
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 1 – Conjunto de requisitos elicitados.<br>
-Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, 
+Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>,
 <a href="https://github.com/mel14-hub">Lara Souza</a>,
 <a href="https://github.com/luisa12ll">Luisa de Souza</a>,
@@ -115,7 +115,7 @@ Tabela 2:Informações da Gravação.
 
 Autoria de <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>.</p>
 
-Além disso, a gravação da validação pode ser conferida em: [Link](https://www.youtube.com/watch?v=dK_SfG7SVw8&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=24).
+Além disso, a gravação da validação pode ser conferida em: [Validação da elicitação de requisitos](https://www.youtube.com/watch?v=dK_SfG7SVw8&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=24).
 
 ## Histórico de Versões
 
@@ -125,3 +125,4 @@ Além disso, a gravação da validação pode ser conferida em: [Link](https://w
 | 1.1    | 26/09/2025 | Correção na grafia de alguns requisitos       | [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                                                                                                                                                                                           | [Lara Souza](https://github.com/mel14-hub)            |
 | 1.2    | 30/09/2025 | Correção dos requisitos                       | [Luísa de Souza](https://github.com/luisa12ll)                                                                                                                                                                                                                                                             | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
 | 1.3    | 30/09/2025 | Adicionando vídeo da validação dos requisitos | [Geovanna Alves](https://github.com/GeovannaUmbelino)                                                                                                                                                                                                                                                      | [Yan Matheus](https://github.com/Yanmatheus0812)      |
+| 1.4    | 28/10/2025 | Ajustando requisito 59 não implementado |[Yan Matheus](https://github.com/Yanmatheus0812)   | [Geovanna Alves](https://github.com/GeovannaUmbelino)     |

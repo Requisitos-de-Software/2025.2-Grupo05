@@ -10,9 +10,9 @@ No desenvolvimento do projeto **Jornada do Estudante**, adotaremos o **Scrum** c
 
 O Scrum surgiu como uma das metodologias ágeis criadas a partir do **Manifesto Ágil (2001)**, que prioriza:
 
-- indivíduos e interações  
-- software funcional  
-- colaboração com o cliente  
+- indivíduos e interações
+- software funcional
+- colaboração com o cliente
 - adaptação contínua
 
 Ele é especialmente indicado para projetos como o nosso, pois pode ser dividido em funcionalidades menores e entregues em ciclos curtos (**Sprints**).
@@ -21,10 +21,11 @@ Ele é especialmente indicado para projetos como o nosso, pois pode ser dividido
 
 ## Papéis no Scrum
 
-- **Scrum Master (SM):** garante que o time siga as práticas do Scrum, facilita reuniões, ajuda a remover impedimentos e mantém o foco da equipe.  
+- **Scrum Master (SM):** garante que o time siga as práticas do Scrum, facilita reuniões, ajuda a remover impedimentos e mantém o foco da equipe.
+
   - **Responsável:** [Yan Matheus](https://github.com/Yanmatheus0812)
 
-- **Time de Desenvolvimento:** equipe multidisciplinar, autônoma e colaborativa, responsável por entregar os incrementos do produto.  
+- **Time de Desenvolvimento:** equipe multidisciplinar, autônoma e colaborativa, responsável por entregar os incrementos do produto.
   - **Responsáveis:** [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ---
@@ -46,7 +47,7 @@ Ele é especialmente indicado para projetos como o nosso, pois pode ser dividido
 - Ao final (1 a 4 semanas, sendo comum 2 semanas), ocorre a entrega dos incrementos (ex.: interface de login, sistema de recomendação, otimização de streaming).
 - Depois, acontece a **Sprint Retrospective**, um momento de reflexão sobre acertos, dificuldades e melhorias para a próxima Sprint.
 
-Esse ciclo se repete até a conclusão do projeto, respeitando sempre as entregas previamente definidas.  
+Esse ciclo se repete até a conclusão do projeto, respeitando sempre as entregas previamente definidas.
 
 ---
 
@@ -60,9 +61,9 @@ _Figura 1_: Processo Scrum. Fonte: [mshowto.org](https://www.mshowto.org/agile-v
 
 ## Vantagens do Scrum para o projeto Jornada do Estudante
 
-- **Entrega frequente e incremental:** possibilita entregar partes funcionais da plataforma rapidamente e com qualidade.  
-- **Transparência e adaptação:** todos acompanham o progresso e podem sugerir ajustes, tornando o processo flexível.  
-- **Satisfação do cliente:** entregas constantes permitem o acompanhamento e validação dos incrementos.  
+- **Entrega frequente e incremental:** possibilita entregar partes funcionais da plataforma rapidamente e com qualidade.
+- **Transparência e adaptação:** todos acompanham o progresso e podem sugerir ajustes, tornando o processo flexível.
+- **Satisfação do cliente:** entregas constantes permitem o acompanhamento e validação dos incrementos.
 - **Análise constante:** testes integrados a cada Sprint garantem estabilidade e aderência aos requisitos.
 
 ## Padrões e Políticas
@@ -77,20 +78,19 @@ Essa combinação de metodologias e práticas nos permite trabalhar de forma din
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                   | Autor(es)             | Revisor(es)        |
-|--------|------------|-----------------------------|-------------------|-----------------|
-| 1.0    | 08/09/2025 | Adição da metodologia SCRUM |  [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) | [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
+| Versão | Data       | Descrição                   | Autor(es)                                                                                        | Revisor(es)                                                                                                                                                                                              |
+| ------ | ---------- | --------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.0    | 08/09/2025 | Adição da metodologia SCRUM | [Camila Silva](https://github.com/CamilaSilvaC) e [Luísa de Souza](https://github.com/luisa12ll) | [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
 
 ## Bibliografia
 
-[1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; [www.computer.org.](https://www.computer.org/education/bodies-of-knowledge/software-engineering
- ). Acesso em 07 de Setembro de 2025.
+[1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; [www.computer.org.](https://www.computer.org/education/bodies-of-knowledge/software-engineering). Acesso em 07 de Setembro de 2025.
 
 [2] Usemobile. _Metodologia Scrum para desenvolvimento de aplicativos_. 2022.  
-   Disponível em: [usemobile.com.br/metodologia-scrum-desenvolvimento](http://usemobile.com.br/metodologia-scrum-desenvolvimento/). Acesso em 07 de Setembro de 2025.
+ Disponível em: [usemobile.com.br/metodologia-scrum-desenvolvimento](http://usemobile.com.br/metodologia-scrum-desenvolvimento/). Acesso em 07 de Setembro de 2025.
 
 [3] SEBRAE. _Scrum para projetos ágeis_. 2020.  
-   Disponível em: [sebrae.com.br](https://sebrae.com.br/sites/PortalSebrae/cursosonline/inovacao-e-agilidade-o-futuro-do-empreendedorismo,c269f07e6fb5c710VgnVCM100000d701210aRCRD). Acesso em 07 de Setembro de 2025.
+ Disponível em: [sebrae.com.br](https://sebrae.com.br/sites/PortalSebrae/cursosonline/inovacao-e-agilidade-o-futuro-do-empreendedorismo,c269f07e6fb5c710VgnVCM100000d701210aRCRD). Acesso em 07 de Setembro de 2025.
 
 [4] MSHOWTO. Agile ve Scrum Nedir?
-    Disponível em: [mshowto.org](https://www.mshowto.org/agile-ve-scrum-nedir.html). Acesso em: 16 set. 2025.
+Disponível em: [mshowto.org](https://www.mshowto.org/agile-ve-scrum-nedir.html). Acesso em: 16 set. 2025.

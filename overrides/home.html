@@ -1,7 +1,4 @@
-{% extends "main.html" %}
-
-{% block tabs %}
-{{ super() }}
+{% extends "main.html" %} {% block tabs %} {{ super() }}
 
 <style>
   @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
@@ -49,7 +46,8 @@
   }
 
   @keyframes float {
-    0%, 100% {
+    0%,
+    100% {
       transform: translateY(0);
     }
     50% {
@@ -71,13 +69,17 @@
 
 <body>
   <div class="background">
-    <img src="img/logo-jornada-branco.png" alt="Logo Jornada do Estudante" class="logo" />
+    <img
+      src="img/logo-jornada-branco.png"
+      alt="Logo Jornada do Estudante"
+      class="logo"
+    />
     <p class="description">
-      Documentação do projeto de Requisitos de Software sobre o aplicativo <strong>Jornada do Estudante</strong>
+      Documentação do projeto de Requisitos de Software sobre o aplicativo
+      <strong>Jornada do Estudante</strong>
     </p>
   </div>
 </body>
 
-{% endblock %}
-{% block content %}{% endblock %}
-{% block footer %}{% endblock %}
+{% endblock %} {% block content %}{% endblock %} {% block footer %}{% endblock
+%}
