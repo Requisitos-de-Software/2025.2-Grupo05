@@ -1,20 +1,25 @@
 {
-  // Objeto de configuração para as regras do markdownlint
+  // Regras do markdownlint
   "config": {
-    // Permite linhas até 120 caracteres em vez de desabilitar completamente
+    // Limite de linha mais flexível para documentos técnicos
     "MD013": {
       "line_length": 120,
       "code_blocks": false,
       "tables": false
     },
-    // Permite o uso de HTML
+    // Permite HTML inline (necessário em alguns casos de docs)
     "MD033": false,
-    // Permite títulos que não são cabeçalhos H1
+    // Não exige H1 no topo (muitas páginas são subseções)
     "MD041": false,
-    // Permite ênfase em vez de cabeçalhos
-    "MD036": false
+    // Permite uso de ênfase como pseudo-título em imagens/legendas
+    "MD036": false,
+    // Cabeçalhos cercados por uma linha em branco acima/abaixo
+    "MD022": {
+      "lines_above": 1,
+      "lines_below": 1
+    }
   },
 
-  // Define os arquivos que serão analisados pelo CLI
-  "globs": ["**/*.md", "!node_modules", "!site", "!venv"]
+  // Alvos de lint (inclui tudo, ignora diretórios gerados)
+  "globs": ["/*.md", "!node_modules/", "!site/", "!venv/"]
 }

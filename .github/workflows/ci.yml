@@ -69,20 +69,11 @@ jobs:
           echo "📚 Building MkDocs documentation..."
           mkdocs build --strict --verbose
 
-      # Validar Markdown com configuração específica para documentação
+      # Validar Markdown - usar arquivo de configuração existente se houver
       - name: Lint Markdown files
         uses: DavidAnson/markdownlint-cli2-action@v15
         with:
-          # Usar configuração do arquivo .markdownlint-cli2.jsonc se existir
-          config: |
-            {
-              "MD013": { "line_length": 120, "code_blocks": false, "tables": false },
-              "MD033": false,
-              "MD041": false,
-              "MD036": false,
-              "MD001": true,
-              "MD022": { "lines_above": 1, "lines_below": 1 }
-            }
+          # Usar apenas globs, sem config inline
           globs: |
             **/*.md
             !site/**
@@ -102,7 +93,7 @@ jobs:
 
           # Listar estrutura para debug
           echo "📁 Current documentation structure:"
-          find docs -type f -name "*.md" | head -20 || echo "No markdown files found in docs/"
+          find docs -type f -name "*.md" | head -10 || echo "No markdown files found in docs/"
 
           echo "✅ Documentation structure check completed"
 
@@ -135,10 +126,6 @@ jobs:
           echo ""
           echo "🔍 Para servir localmente:"
           echo "   mkdocs serve"
-          echo ""
-          echo "📋 Para verificar estrutura:"
-          echo "   ls -la docs/"
-          echo "   cat mkdocs.yml"
           echo ""
           echo "################################################################"
 
