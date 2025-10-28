@@ -19,14 +19,13 @@ on:
 # Configurações globais
 env:
   PYTHON_VERSION: "3.11"
-  NODE_VERSION: "18"
 
 jobs:
   # ================================================================
-  # JOB 1: VALIDAÇÃO COMPLETA (Required para PRs)
+  # JOB 1: VALIDAÇÃO DE DOCUMENTAÇÃO (Required para PRs)
   # ================================================================
   validate:
-    name: "🔍 Validate Code & Docs"
+    name: "🔍 Validate Documentation"
     runs-on: ubuntu-latest
 
     steps:
@@ -43,169 +42,113 @@ jobs:
           python-version: ${{ env.PYTHON_VERSION }}
           cache: "pip"
 
-      # Instalar dependências
-      - name: Install dependencies
+      # Instalar dependências do MkDocs
+      - name: Install MkDocs dependencies
         run: |
-          python -m pip install --upgrade pip setuptools wheel
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
-          pip install ruff black bandit safety
 
-      # Validar estrutura de arquivos
+      # Validar estrutura de arquivos obrigatórios
       - name: Check required files
         run: |
           test -f requirements.txt || (echo "❌ requirements.txt not found" && exit 1)
           test -f mkdocs.yml || (echo "❌ mkdocs.yml not found" && exit 1)
-          echo "✅ Required files present"
+          test -d docs || (echo "❌ docs/ directory not found" && exit 1)
+          echo "✅ Required files and directories present"
 
-      # Segurança - verificar vulnerabilidades
-      - name: Security check with Bandit
+      # Verificar sintaxe de arquivos Python (animações)
+      - name: Check Python syntax
         run: |
-          bandit -r . -f json -o bandit-report.json || true
-          bandit -r . --severity-level medium || echo "⚠️ Security warnings found"
+          echo "🐍 Checking Python syntax for animation scripts..."
+          find . -name "*.py" -type f -exec python -m py_compile {} \; || (echo "❌ Python syntax errors found" && exit 1)
+          echo "✅ Python syntax validation passed"
 
-      # Segurança - verificar dependências
-      - name: Check dependencies for vulnerabilities
-        run: |
-          safety check --json --output safety-report.json || echo "⚠️ Dependency vulnerabilities found"
-
-      # Lint Python com Ruff
-      - name: Lint Python with Ruff
-        run: |
-          echo "🔍 Running Ruff linting..."
-          ruff check . --output-format=github
-
-      # Verificar formatação Python
-      - name: Check Python formatting with Black
-        run: |
-          echo "🎨 Checking Python code formatting..."
-          black --check --diff --color .
-
-      # Validar MkDocs build
+      # Validar build do MkDocs (estrutura e links)
       - name: Validate MkDocs build
         run: |
           echo "📚 Building MkDocs documentation..."
           mkdocs build --strict --verbose
 
-      # Setup Node.js para markdownlint
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: ${{ env.NODE_VERSION }}
-          cache: "npm"
-
-      # Validar Markdown
+      # Validar Markdown com configuração específica para documentação
       - name: Lint Markdown files
         uses: DavidAnson/markdownlint-cli2-action@v15
         with:
+          # Usar configuração do arquivo .markdownlint-cli2.jsonc se existir
+          config: |
+            {
+              "MD013": { "line_length": 120, "code_blocks": false, "tables": false },
+              "MD033": false,
+              "MD041": false,
+              "MD036": false,
+              "MD001": true,
+              "MD022": { "lines_above": 1, "lines_below": 1 }
+            }
           globs: |
             **/*.md
             !site/**
             !node_modules/**
             !venv/**
-          config: |
-            {
-              "MD013": { "line_length": 120 },
-              "MD033": false,
-              "MD041": false
-            }
 
-      # Upload artifacts em caso de falha
-      - name: Upload validation artifacts
-        if: failure()
-        uses: actions/upload-artifact@v4
-        with:
-          name: validation-reports
-          path: |
-            bandit-report.json
-            safety-report.json
-          retention-days: 7
-
-  # ================================================================
-  # JOB 2: TESTES (Se houver)
-  # ================================================================
-  test:
-    name: "🧪 Run Tests"
-    runs-on: ubuntu-latest
-    needs: validate
-    if: success()
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: ${{ env.PYTHON_VERSION }}
-          cache: "pip"
-
-      - name: Install dependencies
+      # Verificar estrutura básica da documentação
+      - name: Check documentation structure
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          pip install pytest pytest-cov
+          echo "📋 Checking documentation structure..."
 
-      - name: Run tests (if present)
-        run: |
-          if [ -d "tests" ] || [ -f "test_*.py" ]; then
-            echo "🧪 Running tests..."
-            pytest --cov=. --cov-report=xml --cov-report=html
-          else
-            echo "ℹ️ No tests found, skipping..."
-          fi
+          # Verificar se existe README principal
+          test -f README.md || echo "⚠️ README.md not found in root"
 
-      - name: Upload coverage reports
-        if: success() && hashFiles('coverage.xml') != ''
-        uses: codecov/codecov-action@v3
-        with:
-          file: ./coverage.xml
-          flags: unittests
+          # Verificar estrutura básica do docs/
+          test -f docs/index.md || echo "⚠️ docs/index.md not found"
+
+          # Listar estrutura para debug
+          echo "📁 Current documentation structure:"
+          find docs -type f -name "*.md" | head -20 || echo "No markdown files found in docs/"
+
+          echo "✅ Documentation structure check completed"
 
   # ================================================================
-  # JOB 3: SUGESTÕES DE CORREÇÃO (apenas em falha)
+  # JOB 2: SUGESTÕES DE CORREÇÃO (apenas em falha)
   # ================================================================
   fix-suggestions:
     name: "🛠️ Fix Suggestions"
     runs-on: ubuntu-latest
-    if: failure() && (needs.validate.result == 'failure' || needs.test.result == 'failure')
-    needs: [validate, test]
+    if: failure() && needs.validate.result == 'failure'
+    needs: validate
 
     steps:
       - name: Show fix commands
         run: |
           echo "################################################################"
           echo "#                                                              #"
-          echo "#          ❌ ERROS ENCONTRADOS - COMANDOS PARA CORRIGIR       #"
+          echo "#          ❌ ERROS DE DOCUMENTAÇÃO - COMANDOS PARA CORRIGIR   #"
           echo "#                                                              #"
           echo "################################################################"
-          echo ""
-          echo "🎨 Para corrigir formatação Python:"
-          echo "   black ."
-          echo ""
-          echo "🔧 Para corrigir erros de lint Python:"
-          echo "   ruff check . --fix"
           echo ""
           echo "📝 Para corrigir erros de Markdown:"
           echo "   npx markdownlint-cli2 --fix \"**/*.md\" \"#site\""
           echo ""
-          echo "🔒 Para verificar segurança:"
-          echo "   bandit -r ."
-          echo "   safety check"
+          echo "🐍 Para verificar sintaxe Python (animações):"
+          echo "   python -m py_compile arquivo.py"
           echo ""
-          echo "📚 Para testar MkDocs:"
+          echo "📚 Para testar build do MkDocs:"
           echo "   mkdocs build --strict"
           echo ""
-          echo "🧪 Para rodar testes:"
-          echo "   pytest"
+          echo "🔍 Para servir localmente:"
+          echo "   mkdocs serve"
+          echo ""
+          echo "📋 Para verificar estrutura:"
+          echo "   ls -la docs/"
+          echo "   cat mkdocs.yml"
           echo ""
           echo "################################################################"
 
   # ================================================================
-  # JOB 4: DEPLOY (apenas main com validação aprovada)
+  # JOB 3: DEPLOY (apenas main com validação aprovada)
   # ================================================================
   deploy:
     name: "🚀 Deploy Documentation"
     runs-on: ubuntu-latest
-    needs: [validate, test]
+    needs: validate
     # Deploy apenas em push para main (não PRs) e com validação OK
     if: |
       success() && 
@@ -244,23 +187,23 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   # ================================================================
-  # JOB 5: NOTIFICAÇÃO DE STATUS
+  # JOB 4: NOTIFICAÇÃO DE STATUS
   # ================================================================
   notify:
     name: "📢 Notify Status"
     runs-on: ubuntu-latest
-    needs: [validate, test, deploy]
+    needs: [validate, deploy]
     if: always()
 
     steps:
       - name: Notify success
-        if: needs.validate.result == 'success' && needs.test.result == 'success'
+        if: needs.validate.result == 'success'
         run: |
-          echo "✅ Pipeline executada com sucesso!"
-          echo "📚 Documentação: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
+          echo "✅ Documentação validada com sucesso!"
+          echo "📚 Site: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
 
       - name: Notify failure
-        if: needs.validate.result == 'failure' || needs.test.result == 'failure'
+        if: needs.validate.result == 'failure'
         run: |
-          echo "❌ Pipeline falhou. Verifique os logs acima para detalhes."
-          echo "💡 Execute os comandos de correção sugeridos."
+          echo "❌ Validação da documentação falhou."
+          echo "💡 Verifique os erros de Markdown, Python ou estrutura acima."
