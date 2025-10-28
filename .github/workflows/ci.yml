@@ -1,79 +1,124 @@
-# .github/workflows/ci.yml
+name: CI & Deploy
 
-name: build and deploy
+# Eventos bem específicos para evitar duplicação
 on:
   push:
-    branches:
-      - main
+    branches: [main] # Push só para main
+  pull_request:
+    branches: [main, devel] # PRs para main ou devel
+    types: [opened, synchronize, reopened]
 
 jobs:
-  validate:
+  # ===================================================================
+  # JOB ÚNICO: Validação + Deploy Condicional
+  # ===================================================================
+  ci-and-deploy:
+    name: "🔍 CI & Deploy"
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - name: 🔦 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🧰 Setup python
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.x
-      - name: Instalar dependências
+          python-version: "3.12"
+
+      - name: 💾 Instalar dependências
         run: |
-          python -m pip install --upgrade pip
           pip install -r requirements.txt
-          pip install ruff black bandit
-      
-      - name: Validar build do MkDocs
-        run: mkdocs build --strict
+          pip install ruff
 
-      - name: Verificar código Python com Ruff
+      # ============ VALIDAÇÃO ============
+      - name: 🎨 Ruff format
+        id: ruff-format
+        run: ruff format --check .
+        continue-on-error: true
+
+      - name: 🛁 Ruff check
+        id: ruff-check
         run: ruff check .
+        continue-on-error: true
 
-      - name: Verificar formatação do código Python com Black
-        run: black --check .
+      - name: 🐍 Python syntax
+        id: python-syntax
+        run: find . -name "*.py" -type f -exec python -m py_compile {} \;
+        continue-on-error: true
 
-      # --- NOVO PASSO ADICIONADO AQUI ---
-      - name: Validar Markdown com markdownlint
+      - name: 📚 MkDocs build
+        id: mkdocs-build
+        run: mkdocs build --strict --verbose
+        continue-on-error: true
+
+      - name: 📝 MarkdownLint
+        id: markdown-lint
         uses: DavidAnson/markdownlint-cli2-action@v15
         with:
-          # Adiciona a flag para ignorar o diretório 'site'
           globs: |
             **/*.md
-            !site
+            !site/**
+            !node_modules/**
+            !venv/**
+        continue-on-error: true
 
-  # O resto do arquivo continua igual...
-  fix-suggestions-python:
-    runs-on: ubuntu-latest
-    if: failure() && needs.validate.result == 'failure'
-    needs: validate
-    name: "Fix 🧰🛠️"
-    steps:
-      - name: Mostrar comandos de correção para Python
+      # ============ VERIFICAÇÃO DE ERROS ============
+      - name: ❌ Verificar erros e mostrar correções
+        if: |
+          steps.ruff-format.outcome == 'failure' ||
+          steps.ruff-check.outcome == 'failure' ||
+          steps.python-syntax.outcome == 'failure' ||
+          steps.mkdocs-build.outcome == 'failure' ||
+          steps.markdown-lint.outcome == 'failure'
         run: |
           echo "################################################################"
-          echo "#                                                              #"
-          echo "#          ERROS DE CÓDIGO OU FORMATAÇÃO ENCONTRADOS!          #"
-          echo "#                                                              #"
+          echo "#         ❌ ERROS ENCONTRADOS - COMO CORRIGIR                  #"
           echo "################################################################"
-          echo ""
-          echo "Para corrigir automaticamente, rode os seguintes comandos:"
-          echo ""
-          echo "# Para formatar o código:"
-          echo "black ."
-          echo ""
-          echo "# Para corrigir outros erros de lint:"
-          echo "ruff check . --fix"
-          echo ""
-          echo "# Para corrigir erros de Markdown:"
-          echo "markdownlint-cli2 --fix \"{**/*.md,**/*.MD}\" \"#site\""
-          echo ""
 
-  deploy:
-    runs-on: ubuntu-latest
-    # needs: validate
-    steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          python-version: 3.x
-      - name: Instalar dependências da documentação
-        run: pip install -r requirements.txt
-      - name: Fazer o deploy da documentação
-        run: mkdocs gh-deploy --force
+          if [[ "${{ steps.ruff-format.outcome }}" == "failure" ]]; then
+            echo "🦄 Ruff format: ruff format ."
+          fi
+
+          if [[ "${{ steps.ruff-check.outcome }}" == "failure" ]]; then
+            echo "⭐ Ruff check: ruff check . --fix"
+          fi
+
+          if [[ "${{ steps.python-syntax.outcome }}" == "failure" ]]; then
+            echo "🐍 Python: python -m py_compile arquivo.py"
+          fi
+
+          if [[ "${{ steps.markdown-lint.outcome }}" == "failure" ]]; then
+            echo "📝 Markdown: Corrija links vazios [Foto]() e [Link]()"
+          fi
+
+          if [[ "${{ steps.mkdocs-build.outcome }}" == "failure" ]]; then
+            echo "📚 MkDocs: mkdocs build --strict"
+          fi
+
+          echo "################################################################"
+          exit 1
+
+      # ============ DEPLOY (SÓ SE TUDO OK E FOR PUSH PARA MAIN) ============
+      - name: 🚀 Deploy to GitHub Pages
+        if: |
+          success() && 
+          github.event_name == 'push' && 
+          github.ref == 'refs/heads/main'
+        run: |
+          echo "📚 Fazendo deploy da documentação..."
+          mkdocs gh-deploy --force --clean --verbose
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ============ NOTIFICAÇÃO DE SUCESSO ============
+      - name: ✅ Sucesso
+        if: success()
+        run: |
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            echo "✅ Pull Request validado com sucesso!"
+          elif [[ "${{ github.ref }}" == "refs/heads/main" ]]; then
+            echo "✅ Deploy realizado com sucesso!"
+            echo "📚 Site: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
+          else
+            echo "✅ Validação concluída com sucesso!"
+          fi

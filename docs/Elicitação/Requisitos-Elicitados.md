@@ -2,7 +2,7 @@
 
 ## Introdução
 
-- Essa página reune todos os requisitos elicitados usando as técnicas de [Análise de documentação](./Tecnicas/Analise_docs.md), [Entrevista](./Tecnicas/Entrevista.md), [Questionário](./Tecnicas/Questionário.md) e [Brainstorm](./Tecnicas/Braintorming.md).
+- Essa página reune todos os requisitos elicitados usando as técnicas de [Análise de documentação](./Tecnicas/Analise_docs.md), [Entrevista](./Tecnicas/Entrevista.md), [Questionário](./Tecnicas/Questionário.md) e [Brainstorm](./Tecnicas/Brainstorming.md).
 
 ## Tabela de Requisitos
 
@@ -82,7 +82,7 @@ A tabela 1 disposta abaixo representa todos os requisitos levantados durante a a
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 1 – Conjunto de requisitos elicitados.<br>
-Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>, 
+Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>,
 <a href="https://github.com/mel14-hub">Lara Souza</a>,
 <a href="https://github.com/luisa12ll">Luisa de Souza</a>,
@@ -115,7 +115,7 @@ Tabela 2:Informações da Gravação.
 
 Autoria de <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>.</p>
 
-Além disso, a gravação da validação pode ser conferida em: [Link](https://www.youtube.com/watch?v=dK_SfG7SVw8&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=24).
+Além disso, a gravação da validação pode ser conferida em: [Validação da elicitação de requisitos](https://www.youtube.com/watch?v=dK_SfG7SVw8&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=24).
 
 ## Histórico de Versões
 

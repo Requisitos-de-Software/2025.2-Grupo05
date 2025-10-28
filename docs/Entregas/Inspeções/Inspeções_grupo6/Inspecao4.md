@@ -1,10 +1,10 @@
-## Introdução
+# Introdução
 
 Esta página tem como objetivo armazenar a inspeção da Entrega 4, bem como demais documentos relacionados, referentes ao nosso próprio grupo.
 
 ## Inspeção 4
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xT2oOKes48s?si=l3zS0-opVa-DbUOq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C33Cxm9YYH8?si=EJ2a_n2vdzjzC1u8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Participantes
 
@@ -122,8 +122,8 @@ A tabela 5 mostra a lista de verificação para a técnica NFR Framework.
 ## Bibliografia
 
 > 1. PRESSMAN, Roger S.; MAXIM, Bruce R. Engenharia de Software: Uma Abordagem Profissional. 9. ed. Porto Alegre: AMGH, 2021.
-> 2. Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3.
-> 3. SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf.
+> 2. Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: [computer.org](http://www.computer.org/web/swebok/v3).
+> 3. SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: [aprender 3](https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf).
 
 ## Histórico de Versões
 

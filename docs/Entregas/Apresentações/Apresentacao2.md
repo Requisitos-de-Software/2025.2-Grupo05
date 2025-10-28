@@ -1,4 +1,4 @@
-## Introdução
+# Introdução
 
 O objetivo dessa página é armazenar o vídeo da apresentação da entrega 2 e demais documentos relacionados. Acesse o vídeo clicando no link correspondente.
 
@@ -10,7 +10,6 @@ O objetivo dessa página é armazenar o vídeo da apresentação da entrega 2 e 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                    | Autor(es)                          | Revisor(es)                          |
-|--------|------------|------------------------------|-----------------------------------|-------------------------------------|
-| 1.0    | 02/10/2025 | Documentação da apresentação 2   | [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |
-
+| Versão | Data       | Descrição                      | Autor(es)                                        | Revisor(es)                                    |
+| ------ | ---------- | ------------------------------ | ------------------------------------------------ | ---------------------------------------------- |
+| 1.0    | 02/10/2025 | Documentação da apresentação 2 | [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |

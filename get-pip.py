@@ -35,13 +35,13 @@ if this_python < min_version:
     print("ERROR: " + " ".join(message_parts))
     sys.exit(1)
 
-
 import os.path
 import pkgutil
 import shutil
 import tempfile
 import argparse
 import importlib
+import importlib.util
 from base64 import b85decode
 
 
@@ -98,7 +98,11 @@ def monkeypatch_for_cert(tmpdir):
     # We want to be using the internal certificates.
     cert_path = os.path.join(tmpdir, "cacert.pem")
     with open(cert_path, "wb") as cert:
-        cert.write(pkgutil.get_data("pip._vendor.certifi", "cacert.pem"))
+        cert_data = pkgutil.get_data("pip._vendor.certifi", "cacert.pem")
+        if cert_data is not None:  # Correção 2: Verificação de None
+            cert.write(cert_data)
+        else:
+            raise RuntimeError("Could not load certificate data")
 
     install_parse_args = InstallCommand.parse_args
 

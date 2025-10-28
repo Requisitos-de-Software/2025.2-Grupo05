@@ -1,7 +1,8 @@
 # Técnica de elicitação de requisitos - Análise de documentos
 
 ## Introdução
-- A analise de documentos é um meio de elicitar requisitos pelo o estudo da documentação do aplicativo jornada do Estudante.O apicativo é uma iniciativa do Mec que busca facilitar  o acesso às políticas educacionais, apoiar a tomada de decisão e promover a inclusão digital, tornando-se um instrumento essencial para a vida acadêmica do estudante no Brasil.
+
+- A analise de documentos é um meio de elicitar requisitos pelo o estudo da documentação do aplicativo jornada do Estudante.O apicativo é uma iniciativa do Mec que busca facilitar o acesso às políticas educacionais, apoiar a tomada de decisão e promover a inclusão digital, tornando-se um instrumento essencial para a vida acadêmica do estudante no Brasil.
 
 ## Participantes
 
@@ -37,7 +38,7 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ## Tabela de Requisitos
 
- A tabela 2 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
+A tabela 2 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
 
 - RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
 - RNF: Requisitos Não-Funcionais - Descrevem os atributos que o software deve ter, como desempenho, segurança e usabilidade, mas não descrevem o comportamento do software em si.
@@ -72,12 +73,10 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 2 – Conjunto de requisitos elicitados na análise documental.<br>
-Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>, 
-<a href="https://github.com/luisa12ll">Luisa de Souza</a> e 
+Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>,
+<a href="https://github.com/luisa12ll">Luisa de Souza</a> e
 <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>.
 </p>
-
-
 
 ## Bibliografia
 
@@ -85,9 +84,7 @@ Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>,
   <https://www.gov.br/mec/pt-br/jornadadoestudante>. Acesso em: 20 set. 2025.
 
 - Carlos Eduardo Vazques,Guilherme Siqueira Simões.**Engenharia de Requisitos**. 1.ed. BRASPORT,2016
-  
 - GOOGLE. Jornada do Estudante. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante>. Acesso em: 20 set. 2025.
-  
 - UNIVERSIDADE FEDERAL DE SANTA CATARINA. Laboratório Bridge. **Conheça o aplicativo Jornada do Estudante**. Disponível em: <https://portal.bridge.ufsc.br/2023/04/18/conheca-o-aplicativo-jornada-do-estudante/>. Acesso em: 20 set. 2025.
 
 ## Gravação
@@ -96,8 +93,8 @@ Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>,
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição           | Autor                                                      | Revisor                                                 |
-|--------|------------|--------------------|------------------------------------------------------------|----------------------------------------------------------|
-| 1.0    | 25/09/2025 | Documentação dos requisitos da analise de documentação | [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos)  |
-| 1.1    | 09/10/2025 | Adicionado a tabela de contribuição | [Yan Matheus](https://github.com/Yanmatheus0812) | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
-| 1.2    | 09/10/2025 | Colocando links com referências | [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |
+| Versão | Data       | Descrição                                              | Autor                                                                                                                                         | Revisor                                               |
+| ------ | ---------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| 1.0    | 25/09/2025 | Documentação dos requisitos da analise de documentação | [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos)    |
+| 1.1    | 09/10/2025 | Adicionado a tabela de contribuição                    | [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                              | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
+| 1.2    | 09/10/2025 | Colocando Fotos com referências                        | [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                              | [Luísa de Souza](https://github.com/luisa12ll)        |
