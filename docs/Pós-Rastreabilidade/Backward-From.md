@@ -120,7 +120,8 @@ Itens | Descrição
 | [RQ1](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Refer%C3%AAncia-,RQ1,-O%20aplicativo%20deve) | O aplicativo deve permitir o acesso do usuário através de uma autenticação com o gov. |
 | Categoria | Desenvolvimento. |
 | Origem | [Análise de documentação 01](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD01,-O%20aplicativo%20deve)|
-| Elos Backward-From | Representação — documentado como requisito funcional; Recurso — depende do provedor de identidade gov.br; Responsabilidade — MEC como mantenedor do canal/app. |
+| Elos Backward-From |  Agregação - O requisito originou-se da Técnica de análise de documentos [ADD01](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD01,-O%20aplicativo%20deve)|
+| Implementação | Implementado |
 | Evidência | Requisito listado como implementado (versão 1.1), indicando login via gov.br ativo no app. |
 
 <p style="font-size: 14px;">Tabela 3 - EF01 - Cartão do Requisito Funcional 01</p>
@@ -132,8 +133,9 @@ Itens | Descrição
 | ------------- | ---- |
 | [RQ03](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ3,-O%20aplicativo%20deve) | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. |
 | Categoria | Desenvolvimento (RNF). |
-| Origem | [Análise de documentação 04](hhttps://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD04,-O%20aplicativo%20deve) |
-| Elos Backward-From | Agregação — decisão arquitetural agregada ao design; Satisfação — visa integridade/segurança dos documentos; Representação — registrado em artefatos técnicos do projeto. |
+| Origem | [Análise de documentação 04](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD04,-O%20aplicativo%20deve) |
+| Elos Backward-From |  Agregação - O requisito originou-se da Técnica de análise de documentos [ADD04](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD04,-O%20aplicativo%20deve)|
+| Implementação | Implementado |
 | Evidência | Requisito RNF listado como implementado (versão 1.0). |
 
 <p style="font-size: 14px;">Tabela 4 - EF03 - Cartão do Requisito Não Funcional 03</p>
@@ -146,7 +148,8 @@ Itens | Descrição
 | [RQ04](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ4,-O%20aplicativo%20deve) | O aplicativo deve permitir aos estudantes do Brasil unificar o acesso a suas informações acadêmicas, como dados de cursos, disciplinas e progresso. |
 | Categoria | Desenvolvimento (RF). |
 | Origem | [Análise de documentação 05](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD05,-O%20aplicativo%20deve) |
-| Elos Backward-From | Agregação — compõe a visão de jornada integrada; Representação — casos/fluxos de consulta; Recurso — integrações com bases acadêmicas. |
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de análise de documentos [ADD05](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD05,-O%20aplicativo%20deve) |
+| Implementação | Implementado |
 | Evidência | Requisito funcional implementado (versão 1.0). |
 
 <p style="font-size: 14px;">Tabela 5 - EF04 - Cartão do Requisito Funcional 04</p>
@@ -159,7 +162,8 @@ Itens | Descrição
 | [RQ05](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ5,-O%20aplicativo%20deve) | O aplicativo deve permitir o acompanhamento o status do programa Pé-de-Meia. |
 | Categoria | Desenvolvimento (RF). |
 | Origem | [Análise de documentação 06](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD06,-O%20aplicativo%20deve) |
-| Elos Backward-From | Representação — consulta de situação/extratos; Recurso — depende de dados das redes de ensino; Satisfação — monitora elegibilidade e parcelas. |
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de análise de documentos [ADD06](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD06,-O%20aplicativo%20deve)|
+| Implementação | Implementado |
 | Evidência | Requisito funcional implementado (versão 1.0). |
 
 <p style="font-size: 14px;">Tabela 6 - EF05 - Cartão do Requisito Funcional 05</p>
@@ -172,7 +176,8 @@ Itens | Descrição
 | [RQ08](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ8,-O%20aplicativo%20deve) | O aplicativo deve possibilitar a visualização de faltas do estudante. |
 | Categoria | Desenvolvimento (RF). |
 | Origem | [Análise de documentação 09](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD09,-O%20aplicativo%20deve) |
-| Elos Backward-From | Recurso — consome dados de frequência; Agregação — integra informações acadêmicas; Representação — fluxo de consulta ligado à elegibilidade. |
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de análise de documentos [ADD09](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD09,-O%20aplicativo%20deve) |
+| Implementação | Implementado |
 | Evidência | Requisito funcional implementado (versão 1.0). |
 
 <p style="font-size: 14px;">Tabela 7 - EF08 - Cartão do Requisito Funcional 08</p>
@@ -185,7 +190,8 @@ Itens | Descrição
 | [RQ09](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ9,-O%20aplicativo%20deve) | O aplicativo deve apresentar atualizações referente ao pagamento do Pé-de-Meia disponível em até um mês. |
 | Categoria | Desenvolvimento (RF). |
 | Origem | [Análise de documentação 10](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD010,-O%20aplicativo%20deve) |
-| Elos Backward-From | Satisfação — acompanha ciclo mensal; Recurso — depende do cronograma operacional; Representação — atualização de status conforme processamento. |
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de análise de documentos [ADD010](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD010,-O%20aplicativo%20deve) |
+| Implementação | Não Implementado |
 | Evidência | Requisito listado como não implementado (versão 1.0). |
 
 <p style="font-size: 14px;">Tabela 8 - EF09 - Cartão do Requisito Funcional 09</p>
@@ -198,7 +204,8 @@ Itens | Descrição
 | [RQ11](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ11,-O%20aplicativo%20deve) | O aplicativo deve possibilitar o acompanhamento de registros estudantis desde o ingresso até níveis superiores. |
 | Categoria | Desenvolvimento (RF). |
 | Origem | [Análise de documentação 13](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD013,-O%20aplicativo%20deve) |
-| Elos Backward-From | Agregação — visão longitudinal da jornada; Recurso — integrações contínuas com bases escolares; Representação — fluxos de histórico/situação. |
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de análise de documentos [ADD013](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD013,-O%20aplicativo%20deve) |
+| Implementação | Implementado |
 | Evidência | Requisito funcional implementado (versão 1.0). |
 
 <p style="font-size: 14px;">Tabela 9 - EF11 - Cartão do Requisito Funcional 11</p>
@@ -211,7 +218,8 @@ Itens | Descrição
 | [RQ12](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ12,-O%20aplicativo%20deve) | O aplicativo deve ser um canal direto de comunicação entre o MEC e os estudantes. |
 | Categoria | Desenvolvimento (RF). |
 | Origem | [Análise de documentação 15](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD015,-O%20aplicativo%20deve) |
-| Elos Backward-From | Representação — finalidade comunicacional; Satisfação — objetivo organizacional de comunicação; Responsabilidade — MEC como emissor institucional. |
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de análise de documentos [ADD015](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD015,-O%20aplicativo%20deve) |
+| Implementação | Implementado |
 | Evidência | Requisito funcional implementado (versão 1.0). |
 
 <p style="font-size: 14px;">Tabela 10 - EF12 - Cartão do Requisito Funcional 12</p>
@@ -224,7 +232,8 @@ Itens | Descrição
 | [RQ13](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ13,-O%20aplicativo%20deve) | O aplicativo deve possibilitar informar um curso que você estudou ou está cursando. |
 | Categoria | Desenvolvimento (RF). |
 | Origem | [Análise de documentação 16](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD016,-O%20aplicativo%20deve)|
-| Elos Backward-From | Recurso — atualização/integração de dados escolares; Representação — fluxo de atualização de perfil acadêmico; Agregação — parte do conjunto de informações unificadas. |
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de análise de documentos [ADD016](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD016,-O%20aplicativo%20deve) |
+| Implementação | Implementado |
 | Evidência | Requisito funcional implementado (versão 1.0). |
 
 <p style="font-size: 14px;">Tabela 11 - EF13 - Cartão do Requisito Funcional 13</p>
