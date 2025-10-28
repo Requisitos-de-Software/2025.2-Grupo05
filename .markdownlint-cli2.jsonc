@@ -1,10 +1,18 @@
 {
   // Objeto de configuração para as regras do markdownlint
   "config": {
-    // Desabilita a regra de comprimento da linha
-    "MD013": false,
+    // Permite linhas até 120 caracteres em vez de desabilitar completamente
+    "MD013": {
+      "line_length": 120,
+      "code_blocks": false,
+      "tables": false
+    },
     // Permite o uso de HTML
-    "MD033": false
+    "MD033": false,
+    // Permite títulos que não são cabeçalhos H1
+    "MD041": false,
+    // Permite ênfase em vez de cabeçalhos
+    "MD036": false
   },
 
   // Define os arquivos que serão analisados pelo CLI
