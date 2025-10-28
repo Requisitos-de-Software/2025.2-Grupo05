@@ -1,24 +1,20 @@
 name: CI & Deploy
 
+# Eventos bem específicos para evitar duplicação
 on:
-  # Só roda em push para main (deploy) ou devel (validação)
   push:
-    branches: [main, devel]
-
-  # Roda em PRs, mas só se NÃO for push simultâneo
+    branches: [main] # Push só para main
   pull_request:
-    branches: [main, devel]
+    branches: [main, devel] # PRs para main ou devel
     types: [opened, synchronize, reopened]
 
 jobs:
   # ===================================================================
-  # JOB 1: Validação Completa
+  # JOB ÚNICO: Validação + Deploy Condicional
   # ===================================================================
-  validate:
-    name: "🔍 Validação Geral"
+  ci-and-deploy:
+    name: "🔍 CI & Deploy"
     runs-on: ubuntu-latest
-    # Evita execução duplicada: se for PR de uma branch do mesmo repo, pula o push
-    if: github.event_name == 'pull_request' || (github.event_name == 'push' && !contains(github.event.head_commit.message, 'Merge pull request'))
 
     steps:
       - name: 🔦 Checkout
@@ -29,22 +25,23 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: 💾 Instalar dependências Python
+      - name: 💾 Instalar dependências
         run: |
           pip install -r requirements.txt
           pip install ruff
 
-      - name: 🎨 Ruff format (checar estilo)
+      # ============ VALIDAÇÃO ============
+      - name: 🎨 Ruff format
         id: ruff-format
         run: ruff format --check .
         continue-on-error: true
 
-      - name: 🛁 Ruff check (bug/lint)
+      - name: 🛁 Ruff check
         id: ruff-check
         run: ruff check .
         continue-on-error: true
 
-      - name: 🐍 Python syntax (animações)
+      - name: 🐍 Python syntax
         id: python-syntax
         run: find . -name "*.py" -type f -exec python -m py_compile {} \;
         continue-on-error: true
@@ -65,7 +62,8 @@ jobs:
             !venv/**
         continue-on-error: true
 
-      - name: ❌ Exibir comandos de correção se houver erros
+      # ============ VERIFICAÇÃO DE ERROS ============
+      - name: ❌ Verificar erros e mostrar correções
         if: |
           steps.ruff-format.outcome == 'failure' ||
           steps.ruff-check.outcome == 'failure' ||
@@ -100,32 +98,27 @@ jobs:
           echo "################################################################"
           exit 1
 
-  # ===================================================================
-  # JOB 2: Deploy (SÓ em push para main)
-  # ===================================================================
-  deploy:
-    name: "🚀 Deploy"
-    needs: validate
-    runs-on: ubuntu-latest
-    # Deploy APENAS em push para main (nunca em PRs)
-    if: success() && github.event_name == 'push' && github.ref == 'refs/heads/main'
-
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Instalar dependências
-        run: pip install -r requirements.txt
-
-      - name: Build docs
-        run: mkdocs build --verbose
-
-      - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force --clean --verbose
+      # ============ DEPLOY (SÓ SE TUDO OK E FOR PUSH PARA MAIN) ============
+      - name: 🚀 Deploy to GitHub Pages
+        if: |
+          success() && 
+          github.event_name == 'push' && 
+          github.ref == 'refs/heads/main'
+        run: |
+          echo "📚 Fazendo deploy da documentação..."
+          mkdocs gh-deploy --force --clean --verbose
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ============ NOTIFICAÇÃO DE SUCESSO ============
+      - name: ✅ Sucesso
+        if: success()
+        run: |
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            echo "✅ Pull Request validado com sucesso!"
+          elif [[ "${{ github.ref }}" == "refs/heads/main" ]]; then
+            echo "✅ Deploy realizado com sucesso!"
+            echo "📚 Site: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
+          else
+            echo "✅ Validação concluída com sucesso!"
+          fi
