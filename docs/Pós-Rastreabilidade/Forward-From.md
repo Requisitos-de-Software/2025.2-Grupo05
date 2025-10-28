@@ -372,6 +372,132 @@ Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 
 
+### EF35 - Rastrebilidade Forward From do requisito RF35
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ35](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ35,-O%20aplicativo%20deve) | O aplicativo deve possibilitar o usuário acessar um fórum de dúvidas sobre o auxílio.|
+| Categoria | Desenvolvimento  |
+| Elementos | [Cenário 12](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=ID-,RQ35,-Objetivo), [Léxico 09](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=requisitos%20elicitados%3A-,RQ35,-%2C%20RQ36%2C%20RQ55%2C%20RQ56), [Léxico 17](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=%3ARQ12%2CRQ14%2C-,RQ35,-%2CRQ36%2CRQ55%2CRQ56), [Caso de Uso 7](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Casos-de-uso/#:~:text=Luisa%20de%20Souza-,UC07,-Informa%C3%A7%C3%B5es) e [História de Usuario 27](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=de%20usu%C3%A1rio%2027.-,HU27,-Informa%C3%A7%C3%B5es)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Should na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=2%2C%20Question%C3%A1rio-,RQ35,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade OUT na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=2%2C%20Question%C3%A1rio-,RQ35,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $7 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=7-,RQ35,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=M%C3%A9dia-,RQ35,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 7 - Comunicar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=M%C3%A9dia-,%C3%89pico%207%20%2D%20Comunicar,-Feature%201%20%2D%20F%C3%B3rum)|
+| Implementação | Não Implementado |
+| Evidência|Nenhuma|
+
+<p style="font-size: 14px;">Tabela 31 - EF35 - Cartão do Requisito Funcional 35</p>
+Fonte: <a  href="https://github.com/luisa12ll"> Luisa de Souza </a>
+
+
+
+### EF36 - Rastrebilidade Forward From do requisito RF36
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ36](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ36,-O%20aplicativo%20deve) | O aplicativo deve possibilitar o usuário ser atendido em um canal de conversa sobre o auxílio.|
+| Categoria | Desenvolvimento  |
+| Elementos | [Cenário 13](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=ID-,RQ36,-Objetivo), [Léxico 09](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Yan%20Matheus.-,L09%3A%20Comunicar%20em%20canais,-O%20L%C3%A9xico%20presente), [Léxico 17](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L17%3A%20Comunica%C3%A7%C3%A3o%20e%20Intera%C3%A7%C3%A3o,-O%20lexico%20presente), [Caso de Uso 7](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Casos-de-uso/#:~:text=Luisa%20de%20Souza-,UC07,-Informa%C3%A7%C3%B5es) e [História de Usuario 28](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Camila%20Silva-,HU28%20%E2%80%93%20Atendimento%20via%20Canal%20de%20Conversa,-A%20tabela%2029)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=2%2C%20Question%C3%A1rio-,RQ36,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=2%2C%20Question%C3%A1rio-,RQ36,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $4,25 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=4%2C50-,RQ36,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ36,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 2 - Unificar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=Alta-,%C3%89pico%202%20%2D%20Unificar,-Feature%201%20%2D%20Eventos)|
+| Implementação | Não Implementado |
+| Evidência|Nenhuma|
+
+<p style="font-size: 14px;">Tabela 32 - EF36 - Cartão do Requisito Funcional 36</p>
+Fonte: <a  href="https://github.com/luisa12ll"> Luisa de Souza </a>
+
+
+
+
+
+
+
+### EF37 - Rastrebilidade Forward From do requisito RF37
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ37](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ37,-O%20aplicativo%20deve) | O aplicativo deve possibilitar o usuário visualizar datas de eventos em um calendário.|
+| Categoria | Desenvolvimento  |
+| Elementos | [Cenário 14](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=e%20Yan%20Matheus-,Cen%C3%A1rio%2014%3A%20Visualiza%C3%A7%C3%A3o%20de%20calend%C3%A1rio%20de%20eventos,-Item), [Léxico 03](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Yan%20Matheus.-,L03%3A%20Consultar%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente), [Léxico 18](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=de%20Souza.-,L18%3A%20Calend%C3%A1rio%20e%20Eventos,-O%20lexico%20presente) e [História de Usuario 29](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Camila%20Silva-,HU29%20%E2%80%93%20Visualizar%20Eventos%20em%20Calend%C3%A1rio,-A%20tabela%2030)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Should na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=2%2C%20Question%C3%A1rio-,RQ37,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=2%2C%20Question%C3%A1rio-,RQ37,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $1,50 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=1%2C50-,RQ37,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ37,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 2 - Unificar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=Alta-,%C3%89pico%202%20%2D%20Unificar,-Feature%201%20%2D%20Eventos)|
+| Implementação | Não Implementado |
+| Evidência|Nenhuma|
+
+<p style="font-size: 14px;">Tabela 33 - EF37 - Cartão do Requisito Funcional 37</p>
+Fonte: <a  href="https://github.com/luisa12ll"> Luisa de Souza </a>
+
+
+### EF38 - Rastrebilidade Forward From do requisito RF38
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ38](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=%2C%20Question%C3%A1rio%20Brainstorming-,RQ38,-O%20aplicativo%20deve) | O aplicativo deve ter informações unificadas sobre sua jornada escolar.|
+| Categoria | Desenvolvimento  |
+| Elementos | [História de Usuario 30](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Camila%20Silva-,HU30%20%E2%80%93%20Informa%C3%A7%C3%B5es%20Unificadas%20sobre%20Jornada%20Escolar,-A%20tabela%2031)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Could na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=%2C%20Question%C3%A1rio%20Brainstorming-,RQ38,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade OUT na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=%2C%20Question%C3%A1rio%20Brainstorming-,RQ38,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $26 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=29-,RQ38,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ38,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 1 - Acompanhar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=Prioriza%C3%A7%C3%A3o-,%C3%89pico%201%20%2D%20Acompanhar,-Feature%201%20%2D%20Oportunidades)|
+| Implementação | Implementado |
+| Evidência|[Link do site](https://www.gov.br/mec/pt-br/jornadadoestudante#:~:text=Com%20o%20aplicativo%2C%20espera%2Dse%20unificar%20o%20acesso%20%C3%A0s%20informa%C3%A7%C3%B5es%20estudantis%20que%20s%C3%A3o%20captadas%20ao%20longo%20da%20vida.%20Al%C3%A9m%20disso%2C%20o%20app%20tamb%C3%A9m%20servir%C3%A1%20como%20canal%20direto%20de%20comunica%C3%A7%C3%A3o%20entre%20o%20MEC%20e%20a%20sociedade%2C%20de%20modo%20que%20os%20estudantes%20recebam%20as%20novidades%20do%20Governo%20Federal%20voltadas%20%C3%A0%20educa%C3%A7%C3%A3o)|
+
+<p style="font-size: 14px;">Tabela 34 - EF38 - Cartão do Requisito Funcional 38</p>
+
+Fonte: <a  href="https://github.com/luisa12ll"> Luisa de Souza </a>
+
+### EF39 - Rastrebilidade Forward From do requisito RF39
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ39](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ39,-O%20aplicativo%20deve) | O aplicativo deve manter as informações do usuário seguras e privadas.|
+| Categoria | Desenvolvimento  |
+| Elementos | [Léxico 20](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Pedro%20Henrique.-,L20%3A%20Conta%20ativa/inativa,-O%20L%C3%A9xico%20presente) e [Léxico 24](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Pedro%20Henrique.-,L24%3A%20Informa%C3%A7%C3%B5es%20seguras/privadas,-O%20L%C3%A9xico%20presente)|
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ39,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ39,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $25,50 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=26-,RQ39,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ39,-O%20aplicativo%20deve).|
+| Implementação | Implementado |
+| Evidência|[Link do site](https://www.gov.br/mec/pt-br/jornadadoestudante#:~:text=A%20Jornada%20do%20Estudante%20%C3%A9,Prote%C3%A7%C3%A3o%20de%20Dados%20Pessoais%20%2D%20LGPD.)|
+
+<p style="font-size: 14px;">Tabela 35 - EF39 - Cartão do Requisito Funcional 39</p>
+
+Fonte: <a  href="https://github.com/luisa12ll"> Luisa de Souza </a>
+
+### EF41 - Rastrebilidade Forward From do requisito RF41
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ41](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ41,-O%20aplicativo%20deve) | O aplicativo deve oferecer um ranqueamento de matérias por nota, para orientar o foco do estudante.|
+| Categoria | Desenvolvimento  |
+| Elementos | [Cenário 15](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=e%20Yan%20Matheus-,Cen%C3%A1rio%2015%3A%20Ranqueamento%20de%20mat%C3%A9rias%20por%20nota,-Item), [Léxico 10](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Yan%20Matheus.-,L10%3A%20Oferecer%20servi%C3%A7os,-O%20L%C3%A9xico%20presente) e [História de Usuario 31](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Camila%20Silva-,HU31%20%E2%80%93%20Ranqueamento%20de%20Mat%C3%A9rias%20por%20Nota,-A%20tabela%2032)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Could na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ41,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade OUT na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ41,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $7 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ41,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Média na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ41,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 2 - Unificar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=Alta-,%C3%89pico%202%20%2D%20Unificar,-Feature%201%20%2D%20Eventos)|
+| Implementação | Não Implementado |
+| Evidência|Nenhuma|
+
+<p style="font-size: 14px;">Tabela 36 - E41 - Cartão do Requisito Funcional 41</p>
+
+Fonte: <a  href="https://github.com/luisa12ll"> Luisa de Souza </a>
+
+### EF42 - Rastrebilidade Forward From do requisito RF42
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ42](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%202-,RQ42,-O%20aplicativo%20deve) | O aplicativo deve ter uma página de perfil com as informações do usuário (nome, instituição e ano/semestre).|
+| Categoria | Desenvolvimento  |
+| Elementos | [Léxico 08](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Yan%20Matheus.-,L08%3A%20Acessar%20p%C3%A1ginas,-O%20L%C3%A9xico%20presente), [Léxico 11](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Yan%20Matheus.-,L11%3A%20Estudante,-O%20L%C3%A9xico%20presente) e [História de Usuario 32](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Geovanna%20Alves-,HU32%20%2D%20P%C3%A1gina%20de%20perfil%20do%20estudante,-A%20tabela%2033)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Should na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Entrevista%202-,RQ42,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Entrevista%202-,RQ42,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $10 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=11%2C50-,RQ42,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ42,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 4 - Editar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=Alta-,%C3%89pico%204%20%2D%20Editar,-Feature%201%20%2D%20Edi%C3%A7%C3%A3o)|
+| Implementação | Implementado |
+| Evidência|[imagem do aplicativo](https://ibb.co/7xS50MtL)|
+
+<p style="font-size: 14px;">Tabela 37 - E42 - Cartão do Requisito Funcional 42</p>
+
+Fonte: <a  href="https://github.com/luisa12ll"> Luisa de Souza </a>
+
+### EF43 - Rastrebilidade Forward From do requisito RF43
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ43](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%202-,RQ43,-O%20aplicativo%20deve) | O aplicativo deve possibilitar o usuário editar suas informações na página de perfil.|
+| Categoria | Desenvolvimento  |
+| Elementos |[Léxico 05](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Pedro%20Henrique.-,L05%3A%20Editar%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente), [Léxico 11](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=Yan%20Matheus.-,L11%3A%20Estudante,-O%20L%C3%A9xico%20presente) e [História de Usuario 33](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Yan%20Matheus-,HU33%20%2D%20Editar%20informa%C3%A7%C3%B5es%20do%20perfil%20do%20estudante,-A%20tabela%2034)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Should na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Entrevista%202-,RQ43,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Entrevista%202-,RQ43,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $2 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=2-,RQ43,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Média na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ43,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 4 - Editar	](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=Alta-,%C3%89pico%204%20%2D%20Editar,-Feature%201%20%2D%20Edi%C3%A7%C3%A3o)|
+| Implementação | Implementado |
+| Evidência|[imagem do aplicativo](https://ibb.co/XrYCfSgd)|
+
+<p style="font-size: 14px;">Tabela 38 - E43 - Cartão do Requisito Funcional 43</p>
+
+Fonte: <a  href="https://github.com/luisa12ll"> Luisa de Souza </a>
+
 ## Rastreabilidade Forward From - Requisitos Não Funcionais
 
 ### EF02 - Rastrebilidade Forward From do requisito RNF24
@@ -401,6 +527,21 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 <p style="font-size: 14px;">Tabela 32 - EF03 - Cartão do Requisito Funcional 25</p>
 Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 
+
+### EF04 - Rastrebilidade Forward From do requisito RNF26
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ26,-O%20aplicativo%20deve) | O aplicativo deve carregar suas informações em no máximo 3 segundos. |
+| Categoria | Desenvolvimento |
+| Elementos | [Lexico 27](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#:~:text=O%20L%C3%A9xico%20presente%20na%20Tabela%2027%20est%C3%A1%20relacionado%20ao%20requisito%20RQ26%2C%20sobre%20o%20desempenho%20do%20aplicativo%2C%20de%20acordo%20com%20a%20Tabela%20de%20requisitos%20elicitados) e [NFR](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/NFR-Framework/#:~:text=Rastreabilidade-,RQ26,-Classifica%C3%A7%C3%A3o) |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ26,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ26,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $1,00 na técnica [$100 dólares](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=1-,RQ26,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=M%C3%A9dia-,RQ26,-O%20aplicativo%20deve) <br>Satisfação - O requisito não funcional é satisfeito pelo NFR framework [Cartão de Especificação 2](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/NFR-Framework/#:~:text=Rastreabilidade-,RQ26,-Classifica%C3%A7%C3%A3o) <br> Alocação - O requisito não funcional foi alocado na categoria de Performace na [Especificação Suplementar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Lara%20Souza-,RQ26,-Performance%20(P)). <br> 
+| Implementação | Não Implementado |
+| Evidência| Nenhuma |
+
+
+<p style="font-size: 14px;">Tabela 33 - EF04 - Cartão do Requisito Não Funcional 26</p>
+Fonte: <a  href="https://github.com/Luisa12ll"> Luísa de Souza </a>
 
 
 
