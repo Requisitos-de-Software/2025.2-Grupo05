@@ -354,8 +354,124 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 | Implementação | Não implementado |
 | Evidência| Nenhuma |
 
-<p style="font-size: 14px;">Tabela 18 - EF22 - Cartão do Requisito Funcional 22</p>
+<p style="font-size: 14px;">Tabela 18 - EB22 - Cartão do Requisito Funcional 22</p>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
+
+### EB35 - Rastrebilidade Backward From do requisito RF35
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ35](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ35,-O%20aplicativo%20deve) | O aplicativo deve possibilitar o usuário acessar um fórum de dúvidas sobre o auxílio. |
+| Categoria | Desenvolvimento |
+| Origem |  [Entrevista 22](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E022,-O%20aplicativo%20deve) e [Questionário 26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/#:~:text=Question%C3%A1rio-,Q26,-O%20aplicativo%20deve)  |
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de Entrevista [E022](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E022,-O%20aplicativo%20deve) <br> Agregação - O requisito originou-se da Técnica de Questionário [Q26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/#:~:text=Question%C3%A1rio-,Q26,-O%20aplicativo%20deve) <br> |
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 28 - EF35 - Cartão do Requisito Funcional 35</p>
+Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
+
+### EB36 - Rastrebilidade Backward From do requisito RF36
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ36](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ36,-O%20aplicativo%20deve) | O aplicativo deve possibilitar o usuário ser atendido em um canal de conversa sobre o auxílio. |
+| Categoria | Desenvolvimento |
+| Origem |  [Entrevista 23](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E023,-O%20aplicativo%20deve) e [Questionário 27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/#:~:text=Question%C3%A1rio-,Q27,-O%20aplicativo%20deve)|
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de Entrevista [E023](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E023,-O%20aplicativo%20deve) <br> Agregação - O requisito originou-se da Técnica de Questionário [Q27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/#:~:text=Question%C3%A1rio-,Q27,-O%20aplicativo%20deve) <br> |
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 29 - EB36 - Cartão do Requisito Funcional 36</p>
+Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
+
+
+### EB37 - Rastrebilidade Backward From do requisito RF37
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ37](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ37,-O%20aplicativo%20deve) | O aplicativo deve possibilitar o usuário visualizar datas de eventos em um calendário. |
+| Categoria | Desenvolvimento |
+| Origem |  [Entrevista 24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E024,-O%20aplicativo%20deve) e [Questionário 28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/#:~:text=Question%C3%A1rio-,Q28,-O%20aplicativo%20deve) |
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de Entrevista [E024](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E024,-O%20aplicativo%20deve) <br> Agregação - O requisito originou-se da Técnica de Questionário [Q28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/#:~:text=Question%C3%A1rio-,Q28,-O%20aplicativo%20deve) <br>|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 30 - EB37 - Cartão do Requisito Funcional 37</p>
+Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
+
+
+### EB38 - Rastrebilidade Backward From do requisito RF38
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ38](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=%2C%20Question%C3%A1rio%20Brainstorming-,RQ38,-O%20aplicativo%20deve) | O aplicativo deve ter informações unificadas sobre sua jornada escolar. |
+| Categoria | Desenvolvimento |
+| Origem |  [Entrevista 25](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E025,-O%20aplicativo%20deve), [Questionário 29](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/#:~:text=Question%C3%A1rio-,Q29,-O%20aplicativo%20deve) e [Brainstorming 20](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Brainstorming/#:~:text=elicita%C3%A7%C3%A3o%20de%20requisitos-,B020,-O%20aplicativo%20deve)  |
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de Entrevista [E025](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E025,-O%20aplicativo%20deve) <br> Agregação - O requisito originou-se da Técnica de Questionário [Q29](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/#:~:text=Question%C3%A1rio-,Q29,-O%20aplicativo%20deve) <br> Agregação - O requisito originou-se da Técnica de Brainstorm [B020](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Brainstorming/#:~:text=elicita%C3%A7%C3%A3o%20de%20requisitos-,B020,-O%20aplicativo%20deve)  |
+| Implementação | Implementado |
+| Evidência| [Link do site](https://www.gov.br/mec/pt-br/jornadadoestudante#:~:text=Com%20o%20aplicativo%2C%20espera%2Dse%20unificar%20o%20acesso%20%C3%A0s%20informa%C3%A7%C3%B5es%20estudantis%20que%20s%C3%A3o%20captadas%20ao%20longo%20da%20vida.%20Al%C3%A9m%20disso%2C%20o%20app%20tamb%C3%A9m%20servir%C3%A1%20como%20canal%20direto%20de%20comunica%C3%A7%C3%A3o%20entre%20o%20MEC%20e%20a%20sociedade%2C%20de%20modo%20que%20os%20estudantes%20recebam%20as%20novidades%20do%20Governo%20Federal%20voltadas%20%C3%A0%20educa%C3%A7%C3%A3o) |
+
+<p style="font-size: 14px;">Tabela 31 - EB38 - Cartão do Requisito Funcional 38</p>
+Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
+
+### EB39 - Rastrebilidade Backward From do requisito RF39
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ39](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ39,-O%20aplicativo%20deve) | O aplicativo deve manter as informações do usuário seguras e privadas.	 |
+| Categoria | Desenvolvimento |
+| Origem |  [Entrevista 26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E026,-O%20aplicativo%20deve), [Questionário 30](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/#:~:text=Question%C3%A1rio-,Q30,-O%20aplicativo%20deve) e [Brainstorming 21](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Brainstorming/#:~:text=elicita%C3%A7%C3%A3o%20de%20requisitos-,B021,-O%20aplicativo%20deve)  |
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de Entrevista [E026](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E026,-O%20aplicativo%20deve) <br> Agregação - O requisito originou-se da Técnica de Questionário [Q30](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/#:~:text=Question%C3%A1rio-,Q30,-O%20aplicativo%20deve) <br> Agregação - O requisito originou-se da Técnica de Brainstorm [B021](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Brainstorming/#:~:text=elicita%C3%A7%C3%A3o%20de%20requisitos-,B021,-O%20aplicativo%20deve)  |
+| Implementação | Implementado |
+| Evidência| [Link do site](https://www.gov.br/mec/pt-br/jornadadoestudante#:~:text=A%20Jornada%20do%20Estudante%20%C3%A9,Prote%C3%A7%C3%A3o%20de%20Dados%20Pessoais%20%2D%20LGPD.) |
+
+<p style="font-size: 14px;">Tabela 32 - EB39 - Cartão do Requisito Funcional 39</p>
+Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
+
+### EB41 - Rastrebilidade Backward From do requisito RF41
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ41](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ41,-O%20aplicativo%20deve) | O aplicativo deve oferecer um ranqueamento de matérias por nota, para orientar o foco do estudante.		 |
+| Categoria | Desenvolvimento |
+| Origem |  [Entrevista 28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E028,-O%20aplicativo%20deve) |
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de Entrevista [E028](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E028,-O%20aplicativo%20deve) <br>   |
+| Implementação | Não Implementado |
+| Evidência| Nenhuma|
+
+<p style="font-size: 14px;">Tabela 33 - EB41 - Cartão do Requisito Funcional 41</p>
+Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
+
+### EB42 - Rastrebilidade Backward From do requisito RF42
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ42](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%202-,RQ42,-O%20aplicativo%20deve) | O aplicativo deve ter uma página de perfil com as informações do usuário (nome, instituição e ano/semestre).	 |
+| Categoria | Desenvolvimento |
+| Origem |  [Entrevista 29](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E029,-O%20aplicativo%20deve)|
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de Entrevista [E029](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E029,-O%20aplicativo%20deve) <br>  |
+| Implementação | Implementado |
+| Evidência|[imagem do aplicativo](https://ibb.co/7xS50MtL)|
+
+
+<p style="font-size: 14px;">Tabela 34 - EB42 - Cartão do Requisito Funcional 42</p>
+Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
+
+### EB43 - Rastrebilidade Backward From do requisito RF43
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ43](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%202-,RQ43,-O%20aplicativo%20deve) | O aplicativo deve possibilitar o usuário editar suas informações na página de perfil.		 |
+| Categoria | Desenvolvimento |
+| Origem |  [Entrevista 30](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E030,-O%20aplicativo%20deve)|
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de Entrevista [E030](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E030,-O%20aplicativo%20deve) <br> |
+| Implementação | Implementado |
+| Evidência|[imagem do aplicativo](https://ibb.co/XrYCfSgd)|
+
+<p style="font-size: 14px;">Tabela 35 - EB43 - Cartão do Requisito Funcional 43</p>
+Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
+
 
 ## Rastreabilidade Forward From - Requisitos Não Funcionais
 
@@ -373,6 +489,19 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 <p style="font-size: 14px;">Tabela 19 - EF02 - Cartão do Requisito Não Funcional 24</p>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
+### EB04 - Rastrebilidade Forward From do requisito RNF26
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+|[RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ26,-O%20aplicativo%20deve) | O aplicativo deve carregar suas informações em no máximo 3 segundos. |
+| Categoria | Desenvolvimento |
+ Origem |  [Entrevista 13](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%201-,E013,-O%20aplicativo%20deve), [Questionário 17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/#:~:text=Question%C3%A1rio-,Q17,-O%20aplicativo%20deve) e  [Brainstorming 14](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Brainstorming/#:~:text=elicita%C3%A7%C3%A3o%20de%20requisitos-,B014,-O%20aplicativo%20deve)  |
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de Entrevista [E013](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%201-,E013,-O%20aplicativo%20deve) <br> Agregação - O requisito originou-se da Técnica de Questionário [Q17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/#:~:text=Question%C3%A1rio-,Q17,-O%20aplicativo%20deve) <br> Agregação - O requisito originou-se da Técnica de Brainstorm [B014](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Brainstorming/#:~:text=elicita%C3%A7%C3%A3o%20de%20requisitos-,B014,-O%20aplicativo%20deve)  |
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 19 - EB04 - Cartão do Requisito Não Funcional 26</p>
+Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
 
 ## Referência bibliográfica
 > <a name="RB2">2. </a>TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: [https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf](https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf?origin=scientificContributions). Acesso em: 25 de outubro de 2025.
