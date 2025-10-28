@@ -17,8 +17,7 @@
     "MD022": {
       "lines_above": 1,
       "lines_below": 1
-    },
-    "MD034": false
+    }
   },
 
   // Alvos de lint (inclui tudo, ignora diretórios gerados)
