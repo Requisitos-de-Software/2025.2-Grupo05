@@ -4,7 +4,7 @@ Na primeira fase do projeto, cada estudante teve a oportunidade de escolher indi
 
 Os aplicativos inicialmente analisados e seus respectivos Rich Pictures foram:
 
-### ID - Jovem
+## ID - Jovem
 
 O ID - Jovem é um aplicativo que conecta jovens a oportunidades de educação, cultura e lazer, facilitando o acesso a programas e benefícios voltados para essa faixa etária.
 
@@ -53,6 +53,7 @@ O Conexão DNIT mantém os cidadãos informados sobre obras, serviços e condiç
 ![Richpicturev1](../img/richpicture_pedro.jpeg)
 
 <font size="3"><p style="text-align: center">Fonte: <span style="color:black;">[Pedro Henrique Pereira(2025).](https://github.com/pedrohpsantos)</span>
+
 </p></font>
 
 ### Metro DF
@@ -69,7 +70,7 @@ Após análise e discussão, o grupo decidiu que o aplicativo a ser estudado dur
 
 ## Histórico de Versões
 
-| Versão   | Data       | Descrição                                | Autor                    | Revisor |
-|----------|------------|------------------------------------------|--------------------------|---------|
-| 1.0      | 07/09/2025 | Análise inicial dos aplicativos     | [Geovanna Alves](https://github.com/GeovannaUmbelino)           |  [Yan Matheus](https://github.com/Yanmatheus0812)   |
- | 1.1      | 16/09/2025 | Atualizando as fontes do rich picture     | [Geovanna Alves](https://github.com/GeovannaUmbelino)           | [Camila Silva](https://github.com/CamilaSilvaC)  |
+| Versão | Data       | Descrição                             | Autor                                                 | Revisor                                          |
+| ------ | ---------- | ------------------------------------- | ----------------------------------------------------- | ------------------------------------------------ |
+| 1.0    | 07/09/2025 | Análise inicial dos aplicativos       | [Geovanna Alves](https://github.com/GeovannaUmbelino) | [Yan Matheus](https://github.com/Yanmatheus0812) |
+| 1.1    | 16/09/2025 | Atualizando as fontes do rich picture | [Geovanna Alves](https://github.com/GeovannaUmbelino) | [Camila Silva](https://github.com/CamilaSilvaC)  |
