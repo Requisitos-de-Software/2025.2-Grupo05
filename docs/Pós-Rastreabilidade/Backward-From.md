@@ -100,6 +100,7 @@ A Tabela 1 a seguir apresenta o modelo padrão que será utilizado neste artefat
 
 A estrutura foi baseada em conceitos da literatura, como a classificação das informações em quatro níveis (Ambiental, Organizacional, Gerencial, Desenvolvimento), proposta por Toranzo, Castro e Mello (2002) <a id="RB2" href="">2.</a>.
 
+
 | Itens                                                                                                     | Descrição                                                                                                         |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | [ID](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | Descrição do requisito                                                                                            |
@@ -115,6 +116,7 @@ Fonte:  <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="
 
 ### EB01 - Rastrebilidade Backward From do requisito RF01
 
+
 | Itens                                                                                                                                                          | Descrição                                                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [RQ1](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Refer%C3%AAncia-,RQ1,-O%20aplicativo%20deve) | O aplicativo deve permitir o acesso do usuário através de uma autenticação com o gov.                                                                                                                                           |
@@ -128,6 +130,7 @@ Fonte:  <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB02 - Rastrebilidade Backward From do requisito RNF03
+
 
 | Itens                                                                                                                                                                                      | Descrição                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -143,6 +146,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB03 - Rastrebilidade Backward From do requisito RF04
 
+
 | Itens                                                                                                                                                                                      | Descrição                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [RQ04](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ4,-O%20aplicativo%20deve) | O aplicativo deve permitir aos estudantes do Brasil unificar o acesso a suas informações acadêmicas, como dados de cursos, disciplinas e progresso.                                                                             |
@@ -156,6 +160,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB04 - Rastrebilidade Backward From do requisito RF05
+
 
 | Itens                                                                                                                                                                                      | Descrição                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -185,6 +190,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB06 - Rastrebilidade Backward From do requisito RF09
 
+
 | Itens                                                                                                                                                                                      | Descrição                                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [RQ09](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ9,-O%20aplicativo%20deve) | O aplicativo deve apresentar atualizações referente ao pagamento do Pé-de-Meia disponível em até um mês.                                                                                                                          |
@@ -213,6 +219,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB08 - Rastrebilidade Backward From do requisito RF12
 
+
 | Itens                                                                                                                                                                                       | Descrição                                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [RQ12](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ12,-O%20aplicativo%20deve) | O aplicativo deve ser um canal direto de comunicação entre o MEC e os estudantes.                                                                                                                                                 |
@@ -226,6 +233,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB09 - Rastrebilidade Backward From do requisito RF13
+
 
 | Itens                                                                                                                                                                                       | Descrição                                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -423,6 +431,7 @@ Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
 
 ### EB39 - Rastrebilidade Backward From do requisito RF39
 
+
 | Itens                                                                                                                                                                                 | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [RQ39](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ39,-O%20aplicativo%20deve) | O aplicativo deve manter as informações do usuário seguras e privadas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -436,6 +445,7 @@ Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
 Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
 
 ### EB41 - Rastrebilidade Backward From do requisito RF41
+
 
 | Itens                                                                                                                                                                                 | Descrição                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -451,6 +461,7 @@ Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
 
 ### EB42 - Rastrebilidade Backward From do requisito RF42
 
+
 | Itens                                                                                                                                                           | Descrição                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [RQ42](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%202-,RQ42,-O%20aplicativo%20deve) | O aplicativo deve ter uma página de perfil com as informações do usuário (nome, instituição e ano/semestre).                                                                                                                    |
@@ -465,6 +476,7 @@ Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
 
 ### EB43 - Rastrebilidade Backward From do requisito RF43
 
+
 | Itens                                                                                                                                                           | Descrição                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [RQ43](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%202-,RQ43,-O%20aplicativo%20deve) | O aplicativo deve possibilitar o usuário editar suas informações na página de perfil.                                                                                                                                           |
@@ -473,6 +485,15 @@ Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
 | Elos Backward-From                                                                                                                                              | Agregação - O requisito originou-se da Técnica de Entrevista [E030](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E030,-O%20aplicativo%20deve) <br> |
 | Implementação                                                                                                                                                   | Implementado                                                                                                                                                                                                                    |
 | Evidência                                                                                                                                                       | [imagem do aplicativo](https://ibb.co/XrYCfSgd)                                                                                                                                                                                 |
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ43](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%202-,RQ43,-O%20aplicativo%20deve) | O aplicativo deve possibilitar o usuário editar suas informações na página de perfil.   |
+| Categoria | Desenvolvimento |
+| Origem |  [Entrevista 30](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E030,-O%20aplicativo%20deve)|
+| Elos Backward-From | Agregação - O requisito originou-se da Técnica de Entrevista [E030](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/#:~:text=Entrevista%202-,E030,-O%20aplicativo%20deve) <br> |
+| Implementação | Implementado |
+| Evidência|[imagem do aplicativo](https://ibb.co/XrYCfSgd)|
+
 
 <p style="font-size: 14px;">Tabela 35 - EB43 - Cartão do Requisito Funcional 43</p>
 Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
@@ -643,6 +664,7 @@ Fonte: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus</a>
 > TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: [https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf](https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf?origin=scientificContributions). Acesso em: 25 de outubro de 2025.
 
 ## Histórico de Versões
+
 
 | Versão |    Data    |                      Descrição                      |                                                                Autor(es)                                                                |                   Revisor(es)                    |
 | :----: | :--------: | :-------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
