@@ -138,7 +138,7 @@ nav:
       - Verificação: Análise/Verificação.md
       - Validação: Análise/Validação.md
   - Pós-Rastreabilidade:
-      - Elos de Rastreabilidade: Planejamento/LVs/Elos-Rastreabilidade.md
+      - Elos de Rastreabilidade: Pós-Rastreabilidade/Lvs/Elos-Rastreabilidade.md
       - Forward-From: Pós-Rastreabilidade/Forward-From.md
       - Backward-From: Pós-Rastreabilidade/Backward-From.md
       - Matriz de Rastreabilidade: Pós-Rastreabilidade/Matriz_Rastreabilidade.md
