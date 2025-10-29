@@ -31,4 +31,4 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https:
 
 | Versão | Data       | Descrição                        | Autor(es)                                                         | Revisor(es)                                      |
 | ------ | ---------- | -------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------ |
-| 1.0    | 28/10/2025 | Adicionando lista de verificação | [Pedro Henrique Pereira Santos](https://github.com/pedrohpsantos) | [Yan Matheus](https://github.com/Yanmatheus0812) |
+| 1.0    | 28/10/2025 | Adicionando lista de verificação | [Lara Mota](https://github.com/mel14-hub) | [Yan Matheus](https://github.com/Yanmatheus0812) |
