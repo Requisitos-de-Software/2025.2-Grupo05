@@ -28,33 +28,33 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou nos 
     <tbody>
       <tr>
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
-        <td>Elaborou os elos <a href=""></a>  </td>
-        <td>25/10/2025</td>
+        <td>Elaborou os elos <a href="">EBN01, <a href="">EBN03, <a href="">EB04, <a href="">EB05, <a href="">EB08, <a href="">EB09, <a href="">EB11, <a href="">EB12 e <a href="">EB13  </td>
+        <td>26/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
-        <td>Elaborou o <a href="">Cartão de especificação do NFR54</a> e colaborou na confecção do grafo SIG </td>
-        <td>25/10/2025</td>
+        <td>Elaborou os elos <a href="">EB14, <a href="">EBN24, <a href="">EB25, <a href="">EB16, <a href="">EB017, <a href="">EB018, <a href="">EB19, <a href="">EB20, <a href="">EB21 e <a href="">EB22  </td>
+        <td>26/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
-        <td>Elaborou o <a href="">Cartão de especificação do NFR03</a>  e colaborou na confecção do grafo SIG</td>
-        <td>25/10/2025</td>
+        <td>Elaborou os elos <a href="">EB23, <a href="">EBN25, <a href="">EB27, <a href="">EB28, <a href="">EB29, <a href="">EB30, <a href="">EB31, <a href="">EB32, <a href="">EB33 e <a href="">EB34  </td>
+        <td>26/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
-        <td>Elaborou o <a href="">Cartão de especificação do NFR40</a> e colaborou na confecção do grafo SIG</td>
-        <td>25/10/2025</td>
+        <td>Elaborou os elos <a href="">EB35, <a href="">EBN26, <a href="">EB36, <a href="">EB37, <a href="">EB38, <a href="">EB39, <a href="">EB40, <a href="">EB41, <a href="">EB42 e <a href="">EB43  </td>
+        <td>26/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
-        <td>Elaborou o <a href="">Cartão de especificação do NFR24</a> e colaborou na confecção do grafo SIG</td>
-        <td>25/10/2025</td>
+        <td>Elaborou os elos <a href="">EB44, <a href="">EBN40, <a href="">EB45, <a href="">EB46, <a href="">EB47, <a href="">EB48, <a href="">EB49, <a href="">EB50, <a href="">EB51 e <a href="">EB52  </td>
+        <td>28/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
-        <td>Elaborou o <a href="">Cartão de especificação do NFR26</a> e colaborou na confecção do grafo SIG</td>
-        <td>25/10/2025</td>
+        <td>Elaborou os elos <a href="">EB53, <a href="">EBN54, <a href="">EB55, <a href="">EB56, <a href="">EB57, <a href="">EB58, <a href="">EB59, <a href="">EB60 e <a href="">EB61  </td>
+        <td>28/10/2025</td>
       </tr>
     </tbody>
   </table>
@@ -165,7 +165,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 | Origem                                                                                                                                                                                     | [Análise de documentação 09](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD09,-O%20aplicativo%20deve)                                                    |
 | Elos Backward-From                                                                                                                                                                         | Agregação - O requisito originou-se da Técnica de análise de documentos [ADD09](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD09,-O%20aplicativo%20deve) |
 | Implementação                                                                                                                                                                              | Implementado                                                                                                                                                                                                                    |
-| Evidência                                                                                                                                                                                  | [Link]()                                                                                                                                                                               |
+| Evidência                                                                                                                                                                                  | Link                                                                                                                                                                               |
 
 <p style="font-size: 14px;">Tabela 7 - EB08 - Cartão do Requisito Funcional 08</p>
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
