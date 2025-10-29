@@ -4,7 +4,7 @@
 
 O processo de rastreabilidade de requisitos é uma atividade essencial na engenharia de requisitos, pois permite estabelecer e acompanhar as ligações entre diferentes artefatos produzidos ao longo do desenvolvimento de software, conforme dito por Sayão e Leite (2005) <a id="RB1" href="https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf">1 </a>. Uma das direções fundamentais dessa prática é a pré-rastreabilidade, também conhecida como rastreabilidade backward-from (para trás). A rastreabilidade backward-from foca na origem dos requisitos. Ela documenta o contexto a partir do qual os requisitos emergem e estabelece as ligações entre um requisito e suas fontes. Essas fontes podem ser atas de reunião, documentos de legislação, entrevistas com stakeholders ou outros artefatos de elicitação.
 
-A rastreabilidade backward-from é essencial para o gerenciamento eficaz dos requisitos, pois permite identificar a origem e a justificativa de cada um, facilitando a resolução de conflitos e garantindo que todos compreendam o contexto e as necessidades dos stakeholders. Ela também auxilia no gerenciamento de mudanças, avaliando o impacto das alterações sem comprometer os objetivos do projeto, fortalecendo o controle, a transparência e a tomada de decisões ao longo de todo o ciclo de vida.
+A rastreabilidade backward-from é essencial para o gerenciamento EBicaz dos requisitos, pois permite identificar a origem e a justificativa de cada um, facilitando a resolução de conflitos e garantindo que todos compreendam o contexto e as necessidades dos stakeholders. Ela também auxilia no gerenciamento de mudanças, avaliando o impacto das alterações sem comprometer os objetivos do projeto, fortalecendo o controle, a transparência e a tomada de decisões ao longo de todo o ciclo de vida.
 
 Neste documento, serão apresentados os elos backward-from dos requisitos funcionais e não funcionais do sistema FGTS. Essa abordagem demonstrará como os requisitos foram originados e se relacionam com seus artefatos de origem e elicitação.
 
@@ -124,7 +124,7 @@ Fonte:  <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="
 | Implementação                                                                                                                                                  | Implementado                                                                                                                                                                                                                    |
 | Evidência                                                                                                                                                      | [link](https://www.gov.br/mec/pt-br/jornadadoestudante#:~:text=Na%20Figura%201,com%20o%20estudante)                                                                                                                                     |
 
-<p style="font-size: 14px;">Tabela 3 - EF01 - Cartão do Requisito Funcional 01</p>
+<p style="font-size: 14px;">Tabela 3 - EB01 - Cartão do Requisito Funcional 01</p>
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 
@@ -139,7 +139,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 | Implementação                                                                                                                                                                              | Implementado                                                                                                                                                                                                                    |
 | Evidência                                                                                                                                                                                  | [link](https://www.gov.br/mec/pt-br/jornadadoestudante#:~:text=Com%20o%20aplicativo%2C%20espera%2Dse%20unificar%20o%20acesso%20%C3%A0s%20informa%C3%A7%C3%B5es%20estudantis%20que%20s%C3%A3o%20captadas%20ao%20longo%20da%20vida.%20Al%C3%A9m%20disso%2C%20o%20app%20tamb%C3%A9m%20servir%C3%A1%20como%20canal%20direto%20de%20comunica%C3%A7%C3%A3o%20entre%20o%20MEC%20e%20a%20sociedade%2C%20de%20modo%20que%20os%20estudantes%20recebam%20as%20novidades%20do%20Governo%20Federal%20voltadas%20%C3%A0%20educa%C3%A7%C3%A3o.)                                                                                                                                                                                |
 
-<p style="font-size: 14px;">Tabela 5 - EF04 - Cartão do Requisito Funcional 04</p>
+<p style="font-size: 14px;">Tabela 5 - EB04 - Cartão do Requisito Funcional 04</p>
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB04 - Rastrebilidade Backward From do requisito RF05
@@ -153,7 +153,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 | Implementação                                                                                                                                                                              | Implementado                                                                                                                                                                                                                    |
 | Evidência                                                                                                                                                                                  |  [link](https://www.gov.br/mec/pt-br/jornadadoestudante#:~:text=O%20P%C3%A9%2Dde,f%C3%A1cil%20e%20r%C3%A1pida.)                                                                                                                                                                                  |
 
-<p style="font-size: 14px;">Tabela 6 - EF05 - Cartão do Requisito Funcional 05</p>
+<p style="font-size: 14px;">Tabela 6 - EB05 - Cartão do Requisito Funcional 05</p>
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB05 - Rastrebilidade Backward From do requisito RF08
@@ -167,7 +167,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 | Implementação                                                                                                                                                                              | Implementado                                                                                                                                                                                                                    |
 | Evidência                                                                                                                                                                                  | [Link]()                                                                                                                                                                               |
 
-<p style="font-size: 14px;">Tabela 7 - EF08 - Cartão do Requisito Funcional 08</p>
+<p style="font-size: 14px;">Tabela 7 - EB08 - Cartão do Requisito Funcional 08</p>
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB06 - Rastrebilidade Backward From do requisito RF09
@@ -181,7 +181,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 | Implementação                                                                                                                                                                              | Não Implementado                                                                                                                                                                                                                  |
 | Evidência                                                                                                                                                                                  | Nenhuma                                                                                                                                                                           |
 
-<p style="font-size: 14px;">Tabela 8 - EF09 - Cartão do Requisito Funcional 09</p>
+<p style="font-size: 14px;">Tabela 8 - EB09 - Cartão do Requisito Funcional 09</p>
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB07 - Rastrebilidade Backward From do requisito RF11
@@ -195,7 +195,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 | Implementação                                                                                                                                                                               | Implementado                                                                                                                                                                                                                      |
 | Evidência                                                                                                                                                                                   | [Link](https://ibb.co/845LYQ2m)                                                                                                                                                                                    |
 
-<p style="font-size: 14px;">Tabela 9 - EF11 - Cartão do Requisito Funcional 11</p>
+<p style="font-size: 14px;">Tabela 9 - EB11 - Cartão do Requisito Funcional 11</p>
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB08 - Rastrebilidade Backward From do requisito RF12
@@ -209,7 +209,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 | Implementação                                                                                                                                                                               | Implementado                                                                                                                                                                                                                      |
 | Evidência                                                                                                                                                                                   | [link](https://i.postimg.cc/fWXTFKPZ/doc15.png)                                                                                                                                                                                    |
 
-<p style="font-size: 14px;">Tabela 10 - EF12 - Cartão do Requisito Funcional 12</p>
+<p style="font-size: 14px;">Tabela 10 - EB12 - Cartão do Requisito Funcional 12</p>
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB09 - Rastrebilidade Backward From do requisito RF13
@@ -223,7 +223,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 | Implementação                                                                                                                                                                               | Implementado                                                                                                                                                                                                                      |
 | Evidência                                                                                                                                                                                   |  [link](https://i.postimg.cc/2jv8JwtY/doc16.png)                                                                                                                                                                                   |
 
-<p style="font-size: 14px;">Tabela 11 - EF13 - Cartão do Requisito Funcional 13</p>
+<p style="font-size: 14px;">Tabela 11 - EB13 - Cartão do Requisito Funcional 13</p>
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB14 - Rastrebilidade Backward From do requisito RF14
@@ -237,7 +237,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 | Implementação                                                                                                                                                                               | Implementado                                                                                                                                                                                                                      |
 | Evidência                                                                                                                                                                                   | [Imagem retirada diretamente do aplicativo.](https://ibb.co/LhnvDD6Q)                                                                                                                                                             |
 
-<p style="font-size: 14px;">Tabela 10 - EF14 - Cartão do Requisito Funcional 14</p>
+<p style="font-size: 14px;">Tabela 10 - EB14 - Cartão do Requisito Funcional 14</p>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
 ### EB15 - Rastrebilidade Backward From do requisito RF15
@@ -251,7 +251,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 | Implementação                                                                                                                                                                               | Implementado                                                                                                                                                                                                                      |
 | Evidência                                                                                                                                                                                   | [Imagem retirada diretamente do aplicativo.](https://ibb.co/v4s215LH)                                                                                                                                                             |
 
-<p style="font-size: 14px;">Tabela 11 - EF15 - Cartão do Requisito Funcional 15</p>
+<p style="font-size: 14px;">Tabela 11 - EB15 - Cartão do Requisito Funcional 15</p>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
 ### EB16 - Rastrebilidade Backward From do requisito RF16
@@ -265,7 +265,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 | Implementação                                                                                                                                                                               | Implementado                                                                                                                                                                                                                          |
 | Evidência                                                                                                                                                                                   | [Imagem retirada diretamente do aplicativo.](https://ibb.co/ksYn4ft1)                                                                                                                                                                 |
 
-<p style="font-size: 14px;">Tabela 12 - EF16 - Cartão do Requisito Funcional 16</p>
+<p style="font-size: 14px;">Tabela 12 - EB16 - Cartão do Requisito Funcional 16</p>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
 ### EB17 - Rastrebilidade Backward From do requisito RF17
@@ -279,7 +279,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 | Implementação                                                                                                                                                                               | Não implementado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Evidência                                                                                                                                                                                   | Nenhuma                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-<p style="font-size: 14px;">Tabela 13 - EF17 - Cartão do Requisito Funcional 17</p>
+<p style="font-size: 14px;">Tabela 13 - EB17 - Cartão do Requisito Funcional 17</p>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
 ### EB18 - Rastrebilidade Backward From do requisito RF18
@@ -293,7 +293,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 | Implementação                                                                                                                                                         | Não implementado                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Evidência                                                                                                                                                             | Nenhuma                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-<p style="font-size: 14px;">Tabela 14 - EF18 - Cartão do Requisito Funcional 18</p>
+<p style="font-size: 14px;">Tabela 14 - EB18 - Cartão do Requisito Funcional 18</p>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
 ### EB19 - Rastrebilidade Backward From do requisito RF19
@@ -307,7 +307,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 | Implementação                                                                                                                                                         | Não implementado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Evidência                                                                                                                                                             | Nenhuma                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-<p style="font-size: 14px;">Tabela 15 - EF19 - Cartão do Requisito Funcional 19</p>
+<p style="font-size: 14px;">Tabela 15 - EB19 - Cartão do Requisito Funcional 19</p>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
 ### EB20 - Rastrebilidade Backward From do requisito RF20
@@ -321,7 +321,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 | Implementação                                                                                                                                                                         | Não implementado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Evidência                                                                                                                                                                             | Nenhuma                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-<p style="font-size: 14px;">Tabela 16 - EF20 - Cartão do Requisito Funcional 20</p>
+<p style="font-size: 14px;">Tabela 16 - EB20 - Cartão do Requisito Funcional 20</p>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
 ### EB21 - Rastrebilidade Backward From do requisito RF21
@@ -335,7 +335,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 | Implementação                                                                                                                                       | Não implementado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Evidência                                                                                                                                           | Nenhuma                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-<p style="font-size: 14px;">Tabela 17 - EF21 - Cartão do Requisito Funcional 21</p>
+<p style="font-size: 14px;">Tabela 17 - EB21 - Cartão do Requisito Funcional 21</p>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
 ### EB22 - Rastrebilidade Backward From do requisito RF22
@@ -489,7 +489,7 @@ Fonte: <a  href="ttps://github.com/mel14-hub"> Lara Mota </a>
 | Implementação                                                                                                                                                             | Não implementado                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Evidência                                                                                                                                                                 | Nenhuma                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
-<p style="font-size: 14px;">Tabela 28 - EF35 - Cartão do Requisito Funcional 35</p>
+<p style="font-size: 14px;">Tabela 28 - EB35 - Cartão do Requisito Funcional 35</p>
 Fonte: <a  href="https://github.com/Luisa12ll"> Luisa de Souza</a>
 
 ### EB36 - Rastrebilidade Backward From do requisito RF36
@@ -874,7 +874,7 @@ Fonte: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus</a>
 | Implementação                                                                                                                                                                              | Implementado                                                                                                                                                                                                                    |
 | Evidência                                                                                                                                                                                  |                                                                                                                                |
 
-<p style="font-size: 14px;">Tabela 4 - EF03 - Cartão do Requisito Não Funcional 03</p>
+<p style="font-size: 14px;">Tabela 4 - EB03 - Cartão do Requisito Não Funcional 03</p>
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 
 ### EB02 - Rastrebilidade Forward From do requisito RNF24
@@ -888,7 +888,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>
 | Implementação                                                                                                                                                     | Não implementado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Evidência                                                                                                                                                         | Nenhuma                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-<p style="font-size: 14px;">Tabela 19 - EF02 - Cartão do Requisito Não Funcional 24</p>
+<p style="font-size: 14px;">Tabela 19 - EB02 - Cartão do Requisito Não Funcional 24</p>
 Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 
 ### EB03 - Rastrebilidade Forward From do requisito RNF25
@@ -902,7 +902,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>
 | Implementação                                                                                                                                                                         | Não implementado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Evidência                                                                                                                                                                             | Nenhuma                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-<p style="font-size: 14px;">Tabela 20 - EF03 - Cartão do Requisito Não Funcional 25</p>
+<p style="font-size: 14px;">Tabela 20 - EB03 - Cartão do Requisito Não Funcional 25</p>
 Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 
 ### EB04 - Rastrebilidade Forward From do requisito RNF26
