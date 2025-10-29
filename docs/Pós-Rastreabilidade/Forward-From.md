@@ -738,6 +738,126 @@ Fonte: <a  href="https://github.com/luisa12ll"> Luisa de Souza </a>
 
 **Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
 
+### EF53 - Rastrebilidade Forward From do requisito RF53
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ53](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ53,-O%20aplicativo%20deve) | O aplicativo deve oferecer um tutorial em vídeo sobre suas funcionalidades. |
+| Categoria | Desenvolvimento  |
+| Elementos |[Léxico 10](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l10-oferecer-servicos:~:text=Yan%20Matheus.-,L10%3A%20Oferecer%20servi%C3%A7os,-O%20L%C3%A9xico%20presente) e [História de Usuario 43](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Lu%C3%ADsa%20de%20Souza-,HU43%20%2D%20Tutorial%20em%20v%C3%ADdeo%20sobre%20funcionalidades,-A%20tabela%2044)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Question%C3%A1rio-,RQ53,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Question%C3%A1rio-,RQ53,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $18 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=2-,RQ43,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Média na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ56,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 1 - Acompanhar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=Prioriza%C3%A7%C3%A3o-,%C3%89pico%201%20%2D%20Acompanhar,-Feature%201%20%2D%20Oportunidades)|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 47 - E53 - Cartão do Requisito Funcional 53</p>
+
+Fonte: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus </a>
+
+### EF55 - Rastrebilidade Forward From do requisito RF55
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ55](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ55,-O%20aplicativo%20deve) | O aplicativo deve notificar quando editais de vestibulares forem abertos. |
+| Categoria | Desenvolvimento  |
+| Elementos |[Léxico 07](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l07-notificar-eventos:~:text=de%20Souza.-,L07%3A%20Notificar%20eventos,-O%20L%C3%A9xico%20presente) e [História de Usuario 44](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Lu%C3%ADsa%20de%20Souza-,HU44%20%2D%20Notifica%C3%A7%C3%A3o%20sobre%20abertura%20de%20editais%20de%20vestibulares,-A%20tabela%2045)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Brainstorming-,RQ55,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Brainstorming-,RQ55,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $18 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=18-,RQ55,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=M%C3%A9dia-,RQ58,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 6 - Notificar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=M%C3%A9dia-,%C3%89pico%206%20%2D%20Notificar,-Feature%201%20%2D%20Benef%C3%ADcio)|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 48 - E55 - Cartão do Requisito Funcional 55</p>
+
+Fonte: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus </a>
+
+### EF56 - Rastrebilidade Forward From do requisito RF56
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ56](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ56,-O%20aplicativo%20deve) | O aplicativo deve ter um fórum entre estudantes. |
+| Categoria | Desenvolvimento  |
+| Elementos |[Léxico 08](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l07-notificar-eventos:~:text=Yan%20Matheus.-,L08%3A%20Acessar%20p%C3%A1ginas,-O%20L%C3%A9xico%20presente), [Léxico 11](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l19-estudante-logado:~:text=Yan%20Matheus.-,L11%3A%20Estudante,-O%20L%C3%A9xico%20presente) e [História de Usuario 45](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Lu%C3%ADsa%20de%20Souza-,HU45%20%2D%20F%C3%B3rum%20entre%20estudantes,-A%20tabela%2046)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Should na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Brainstorming-,RQ56,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade OUT na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Brainstorming-,RQ56,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $0 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=0-,RQ56,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ59,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 7 - Comunicar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=M%C3%A9dia-,%C3%89pico%207%20%2D%20Comunicar,-Feature%201%20%2D%20F%C3%B3rum)|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 49 - E56 - Cartão do Requisito Funcional 56</p>
+
+Fonte: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus </a>
+
+### EF57 - Rastrebilidade Forward From do requisito RF57
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ57](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ57,-O%20aplicativo%20deve) | O aplicativo deve ter um fórum por disciplina entre estudantes e professores. |
+| Categoria | Desenvolvimento  |
+| Elementos |[Léxico 08](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l07-notificar-eventos:~:text=Yan%20Matheus.-,L08%3A%20Acessar%20p%C3%A1ginas,-O%20L%C3%A9xico%20presente), [Léxico 11](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l19-estudante-logado:~:text=Yan%20Matheus.-,L11%3A%20Estudante,-O%20L%C3%A9xico%20presente), [Léxico 12](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l19-estudante-logado:~:text=de%20Souza.-,L12%3A%20Professor,-O%20lexico%20presente) e [História de Usuario 46](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Lu%C3%ADsa%20de%20Souza-,HU46%20%2D%20F%C3%B3rum%20por%20disciplina%20entre%20estudantes%20e%20professores,-A%20tabela%2047)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Should na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Brainstorming-,RQ57,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade OUT na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Brainstorming-,RQ57,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $11,50 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=12-,RQ57,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Média na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ60,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 7 - Comunicar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=M%C3%A9dia-,%C3%89pico%207%20%2D%20Comunicar,-Feature%201%20%2D%20F%C3%B3rum)|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 50 - E57 - Cartão do Requisito Funcional 57</p>
+
+Fonte: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus </a>
+
+### EF58 - Rastrebilidade Forward From do requisito RF58
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ58](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ58,-O%20aplicativo%20deve) | O aplicativo deve permitir a emissão de diplomas. |
+| Categoria | Desenvolvimento  |
+| Elementos |[Léxico 16](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l16-documentacao-oficial:~:text=de%20Souza.-,L16%3A%20Documenta%C3%A7%C3%A3o%20Oficial,-O%20lexico%20presente), [Léxico 04](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l04-emitir-documentos:~:text=Pedro%20Henrique.-,L04%3A%20Emitir%20documentos,-O%20L%C3%A9xico%20presente) e [História de Usuario 47](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Lu%C3%ADsa%20de%20Souza-,HU47%20%2D%20Emiss%C3%A3o%20de%20diplomas,-A%20tabela%2048)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Could na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Brainstorming-,RQ58,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade OUT na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Brainstorming-,RQ58,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $2 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=2-,RQ58,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=M%C3%A9dia-,RQ61,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 8 - Emitir](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=M%C3%A9dia-,%C3%89pico%208%20%2D%20Emitir,-Feature%201%20%2D%20Documentos)|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 51 - E58 - Cartão do Requisito Funcional 58</p>
+
+Fonte: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus </a>
+
+### EF59 - Rastrebilidade Forward From do requisito RF59
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ59](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ59,-O%20aplicativo%20deve) | O aplicativo deve ter um canal de suporte ao usuário. |
+| Categoria | Desenvolvimento  |
+| Elementos |[Léxico 10](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l10-oferecer-servicos:~:text=Yan%20Matheus.-,L10%3A%20Oferecer%20servi%C3%A7os,-O%20L%C3%A9xico%20presente), [Léxico 04](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l04-emitir-documentos:~:text=Pedro%20Henrique.-,L04%3A%20Emitir%20documentos,-O%20L%C3%A9xico%20presente) e [História de Usuario 48](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Lara%20Souza-,HU48%20%2D%20Canal%20de%20suporte%20ao%20usu%C3%A1rio,-A%20tabela%2049)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Brainstorming-,RQ59,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Brainstorming-,RQ59,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $8,50 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=10-,RQ59,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ62,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 7 - Comunicar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=M%C3%A9dia-,%C3%89pico%207%20%2D%20Comunicar,-Feature%201%20%2D%20F%C3%B3rum)|
+| Implementação | Não implementado |
+| Evidência| Nenhumma |
+
+<p style="font-size: 14px;">Tabela 52 - E59 - Cartão do Requisito Funcional 59</p>
+
+Fonte: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus </a>
+
+### EF60 - Rastrebilidade Forward From do requisito RF60
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ60](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ60,-O%20aplicativo%20deve) | O aplicativo deve permitir a visualização de certificados. |
+| Categoria | Desenvolvimento |
+| Elementos |[Léxico 16](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l16-documentacao-oficial:~:text=de%20Souza.-,L16%3A%20Documenta%C3%A7%C3%A3o%20Oficial,-O%20lexico%20presente) e [História de Usuario 49](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Lu%C3%ADsa%20de%20Souza-,HU49%20%2D%20Visualiza%C3%A7%C3%A3o%20de%20certificados,-A%20tabela%2050)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Should na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Brainstorming-,RQ60,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Brainstorming-,RQ60,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $40 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=4%2C25-,RQ60,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Alta na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ63,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 1 - Acompanhar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=Prioriza%C3%A7%C3%A3o-,%C3%89pico%201%20%2D%20Acompanhar,-Feature%201%20%2D%20Oportunidades)|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 53 - E60 - Cartão do Requisito Funcional 60</p>
+
+Fonte: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus </a>
+
+### EF61 - Rastrebilidade Forward From do requisito RF61
+
+| Itens  | Descrição    |  
+| ------------- | ---- |
+| [RQ61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ61,-O%20aplicativo%20deve) | O aplicativo deve permitir a visualização de ocorrências. |
+| Categoria | Desenvolvimento |
+| Elementos |[Léxico 16](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l16-documentacao-oficial:~:text=de%20Souza.-,L16%3A%20Documenta%C3%A7%C3%A3o%20Oficial,-O%20lexico%20presente) e [História de Usuario 50](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#:~:text=Fonte%3A%20Lara%20Souza-,HU50%20%2D%20Visualiza%C3%A7%C3%A3o%20de%20ocorr%C3%AAncias,-A%20tabela%2051)  |
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Must na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Brainstorming-,RQ61,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Brainstorming-,RQ61,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $0 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=0-,RQ61,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Média na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=Alta-,RQ64,-O%20aplicativo%20deve) <br>Agregação - O requisito é classificado no [Épico 1 - Acompanhar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/#:~:text=Prioriza%C3%A7%C3%A3o-,%C3%89pico%201%20%2D%20Acompanhar,-Feature%201%20%2D%20Oportunidades)|
+| Implementação | Não implementado |
+| Evidência| Nenhuma |
+
+<p style="font-size: 14px;">Tabela 54 - E61 - Cartão do Requisito Funcional 61</p>
+
+Fonte: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus </a>
+
 ## Rastreabilidade Forward From - Requisitos Não Funcionais
 
 ### EF01 - Rastrebilidade Forward From do requisito RNF03
