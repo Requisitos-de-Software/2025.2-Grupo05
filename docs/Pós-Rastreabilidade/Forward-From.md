@@ -916,7 +916,7 @@ Fonte: <a  href="https://github.com/mel14-hub"> Lara Mota </a>
 <p style="font-size: 14px;">Tabela 33 - EF04 - Cartão do Requisito Não Funcional 26</p>
 Fonte: <a  href="https://github.com/Luisa12ll"> Luísa de Souza </a>
 
-### EF40 - Rastreabilidade Forward From do requisito RNF40
+### EF5 - Rastreabilidade Forward From do requisito RNF40
 
 | Itens                                                                                                                                                                                 | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -930,6 +930,50 @@ Fonte: <a  href="https://github.com/Luisa12ll"> Luísa de Souza </a>
 <p style="font-size: 14px">Tabela X - EF40 - Cartão do Requisito Não Funcional 40</p>
 
 **Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
+
+### EF06 - Rastrebilidade Forward From do requisito RF54
+
+
+
+
+
+
+| Itens  | Descrição    |  
+
+
+| ------------- | ---- |
+
+
+| [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ54,-O%20aplicativo%20deve) | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. |
+
+
+| Categoria | Desenvolvimento  |
+
+
+| Elementos |[Léxico 29](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l29-funcionalidade-encontrada-45-segundos:~:text=Pedro%20Henrique.-,L29%3A%20Funcionalidade%20encontrada%20%E2%89%A4%2045%20segundos,-O%20L%C3%A9xico%20presente) e [NFR](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/NFR-Framework/#:~:text=RNF-,O%20aplicativo%20deve%20ter%20a%20possibilidade%20de%20encontrar%20qualquer%20funcionalidade%20desejada%20em%20at%C3%A9%2045%20segundos.,-Rastriabilidade)  |
+
+
+| Elos Forward-From | Satisfação - O requisito recebeu uma priorização de Should na técnica [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/#:~:text=Question%C3%A1rio-,RQ54,-O%20aplicativo%20deve) <br> Satisfação - O requisito recebeu prioridade IN na técnica [In or Out](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/#:~:text=Question%C3%A1rio-,RQ54,-O%20aplicativo%20deve)<br>Satisfação - O requisito recebeu $13,50 na técnica [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/#:~:text=15%2C50-,RQ54,-O%20aplicativo%20deve)<br> Satisfação - O requisito recebeu prioridade Média na técnica [Three-Level Scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/#:~:text=M%C3%A9dia-,RQ57,-O%20aplicativo%20deve) <br>Satisfação - O requisito não funcional é satisfeito pelo NFR framework [Cartão de Especificação 2](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/NFR-Framework/#:~:text=Rastriabilidade-,RQ54,-Classifica%C3%A7%C3%A3o) <br> Alocação - O requisito não funcional foi alocado na categoria de Performace na [Especificação Suplementar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Camila%20Silva-,RQ54,-Performance%20(P)). <br> |
+
+
+| Implementação | Não implementado |
+
+
+| Evidência| Nenhuma |
+
+
+
+
+
+<p style="font-size: 14px;">Tabela 34 - EF05 - Cartão do Requisito Funcional 54</p>
+
+
+
+
+
+Fonte: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus </a>
+
+
 
 ## Referência bibliográfica
 
