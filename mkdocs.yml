@@ -43,6 +43,7 @@ nav:
               - Inspeção 2: Entregas/Inspeções/Inspeções_grupo5/Inspecao2.md
               - Inspeção 3: Entregas/Inspeções/Inspeções_grupo5/Inspecao3.md
               - Inspeção 4: Entregas/Inspeções/Inspeções_grupo5/Inspecao4.md
+              - Inspeção 5: Entregas/Inspeções/Inspeções_grupo5/Inspecao5.md
           - Inspeções grupo 6:
               - Inspeção 1: Entregas/Inspeções/Inspeções_grupo6/Inspecao1.md
               - Inspeção 2: Entregas/Inspeções/Inspeções_grupo6/Inspecao2.md
@@ -138,8 +139,11 @@ nav:
       - Verificação: Análise/Verificação.md
       - Validação: Análise/Validação.md
   - Pós-Rastreabilidade:
+      - Elos de Rastreabilidade: Pós-Rastreabilidade/Lvs/Elos-Ratreabilidade.md
       - Forward-From: Pós-Rastreabilidade/Forward-From.md
       - Backward-From: Pós-Rastreabilidade/Backward-From.md
+      - Matriz de Rastreabilidade: Pós-Rastreabilidade/Matriz_Rastreabilidade.md
+
   - Aplicativo Anterior:
       - Sobre: Aplicativo_anterior/Sobre_hbo.md
       - Rich Picture: Aplicativo_anterior/Rich_picture_hbo.md
