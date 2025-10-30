@@ -1,6 +1,6 @@
 # Introdução
 
-Esta página tem como objetivo armazenar a inspeção da Entrega 4, bem como demais documentos relacionados, referentes ao nosso próprio grupo.
+ objetivo dessa página é armazenar a inspeção da entrega 4 e demais documentos relacionados. Acesse o vídeo clicando no link correspondente.
 
 ## Inspeção 4
 
