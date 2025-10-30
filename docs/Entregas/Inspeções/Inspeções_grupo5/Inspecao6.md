@@ -2,7 +2,7 @@
 
 O objetivo dessa página é armazenar a inspeção da entrega 6 e demais documentos relacionados do nosso próprio grupo. Acesse o vídeo clicando no link correspondente.
 
-# Inspeção 5
+# Inspeção 6
 
 
 ## Participantes
@@ -29,10 +29,10 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 | Cada requisito está devidamente ligado aos artefatos de implementação correspondentes?                                         |      Sim         |           Versão 1.0 \- 28/10/2025                                             |
 | O elo de agregação representa a composição de elementos dentro do modelo?                                                     |       Sim        |          Versão 1.0 \- 28/10/2025                                              |
 
-<figcaption align="center">Tabela 1: Lista de inspeção 5 — Rastreabilidade de Requisitos.</figcaption>
+<figcaption align="center">Tabela 1: Lista de inspeção 6 — Rastreabilidade de Requisitos.</figcaption>
 
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                   |                        Autor(es)                         |        Revisor(es)        |
 | :----: | :--------: | :------------------------------------------ | :-----------------------------------------------------: | :----------------------: |
-|  1.0   | 28/10/2025 | Documentação inicial da inspeção 5          | [Pedro Henrique](https://github.com/pedrohpsantos)       | [Yan Matheus](https://github.com/Yanmatheus0812) |
+|  1.0   | 28/10/2025 | Documentação inicial da inspeção 6         | [Pedro Henrique](https://github.com/pedrohpsantos)       | [Yan Matheus](https://github.com/Yanmatheus0812) |
