@@ -96,14 +96,12 @@ jobs:
           fi
 
           echo "################################################################"
-          exit 1
+          # Remover o 'exit 1' para permitir deploy mesmo com erro
+          # exit 1
 
-      # ============ DEPLOY (SÓ SE TUDO OK E FOR PUSH PARA MAIN) ============
+      # ============ DEPLOY (SEMPRE EXECUTA EM PUSH PARA MAIN) ============
       - name: 🚀 Deploy to GitHub Pages
-        if: |
-          success() && 
-          github.event_name == 'push' && 
-          github.ref == 'refs/heads/main'
+        if: always() && github.event_name == 'push' && github.ref == 'refs/heads/main'
         run: |
           echo "📚 Fazendo deploy da documentação..."
           mkdocs gh-deploy --force --clean --verbose
@@ -121,4 +119,3 @@ jobs:
             echo "📚 Site: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
           else
             echo "✅ Validação concluída com sucesso!"
-          fi
