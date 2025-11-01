@@ -163,7 +163,7 @@ A tabela 4 disposta abaixo representa todos os requisitos levantados durante a a
 | E027          | O aplicativo deve ser acessível (contraste em cores, suporte à libras e auto-descrição ).                             | RNF       | Não          | 1.0    | Entrevista 2 |
 | E028          | O aplicativo deve oferecer um ranqueamento de matérias por nota, para orienta-lo de qual foco seguir.                 | RF        | Não          | 1.0    | Entrevista 2 |
 | E029          | O aplicativo deve ter uma página de perfil com as informações do estudante (nome, instituição e ano/semestre).          | RF        | Sim          | 1.0    | Entrevista 2 |
-| E030          | O aplicativo deve conseguir editar suas informações na página de perfil.                                              | RF        | Sim          | 1.0    | Entrevista 3 |
+| E030          | O aplicativo deve possibilitar o estudante editar suas informações na página de perfil.                                              | RF        | Sim          | 1.0    | Entrevista 3 |
 | E031          | O aplicativo deve conseguir editar suas informações bancárias pelo gov.                                               | RF        | Não          | 1.0    | Entrevista 3 |
 | E032          | O aplicativo deve ter um design sem sobrecarga de informações na tela                                                 | RI        | sim          | 1.0    | Entrevista 3 |
 
