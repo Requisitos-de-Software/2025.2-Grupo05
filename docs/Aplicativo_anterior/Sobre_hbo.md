@@ -33,6 +33,14 @@ Além de permitir que os usuários assistam a seus títulos favoritos a qualquer
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | <div align="center"><img alt= "camila" src="https://github.com/CamilaSilvaC.png" width="90"></div> | <div align="center"><img alt="geovanna" src="https://github.com/GeovannaUmbelino.png" width="90"></div> | <div align="center"><img alt="lara" src="https://github.com/mel14-hub.png" width="90"></div> | <div align="center"><img alt= "luisa" src="https://github.com/luisa12ll.png" width="90"></div> | <div align="center"><img alt= "pedro" src="https://github.com/pedrohpsantos.png" width="90"></div> | <div align="center"><img alt="yan" src="https://github.com/Yanmatheus0812.png" width="90"></div> |
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
+</div>
+
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição           | Autor                                                                                                   | Revisor                                            |

@@ -69,6 +69,14 @@ A construção das Rich Pictures foi elaborada com base em cinco elementos princ
 
 <font size="3"><p style="text-align: center">Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Luísa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
+
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
+</div>
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                           | Autor                                                                                                   | Revisor                                            |

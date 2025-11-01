@@ -197,6 +197,14 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 > <a id="FTF1Ref" href="#FTF1">1.</a> WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft
 > Press, 2013. Cap. 13 “Three-level scale”, p. 319
 
+
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
+</div>
+
+
 ## Bibliografia
 
 > ALVES, Douglas. Three Level Scale. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/threeLvlScale/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/threeLvlScale/). Acesso em: 26 set. 2025.

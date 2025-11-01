@@ -234,6 +234,14 @@ _Tabela 11: cronograma do projeto final. Fonte: [Camila Silva](https://github.co
 | 1.4    | 30/09/2025 | Preenchimento da tabela realizada do projeto 2 | [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                                                                                                                                                                                          | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
 | 1.5    | 11/10/2025 | Preenchimento da tabela realizada do projeto 3 | [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                                                                                                                                                                                          | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) |
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
+</div>
+
+
+
 ## Bibliografia
 
 [1] SALES, A. B. Plano_de_Ensino RE 2025.02 Turma 3. Aprender3. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210494/mod_resource/content/66/FGA0313%20-%20T03%20Assinado.pdf](https://aprender3.unb.br/pluginfile.php/3210494/mod_resource/content/66/FGA0313%20-%20T03%20Assinado.pdf) . Acesso em 08 de setembro de 2025.

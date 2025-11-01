@@ -136,6 +136,15 @@ A tabela 3 apresenta a matriz de rastreabilidade.
 <p style="font-size: 14px;">Tabela 3 - Matriz de rastreabilidade</p>
 Fonte:  <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>, <a href="https://github.com/mel14-hub">Lara Mota</a>, <a href="https://github.com/luisa12ll">Luisa de Souza</a>, <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
 
+
+
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
+</div>
+
+
 ## Histórico de Versões
 
 | Versão |    Data    |                    Descrição                    |                                                                Autor(es)                                                                |                   Revisor(es)                    |

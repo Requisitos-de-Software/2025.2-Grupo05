@@ -117,6 +117,14 @@ Autoria de <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>.</p
 
 Além disso, a gravação da validação pode ser conferida em: [Validação da elicitação de requisitos](https://www.youtube.com/watch?v=dK_SfG7SVw8&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=24).
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
+</div>
+
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                     | Autor                                                                                                                                                                                                                                                                                                      | Revisor                                               |

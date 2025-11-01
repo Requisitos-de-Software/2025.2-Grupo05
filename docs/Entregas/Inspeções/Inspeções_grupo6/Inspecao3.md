@@ -175,6 +175,14 @@ A tabela 6 mostra a lista de verificação do caso de uso.
 > <a id="RP1" href="#tec">3.</a> BRASIL. MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Diretoria de Tecnologia da Informação. Coordenação Geral de Sistemas. Especificação Suplementar: Sigla do Projeto - Nome do Projeto. Versão 1.0. Brasília, DF. <br> > <a id="RP1" href="#TEC2">4.</a> Lucid Software Português, Youtube. “Tutorial de caso de uso UML”.Disponível em:
 > <[https://www.youtube.com/watch?v=ab6eDdwS3rA](https://www.youtube.com/watch?v=ab6eDdwS3rA)>. Acesso em: 26 set. 2025.
 
+
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
+</div>
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                  | Autor(es)                                                                                                                                              | Revisor(es)                                           |

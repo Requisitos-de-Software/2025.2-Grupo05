@@ -30,6 +30,15 @@ A tabela 1 mostra a lista de verificação do caso de uso.
 
 <font size="3"><p style="text-align: center">Fonte:[Geovanna Alves](https://github.com/GeovannaUmbelino), [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Luísa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
+
+
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
+</div>
+
+
 ## Referências Bibliográficas
 
 > <a id="RP1" href="#TEC2">1.</a> Lucid Software Português, Youtube. “Tutorial de caso de uso UML”.Disponível em:

@@ -119,6 +119,14 @@ A tabela 5 mostra a lista de verificação para a técnica NFR Framework.
 <figcaption align="center">Tabela 5: Lista de inspeção da técnica NFR Framework.</figcaption>
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria. [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)</p></font>
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
+</div>
+
+
+
 ## Bibliografia
 
 > 1. PRESSMAN, Roger S.; MAXIM, Bruce R. Engenharia de Software: Uma Abordagem Profissional. 9. ed. Porto Alegre: AMGH, 2021.

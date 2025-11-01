@@ -596,6 +596,14 @@ A seguir, apresentamos a gravação referente à **verificação dos cenários**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9_QYIqSd-jk?si=w9g2GlDgjlyFtF_T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
+</div>
+
+
 ## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a>. SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf)>. Acesso em: 06 de outubro de 2025. p. 8.
@@ -605,3 +613,9 @@ A seguir, apresentamos a gravação referente à **verificação dos cenários**
 | Versão | Data       | Descrição                        | Autor(es)                                             | Revisor(es)                                                                                      |
 | ------ | ---------- | -------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | 1.0    | 06/10/2025 | Adicionando lista de verificação | [Geovanna Alves](https://github.com/GeovannaUmbelino) | [Luisa de Souza](https://github.com/Luisa12ll) e [Camila Silva](https://github.com/CamilaSilvaC) |
+
+
+  <div style="text-align:center; font-size:0.9em; color:#6c757d; margin-top:1em;">
+       Com agradecimentos à <b>IA</b> pela contribuição no desenvolvimento deste projeto.
+    </div>
+    

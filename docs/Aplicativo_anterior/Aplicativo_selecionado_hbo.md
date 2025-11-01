@@ -40,6 +40,14 @@ Diante disso, e com o compromisso de respeitar as regras da plataforma, o grupo 
 
 Termo de Uso: [https://hbomax.com/terms-of-use](https://hbomax.com/terms-of-use)
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
+</div>
+
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                | Autor                                                 | Revisor                                         |

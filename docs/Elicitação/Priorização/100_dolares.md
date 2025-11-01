@@ -185,6 +185,13 @@ As gravações da priorização podem ser conferidas em:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRTOS0YSoTg?si=pZQh83kvEK0rjXKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
+</div>
+
+
 ## Bibliografia
 
 - WIEGERS, Karl; BEATTY, Joy. **Software Requirements. 3. ed. Redmond: Microsoft Press**, 2013.

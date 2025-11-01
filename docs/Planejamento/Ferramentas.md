@@ -22,6 +22,14 @@ Para assegurar a eficiência e promover a colaboração contínua da equipe, nos
 
 _Tabela 1_: Tabela de Ferramentas utilizadas. Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Lara Souza](https://github.com/mel14-hub)
 
+
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
+</div>
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                          | Autor                                                 | Revisor                                               |
