@@ -145,24 +145,24 @@ A tabela 4 disposta abaixo representa todos os requisitos levantados durante a a
 | E09           | O aplicativo deve notificar faltas após serem lançadas no aplicativo.                                                 | RF        | Não          | 1.0    | Entrevista 1 |
 | E010          | O aplicativo deve notificar informações sobre o benefício pé de meia sobre parcelas e valores.                        | RF        | Não          | 1.0    | Entrevista 1 |
 | E011          | O aplicativo deve ser fácil de usar e aprender suas funcionalidades.                                                  | RNF       | Sim          | 1.0    | Entrevista 1 |
-| E012          | OO aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos)                              | RNF       | Sim          | 1.0    | Entrevista 1 |
+| E012          | OO aplicativo deve ter uma linguagem simples e adequada ao estudante (sem termos técnicos)                              | RNF       | Sim          | 1.0    | Entrevista 1 |
 | E013          | O aplicativo deve carregar suas informações em no máximo 3 segundos.                                                  | RNF       | Não          | 1.0    | Entrevista 1 |
-| E014          | O aplicativo deve possibilitar o usuário emitir a declaração de vínculo da instituição de ensino.                     | RF        | Não          | 1.0    | Entrevista 2 |
-| E015          | O aplicativo deve possibilitar o usuário visualizar seu histórico da instituição de ensino.                           | RF        | Não          | 1.0    | Entrevista 2 |
-| E016          | O aplicativo deve possibilitar o usuário visualizar boletim da instituição de ensino.                                 | RF        | Não          | 1.0    | Entrevista 2 |
-| E017          | O aplicativo deve possibilitar o usuário visualizar programas estudantis (FIES, Prouni, etc.).                        | RF        | Sim          | 1.0    | Entrevista 2 |
-| E018          | O aplicativo deve possibilitar o usuário visualizar parcelas pagas e que faltam do auxílio.                           | RF        | Sim          | 1.0    | Entrevista 2 |
-| E019          | O aplicativo deve possibilitar o usuário visualizar o valor total do auxílio.                                         | RF        | Não          | 1.0    | Entrevista 2 |
-| E020          | O aplicativo deve possibilitar o usuário visualizar a conta bancária cadastrada do auxílio.                           | RF        | Não          | 1.0    | Entrevista 2 |
-| E021          | O aplicativo deve possibilitar o usuário visualizar o dia do pagamento do auxílio.                                    | RF        | Não          | 1.0    | Entrevista 2 |
-| E022          | O aplicativo deve possibilitar o usuário acessar um fórum de dúvidas sobre o auxílio.                                 | RF        | Não          | 1.0    | Entrevista 2 |
-| E023          | O aplicativo deve possibilitar o usuário ser atendido em um canal de conversa sobre o auxílio.                        | RF        | Não          | 1.0    | Entrevista 2 |
-| E024          | O aplicativo deve possibilitar o usuário visualizar datas de eventos e atividades escolares em um calendário.         | RF        | Não          | 1.0    | Entrevista 2 |
+| E014          | O aplicativo deve possibilitar o estudante emitir a declaração de vínculo da instituição de ensino.                     | RF        | Não          | 1.0    | Entrevista 2 |
+| E015          | O aplicativo deve possibilitar o estudante visualizar seu histórico da instituição de ensino.                           | RF        | Não          | 1.0    | Entrevista 2 |
+| E016          | O aplicativo deve possibilitar o estudante visualizar boletim da instituição de ensino.                                 | RF        | Não          | 1.0    | Entrevista 2 |
+| E017          | O aplicativo deve possibilitar o estudante visualizar programas estudantis (FIES, Prouni, etc.).                        | RF        | Sim          | 1.0    | Entrevista 2 |
+| E018          | O aplicativo deve possibilitar o estudante visualizar parcelas pagas e que faltam do auxílio.                           | RF        | Sim          | 1.0    | Entrevista 2 |
+| E019          | O aplicativo deve possibilitar o estudante visualizar o valor total do auxílio.                                         | RF        | Não          | 1.0    | Entrevista 2 |
+| E020          | O aplicativo deve possibilitar o estudante visualizar a conta bancária cadastrada do auxílio.                           | RF        | Não          | 1.0    | Entrevista 2 |
+| E021          | O aplicativo deve possibilitar o estudante visualizar o dia do pagamento do auxílio.                                    | RF        | Não          | 1.0    | Entrevista 2 |
+| E022          | O aplicativo deve possibilitar o estudante acessar um fórum de dúvidas sobre o auxílio.                                 | RF        | Não          | 1.0    | Entrevista 2 |
+| E023          | O aplicativo deve possibilitar o estudante ser atendido em um canal de conversa sobre o auxílio.                        | RF        | Não          | 1.0    | Entrevista 2 |
+| E024          | O aplicativo deve possibilitar o estudante visualizar datas de eventos e atividades escolares em um calendário.         | RF        | Não          | 1.0    | Entrevista 2 |
 | E025          | O aplicativo deve ter informações unificadas sobre sua jornada escolar.                                               | RF        | Sim          | 1.0    | Entrevista 2 |
-| E026          | O aplicativo deve manter as informações do usuário seguras e privadas.                                                | RR        | Sim          | 1.0    | Entrevista 2 |
+| E026          | O aplicativo deve manter as informações do estudante seguras e privadas.                                                | RR        | Sim          | 1.0    | Entrevista 2 |
 | E027          | O aplicativo deve ser acessível (contraste em cores, suporte à libras e auto-descrição ).                             | RNF       | Não          | 1.0    | Entrevista 2 |
 | E028          | O aplicativo deve oferecer um ranqueamento de matérias por nota, para orienta-lo de qual foco seguir.                 | RF        | Não          | 1.0    | Entrevista 2 |
-| E029          | O aplicativo deve ter uma página de perfil com as informações do usuário (nome, instituição e ano/semestre).          | RF        | Sim          | 1.0    | Entrevista 2 |
+| E029          | O aplicativo deve ter uma página de perfil com as informações do estudante (nome, instituição e ano/semestre).          | RF        | Sim          | 1.0    | Entrevista 2 |
 | E030          | O aplicativo deve conseguir editar suas informações na página de perfil.                                              | RF        | Sim          | 1.0    | Entrevista 3 |
 | E031          | O aplicativo deve conseguir editar suas informações bancárias pelo gov.                                               | RF        | Não          | 1.0    | Entrevista 3 |
 | E032          | O aplicativo deve ter um design sem sobrecarga de informações na tela                                                 | RI        | sim          | 1.0    | Entrevista 3 |
