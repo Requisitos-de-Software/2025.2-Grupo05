@@ -143,6 +143,46 @@ Elaboração por <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o4UCSAHwcoY?si=XDYEEl0hVhrowNsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Validação - In or Out
+
+A seguir temos a tabela 3, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O usuário corresponde ao perfil de usuário 2
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/Yanmatheus0812)">Yan Matheus</a></td>
+        <td>02/1/2025</td>
+        <td>14:30</td>
+        <td>Santa Maria</td>
+         </tr>
+      <tr>
+       <tr>
+        <td>Usuário</td>
+        <td>Pedro Henrique</td>
+         <td>02/11/2025</td>
+        <td>14:30</td>
+        <td>Santa Maria</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 3: Validação Three Level Scale<br>
+Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NnpP915P4cs?si=Zw6b5Tf33QBPECzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Bibliografia
 
 > WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013.
@@ -154,3 +194,4 @@ Elaboração por <a href="https://github.com/pedrohpsantos">Pedro Henrique</a> e
 | 1.0    | 30/09/2025 | Criação do documento de priorização In or Out | [Pedro Henrique](https://github.com/pedrohpsantos) e [Camila Silva](https://github.com/CamilaSilvaC) | [Yan Matheus](https://github.com/Yanmatheus0812) |
 | 1.1    | 02/10/2025 | Adição da tabela de participantes             | [Camila Silva](https://github.com/CamilaSilvaC)                                                      | [Yan Matheus](https://github.com/Yanmatheus0812) |
 | 1.2    | 20/10/2025 | Atualização da tabela                         | [Pedro Henrique](https://github.com/pedrohpsantos)                                                   | [Lara Souza](https://github.com/mel14-hub)       |
+| 1.3    | 02/11/2025 | Validação da priorização                         | [Yan Matheus](https://github.com/Yanmatheus0812)                                                   | [Lara Souza](https://github.com/mel14-hub)       |
