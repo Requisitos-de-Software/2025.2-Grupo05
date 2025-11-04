@@ -385,7 +385,9 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 ## Bibliografia
 
 <a id="FRM1" href="#anchor_1">1.</a> Lucidchart. Diagrama de Caso de Uso UML. Disponível em: <<https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>>. Acesso em: 14 maio 2023.
+
 <a id="FRM2" href="#anchor_2">2.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 <a id="FRM3" href="#anchor_3">3.</a> Fernando, Sidney. Casos de uso. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [hhttps://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/). Acesso em: 10 out. 2025
 
 ## Histórico de Versões
