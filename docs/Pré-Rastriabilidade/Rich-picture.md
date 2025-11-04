@@ -2,7 +2,7 @@
 
 ## Introdução
 
-As Rich Pictures são representações visuais que ilustram os principais elementos de uma situação e seus relacionamentos. Elas podem ser utilizadas tanto para apoiar a compreensão de um contexto quanto para identificar pontos de melhoria. Na prática, consistem em uma combinação de imagens, textos, símbolos e ícones organizados de forma integrada.
+As Rich Pictures são representações visuais que ilustram os principais elementos de uma situação e seus relacionamentos. Elas podem ser utilizadas tanto para apoiar a compreensão de um contexto quanto para identificar pontos de melhoria. Na prática, consistem em uma combinação de imagens, textos, símbolos e ícones organizados de forma integrada<a id="anchor_1" href="#FRM1">[1]</a>.
 
 No caso da Jornada do Estudante, a Rich Picture representa a plataforma, suas principais funcionalidades e a forma como os usuários interagem com seus recursos.
 
@@ -75,7 +75,7 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 
 ## Bibliografia
 
-> David Benyon. Interação Humano-Computador. São Paulo, v2.0, Pearson Prentice Hall, 2011. "Software requirements", Breakdown topics for software requirements, Capítulo Software Development Project, Introducing Rich Pictures
+<a id="FRM1" href="#anchor_1">1.</a> David Benyon. Interação Humano-Computador. São Paulo, v2.0, Pearson Prentice Hall, 2011. "Software requirements", Breakdown topics for software requirements, Capítulo Software Development Project, Introducing Rich Pictures
 
 ## Histórico de Versões
 
