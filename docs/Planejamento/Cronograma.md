@@ -1,6 +1,6 @@
 # Cronograma
 
-O cronograma funciona como um instrumento para planejar e distribuir tarefas, recursos e prazos de um projeto de maneira visual, neste caso, por meio de tabelas. Os cronogramas a seguir foram elaborados considerando as datas e prazos estabelecidos no calendário do semestre letivo (2025.2) da disciplina.
+O cronograma funciona como um instrumento para planejar e distribuir tarefas, recursos e prazos de um projeto de maneira visual, neste caso, por meio de tabelas. Os cronogramas a seguir foram elaborados considerando as datas e prazos estabelecidos no calendário do semestre letivo (2025.2) da disciplina<a id="anchor_1" href="#FRM1">[1]</a>.
 
 ## Cronograma Geral
 
@@ -246,4 +246,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 
 ## Bibliografia
 
-[1] SALES, A. B. Plano_de_Ensino RE 2025.02 Turma 3. Aprender3. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210494/mod_resource/content/66/FGA0313%20-%20T03%20Assinado.pdf](https://aprender3.unb.br/pluginfile.php/3210494/mod_resource/content/66/FGA0313%20-%20T03%20Assinado.pdf) . Acesso em 08 de setembro de 2025.
+<a id="FRM1" href="#anchor_1">1.</a> SALES, A. B. Plano_de_Ensino RE 2025.02 Turma 3. Aprender3. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210494/mod_resource/content/66/FGA0313%20-%20T03%20Assinado.pdf](https://aprender3.unb.br/pluginfile.php/3210494/mod_resource/content/66/FGA0313%20-%20T03%20Assinado.pdf) . Acesso em 08 de setembro de 2025.
