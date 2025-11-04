@@ -140,6 +140,7 @@ nav:
   - Análise:
       - Verificação: Análise/Verificação.md
       - Validação: Análise/Validação.md
+      - Comprovação informal: Análise/Comprovacao.md
   - Pós-Rastreabilidade:
       - Elos de Rastreabilidade: Pós-Rastreabilidade/Lvs/Elos-Ratreabilidade.md
       - Forward-From: Pós-Rastreabilidade/Forward-From.md
