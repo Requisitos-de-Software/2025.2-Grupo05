@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A matriz de rastreabilidade é um instrumento fundamental na engenharia de requisitos, pois possibilita acompanhar o ciclo de vida de cada requisito, desde sua origem até sua implementação. Ela estabelece conexões entre os requisitos e os artefatos gerados ao longo do desenvolvimento, assegurando que nenhuma informação relevante seja perdida e que todas as necessidades identificadas estejam devidamente atendidas.
+A matriz de rastreabilidade é um instrumento fundamental na engenharia de requisitos, pois possibilita acompanhar o ciclo de vida de cada requisito, desde sua origem até sua implementação. Ela estabelece conexões entre os requisitos e os artefatos gerados ao longo do desenvolvimento, assegurando que nenhuma informação relevante seja perdida e que todas as necessidades identificadas estejam devidamente atendidas<a id="anchor_1" href="#FRM1">[1]</a>.
 
 Por meio dessa matriz, é possível compreender de forma clara como os requisitos se relacionam entre si e com outros elementos do projeto, como modelos, protótipos e técnicas de elicitação.
 
@@ -60,7 +60,7 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou na m
 
 ## Metodologia
 
-A construção da matriz de rastreabilidade foi realizada a partir dos 52 requisitos funcionais, 6 requisitos não funcionais, 3 risco, 1 requsito de interface e 1 requisito de produto, definidos durante o processo de elicitação. Cada requisito foi analisado e documentado considerando suas fontes, estado de implementação e vínculos com demais artefatos do projeto. As linhas representam os requisitos elicitados, enquanto as colunas indicam os artefatos e atributos associados, criando um mapeamento completo e rastreável.
+A construção da matriz de rastreabilidade foi realizada a partir dos 52 requisitos funcionais, 6 requisitos não funcionais, 3 risco, 1 requsito de interface e 1 requisito de produto, definidos durante o processo de elicitação. Cada requisito foi analisado e documentado considerando suas fontes, estado de implementação e vínculos com demais artefatos do projeto. As linhas representam os requisitos elicitados, enquanto as colunas indicam os artefatos e atributos associados, criando um mapeamento completo e rastreável<a id="anchor_2" href="#FRM2">[2]</a>.
 
 Para garantir a organização e a clareza das informações, a matriz foi estruturada em nove colunas principais, descritas a seguir:
 
@@ -147,6 +147,11 @@ De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC)
 Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
 
 </div>
+
+## Referência bibliográfica
+
+<a id="FRM1" href="#anchor_1">1.</a>TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: [https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf](https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf?origin=scientificContributions). Acesso em: 25 de outubro de 2025.
+<a id="FRM2" href="#anchor_2">2.</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 25 de outubro de 2025.
 
 ## Histórico de Versões
 
