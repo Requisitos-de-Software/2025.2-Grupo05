@@ -143,13 +143,9 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 
 </div>
 
-## Referências Bibliográficas
-
-> <a id="FRM1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-
 ## Bibliografia
 
-> HENRIQUE, Matheus e FERREIRA, Rafael. Perfil de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 24 set. 2025.
+<a id="FRM1" href="#anchor_1">1.</a> HENRIQUE, Matheus e FERREIRA, Rafael. Perfil de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 24 set. 2025.
 
 ## Histórico de Versões
 
