@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A técnica "In or Out" (Dentro ou Fora) é um método de priorização binário e direto, focado em definir o escopo de um projeto ou de uma release específica. As partes interessadas (stakeholders) analisam cada requisito e decidem se ele está "Dentro" do escopo, sendo considerado essencial, ou "Fora" do escopo, sendo adiado para futuras versões ou descartado.
+A técnica "In or Out" (Dentro ou Fora) é um método de priorização binário e direto, focado em definir o escopo de um projeto ou de uma release específica. As partes interessadas (stakeholders) analisam cada requisito e decidem se ele está "Dentro" do escopo, sendo considerado essencial, ou "Fora" do escopo, sendo adiado para futuras versões ou descartado<a id="anchor_1" href="#FRM1">[1]</a>.
 
 O principal objetivo desta técnica é criar uma fronteira clara entre o que é absolutamente necessário e o que não é, forçando decisões objetivas e evitando a inclusão de funcionalidades de baixa prioridade na entrega atual.
 
@@ -155,7 +155,7 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 
 ## Bibliografia
 
-> WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013.
+<a id="FRM1" href="#anchor_1">1.</a> WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013.
 
 ## Histórico de Versões
 
