@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O processo de rastreabilidade de requisitos é uma atividade essencial na engenharia de requisitos, pois permite estabelecer e acompanhar as ligações entre diferentes artefatos produzidos ao longo do desenvolvimento de software, conforme dito por Sayão e Leite (2005) <a id="RB1" href="https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf">1 </a>. Uma das direções fundamentais dessa prática é a pré-rastreabilidade, também conhecida como rastreabilidade backward-from (para trás). A rastreabilidade backward-from foca na origem dos requisitos. Ela documenta o contexto a partir do qual os requisitos emergem e estabelece as ligações entre um requisito e suas fontes. Essas fontes podem ser atas de reunião, documentos de legislação, entrevistas com stakeholders ou outros artefatos de elicitação.
+O processo de rastreabilidade de requisitos é uma atividade essencial na engenharia de requisitos, pois permite estabelecer e acompanhar as ligações entre diferentes artefatos produzidos ao longo do desenvolvimento de software, conforme dito por Sayão e Leite (2005) <a id="anchor_2" href="#FRM2">[2]</a>. Uma das direções fundamentais dessa prática é a pré-rastreabilidade, também conhecida como rastreabilidade backward-from (para trás). A rastreabilidade backward-from foca na origem dos requisitos. Ela documenta o contexto a partir do qual os requisitos emergem e estabelece as ligações entre um requisito e suas fontes. Essas fontes podem ser atas de reunião, documentos de legislação, entrevistas com stakeholders ou outros artefatos de elicitação.
 
 A rastreabilidade backward-from é essencial para o gerenciamento EBicaz dos requisitos, pois permite identificar a origem e a justificativa de cada um, facilitando a resolução de conflitos e garantindo que todos compreendam o contexto e as necessidades dos stakeholders. Ela também auxilia no gerenciamento de mudanças, avaliando o impacto das alterações sem comprometer os objetivos do projeto, fortalecendo o controle, a transparência e a tomada de decisões ao longo de todo o ciclo de vida.
 
@@ -64,7 +64,7 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou nos 
 
 ## Metodologia
 
-Utilizamos a metodologia Backward From, baseada na proposta de Toranzo, Castro e Mello (2002)<a id="RB2" href="">2.</a>. Essa abordagem nos ajuda a entender exatamente de onde cada requisito surgiu e quais artefatos contribuíram para sua criação e evolução. Assim, conseguimos enxergar toda a trajetória do requisito, desde a sua descoberta até a implementação.
+Utilizamos a metodologia Backward From, baseada na proposta de Toranzo, Castro e Mello (2002)<a id="anchor_1" href="#FRM1">[1]</a>. Essa abordagem nos ajuda a entender exatamente de onde cada requisito surgiu e quais artefatos contribuíram para sua criação e evolução. Assim, conseguimos enxergar toda a trajetória do requisito, desde a sua descoberta até a implementação.
 
 Para organizar essas relações, o modelo define diferentes tipos de elos, que mostram como os artefatos estão conectados:
 
@@ -98,7 +98,7 @@ Por fim, toda a informação foi organizada em tabelas, com hiperlinks para os a
 
 A Tabela 1 a seguir apresenta o modelo padrão que será utilizado neste artefato para documentar a rastreabilidade dos requisitos. Esta estrutura foi desenhada para capturar a vida completa de um requisito, desde sua origem (pré-rastreabilidade) até sua implementação (pós-rastreabilidade).
 
-A estrutura foi baseada em conceitos da literatura, como a classificação das informações em quatro níveis (Ambiental, Organizacional, Gerencial, Desenvolvimento), proposta por Toranzo, Castro e Mello (2002) <a id="RB2" href="">2.</a>.
+A estrutura foi baseada em conceitos da literatura, como a classificação das informações em quatro níveis (Ambiental, Organizacional, Gerencial, Desenvolvimento), proposta por Toranzo, Castro e Mello (2002) <a id="anchor_1" href="#FRM1">[1]</a>.
 
 | Itens                                                                                                     | Descrição                                                                                                         |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -959,12 +959,9 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 
 ## Referência bibliográfica
 
-> <a name="RB2">2. </a>TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: [https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf](https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf?origin=scientificContributions). Acesso em: 25 de outubro de 2025.
+<a id="FRM1" href="#anchor_1">1.</a>TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: [https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf](https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf?origin=scientificContributions). Acesso em: 25 de outubro de 2025.
+<a id="FRM2" href="#anchor_2">2.</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 25 de outubro de 2025.
 
-## Bibliográfica
-
-> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 25 de outubro de 2025.
-> TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: [https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf](https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf?origin=scientificContributions). Acesso em: 25 de outubro de 2025.
 
 ## Histórico de Versões
 
