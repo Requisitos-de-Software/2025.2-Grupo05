@@ -3,7 +3,7 @@
 ## Introdução
 
 O brainstorming é uma técnica de elicitação de requisitos que busca desenvolver ideias e identificar necessidades de forma colaborativa. Participantes contribuem livremente, sem julgamentos,
-permitindo descobrir requisitos explícitos e implícitos, além de estimular soluções criativas e inovadoras para o sistema a ser desenvolvido.
+permitindo descobrir requisitos explícitos e implícitos, além de estimular soluções criativas e inovadoras para o sistema a ser desenvolvido <a id="anchor_1" href="#FRM1">[1]</a>.
 
 ## Participantes
 
