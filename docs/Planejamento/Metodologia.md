@@ -15,17 +15,17 @@ O Scrum surgiu como uma das metodologias ágeis criadas a partir do **Manifesto 
 - colaboração com o cliente
 - adaptação contínua
 
-Ele é especialmente indicado para projetos como o nosso, pois pode ser dividido em funcionalidades menores e entregues em ciclos curtos (**Sprints**).
+Ele é especialmente indicado para projetos como o nosso, pois pode ser dividido em funcionalidades menores e entregues em ciclos curtos (**Sprints**)<a id="anchor_3" href="#FRM3">[3]</a>.
 
 ---
 
 ## Papéis no Scrum
 
-- **Scrum Master (SM):** garante que o time siga as práticas do Scrum, facilita reuniões, ajuda a remover impedimentos e mantém o foco da equipe.
+- **Scrum Master (SM):** garante que o time siga as práticas do Scrum, facilita reuniões, ajuda a remover impedimentos e mantém o foco da equipe<a id="anchor_2" href="#FRM2">[2]</a>.
 
   - **Responsável:** [Yan Matheus](https://github.com/Yanmatheus0812)
 
-- **Time de Desenvolvimento:** equipe multidisciplinar, autônoma e colaborativa, responsável por entregar os incrementos do produto.
+- **Time de Desenvolvimento:** equipe multidisciplinar, autônoma e colaborativa, responsável por entregar os incrementos do produto<a id="anchor_2" href="#FRM2">[2]</a>.
   - **Responsáveis:** [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ---
@@ -94,13 +94,13 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 
 ## Bibliografia
 
-[1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; [www.computer.org.](https://www.computer.org/education/bodies-of-knowledge/software-engineering). Acesso em 07 de Setembro de 2025.
+<a id="FRM1" href="#anchor_1">1.</a> Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; [www.computer.org.](https://www.computer.org/education/bodies-of-knowledge/software-engineering). Acesso em 07 de Setembro de 2025.
 
-[2] Usemobile. _Metodologia Scrum para desenvolvimento de aplicativos_. 2022.  
+<a id="FRM2" href="#anchor_2">2.</a> Usemobile. _Metodologia Scrum para desenvolvimento de aplicativos_. 2022.  
  Disponível em: [usemobile.com.br/metodologia-scrum-desenvolvimento](http://usemobile.com.br/metodologia-scrum-desenvolvimento/). Acesso em 07 de Setembro de 2025.
 
-[3] SEBRAE. _Scrum para projetos ágeis_. 2020.  
+<a id="FRM3" href="#anchor_3">3.</a> SEBRAE. _Scrum para projetos ágeis_. 2020.  
  Disponível em: [sebrae.com.br](https://sebrae.com.br/sites/PortalSebrae/cursosonline/inovacao-e-agilidade-o-futuro-do-empreendedorismo,c269f07e6fb5c710VgnVCM100000d701210aRCRD). Acesso em 07 de Setembro de 2025.
 
-[4] MSHOWTO. Agile ve Scrum Nedir?
+<a id="FRM4" href="#anchor_4">4.</a> MSHOWTO. Agile ve Scrum Nedir?
 Disponível em: [mshowto.org](https://www.mshowto.org/agile-ve-scrum-nedir.html). Acesso em: 16 set. 2025.
