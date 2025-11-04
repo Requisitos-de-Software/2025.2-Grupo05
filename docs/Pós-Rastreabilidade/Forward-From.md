@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A rastreabilidade de requisitos é a capacidade de acompanhar a vida de um requisito em ambas as direções ao longo do ciclo de desenvolvimento. Conforme discutido por Sayão e Leite (2005) <a id="RB1" href="https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf">1.</a>, existem diferentes tipos de rastreabilidade que contribuem para a completude e a consistência do projeto.
+A rastreabilidade de requisitos é a capacidade de acompanhar a vida de um requisito em ambas as direções ao longo do ciclo de desenvolvimento. Conforme discutido por Sayão e Leite (2005) <a id="anchor_1" href="#FRM1">[1]</a>, existem diferentes tipos de rastreabilidade que contribuem para a completude e a consistência do projeto.
 
 Um dos tipos fundamentais é a rastreabilidade forward-from, consiste na técnica que conecta os requisitos aos artefatos de desenho e implementação gerados posteriormente. Essencialmente, ela cria um vínculo “para frente”, partindo da especificação do requisito e apontando para os componentes de design, o código e os casos de teste desenvolvidos para atendê-lo. Essa técnica permite acompanhar cada requisito desde sua especificação até sua implementação e verificação final, garantindo que o sistema atenda corretamente ao que foi definido.
 
@@ -62,7 +62,7 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou nos 
 
 ## Metodologia
 
-Para a definição de nossa metodologia de rastreabilidade, adotamos como base a proposta de Toranzo, Castro e Mello (2002)<a id="RB2" href="">2.</a> . Esta abordagem compreende diversas estratégias para o rastreamento de requisitos, começando pela classificação das informações a serem rastreadas em quatro níveis:
+Para a definição de nossa metodologia de rastreabilidade, adotamos como base a proposta de Toranzo, Castro e Mello (2002)<a id="anchor_2" href="#FRM2">[2]</a> . Esta abordagem compreende diversas estratégias para o rastreamento de requisitos, começando pela classificação das informações a serem rastreadas em quatro níveis:
 
 Ambiental: Congrega informações oriundas do contexto ambiental onde a organização está inserida e que podem afetar o sistema sendo desenvolvido.
 
@@ -72,7 +72,7 @@ Gerencial: Agrega informações que permitem associar tarefas a requisitos e que
 
 Desenvolvimento: Abarca informações relacionadas aos diversos artefatos gerados no processo de desenvolvimento, como documento de requisitos, diagramas, programas e casos de testes.
 
-Além de classificar as informações, o modelo de Toranzo, Castro e Mello (2002)<a id="RB2" href="">2.</a> também define os tipos de "elos" que conectam os artefatos e dão suporte à rastreabilidade. Esses elos mostram as relações e dependências entre os vários elementos do projeto.Os principais tipos de elos são:
+Além de classificar as informações, o modelo de Toranzo, Castro e Mello (2002)<a id="anchor_2" href="#FRM2">[2]</a> também define os tipos de "elos" que conectam os artefatos e dão suporte à rastreabilidade. Esses elos mostram as relações e dependências entre os vários elementos do projeto.Os principais tipos de elos são:
 
 Satisfação: Mostra que um item depende de outro para ser satisfeito ou concluído.
 
@@ -90,7 +90,7 @@ Neste artefato, apresentamos os resultados da aplicação desse modelo em todos 
 
 ## Modelo
 
-A Tabela 1 a seguir apresenta o modelo de rastreabilidade que será adotado neste artefato, servindo como padrão para o processo. A estrutura foi definida com base na proposta de Toranzo, Castro e Mello (2002)<a id="RB2" href="">2.</a>, que fundamenta a classificação das informações e os tipos de elos de rastreabilidade.
+A Tabela 1 a seguir apresenta o modelo de rastreabilidade que será adotado neste artefato, servindo como padrão para o processo. A estrutura foi definida com base na proposta de Toranzo, Castro e Mello (2002)<a id="anchor_2" href="#FRM2">[2]</a>, que fundamenta a classificação das informações e os tipos de elos de rastreabilidade.
 
 | Itens                                                                                                     | Descrição                                                                                                         |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -958,13 +958,9 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 
 ## Referência bibliográfica
 
-> <a name="RB1">1. </a>SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 25 de outubro de 2025.
-> <a name="RB2">2. </a>TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: [https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf](https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf?origin=scientificContributions). Acesso em: 25 de outubro de 2025.
+<a id="FRM1" href="#anchor_1">1.</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 25 de outubro de 2025.
+<a id="FRM2" href="#anchor_2">2.</a> TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: [https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf](https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf?origin=scientificContributions). Acesso em: 25 de outubro de 2025.
 
-## Bibliográfica
-
-> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf](https://aprender3.unb.br/pluginfile.php/3210698/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 25 de outubro de 2025.
-> TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: [https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf](https://www.researchgate.net/profile/Jaelson-Castro/publication/221235129_Uma_Proposta_para_Melhorar_o_Rastreamento_de_Requisitos/links/5b73e4af299bf14c6da6db79/Uma-Proposta-para-Melhorar-o-Rastreamento-de-Requisitos.pdf?origin=scientificContributions). Acesso em: 25 de outubro de 2025.
 
 ## Histórico de Versões
 
