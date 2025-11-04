@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Em projetos de desenvolvimento de software, é comum que surjam muitos requisitos, mas nem todos possuem a mesma relevância ou urgência. Para lidar com isso, é necessário aplicar métodos de priorização que auxiliem na escolha do que deve ser feito primeiro.
+Em projetos de desenvolvimento de software, é comum que surjam muitos requisitos, mas nem todos possuem a mesma relevância ou urgência. Para lidar com isso, é necessário aplicar métodos de priorização que auxiliem na escolha do que deve ser feito primeiro<a id="anchor_1" href="#FRM1">[1]</a>.
 
 Seus principais objetivos são:
 
@@ -242,7 +242,7 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 
 ## Bibliografia
 
-[1] WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível no [Link do aprender](https://aprender3.unb.br/pluginfile.php/3210609/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf)
+<a id="FRM1" href="#anchor_1">1.</a> WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível no [Link do aprender](https://aprender3.unb.br/pluginfile.php/3210609/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf)
 
 ## Histórico de Versões
 
