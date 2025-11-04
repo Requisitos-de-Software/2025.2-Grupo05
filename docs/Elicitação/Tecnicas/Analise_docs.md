@@ -90,13 +90,15 @@ Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>,
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AjYSbjo5K38?si=gf3J6suWy9BUUFwr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 ## Agradecimentos
 
 <div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
-  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
-</div>
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
 
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
 
 ## Histórico de Versões
 

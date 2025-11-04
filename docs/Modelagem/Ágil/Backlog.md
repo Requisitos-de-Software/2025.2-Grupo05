@@ -235,13 +235,15 @@ A seguir temos a tabela 11, onde indica todos os participantes da validação da
 > Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: [computer.org](http://www.computer.org/web/swebok/v3). p. 38.
 > HENRIQUE, Matheus; FERREIRA, Rafael. Backlog. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/). Acesso em: 18 out. 2025
 
-
 ## Agradecimentos
 
 <div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
-  Com agradecimentos à <b>Inteligência Artificial(IA)</b> pela contribuição no desenvolvimento deste projeto.
-</div>
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
 
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
 
 ## Histórico de Versões
 
