@@ -1,6 +1,6 @@
 # Termo de Uso
 
-O conteúdo apresentado nesta seção é uma reprodução fiel do documento original, preservado em sua totalidade para garantir a autenticidade das informações e a transparência da análise. Ele foi utilizado como base para um estudo prático dentro do contexto de análise de requisitos em projetos de software.
+O conteúdo apresentado nesta seção é uma reprodução fiel do documento original, preservado em sua totalidade para garantir a autenticidade das informações e a transparência da análise. Ele foi utilizado como base para um estudo prático dentro do contexto de análise de requisitos em projetos de software<a id="anchor_1" href="#FRM1">[1]</a>.
 
 Vale destacar que este termo de uso foi retirado diretamente da página oficial do aplicativo Jornada do Estudante, disponível no playstore.
 
@@ -54,4 +54,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 
 ## Bibliografia
 
-[1] Aplicativo Jornada do estudante. Disponível em: [Jornada do estudante na Google Play](https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante&hl=pt-BR). Acesso em 15 de setembro de 2025.
+<a id="FRM1" href="#anchor_1">1.</a> Aplicativo Jornada do estudante. Disponível em: [Jornada do estudante na Google Play](https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante&hl=pt-BR). Acesso em 15 de setembro de 2025.
