@@ -9,7 +9,7 @@ Figura 1 – Logo do Jornada do Estudante
 ## Introdução
 
 <div style="text-align: justify;">
-No início da disciplina, cada integrante do grupo apresentou sugestões de aplicativos, acompanhadas de argumentos para justificar suas escolhas. Em seguida, realizamos uma revisão coletiva, utilizando critérios previamente definidos para avaliar cada proposta e chegar a um consenso. Após essa análise e debate, o aplicativo escolhido foi a Jornada do Estudante, por sua relevância no contexto educacional, potencial de impacto social e diversidade de funcionalidades que o tornam adequado para ser estudado nesta disciplina.
+No início da disciplina, cada integrante do grupo apresentou sugestões de aplicativos, acompanhadas de argumentos para justificar suas escolhas. Em seguida, realizamos uma revisão coletiva, utilizando critérios previamente definidos para avaliar cada proposta e chegar a um consenso. Após essa análise e debate, o aplicativo escolhido foi a Jornada do Estudante, por sua relevância no contexto educacional, potencial de impacto social e diversidade de funcionalidades que o tornam adequado para ser estudado nesta disciplina<a id="anchor_1" href="#FRM1">[1]</a>.
 </div>
 
 ## Critérios para escolha
@@ -52,4 +52,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 
 ## Bibliografia
 
-[1] Jornada do estudante. Disponível em: [Jornada do estudante na Google Play](https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante&hl=pt-BR). Acesso em 19 de setembro de 2025.
+<a id="FRM1" href="#anchor_1">1.</a> Jornada do estudante. Disponível em: [Jornada do estudante na Google Play](https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante&hl=pt-BR). Acesso em 19 de setembro de 2025.
