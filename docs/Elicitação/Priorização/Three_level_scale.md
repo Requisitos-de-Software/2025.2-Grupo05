@@ -192,14 +192,19 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7dHSH_HDoe8?si=3MS1eDxreI3A8g83" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Referências Bibliográficas
+## Agradecimentos
 
-> <a id="FTF1Ref" href="#FTF1">1.</a> WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft
-> Press, 2013. Cap. 13 “Three-level scale”, p. 319
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
 
 ## Bibliografia
 
-> ALVES, Douglas. Three Level Scale. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/threeLvlScale/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/threeLvlScale/). Acesso em: 26 set. 2025.
+<a id="FTF1Ref" href="#FTF1">1.</a> ALVES, Douglas. Three Level Scale. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/threeLvlScale/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/threeLvlScale/). Acesso em: 26 set. 2025.
 
 ## Histórico de Versões
 

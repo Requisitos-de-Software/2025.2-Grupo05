@@ -2,7 +2,7 @@
 
 ## Introdução
 
-- A analise de documentos é um meio de elicitar requisitos pelo o estudo da documentação do aplicativo jornada do Estudante.O apicativo é uma iniciativa do Mec que busca facilitar o acesso às políticas educacionais, apoiar a tomada de decisão e promover a inclusão digital, tornando-se um instrumento essencial para a vida acadêmica do estudante no Brasil.
+- A analise de documentos é um meio de elicitar requisitos pelo o estudo da documentação do aplicativo jornada do Estudante. O apicativo é uma iniciativa do Mec que busca facilitar o acesso às políticas educacionais, apoiar a tomada de decisão e promover a inclusão digital, tornando-se um instrumento essencial para a vida acadêmica do estudante no Brasil<a id="anchor_1" href="#FRM1">[1]</a>.
 
 ## Participantes
 
@@ -38,7 +38,7 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ## Tabela de Requisitos
 
-A tabela 2 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
+A tabela 2 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria <a id="anchor_2" href="#FRM2">[2]</a>:
 
 - RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
 - RNF: Requisitos Não-Funcionais - Descrevem os atributos que o software deve ter, como desempenho, segurança e usabilidade, mas não descrevem o comportamento do software em si.
@@ -79,16 +79,27 @@ Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>,
 
 ## Bibliografia
 
-- BRASIL. Ministério da Educação. **Jornada do Estudante**. Disponível em:  
-  <https://www.gov.br/mec/pt-br/jornadadoestudante>. Acesso em: 20 set. 2025.
+<a id="FRM1" href="#anchor_1">1.</a> BRASIL. Ministério da Educação. **Jornada do Estudante**. Disponível em: <https://www.gov.br/mec/pt-br/jornadadoestudante>. Acesso em: 20 set. 2025.
 
-- Carlos Eduardo Vazques,Guilherme Siqueira Simões.**Engenharia de Requisitos**. 1.ed. BRASPORT,2016
-- GOOGLE. Jornada do Estudante. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante>. Acesso em: 20 set. 2025.
-- UNIVERSIDADE FEDERAL DE SANTA CATARINA. Laboratório Bridge. **Conheça o aplicativo Jornada do Estudante**. Disponível em: <https://portal.bridge.ufsc.br/2023/04/18/conheca-o-aplicativo-jornada-do-estudante/>. Acesso em: 20 set. 2025.
+<a id="FRM2" href="#anchor_2">2.</a> Carlos Eduardo Vazques,Guilherme Siqueira Simões.**Engenharia de Requisitos**. 1.ed. BRASPORT,2016
+
+<a id="FRM3" href="#anchor_3">3.</a> GOOGLE. Jornada do Estudante. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante>. Acesso em: 20 set. 2025.
+
+<a id="FRM4" href="#anchor_4">4.</a> UNIVERSIDADE FEDERAL DE SANTA CATARINA. Laboratório Bridge. **Conheça o aplicativo Jornada do Estudante**. Disponível em: <https://portal.bridge.ufsc.br/2023/04/18/conheca-o-aplicativo-jornada-do-estudante/>. Acesso em: 20 set. 2025.
 
 ## Gravação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AjYSbjo5K38?si=gf3J6suWy9BUUFwr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
 
 ## Histórico de Versões
 

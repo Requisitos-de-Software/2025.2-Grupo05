@@ -2,7 +2,7 @@
 
 ## Introdução
 
-- O questionário é um meio de elicitar requisitos de diversas perguntas para usuários. Neste trabalho o resultado no questionário teve um total de 55 respostas todas de acordo com o [termo de consentimento](../Termo_de_consentimento_questionario.pdf). O questionário foi elaborado pelo Google Forms, possuía 13 questões sobre aspectos gerais de possíveis usuários do aplicativo, e foi foi divulgado amplamente em grupos dos aplicativos WhatsApp e Telegram entre o período de 22 a 24 de setembro de 2025.
+- O questionário é um meio de elicitar requisitos de diversas perguntas para usuários<a id="anchor_1" href="#FRM1">[1]</a>. Neste trabalho o resultado no questionário teve um total de 55 respostas todas de acordo com o [termo de consentimento](../Termo_de_consentimento_questionario.pdf). O questionário foi elaborado pelo Google Forms, possuía 13 questões sobre aspectos gerais de possíveis usuários do aplicativo, e foi foi divulgado amplamente em grupos dos aplicativos WhatsApp e Telegram entre o período de 22 a 24 de setembro de 2025.
 - A estrutura do questionário pode ser visualizada [clicando aqui](../Questionario.pdf)
 
 ## Participantes
@@ -94,6 +94,20 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 ## Gravação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c44olQN8pug?si=VH4QXBdKK0m8hxhD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
+
+## Referências Bibliográficas
+
+<a id="FRM1" href="#anchor_1">1.</a> Carlos Eduardo Vazques,Guilherme Siqueira Simões.**Engenharia de Requisitos**. 1.ed. BRASPORT,2016
 
 ## Histórico de Versões
 

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A técnica dos 100 dólares é uma forma de priorizar requisitos ou funcionalidades em projetos a partir da simulação de um orçamento restrito. Nela, cada participante recebe 100 dólares fictícios para distribuir entre os itens que considera mais relevantes, investindo mais nos que julga terem maior valor. Essa dinâmica força o grupo a refletir sobre o que realmente é prioridade, já que o recurso é limitado e obriga escolhas estratégicas. Ao final, os valores distribuídos são somados, revelando os itens com maior peso coletivo na decisão.
+A técnica dos 100 dólares é uma forma de priorizar requisitos ou funcionalidades em projetos a partir da simulação de um orçamento restrito. Nela, cada participante recebe 100 dólares fictícios para distribuir entre os itens que considera mais relevantes, investindo mais nos que julga terem maior valor. Essa dinâmica força o grupo a refletir sobre o que realmente é prioridade, já que o recurso é limitado e obriga escolhas estratégicas. Ao final, os valores distribuídos são somados, revelando os itens com maior peso coletivo na decisão<a id="anchor_1" href="#FRM1">[1]</a>.
 
 ## Participantes
 
@@ -185,9 +185,19 @@ As gravações da priorização podem ser conferidas em:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRTOS0YSoTg?si=pZQh83kvEK0rjXKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
+
 ## Bibliografia
 
-- WIEGERS, Karl; BEATTY, Joy. **Software Requirements. 3. ed. Redmond: Microsoft Press**, 2013.
+<a id="FRM1" href="#anchor_1">1.</a> WIEGERS, Karl; BEATTY, Joy. **Software Requirements. 3. ed. Redmond: Microsoft Press**, 2013.
 
 ## Histórico de Versões
 

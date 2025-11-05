@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O Backlog do Produto é um artefato da metodologia ágil que representa o que deve ser feito no projeto — uma lista priorizada de todas as funcionalidades, melhorias e correções a serem desenvolvidas. Ele existe para organizar e guiar o trabalho da equipe de desenvolvimento, garantindo que o produto evolua de acordo com o valor entregue ao usuário e com os objetivos do negócio. Vale ressaltar que o Backlog do Produto é um artefato dinâmico, ou seja, ele cresce e muda à medida que os requisitos e a visão do produto são alterados.
+O Backlog do Produto é um artefato da metodologia ágil que representa o que deve ser feito no projeto — uma lista priorizada de todas as funcionalidades, melhorias e correções a serem desenvolvidas. Ele existe para organizar e guiar o trabalho da equipe de desenvolvimento, garantindo que o produto evolua de acordo com o valor entregue ao usuário e com os objetivos do negócio. Vale ressaltar que o Backlog do Produto é um artefato dinâmico, ou seja, ele cresce e muda à medida que os requisitos e a visão do produto são alterados<a id="anchor_1" href="#FRM1">[1]</a>.
 
 ## Participantes
 
@@ -229,11 +229,25 @@ A seguir temos a tabela 11, onde indica todos os participantes da validação da
 
 ## Bibliografia
 
-> SOUZA, Nicolas; MACEDO, Lucas. Backlog do Produto. Repositório do Grupo Lichess da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: \<[https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/](https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/)\>. Acesso em: 18 maio 2023.
-> POPOV, Arthur Taylor de Jesus; SANTOS, Eduardo Schuindt. Backlog do Produto. Repositório do Grupo MEI da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: \<[https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/)\>. Acesso em: 18 maio 2023.
-> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
-> Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: [computer.org](http://www.computer.org/web/swebok/v3). p. 38.
-> HENRIQUE, Matheus; FERREIRA, Rafael. Backlog. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/). Acesso em: 18 out. 2025
+<a id="FRM1" href="#anchor_1">1.</a> SOUZA, Nicolas; MACEDO, Lucas. Backlog do Produto. Repositório do Grupo Lichess da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: \<[https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/](https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/)\>. Acesso em: 18 maio 2023.
+
+<a id="FRM2" href="#anchor_2">2.</a> POPOV, Arthur Taylor de Jesus; SANTOS, Eduardo Schuindt. Backlog do Produto. Repositório do Grupo MEI da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: \<[https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/)\>. Acesso em: 18 maio 2023.
+
+<a id="FRM3" href="#anchor_3">3.</a> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
+
+<a id="FRM4" href="#anchor_4">4.</a> Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: [computer.org](http://www.computer.org/web/swebok/v3). p. 38.
+
+<a id="FRM5" href="#anchor_5">5.</a> HENRIQUE, Matheus; FERREIRA, Rafael. Backlog. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/). Acesso em: 18 out. 2025
+
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
 
 ## Histórico de Versões
 

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A técnica "In or Out" (Dentro ou Fora) é um método de priorização binário e direto, focado em definir o escopo de um projeto ou de uma release específica. As partes interessadas (stakeholders) analisam cada requisito e decidem se ele está "Dentro" do escopo, sendo considerado essencial, ou "Fora" do escopo, sendo adiado para futuras versões ou descartado.
+A técnica "In or Out" (Dentro ou Fora) é um método de priorização binário e direto, focado em definir o escopo de um projeto ou de uma release específica. As partes interessadas (stakeholders) analisam cada requisito e decidem se ele está "Dentro" do escopo, sendo considerado essencial, ou "Fora" do escopo, sendo adiado para futuras versões ou descartado<a id="anchor_1" href="#FRM1">[1]</a>.
 
 O principal objetivo desta técnica é criar uma fronteira clara entre o que é absolutamente necessário e o que não é, forçando decisões objetivas e evitando a inclusão de funcionalidades de baixa prioridade na entrega atual.
 
@@ -183,9 +183,19 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NnpP915P4cs?si=Zw6b5Tf33QBPECzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
+
 ## Bibliografia
 
-> WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013.
+<a id="FRM1" href="#anchor_1">1.</a> WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013.
 
 ## Histórico de Versões
 
