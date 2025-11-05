@@ -1,4 +1,4 @@
 ---
 title: Jornada do Estudante
-template: home.html
+template: index.html
 ---
