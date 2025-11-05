@@ -10,6 +10,8 @@ O objetivo dessa página é armazenar as validações feitas pela monitora da di
 
 [Clique aqui para acessar a validação da entrega 2](./plan2.pdf)
 
+[Clique aqui para acessar a validação da entrega 3](./plan3.pdf)
+
 <font size="3"><p style="text-align: center">Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
 ## Agradecimentos
