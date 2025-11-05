@@ -41,36 +41,43 @@ A seguir temos a tabela 2, onde indica todos os participantes da elaboração do
 <font size="3"><p style="text-align: center">Tabela 2: Participantes</p></font>
 
 <div align="center">
-  <table>
+  <table border="1" cellspacing="0" cellpadding="5">
     <thead>
       <tr>
         <th>Nome</th>
+        <th>Etapas que participou</th>
         <th>Data</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>laborou os cenários: <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20do%20valor%20total%20do%20aux%C3%ADlio,-ID">Cenário 9: Visualizar valor total do auxílio, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20da%20conta%20banc%C3%A1ria%20cadastrada,-ID">Cenário 10: Visualizar conta bancária cadastrada, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=Visualiza%C3%A7%C3%A3o%20do%20dia%20de%20pagamento%20do%20aux%C3%ADlio">Cenário 11: Visualizar dia do pagamento, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=Acesso%20ao%20f%C3%B3rum%20de%20d%C3%BAvidas">Cenário 12: Acesso a fórum de dúvidas, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=Atendimento%20em%20canal%20de%20conversa">Cenário 13: Canal de conversa sobre o auxílio, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=Visualiza%C3%A7%C3%A3o%20de%20eventos%20em%20calend%C3%A1rio">Cenário 14: Visualização de calendário de eventos, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Ranqueamento%20de%20mat%C3%A9rias%20por%20nota,-ID">Cenário 15: Ranqueamento de matérias por nota, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Edi%C3%A7%C3%A3o%20de%20informa%C3%A7%C3%B5es%20banc%C3%A1rias%20pelo%20gov.br,-ID">Cenário 16: Edição de informações bancárias pelo gov.br</td>
         <td>06/10/2025</td>
-         </tr>
+      </tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
+        <td>Elaborou os cenários: <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Atualiza%C3%A7%C3%B5es%20de%20pagamento%20do%20P%C3%A9%2Dde%2DMeia,-ID">Cenário 1: Atualizações de pagamento do Pé-de-Meia, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20disciplina%20e%20professor,-ID">Cenário 2: Visualização de disciplina e professor, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20hor%C3%A1rio%20e%20sala,-ID">Cenário 3: Visualização de horário e sala, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20informa%C3%A7%C3%B5es%20e%20trabalhos%20da%20disciplina,-ID">Cenário 4: Visualização de informações e trabalhos da disciplina, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20notas%20das%20avalia%C3%A7%C3%B5es%20e%20trabalhos,-ID">Cenário 5: Visualização de notas das avaliações e trabalhos, <a href="">EF018, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Emiss%C3%A3o%20de%20hist%C3%B3rico,-ID">Cenário 6: Emissão de histórico, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20boletim,-ID">Cenário 7: Visualização de boletim, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Notifica%C3%A7%C3%A3o%20de%20parcelas%20do%20P%C3%A9%2Dde%2DMeia,-ID">Cenário 8: Notificação de parcelas do Pé-de-Meia</td>
         <td>06/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>Elaborou os cenários: <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Inserir%20atividades%20na%20agenda,-ID">Cenário 17: Inserir atividades na agenda, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Editar%20atividades%20na%20agenda,-ID">Cenário 18: Editar atividades na agenda, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Excluir%20atividades%20na%20agenda,-ID">Cenário 19: Excluir atividades na agenda, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Inserir%20hor%C3%A1rio%20e%20data%20da%20atividade,-ID">Cenário 20: Inserir horário e data da atividade, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,F%C3%B3rum%20entre%20estudantes,-ID">Cenário 21: Fórum entre estudantes, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Emiss%C3%A3o%20de%20diplomas,-ID">Cenário 22: Emissão de diplomas, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20certificados,-ID">Cenário 23: Visualização de certificados, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20ocorr%C3%AAncias,-ID">Cenário 24: Visualização de ocorrências</td>
         <td>06/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
+         <td>Elaborou os cenários: <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Inserir%20atividades%20na%20agenda,-ID">Cenário 17: Inserir atividades na agenda, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Editar%20atividades%20na%20agenda,-ID">Cenário 18: Editar atividades na agenda, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Excluir%20atividades%20na%20agenda,-ID">Cenário 19: Excluir atividades na agenda, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Inserir%20hor%C3%A1rio%20e%20data%20da%20atividade,-ID">Cenário 20: Inserir horário e data da atividade, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,F%C3%B3rum%20entre%20estudantes,-ID">Cenário 21: Fórum entre estudantes, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Emiss%C3%A3o%20de%20diplomas,-ID">Cenário 22: Emissão de diplomas, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20certificados,-ID">Cenário 23: Visualização de certificados, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20ocorr%C3%AAncias,-ID">Cenário 24: Visualização de ocorrências</td>
         <td>06/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+         <td>Elaborou os cenários: <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Atualiza%C3%A7%C3%B5es%20de%20pagamento%20do%20P%C3%A9%2Dde%2DMeia,-ID">Cenário 1: Atualizações de pagamento do Pé-de-Meia, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20disciplina%20e%20professor,-ID">Cenário 2: Visualização de disciplina e professor, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20hor%C3%A1rio%20e%20sala,-ID">Cenário 3: Visualização de horário e sala, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20informa%C3%A7%C3%B5es%20e%20trabalhos%20da%20disciplina,-ID">Cenário 4: Visualização de informações e trabalhos da disciplina, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20notas%20das%20avalia%C3%A7%C3%B5es%20e%20trabalhos,-ID">Cenário 5: Visualização de notas das avaliações e trabalhos, <a href="">EF018, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Emiss%C3%A3o%20de%20hist%C3%B3rico,-ID">Cenário 6: Emissão de histórico, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20de%20boletim,-ID">Cenário 7: Visualização de boletim, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Notifica%C3%A7%C3%A3o%20de%20parcelas%20do%20P%C3%A9%2Dde%2DMeia,-ID">Cenário 8: Notificação de parcelas do Pé-de-Meia</td>
         <td>06/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+        <td>laborou os cenários: <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20do%20valor%20total%20do%20aux%C3%ADlio,-ID">Cenário 9: Visualizar valor total do auxílio, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Visualiza%C3%A7%C3%A3o%20da%20conta%20banc%C3%A1ria%20cadastrada,-ID">Cenário 10: Visualizar conta bancária cadastrada, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=Visualiza%C3%A7%C3%A3o%20do%20dia%20de%20pagamento%20do%20aux%C3%ADlio">Cenário 11: Visualizar dia do pagamento, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=Acesso%20ao%20f%C3%B3rum%20de%20d%C3%BAvidas">Cenário 12: Acesso a fórum de dúvidas, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=Atendimento%20em%20canal%20de%20conversa">Cenário 13: Canal de conversa sobre o auxílio, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=Visualiza%C3%A7%C3%A3o%20de%20eventos%20em%20calend%C3%A1rio">Cenário 14: Visualização de calendário de eventos, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Ranqueamento%20de%20mat%C3%A9rias%20por%20nota,-ID">Cenário 15: Ranqueamento de matérias por nota, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#:~:text=T%C3%ADtulo-,Edi%C3%A7%C3%A3o%20de%20informa%C3%A7%C3%B5es%20banc%C3%A1rias%20pelo%20gov.br,-ID">Cenário 16: Edição de informações bancárias pelo gov.br</td>
         <td>06/10/2025</td>
       </tr>
     </tbody>
@@ -84,7 +91,7 @@ A seguir temos a tabela 2, onde indica todos os participantes da elaboração do
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Atualizações de pagamento do Pé-de-Meia                                                                    |
-| ID         | [RQ9](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [RQ9](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ9,-O%20aplicativo%20deve) |
 | Objetivo   | Apresentar atualizações sobre o pagamento em até um mês.                                                   |
 | Contexto   | Estudante com benefício ativo.                                                                             |
 | Atores     | Estudante, aplicativo                                                                                      |
@@ -101,7 +108,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 | Item       | Descrição                                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização de disciplina e professor                                                                      |
-| ID         | [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ17,-O%20aplicativo%20deve) |
 | Objetivo   | Permitir que o estudante veja quem ministra cada disciplina.                                                |
 | Contexto   | Estudante matriculado.                                                                                      |
 | Atores     | Estudante, aplicativo                                                                                       |
@@ -118,7 +125,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 | Item       | Descrição                                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização de horário e sala                                                                              |
-| ID         | [RQ18](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [RQ18](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ18,-O%20aplicativo%20deve) |
 | Objetivo   | Permitir que o estudante confira horários e salas.                                                          |
 | Contexto   | Estudante matriculado.                                                                                      |
 | Atores     | Estudante, aplicativo                                                                                       |
@@ -135,7 +142,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 | Item       | Descrição                                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização de informações e trabalhos da disciplina                                                       |
-| ID         | [RQ19](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [RQ19](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ19,-O%20aplicativo%20deve) |
 | Objetivo   | Mostrar datas, pesos e tipos de avaliações.                                                                 |
 | Contexto   | Estudante com disciplinas cadastradas.                                                                      |
 | Atores     | Estudante, aplicativo                                                                                       |
@@ -152,7 +159,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 | Item       | Descrição                                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização de notas das avaliações e trabalhos                                                            |
-| ID         | [RQ20](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [RQ20](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ20,-O%20aplicativo%20deve) |
 | Objetivo   | Mostrar notas obtidas pelo estudante.                                                                       |
 | Contexto   | Estudante com avaliações lançadas.                                                                          |
 | Atores     | Estudante, aplicativo                                                                                       |
@@ -169,7 +176,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 | Item       | Descrição                                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------------------------- |
 | Título     | Emissão de histórico                                                                                        |
-| ID         | [RQ23](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [RQ23](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ23,-O%20aplicativo%20deve) |
 | Objetivo   | Permitir que o estudante obtenha seu histórico acadêmico.                                                   |
 | Contexto   | Estudante cadastrado.                                                                                       |
 | Atores     | Estudante, aplicativo                                                                                       |
@@ -186,7 +193,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 | Item       | Descrição                                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização de boletim                                                                                     |
-| ID         | [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ28,-O%20aplicativo%20deve) |
 | Objetivo   | Permitir que o estudante veja seu boletim.                                                                  |
 | Contexto   | Estudante cadastrado.                                                                                       |
 | Atores     | Estudante, aplicativo                                                                                       |
@@ -203,7 +210,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 | Item       | Descrição                                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------------------------- |
 | Título     | Notificação de parcelas do Pé-de-Meia                                                                       |
-| ID         | [RQ29](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [RQ29](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ29,-O%20aplicativo%20deve) |
 | Objetivo   | Informar parcelas e valores do benefício.                                                                   |
 | Contexto   | Estudante beneficiário do programa.                                                                         |
 | Atores     | Estudante, aplicativo                                                                                       |
@@ -220,7 +227,7 @@ Fonte: <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a> e <a 
 | Item       | Descrição                                                                                                                         |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização do valor total do auxílio                                                                                            |
-| ID         | [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                       |
+| ID         | [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ32,-O%20aplicativo%20deve)                       |
 | Objetivo   | Permitir que o estudante veja o valor total recebido do auxílio.                                                                  |
 | Contexto   | Estudante beneficiário acessando informações financeiras do programa.                                                             |
 | Atores     | Estudante beneficiário, aplicativo                                                                                                |
@@ -237,7 +244,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 | Item       | Descrição                                                                                                                             |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização da conta bancária cadastrada                                                                                             |
-| ID         | [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                           |
+| ID         | [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ33,-O%20aplicativo%20deve)                           |
 | Objetivo   | Exibir os dados da conta bancária onde o auxílio é depositado.                                                                        |
 | Contexto   | Estudante beneficiário consultando suas informações bancárias.                                                                        |
 | Atores     | Estudante beneficiário, aplicativo                                                                                                    |
@@ -254,7 +261,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 | Item       | Descrição                                                                                                                  |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização do dia de pagamento do auxílio                                                                                |
-| ID         | [RQ34](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                |
+| ID         | [RQ34](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ34,-O%20aplicativo%20deve)                |
 | Objetivo   | Informar ao estudante a data prevista para o pagamento do benefício.                                                       |
 | Contexto   | Estudante beneficiário acessando informações sobre o cronograma de pagamentos.                                             |
 | Atores     | Estudante beneficiário, aplicativo                                                                                         |
@@ -271,7 +278,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 | Item       | Descrição                                                                                                                              |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Título     | Acesso ao fórum de dúvidas                                                                                                             |
-| ID         | [RQ35](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                            |
+| ID         | [RQ35](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ35,-O%20aplicativo%20deve)                            |
 | Objetivo   | Permitir que o estudante participe de discussões e tire dúvidas sobre o auxílio.                                                       |
 | Contexto   | Estudante buscando suporte e informações sobre o benefício.                                                                            |
 | Atores     | Estudante,aplicativo                                                                                                                   |
@@ -288,7 +295,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 | Item       | Descrição                                                                                                                         |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Título     | Atendimento em canal de conversa                                                                                                  |
-| ID         | [RQ36](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                       |
+| ID         | [RQ36](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ36,-O%20aplicativo%20deve)                       |
 | Objetivo   | Possibilitar que o estudante receba atendimento via chat sobre o auxílio.                                                         |
 | Contexto   | Estudante com dúvidas ou problemas relacionados ao benefício.                                                                     |
 | Atores     | Estudante, atendente virtual ou humano, aplicativo                                                                                |
@@ -305,7 +312,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 | Item       | Descrição                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização de eventos em calendário                                                                                                         |
-| ID         | [RQ37](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                                   |
+| ID         | [RQ37](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ37,-O%20aplicativo%20deve)                                   |
 | Objetivo   | Permitir ao estudante consultar as datas de eventos importantes.                                                                              |
 | Contexto   | Estudante interessado em eventos escolares.                                                                                                   |
 | Atores     | Estudante, aplicativo                                                                                                                         |
@@ -322,7 +329,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 | Item       | Descrição                                                                                                                                       |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Título     | Ranqueamento de matérias por nota                                                                                                               |
-| ID         | [RQ41](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                                     |
+| ID         | [RQ41](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ41,-O%20aplicativo%20deve)                                     |
 | Objetivo   | Exibir uma lista das matérias do estudante ordenadas por desempenho.                                                                            |
 | Contexto   | Estudante acompanhando seu rendimento escolar.                                                                                                  |
 | Atores     | Estudante, aplicativo                                                                                                                           |
@@ -339,7 +346,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 | Item       | Descrição                                                                                                                                             |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Título     | Edição de informações bancárias pelo gov.br                                                                                                           |
-| ID         | [RQ44](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                                           |
+| ID         | [RQ44](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%203-,RQ44,-O%20aplicativo%20deve)                                           |
 | Objetivo   | Permitir que o estudante altere suas informações bancárias por meio do portal gov.br.                                                                 |
 | Contexto   | Estudante que precisa atualizar sua conta bancária vinculada ao auxílio.                                                                              |
 | Atores     | Estudante beneficiário, aplicativo, sistema gov.br                                                                                                    |
@@ -356,7 +363,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a> e <a href="h
 | Item       | Descrição                                                                                                                                       |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Título     | Inserir atividades na agenda                                                                                                                    |
-| ID         | [R46](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)                                      |
+| ID         | [R46](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ46,-A%20agenda%20deve)                                      |
 | Objetivo   | Permitir que o estudante registre novas atividades.                                                                                             |
 | Contexto   | Estudante cadastrado.                                                                                                                           |
 | Atores     | Estudante, aplicativo                                                                                                                           |
@@ -374,7 +381,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Editar atividades na agenda                                                                                |
-| ID         | [R47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [R47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ47,-A%20agenda%20deve) |
 | Objetivo   | Permitir que o estudante modifique atividades existentes.                                                  |
 | Contexto   | Estudante com atividades cadastradas.                                                                      |
 | Atores     | Estudante, aplicativo                                                                                      |
@@ -392,7 +399,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Item       | Descrição                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Título     | Excluir atividades na agenda                                                                                             |
-| ID         | [R48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)               |
+| ID         | [R48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ48,-A%20agenda%20deve)               |
 | Objetivo   | Permitir que o estudante remova atividades da agenda.                                                                    |
 | Contexto   | Estudante com atividades cadastradas.                                                                                    |
 | Atores     | Estudante, aplicativo                                                                                                    |
@@ -410,7 +417,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Inserir horário e data da atividade                                                                        |
-| ID         | [R50](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [R50](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ50,-A%20agenda%20deve) |
 | Objetivo   | Permitir que o estudante defina data e horário de cada atividade.                                          |
 | Contexto   | Estudante adicionando ou editando atividade.                                                               |
 | Atores     | Estudante, aplicativo                                                                                      |
@@ -428,7 +435,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Fórum entre estudantes                                                                                     |
-| ID         | [R56](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [R56](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ56,-O%20aplicativo%20deve) |
 | Objetivo   | Permitir que estudantes troquem informações e dúvidas.                                                     |
 | Contexto   | Estudante logado no módulo de fóruns.                                                                      |
 | Atores     | Estudante, aplicativo                                                                                      |
@@ -464,7 +471,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização de certificados                                                                               |
-| ID         | [R60](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [R60](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ60,-O%20aplicativo%20deve) |
 | Objetivo   | Permitir que o estudante veja certificados de cursos e atividades.                                         |
 | Contexto   | Estudante cadastrado.                                                                                      |
 | Atores     | Estudantes, aplicativo                                                                                     |
@@ -482,7 +489,7 @@ Fonte: <a href="https://github.com/mel14-hub">Lara Mota</a> e
 | Item       | Descrição                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Título     | Visualização de ocorrências                                                                                |
-| ID         | [R61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) |
+| ID         | [R61](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ61,-O%20aplicativo%20deve) |
 | Objetivo   | Permitir que o estudantes visualize ocorrências registradas na instituição.                                |
 | Contexto   | Estudantes cadastrado.                                                                                     |
 | Atores     | Estudantes, aplicativo                                                                                     |

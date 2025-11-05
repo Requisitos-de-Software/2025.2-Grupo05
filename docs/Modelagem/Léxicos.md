@@ -21,34 +21,40 @@ A seguir temos a tabela 1, onde indica todos os participantes da elaboração do
     <tbody>
       <tr>
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>Elaborou a os léxicos  <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Tabela%20de%20L%C3%A9xicos-,L01%3A%20Autenticar%20Estudante,-O%20L%C3%A9xico%20presente>L01: Autenticar Estudante, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=Yan%20Matheus.-,L02%3A%20Cadastrar%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente>L02: Cadastrar informações, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=Yan%20Matheus.-,L03%3A%20Consultar%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente>L03: Consultar informações, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=Pedro%20Henrique.-,L04%3A%20Emitir%20documentos,-O%20L%C3%A9xico%20presente>L04: Emitir documentos, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=de%20Souza.-,L07%3A%20Notificar%20eventos,-O%20L%C3%A9xico%20presente>L07: Notificar eventos, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=Yan%20Matheus.-,L08%3A%20Acessar%20p%C3%A1ginas,-O%20L%C3%A9xico%20presente>L08: Acessar páginas, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=Yan%20Matheus.-,L09%3A%20Comunicar%20em%20canais,-O%20L%C3%A9xico%20presente>L09: Comunicar em canais, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=Yan%20Matheus.-,L10%3A%20Oferecer%20servi%C3%A7os,-O%20L%C3%A9xico%20presente>L10: Oferecer serviços, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L29%3A%20Funcionalidade%20encontrada%20%E2%89%A4%2045%20segundos,-O%20L%C3%A9xico%20presente>L29: Funcionalidade encontrada ≤ 45 segundos e <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L30%3A%20Design%20sem%20sobrecarga%20de%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente>L30: Design sem sobrecarga de informações</td>
         <td>05/10/2025</td>
          </tr>
       <tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+        <td>Elaborou a os léxicos   <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L19%3A%20Estudante%20logado,-O%20L%C3%A9xico%20presente>L19: Estudante logado, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L20%3A%20Conta%20ativa/inativa,-O%20L%C3%A9xico%20presente>L20: Conta ativa/inativa, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L21%3A%20Informa%C3%A7%C3%A3o%20atualizada/desatualizada,-O%20L%C3%A9xico%20presente>L21: Informação atualizada/desatualizada,  <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L22%3A%20Status%20do%20programa%20P%C3%A9%2Dde%2DMeia%20(ativo/bloqueado),-O%20L%C3%A9xico%20presente>L22: Status do programa Pé-de-Meia (ativo/bloqueado),  <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L23%3A%20Disponibilidade%20gratuita%20(Android/iOS),-O%20L%C3%A9xico%20presente>L23: Disponibilidade gratuita (Android/iOS), <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L24%3A%20Informa%C3%A7%C3%B5es%20seguras/privadas,-O%20L%C3%A9xico%20presente>L24: Informações seguras/privadas <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L25%3A%20Acessibilidade%20(cores%2C%20Libras%2C%20audiodescri%C3%A7%C3%A3o),-O%20L%C3%A9xico%20presente>L25: Acessibilidade (cores, Libras, audiodescrição),  <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L26%3A%20Facilidade%20de%20uso/aprendizagem,-O%20L%C3%A9xico%20presente>L26: Facilidade de uso/aprendizagem, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L27%3A%20Linguagem%20simples,-O%20L%C3%A9xico%20presente>L27: Linguagem simples, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L28%3A%20Tempo%20de%20resposta%20%E2%89%A4%203%20segundos,-O%20L%C3%A9xico%20presente>L28: Tempo de resposta ≤ 3 segundos</td>
          <td>05/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>Elaborou a os léxicos  <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L05%3A%20Editar%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente>L05: Editar informações,  <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L06%3A%20Excluir%20atividades,-O%20L%C3%A9xico%20presente>L06: Excluir atividades, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Yan%20Matheus.-,L11%3A%20Estudante,-O%20L%C3%A9xico%20presente>L11: Estudante,  <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L12%3A%20Professor,-O%20lexico%20presente>L12: Professor, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L13%3A%20Dados%20Acad%C3%AAmicos%20e%20Avalia%C3%A7%C3%B5es,-O%20lexico%20presente>L13: Dados Acadêmicos e Avaliações, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L14%3A%20Infraestrutura%20Institucional,-O%20lexico%20presente>L14: Infraestrutura Institucional, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L15%3A%20Aux%C3%ADlio%20Financeiro%20Estudantil,-O%20lexico%20presente>L15: Auxílio Financeiro Estudantil, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L16%3A%20Documenta%C3%A7%C3%A3o%20Oficial,-O%20lexico%20presente>L16: Documentação Oficial, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L17%3A%20Comunica%C3%A7%C3%A3o%20e%20Intera%C3%A7%C3%A3o,-O%20lexico%20presente>L17: Comunicação e Interação, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L18%3A%20Calend%C3%A1rio%20e%20Eventos,-O%20lexico%20presente>L18: Calendário e Eventos</td>
         <td>05/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luísa de Souza</a></td>
+         <td>Elaborou a os léxicos  <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L05%3A%20Editar%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente>L05: Editar informações,  <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L06%3A%20Excluir%20atividades,-O%20L%C3%A9xico%20presente>L06: Excluir atividades, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Yan%20Matheus.-,L11%3A%20Estudante,-O%20L%C3%A9xico%20presente>L11: Estudante, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L12%3A%20Professor,-O%20lexico%20presente>L12: Professor, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L13%3A%20Dados%20Acad%C3%AAmicos%20e%20Avalia%C3%A7%C3%B5es,-O%20lexico%20presente>L13: Dados Acadêmicos e Avaliações, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L14%3A%20Infraestrutura%20Institucional,-O%20lexico%20presente>L14: Infraestrutura Institucional, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L15%3A%20Aux%C3%ADlio%20Financeiro%20Estudantil,-O%20lexico%20presente>L15: Auxílio Financeiro Estudantil, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L16%3A%20Documenta%C3%A7%C3%A3o%20Oficial,-O%20lexico%20presente>L16: Documentação Oficial, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L17%3A%20Comunica%C3%A7%C3%A3o%20e%20Intera%C3%A7%C3%A3o,-O%20lexico%20presente>L17: Comunicação e Interação, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L18%3A%20Calend%C3%A1rio%20e%20Eventos,-O%20lexico%20presente>L18: Calendário e Eventos</td>
         <td>05/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+        <td>Elaborou a os léxicos <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=de%20Souza.-,L19%3A%20Estudante%20logado,-O%20L%C3%A9xico%20presente>L19: Estudante logado, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L20%3A%20Conta%20ativa/inativa,-O%20L%C3%A9xico%20presente>L20: Conta ativa/inativa, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L21%3A%20Informa%C3%A7%C3%A3o%20atualizada/desatualizada,-O%20L%C3%A9xico%20presente>L21: Informação atualizada/desatualizada,  <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L22%3A%20Status%20do%20programa%20P%C3%A9%2Dde%2DMeia%20(ativo/bloqueado),-O%20L%C3%A9xico%20presente>L22: Status do programa Pé-de-Meia (ativo/bloqueado),  <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L23%3A%20Disponibilidade%20gratuita%20(Android/iOS),-O%20L%C3%A9xico%20presente>L23: Disponibilidade gratuita (Android/iOS), <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L24%3A%20Informa%C3%A7%C3%B5es%20seguras/privadas,-O%20L%C3%A9xico%20presente>L24: Informações seguras/privadas, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L25%3A%20Acessibilidade%20(cores%2C%20Libras%2C%20audiodescri%C3%A7%C3%A3o),-O%20L%C3%A9xico%20presente>L25: Acessibilidade (cores, Libras, audiodescrição),  <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L26%3A%20Facilidade%20de%20uso/aprendizagem,-O%20L%C3%A9xico%20presente>L26: Facilidade de uso/aprendizagem, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L27%3A%20Linguagem%20simples,-O%20L%C3%A9xico%20presente>L27: Linguagem simples, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L28%3A%20Tempo%20de%20resposta%20%E2%89%A4%203%20segundos,-O%20L%C3%A9xico%20presente>L28: Tempo de resposta ≤ 3 segundos</td>
          <td>05/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+        <td>Elaborou a os léxicos  <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Tabela%20de%20L%C3%A9xicos-,L01%3A%20Autenticar%20Estudante,-O%20L%C3%A9xico%20presente>L01: Autenticar Estudante, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=Yan%20Matheus.-,L02%3A%20Cadastrar%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente>L02: Cadastrar informações, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=Yan%20Matheus.-,L03%3A%20Consultar%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente>L03: Consultar informações, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=Pedro%20Henrique.-,L04%3A%20Emitir%20documentos,-O%20L%C3%A9xico%20presente>L04: Emitir documentos, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=de%20Souza.-,L07%3A%20Notificar%20eventos,-O%20L%C3%A9xico%20presente>L07: Notificar eventos, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=Yan%20Matheus.-,L08%3A%20Acessar%20p%C3%A1ginas,-O%20L%C3%A9xico%20presente>L08: Acessar páginas, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=Yan%20Matheus.-,L09%3A%20Comunicar%20em%20canais,-O%20L%C3%A9xico%20presente>L09: Comunicar em canais, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l02-cadastrar-informacoes:~:text=Yan%20Matheus.-,L10%3A%20Oferecer%20servi%C3%A7os,-O%20L%C3%A9xico%20presente>L10: Oferecer serviços, <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L29%3A%20Funcionalidade%20encontrada%20%E2%89%A4%2045%20segundos,-O%20L%C3%A9xico%20presente>L29: Funcionalidade encontrada ≤ 45 segundos e <a href=https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#l01-autenticar-estudante:~:text=Pedro%20Henrique.-,L30%3A%20Design%20sem%20sobrecarga%20de%20informa%C3%A7%C3%B5es,-O%20L%C3%A9xico%20presente>L30: Design sem sobrecarga de informações</td>
          <td>05/10/2025</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
+<font size="3"><p style="text-align: center">Autor: <a href=https://github.com/CamilaSilvaC>Camila Silva</a></font>
 
 ## Metodologia
 
@@ -79,7 +85,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://gith
 
 ### L01: Autenticar Estudante
 
-O Léxico presente na Tabela 3, faz o uso do seguinte requisito de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ1
+O Léxico presente na Tabela 3, faz o uso do seguinte requisito de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ1](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Refer%C3%AAncia-,RQ1,-O%20aplicativo%20deve)
 
 Tabela 3 - Léxico 01: Autenticar Estudantes (L01)
 
@@ -94,8 +100,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L02: Cadastrar informações
 
-O Léxico presente na Tabela 4, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ13, RQ45 e RQ49
-
+O Léxico presente na Tabela 4, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ13](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ13,-O%20aplicativo%20deve), [RQ45](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%203-,RQ45,-O%20aplicativo%20deve) e [RQ49](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ49,-A%20agenda%20deve).
 Tabela 4 - Léxico 02: Cadastrar credenciais (L02)
 
 | L02           | Descrição                                                                                                                          |
@@ -109,7 +114,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L03: Consultar informações
 
-O Léxico presente na Tabela 5, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ5, RQ7, RQ8, RQ9, RQ11, RQ17, RQ18, RQ19, RQ20, RQ30, RQ31, RQ32, RQ33, RQ34, RQ37, RQ59 e RQ60
+O Léxico presente na Tabela 5, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ5](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ5,-O%20aplicativo%20deve), [RQ7](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ7,-O%20aplicativo%20deve), [RQ8](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ8,-O%20aplicativo%20deve), [RQ9](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ9,-O%20aplicativo%20deve), [RQ11](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ11,-O%20aplicativo%20deve), [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ17,-O%20aplicativo%20deve), [RQ18](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ18,-O%20aplicativo%20deve), [RQ19](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ19,-O%20aplicativo%20deve), [RQ20](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ20,-O%20aplicativo%20deve), [RQ30](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ30,-O%20aplicativo%20deve), [RQ31](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ31,-O%20aplicativo%20deve), [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ32,-O%20aplicativo%20deve), [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ33,-O%20aplicativo%20deve), [RQ34](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ34,-O%20aplicativo%20deve), [RQ37](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ37,-O%20aplicativo%20deve), [RQ59](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ59,-O%20aplicativo%20deve) e [RQ60](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ60,-O%20aplicativo%20deve)
 
 Tabela 5 - Léxico 03: Consultar informações (L03)
 
@@ -120,11 +125,11 @@ Tabela 5 - Léxico 03: Consultar informações (L03)
 | Impacto       | Se informar de atualizações acadêmicas, detalhes de suas disciplinas, documentos oficiais, agenda e status do benefício Pé de meia |
 | Dicionário    | Pesquisar, conferir, examinar, verificar, checar, buscar, acessar, acompanhar, visualizar, observar                                |
 
-Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L04: Emitir documentos
 
-O Léxico presente na Tabela 6, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ27, RQ28, RQ29 e RQ57
+O Léxico presente na Tabela 6, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ27,-O%20aplicativo%20deve), [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ28,-O%20aplicativo%20deve), [RQ29](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ29,-O%20aplicativo%20deve) e [RQ57](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ57,-O%20aplicativo%20deve)
 
 Tabela 6 - Léxico 04: Emitir documentos (L04)
 
@@ -135,12 +140,11 @@ Tabela 6 - Léxico 04: Emitir documentos (L04)
 | Impacto       | Permite o estudante ter acesso aos seus diplomas, declarações e histórico escolar |
 | Dicionário    | Gerar, disponibilizar                                                             |
 
-Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ### L05: Editar informações
 
-O Léxico presente na Tabela 7, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ43, RQ44 e RQ46
-
+O Léxico presente na Tabela 7, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ43](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%202-,RQ43,-O%20aplicativo%20deve), [RQ44](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%203-,RQ44,-O%20aplicativo%20deve) e [RQ46](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ46,-A%20agenda%20deve)
 Tabela 7 - Léxico 05: Editar informações (L05)
 
 | L05           | Descrição                                                                                                    |
@@ -154,7 +158,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L06: Excluir atividades
 
-O Léxico presente na Tabela 8, faz o uso do seguinte requisito de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ47
+O Léxico presente na Tabela 8, faz o uso do seguinte requisito de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ47,-A%20agenda%20deve)
 
 Tabela 8 - Léxico 06: Excluir atividades (L06)
 
@@ -169,7 +173,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L07: Notificar eventos
 
-O Léxico presente na Tabela 9, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ14, RQ21, RQ22, RQ23, RQ48 e RQ54
+O Léxico presente na Tabela 9, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ14](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ14,-O%20aplicativo%20deve), [RQ21](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ21,-O%20aplicativo%20deve), [RQ22](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ22,-O%20aplicativo%20deve), [RQ23](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ23,-O%20aplicativo%20deve), [RQ48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ48,-A%20agenda%20deve) e [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ54,-O%20aplicativo%20deve)
 
 Tabela 9 - Léxico 07: Notificar eventos (L07)
 
@@ -184,7 +188,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L08: Acessar páginas
 
-O Léxico presente na Tabela 10, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ15 e RQ42
+O Léxico presente na Tabela 10, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ15](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ15,-O%20aplicativo%20deve) e [RQ42](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%202-,RQ42,-O%20aplicativo%20deve)
 
 Tabela 10 - Léxico 08: Acessar páginas (L08)
 
@@ -199,8 +203,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L09: Comunicar em canais
 
-O Léxico presente na Tabela 11, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ35, RQ36, RQ55, RQ56 e RQ58
-
+O Léxico presente na Tabela 11, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ35](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ35,-O%20aplicativo%20deve), [RQ36](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ36,-O%20aplicativo%20deve), [RQ55](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ55,-O%20aplicativo%20deve), [RQ56](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ56,-O%20aplicativo%20deve) e [RQ58](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ58,-O%20aplicativo%20deve)
 Tabela 11 - Léxico 09: Ser atendido em canal de conversa (L09)
 
 | L09           | Descrição                                                                                         |
@@ -214,7 +217,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L10: Oferecer serviços
 
-O Léxico presente na Tabela 12, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ41, RQ51 e RQ52
+O Léxico presente na Tabela 12, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ41](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ41,-O%20aplicativo%20deve), [RQ51](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ51,-A%20agenda%20deve) e [RQ52](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ52,-O%20aplicativo%20deve)
 
 Tabela 12 - Léxico 10: Oferecer serviços (L10)
 
@@ -229,7 +232,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://g
 
 ### L11: Estudante
 
-O Léxico presente na Tabela 13, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): RQ1, RQ4, RQ5 e RQ42 e RQ43
+O Léxico presente na Tabela 13, faz o uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ1](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Refer%C3%AAncia-,RQ1,-O%20aplicativo%20deve), [RQ4](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ4,-O%20aplicativo%20deve), [RQ5](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ5,-O%20aplicativo%20deve), [RQ42](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%202-,RQ42,-O%20aplicativo%20deve) e  [RQ43](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%202-,RQ43,-O%20aplicativo%20deve)
 
 Tabela 13- Léxico 11: Estudante
 
@@ -246,7 +249,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L12: Professor
 
-O lexico presente na Tabela 14, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ17,RQ56
+O lexico presente na Tabela 14, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ17,-O%20aplicativo%20deve) e [RQ56](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ56,-O%20aplicativo%20deve)
 
 Tabela 14- Léxico 12: Professor
 
@@ -263,7 +266,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L13: Dados Acadêmicos e Avaliações
 
-O lexico presente na Tabela 15, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ4,RQ11, RQ17, RQ18, RQ19, RQ20, RQ29
+O lexico presente na Tabela 15, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ4](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ4,-O%20aplicativo%20deve), [RQ11](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ11,-O%20aplicativo%20deve), [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ17,-O%20aplicativo%20deve), [RQ18](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ18,-O%20aplicativo%20deve), [RQ19](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ19,-O%20aplicativo%20deve), [RQ20](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ20,-O%20aplicativo%20deve) e [RQ29](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ29,-O%20aplicativo%20deve)
 
 Tabela 15- Léxico 13: Acadêmicos e avaliações
 
@@ -280,7 +283,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L14: Infraestrutura Institucional
 
-O lexico presente na Tabela 16, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ4,RQ16,RQ7,RQ10,RQ3
+O lexico presente na Tabela 16, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ4](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ4,-O%20aplicativo%20deve),[RQ16](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ16,-O%20aplicativo%20deve), [RQ7](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ7,-O%20aplicativo%20deve), [RQ10](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ10,-O%20aplicativo%20deve) e [RQ3](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ3,-O%20aplicativo%20deve)
 
 Tabela 16- Léxico 14: Infraestrutura Institucional
 
@@ -297,7 +300,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L15: Auxílio Financeiro Estudantil
 
-O lexico presente na Tabela 17, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ5,RQ9,RQ23,RQ31,RQ32,RQ33
+O lexico presente na Tabela 17, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ5](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ5,-O%20aplicativo%20deve), [RQ9](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ9,-O%20aplicativo%20deve), [RQ23](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ23,-O%20aplicativo%20deve), [RQ31](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ31,-O%20aplicativo%20deve), [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ32,-O%20aplicativo%20deve) e [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ33,-O%20aplicativo%20deve)
 
 Tabela 17- Léxico 15: Auxílio Financeiro Estudantil
 
@@ -314,7 +317,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L16: Documentação Oficial
 
-O lexico presente na Tabela 18, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ27,RQ28,RQ57,RQ59,RQ3
+O lexico presente na Tabela 18, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ27,-O%20aplicativo%20deve), [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ28,-O%20aplicativo%20deve), [RQ57](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ57,-O%20aplicativo%20deve), [RQ59](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ59,-O%20aplicativo%20deve) e [RQ3](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ3,-O%20aplicativo%20deve)
 
 Tabela 18- Léxico 16: Documentação Oficial
 
@@ -331,7 +334,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L17: Comunicação e Interação
 
-O lexico presente na Tabela 18, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ12,RQ14,RQ35,RQ36,RQ55,RQ56,RQ58
+O lexico presente na Tabela 18, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ12](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ12,-O%20aplicativo%20deve) , [RQ14](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ14,-O%20aplicativo%20deve), [RQ35](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ35,-O%20aplicativo%20deve), [RQ36](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ36,-O%20aplicativo%20deve), [RQ55](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ55,-O%20aplicativo%20deve), [RQ56](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ56,-O%20aplicativo%20deve) e [RQ58](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ58,-O%20aplicativo%20deve)
 
 Tabela 19 - Léxico 17: Comunicação e Interação
 
@@ -346,7 +349,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L18: Calendário e Eventos
 
-O lexico presente na Tabela 20, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/):RQ37,RQ45,RQ46,RQ47,RQ49,RQ50,RQ48,RQ21,RQ54
+O lexico presente na Tabela 20, faz uso dos seguintes requisitos de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/): [RQ37](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ37,-O%20aplicativo%20deve), [RQ45](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%203-,RQ45,-O%20aplicativo%20deve), [RQ46](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ46,-A%20agenda%20deve), [RQ47](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ47,-A%20agenda%20deve), [RQ49](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ49,-A%20agenda%20deve), [RQ50](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ50,-A%20agenda%20deve), [RQ48](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ48,-A%20agenda%20deve), [RQ21](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ21,-O%20aplicativo%20deve) e [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ54,-O%20aplicativo%20deve)
 
 Tabela 20- Léxico 18: Calendário e Eventos
 
@@ -361,7 +364,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Luisa de Souza](https://git
 
 ### L19: Estudante logado
 
-O Léxico presente na Tabela 18 está associado ao requisito RQ1, que trata da autenticação de Estudantes para acesso ao aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 18 está associado ao requisito [RQ1](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Refer%C3%AAncia-,RQ1,-O%20aplicativo%20deve), que trata da autenticação de Estudantes para acesso ao aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 21 - Léxico 18: Estudante logado (L19)
 
@@ -378,7 +381,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L20: Conta ativa/inativa
 
-O Léxico presente na Tabela 19 está relacionado aos requisitos RQ1 e RQ39, que tratam da autenticação e segurança de dados do Estudante, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 19 está relacionado aos requisitos [RQ1](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Refer%C3%AAncia-,RQ1,-O%20aplicativo%20deve) e [RQ39](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ39,-O%20aplicativo%20deve), que tratam da autenticação e segurança de dados do Estudante, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 22 - Léxico 20: Conta ativa/inativa (L20)
 
@@ -395,7 +398,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L21: Informação atualizada/desatualizada
 
-O Léxico presente na Tabela 20 está relacionado aos requisitos RQ6 e RQ7, sobre a atualização e consistência dos dados exibidos no aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 20 está relacionado aos requisitos RQ6 e [RQ7](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ7,-O%20aplicativo%20deve), sobre a atualização e consistência dos dados exibidos no aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 23 - Léxico 21: Informação atualizada/desatualizada (L21)
 
@@ -412,7 +415,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L22: Status do programa Pé-de-Meia (ativo/bloqueado)
 
-O Léxico presente na Tabela 21 está relacionado ao requisito RQ5, que trata do acompanhamento do programa Pé-de-Meia, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 21 está relacionado ao requisito [RQ5](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ5,-O%20aplicativo%20deve), que trata do acompanhamento do programa Pé-de-Meia, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 24 - Léxico 22: Status do programa Pé-de-Meia (L22)
 
@@ -429,7 +432,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L23: Disponibilidade gratuita (Android/iOS)
 
-O Léxico presente na Tabela 22 está relacionado ao requisito RQ10, sobre a disponibilidade do aplicativo nos principais sistemas operacionais, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 22 está relacionado ao requisito  [RQ10](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ10,-O%20aplicativo%20deve), sobre a disponibilidade do aplicativo nos principais sistemas operacionais, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 25 - Léxico 23: Disponibilidade gratuita (L23)
 
@@ -446,7 +449,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L24: Informações seguras/privadas
 
-O Léxico presente na Tabela 23 está relacionado ao requisito RQ39, que aborda a proteção dos dados do Estudante, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 23 está relacionado ao requisito [RQ39](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ39,-O%20aplicativo%20deve), que aborda a proteção dos dados do Estudante, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 26 - Léxico 24: Informações seguras/privadas (L24)
 
@@ -463,7 +466,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L25: Acessibilidade (cores, Libras, audiodescrição)
 
-O Léxico presente na Tabela 24 está relacionado ao requisito RQ40, que trata da acessibilidade no aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 24 está relacionado ao requisito [RQ40](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ40,-O%20aplicativo%20deve), que trata da acessibilidade no aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 27 - Léxico 25: Acessibilidade (L25)
 
@@ -480,7 +483,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L26: Facilidade de uso/aprendizagem
 
-O Léxico presente na Tabela 25 está associado ao requisito RQ24, referente à usabilidade e experiência do Estudante, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 25 está associado ao requisito [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%201-,RQ24,-O%20usu%C3%A1rio%20deve), referente à usabilidade e experiência do Estudante, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 28 - Léxico 26: Facilidade de uso/aprendizagem (L26)
 
@@ -497,7 +500,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L27: Linguagem simples
 
-O Léxico presente na Tabela 26 está relacionado ao requisito RQ25, que define a adequação da linguagem ao público estudantil, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 26 está relacionado ao requisito [RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ25,-O%20aplicativo%20deve), que define a adequação da linguagem ao público estudantil, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 29 - Léxico 27: Linguagem simples (L27)
 
@@ -514,7 +517,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L28: Tempo de resposta ≤ 3 segundos
 
-O Léxico presente na Tabela 27 está relacionado ao requisito RQ26, sobre o desempenho do aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 27 está relacionado ao requisito [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ26,-O%20aplicativo%20deve), sobre o desempenho do aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 30 - Léxico 28: Tempo de resposta ≤ 3 segundos (L28)
 
@@ -531,7 +534,7 @@ Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](
 
 ### L29: Funcionalidade encontrada ≤ 45 segundos
 
-O Léxico presente na Tabela 28 está associado ao requisito RQ53, sobre a navegabilidade do aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 28 está associado ao requisito [RQ53](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ53,-O%20aplicativo%20deve), sobre a navegabilidade do aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 31 - Léxico 289 Funcionalidade encontrada ≤ 45 segundos (L29)
 
@@ -542,13 +545,13 @@ Tabela 31 - Léxico 289 Funcionalidade encontrada ≤ 45 segundos (L29)
 | Impacto       | Mede a eficiência da navegação e da arquitetura da informação do sistema.                                             |
 | Dicionário    | localizado, encontrado, acessível                                                                                     |
 
-Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ---
 
 ### L30: Design sem sobrecarga de informações
 
-O Léxico presente na Tabela 29 está relacionado ao requisito RQ02, sobre o design limpo e objetivo do aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
+O Léxico presente na Tabela 29 está relacionado ao requisito [RQ2](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ2,-O%20aplicativo%20deve), sobre o design limpo e objetivo do aplicativo, de acordo com a [Tabela de requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)
 
 Tabela 32 - Léxico 30: Design sem sobrecarga de informações (L30)
 
@@ -559,7 +562,7 @@ Tabela 32 - Léxico 30: Design sem sobrecarga de informações (L30)
 | Impacto       | Facilita a leitura, reduz distrações e melhora a experiência do Estudante.                                    |
 | Dicionário    | limpo, organizado, minimalista                                                                                |
 
-Fonte: [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Pedro Henrique](https://github.com/pedrohpsantos).
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ## Gravação
 
@@ -689,3 +692,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 | 1.0    | 05/10/2025 | Documentação dos léxicos        | [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Luisa de Souza](https://github.com/Luisa12ll) e [Camila Silva](https://github.com/CamilaSilvaC) | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
 | 1.1    | 10/10/2025 | Adicionada validação da técnica | [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                                                                                                                                                                                          | [Camila Silva](https://github.com/CamilaSilvaC)       |
 | 1.2    | 20/10/2025 | Atualização da tabela           | [Pedro Henrique](https://github.com/pedrohpsantos)                                                                                                                                                                                                                                                        | [Lara Souza](https://github.com/mel14-hub)            |
+| 1.3   | 02/11/2025 | Atualizando links| [Camila Silva](https://github.com/CamilaSilvaC) e [Geovanna Alves](https://github.com/GeovannaUmbelino)                                                                                                                                      |  [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                                                         |
