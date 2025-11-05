@@ -9,7 +9,7 @@ Figura 1 – Logo do Jornada do Estudante
 ## Introdução
 
 <div style="text-align: justify;">
-No início da disciplina, cada integrante do grupo apresentou sugestões de aplicativos, acompanhadas de argumentos para justificar suas escolhas. Em seguida, realizamos uma revisão coletiva, utilizando critérios previamente definidos para avaliar cada proposta e chegar a um consenso. Após essa análise e debate, o aplicativo escolhido foi a Jornada do Estudante, por sua relevância no contexto educacional, potencial de impacto social e diversidade de funcionalidades que o tornam adequado para ser estudado nesta disciplina.
+No início da disciplina, cada integrante do grupo apresentou sugestões de aplicativos, acompanhadas de argumentos para justificar suas escolhas. Em seguida, realizamos uma revisão coletiva, utilizando critérios previamente definidos para avaliar cada proposta e chegar a um consenso. Após essa análise e debate, o aplicativo escolhido foi a Jornada do Estudante, por sua relevância no contexto educacional, potencial de impacto social e diversidade de funcionalidades que o tornam adequado para ser estudado nesta disciplina<a id="anchor_1" href="#FRM1">[1]</a>.
 </div>
 
 ## Critérios para escolha
@@ -40,6 +40,16 @@ Fonte: [Jornada do estudante na Play Store](https://play.google.com/store/apps/d
 | 1.1    | 09/09/2025 | Adicionando termo de uso              | [Geovanna Alves](https://github.com/GeovannaUmbelino)                                                  | [Luisa de Souza](https://github.com/luisa12ll)   |
 | 1.2    | 13/09/2025 | Atualização do aplicativo selecionado | [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luisa de Souza](https://github.com/luisa12ll) | [Yan Matheus](https://github.com/Yanmatheus0812) |
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
+
 ## Bibliografia
 
-[1] Jornada do estudante. Disponível em: [Jornada do estudante na Google Play](https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante&hl=pt-BR). Acesso em 19 de setembro de 2025.
+<a id="FRM1" href="#anchor_1">1.</a> Jornada do estudante. Disponível em: [Jornada do estudante na Google Play](https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante&hl=pt-BR). Acesso em 19 de setembro de 2025.
