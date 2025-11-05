@@ -29,32 +29,32 @@ A seguir temos a tabela 1, onde indica todos os participantes da especificação
       <tr>
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
         <td>Elaborou a especificações do <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Luisa%20de%20Souza-,RQ40,-Usabilidade%20(U)">RQ40 </td>
-        <td>26/10/2025</td>
+        <td>11/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
         <td>Elaborou a especificações do <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Autor-,RQ3,-Confiabilidade%20(R)">RQ3   </td>
-        <td>26/10/2025</td>
+        <td>11/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
         <td>Elaborou a especificações do <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Pedro%20Henrique-,RQ25,-Usabilidade%20(U)">RQ25 </td>
-        <td>26/10/2025</td>
+        <td>11/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
         <td>Elaborou a especificações do <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Lara%20Souza-,RQ26,-Performance%20(P)">RQ26  </td>
-        <td>26/10/2025</td>
+        <td>11/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
         <td>Elaborou a especificações do <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Geovanna%20Alves-,RQ24,-Usabilidade%20(U)">RQ24  </td>
-        <td>28/10/2025</td>
+        <td>11/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
         <td>Elaborou a especificações do <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Camila%20Silva-,RQ54,-Performance%20(P)">RQ54  </td>
-        <td>28/10/2025</td>
+        <td>11/10/2025</td>
       </tr>
     </tbody>
   </table>
@@ -174,3 +174,4 @@ A seguir, apresentamos a gravação referente à **verificação da especificaç
 | :----: | :--------: | :-------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 11/10/2025 | Adicionando introdução, participantes e metodologia | [Camila Silva](https://github), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luisa de Souza](https://github.com/Luisa12ll). | [Yan Matheus](https://github.com/Yanmatheus0812) |
 |  1.1   | 20/10/2025 |                Atualização da tabela                |                                           [Pedro Henrique](https://github.com/pedrohpsantos)                                            |    [Lara Souza](https://github.com/mel14-hub)    |
+| 1.2   | 02/11/2025 | Atualizando links| [Camila Silva](https://github.com/CamilaSilvaC) e [Geovanna Alves](https://github.com/GeovannaUmbelino)                                                                                                                                      |  [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                                                         |
