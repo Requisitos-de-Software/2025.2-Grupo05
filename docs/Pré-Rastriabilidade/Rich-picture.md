@@ -2,7 +2,7 @@
 
 ## Introdução
 
-As Rich Pictures são representações visuais que ilustram os principais elementos de uma situação e seus relacionamentos. Elas podem ser utilizadas tanto para apoiar a compreensão de um contexto quanto para identificar pontos de melhoria. Na prática, consistem em uma combinação de imagens, textos, símbolos e ícones organizados de forma integrada.
+As Rich Pictures são representações visuais que ilustram os principais elementos de uma situação e seus relacionamentos. Elas podem ser utilizadas tanto para apoiar a compreensão de um contexto quanto para identificar pontos de melhoria. Na prática, consistem em uma combinação de imagens, textos, símbolos e ícones organizados de forma integrada<a id="anchor_1" href="#FRM1">[1]</a>.
 
 No caso da Jornada do Estudante, a Rich Picture representa a plataforma, suas principais funcionalidades e a forma como os usuários interagem com seus recursos.
 
@@ -63,9 +63,19 @@ A construção das Rich Pictures foi elaborada com base em cinco elementos princ
 
 <font size="3"><p style="text-align: center">Fonte: [Luísa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
+
 ## Bibliografia
 
-> David Benyon. Interação Humano-Computador. São Paulo, v2.0, Pearson Prentice Hall, 2011. "Software requirements", Breakdown topics for software requirements, Capítulo Software Development Project, Introducing Rich Pictures
+<a id="FRM1" href="#anchor_1">1.</a> David Benyon. Interação Humano-Computador. São Paulo, v2.0, Pearson Prentice Hall, 2011. "Software requirements", Breakdown topics for software requirements, Capítulo Software Development Project, Introducing Rich Pictures
 
 ## Histórico de Versões
 

@@ -21,7 +21,7 @@ No início da disciplina, cada integrante do grupo apresentou sugestões de apli
 ## Sobre o HBO Max
 
 <div style="text-align: justify;">
-O HBO Max é uma plataforma de streaming que oferece filmes, séries, documentários, animações e produções originais da HBO e de outras produtoras. Possui conteúdos exclusivos e populares, além de séries clássicas e entretenimento para toda a família.
+O HBO Max é uma plataforma de streaming que oferece filmes, séries, documentários, animações e produções originais da HBO e de outras produtoras. Possui conteúdos exclusivos e populares, além de séries clássicas e entretenimento para toda a família<a id="anchor_1" href="#FRM1">[1]</a>.
 
 O aplicativo permite criar perfis personalizados, adicionar conteúdos aos favoritos, baixar vídeos para assistir offline, continuar de onde parou e usar o recurso Minha Lista. Está disponível em diversos dispositivos, suporta reprodução em alta qualidade até 4K e oferece som surround, incluindo Dolby Atmos em planos específicos. A disponibilidade de conteúdos e recursos pode variar por região. A interface do aplicativo pode ser observada na Figura 2.
 
@@ -40,6 +40,16 @@ Diante disso, e com o compromisso de respeitar as regras da plataforma, o grupo 
 
 Termo de Uso: [https://hbomax.com/terms-of-use](https://hbomax.com/terms-of-use)
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                | Autor                                                 | Revisor                                         |
@@ -49,4 +59,4 @@ Termo de Uso: [https://hbomax.com/terms-of-use](https://hbomax.com/terms-of-use)
 
 ## Bibliografia
 
-[1] HBO Max. Disponível em: [HBO Max na Google Play](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em 08 de setembro de 2025.
+<a id="FRM1" href="#anchor_1">1.</a> HBO Max. Disponível em: [HBO Max na Google Play](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em 08 de setembro de 2025.

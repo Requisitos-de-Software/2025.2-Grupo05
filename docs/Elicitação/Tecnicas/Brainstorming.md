@@ -3,7 +3,7 @@
 ## Introdução
 
 O brainstorming é uma técnica de elicitação de requisitos que busca desenvolver ideias e identificar necessidades de forma colaborativa. Participantes contribuem livremente, sem julgamentos,
-permitindo descobrir requisitos explícitos e implícitos, além de estimular soluções criativas e inovadoras para o sistema a ser desenvolvido.
+permitindo descobrir requisitos explícitos e implícitos, além de estimular soluções criativas e inovadoras para o sistema a ser desenvolvido <a id="anchor_1" href="#FRM1">[1]</a>.
 
 ## Participantes
 
@@ -166,9 +166,19 @@ A seguir temos as **gravações das sessões**:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/95WRn_oEFC0?si=pDSPptZqjMFu92Tj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
+
 ## Referências Bibliográficas
 
-> <a id="FRM1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+<a id="FRM1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 

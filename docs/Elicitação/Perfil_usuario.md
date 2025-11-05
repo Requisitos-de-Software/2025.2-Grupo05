@@ -133,13 +133,19 @@ Após uma análise das respostas, foi traçado dois perfis de usuário, o primei
 - **Grau de escolaridade:** Ensino superior incompleto a superior completo
 - **Tarefas desejadas:** Organizar atividades acadêmicas e centralizar suas respectivas informações.
 
-## Referências Bibliográficas
+## Agradecimentos
 
-> <a id="FRM1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
 
 ## Bibliografia
 
-> HENRIQUE, Matheus e FERREIRA, Rafael. Perfil de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 24 set. 2025.
+<a id="FRM1" href="#anchor_1">1.</a> HENRIQUE, Matheus e FERREIRA, Rafael. Perfil de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital). Acesso em: 24 set. 2025.
 
 ## Histórico de Versões
 

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A história de usuário é uma técnica de elicitação de requisitos amplamente utilizada nas metodologias de desenvolvimento ágil e se refere a descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Além disso, as histórias de usuário devem possuir critérios de aceitação bem definidos para que seja possível verificar sua implementação.
+A história de usuário é uma técnica de elicitação de requisitos amplamente utilizada nas metodologias de desenvolvimento ágil e se refere a descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Além disso, as histórias de usuário devem possuir critérios de aceitação bem definidos para que seja possível verificar sua implementação<a id="anchor_1" href="#FRM1">[1]</a>.
 
 ## Objetivo
 
@@ -922,12 +922,25 @@ A seguir temos a tabela 53, onde indica todos os participantes da validação da
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lQ7N3OCHZr0?si=NMPi0STS9uj_Z4fl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
+
 ## Bibliografia
 
-> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
-> SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: [aprender 3](https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em: 15/10/2025.
-> Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: [computer.org](http://www.computer.org/web/swebok/v3). p. 38.
-> MACIEL, Geovanna; ALVES, Douglas. Histórias de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/). Acesso em: 15 out. 2025
+<a id="FRM1" href="#anchor_1">1.</a> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
+
+<a id="FRM2" href="#anchor_2">2.</a> SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: [aprender 3](https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em: 15/10/2025.
+
+<a id="FRM3" href="#anchor_3">3.</a> Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: [computer.org](http://www.computer.org/web/swebok/v3). p. 38.
+
+<a id="FRM4" href="#anchor_4">4.</a> MACIEL, Geovanna; ALVES, Douglas. Histórias de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/). Acesso em: 15 out. 2025
 
 ## Histórico de Versões
 

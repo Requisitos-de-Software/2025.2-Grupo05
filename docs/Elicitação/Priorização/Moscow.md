@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Em projetos de desenvolvimento de software, é comum que surjam muitos requisitos, mas nem todos possuem a mesma relevância ou urgência. Para lidar com isso, é necessário aplicar métodos de priorização que auxiliem na escolha do que deve ser feito primeiro.
+Em projetos de desenvolvimento de software, é comum que surjam muitos requisitos, mas nem todos possuem a mesma relevância ou urgência. Para lidar com isso, é necessário aplicar métodos de priorização que auxiliem na escolha do que deve ser feito primeiro<a id="anchor_1" href="#FRM1">[1]</a>.
 
 Seus principais objetivos são:
 
@@ -230,9 +230,19 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UHmyZY5RGWI?si=D7XvJdHqgUorvEk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
+
 ## Bibliografia
 
-[1] WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível no [Link do aprender](https://aprender3.unb.br/pluginfile.php/3210609/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf)
+<a id="FRM1" href="#anchor_1">1.</a> WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível no [Link do aprender](https://aprender3.unb.br/pluginfile.php/3210609/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf)
 
 ## Histórico de Versões
 

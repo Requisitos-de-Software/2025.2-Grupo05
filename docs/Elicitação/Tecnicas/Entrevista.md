@@ -2,7 +2,7 @@
 
 ## Introdução
 
-- A entrevista com usuários é um meio de elicitar requisitos através de uma entrevista roteirizada. Neste trabalho a entrevista seguiu como roteiro as perguntas realizadas no questionário e realizada com três usuários, todos com livre consentimento do uso da imagem e participação das entrevistas como mostrados nos vídeos [Entrevista 1](https://youtu.be/zYS0moDR_gI?si=_CXI-84XV1co8_DG), [Entrevista 2](https://youtu.be/KCEM_y5eoc4?si=S2LVFfK09lZO_iUp) e [Entrevista 3](https://youtu.be/Jo30F-G7l6Q?si=YI3Yf0jy8h9t7Unz). As entrevistas tinham em torno de 12 questões também sobre aspectos gerais de possíveis usuários do aplicativo. As entrevistas foram realizadas com 2 estudantes da Universidade de Brasília e um aluno do ensino médio, entre o período de 22 a 24 de setembro de 2025.
+- A entrevista com usuários é um meio de elicitar requisitos através de uma entrevista roteirizada<a id="anchor_1" href="#FRM1">[1]</a>. Neste trabalho a entrevista seguiu como roteiro as perguntas realizadas no questionário e realizada com três usuários, todos com livre consentimento do uso da imagem e participação das entrevistas como mostrados nos vídeos [Entrevista 1](https://youtu.be/zYS0moDR_gI?si=_CXI-84XV1co8_DG), [Entrevista 2](https://youtu.be/KCEM_y5eoc4?si=S2LVFfK09lZO_iUp) e [Entrevista 3](https://youtu.be/Jo30F-G7l6Q?si=YI3Yf0jy8h9t7Unz). As entrevistas tinham em torno de 12 questões também sobre aspectos gerais de possíveis usuários do aplicativo. As entrevistas foram realizadas com 2 estudantes da Universidade de Brasília e um aluno do ensino médio, entre o período de 22 a 24 de setembro de 2025.
 
 ## Participantes
 
@@ -187,6 +187,20 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 - Entrevista 3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jo30F-G7l6Q?si=dXirnAYwaTxmucDF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
+
+## Referências Bibliográficas
+
+> <a id="FRM1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 

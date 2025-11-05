@@ -8,6 +8,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+    
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -140,8 +141,9 @@ nav:
   - Análise:
       - Verificação: Análise/Verificação.md
       - Validação: Análise/Validação.md
+      - Comprovação informal: Análise/Comprovacao.md
   - Pós-Rastreabilidade:
-      - Elos de Rastreabilidade: Pós-Rastreabilidade/Lvs/Elos-Ratreabilidade.md
+      - Elos de Rastreabilidade: Pós-Rastreabilidade/Lvs/Elos-Rastreabilidade.md
       - Forward-From: Pós-Rastreabilidade/Forward-From.md
       - Backward-From: Pós-Rastreabilidade/Backward-From.md
       - Matriz de Rastreabilidade: Pós-Rastreabilidade/Matriz_Rastreabilidade.md
