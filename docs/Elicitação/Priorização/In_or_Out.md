@@ -189,7 +189,7 @@ Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
   Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
 
 De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
-Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total responsabilidade por sua originalidade e precisão.
 
 </div>
 
@@ -204,4 +204,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total respons
 | 1.0    | 30/09/2025 | Criação do documento de priorização In or Out | [Pedro Henrique](https://github.com/pedrohpsantos) e [Camila Silva](https://github.com/CamilaSilvaC) | [Yan Matheus](https://github.com/Yanmatheus0812) |
 | 1.1    | 02/10/2025 | Adição da tabela de participantes             | [Camila Silva](https://github.com/CamilaSilvaC)                                                      | [Yan Matheus](https://github.com/Yanmatheus0812) |
 | 1.2    | 20/10/2025 | Atualização da tabela                         | [Pedro Henrique](https://github.com/pedrohpsantos)                                                   | [Lara Souza](https://github.com/mel14-hub)       |
-| 1.3    | 02/11/2025 | Validação da priorização                         | [Yan Matheus](https://github.com/Yanmatheus0812)                                                   | [Lara Souza](https://github.com/mel14-hub)       |
+| 1.3    | 02/11/2025 | Validação da priorização                      | [Yan Matheus](https://github.com/Yanmatheus0812)                                                     | [Lara Souza](https://github.com/mel14-hub)       |
