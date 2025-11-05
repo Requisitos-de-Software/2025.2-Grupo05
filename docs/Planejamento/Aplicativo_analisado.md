@@ -68,6 +68,16 @@ O Metrô DF oferece as informações sobre horários, linhas e serviços do metr
 
 Após análise e discussão, o grupo decidiu que o aplicativo a ser estudado durante a disciplina seria o HBO Max, considerando sua popularidade, diversidade de funcionalidades e relevância no mercado de streaming. Assim, embora os Rich Pictures iniciais tenham servido como referência, o estudo final do grupo será baseado no HBO Max.
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                             | Autor                                                 | Revisor                                          |
