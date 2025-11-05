@@ -66,21 +66,21 @@ A tabela 1 disposta abaixo representa todos os requisitos levantados durante a a
 | Q13           | O aplicativo deve permitir a visualização de datas importantes em um calendário.                                      | RF        | Não          | 1.0    | Questionário |
 | Q14           | O aplicativo deve notificar notas e avaliações com dois dias e uma semana antes.                                      | RF        | Não          | 1.0    | Questionário |
 | Q15           | O aplicativo deve ser fácil de usar e aprender suas funcionalidades.                                                  | RNF       | Sim          | 1.0    | Questionário |
-| Q16           | O aplicativo deve ter uma linguagem simples e adequada ao usuário (sem termos técnicos).                              | RNF       | Sim          | 1.0    | Questionário |
+| Q16           | O aplicativo deve ter uma linguagem simples e adequada ao estudante (sem termos técnicos).                              | RNF       | Sim          | 1.0    | Questionário |
 | Q17           | O aplicativo deve carregar suas informações em no máximo 3 segundos.                                                  | RNF       | Não          | 1.0    | Questionário |
-| Q18           | O aplicativo deve possibilitar o usuário emitir a declaração de vínculo da instituição de ensino.                     | RF        | Não          | 1.0    | Questionário |
-| Q19           | O aplicativo deve possibilitar o usuário visualizar seu histórico da instituição de ensino.                           | RF        | Não          | 1.0    | Questionário |
-| Q20           | O aplicativo deve possibilitar o usuário visualizar boletim da instituição de ensino.                                 | RF        | Não          | 1.0    | Questionário |
-| Q21           | O aplicativo deve possibilitar o usuário visualizar programas estudantis (FIES, Prouni, etc.).                        | RF        | Sim          | 1.0    | Questionário |
-| Q22           | O aplicativo deve possibilitar o usuário visualizar parcelas pagas e que faltam do auxílio.                           | RF        | Sim          | 1.0    | Questionário |
-| Q23           | O aplicativo deve possibilitar o usuário visualizar o valor total do auxílio.                                         | RF        | Não          | 1.0    | Questionário |
-| Q24           | O aplicativo deve possibilitar o usuário visualizar a conta bancária cadastrada do auxílio.                           | RF        | Não          | 1.0    | Questionário |
-| Q25           | O aplicativo deve possibilitar o usuário visualizar o dia do pagamento do auxílio.                                    | RF        | Não          | 1.0    | Questionário |
-| Q26           | O aplicativo deve possibilitar o usuário acessar um fórum de dúvidas sobre o auxílio.                                 | RF        | Não          | 1.0    | Questionário |
-| Q27           | O aplicativo deve possibilitar o usuário ser atendido em um canal de conversa sobre o auxílio.                        | RF        | Não          | 1.0    | Questionário |
-| Q28           | O aplicativo deve possibilitar o usuário visualizar datas de eventos e atividades escolares em um calendário.         | RF        | Não          | 1.0    | Questionário |
+| Q18           | O aplicativo deve possibilitar o estudante emitir a declaração de vínculo da instituição de ensino.                     | RF        | Não          | 1.0    | Questionário |
+| Q19           | O aplicativo deve possibilitar o estudante visualizar seu histórico da instituição de ensino.                           | RF        | Não          | 1.0    | Questionário |
+| Q20           | O aplicativo deve possibilitar o estudate visualizar boletim da instituição de ensino.                                 | RF        | Não          | 1.0    | Questionário |
+| Q21           | O aplicativo deve possibilitar o estudante visualizar programas estudantis (FIES, Prouni, etc.).                        | RF        | Sim          | 1.0    | Questionário |
+| Q22           | O aplicativo deve possibilitar o estudante visualizar parcelas pagas e que faltam do auxílio.                           | RF        | Sim          | 1.0    | Questionário |
+| Q23           | O aplicativo deve possibilitar o estudante visualizar o valor total do auxílio.                                         | RF        | Não          | 1.0    | Questionário |
+| Q24           | O aplicativo deve possibilitar o estudante visualizar a conta bancária cadastrada do auxílio.                           | RF        | Não          | 1.0    | Questionário |
+| Q25           | O aplicativo deve possibilitar o estudante visualizar o dia do pagamento do auxílio.                                    | RF        | Não          | 1.0    | Questionário |
+| Q26           | O aplicativo deve possibilitar o estudante acessar um fórum de dúvidas sobre o auxílio.                                 | RF        | Não          | 1.0    | Questionário |
+| Q27           | O aplicativo deve possibilitar o estudante ser atendido em um canal de conversa sobre o auxílio.                        | RF        | Não          | 1.0    | Questionário |
+| Q28           | O aplicativo deve possibilitar o estudante visualizar datas de eventos e atividades escolares em um calendário.         | RF        | Não          | 1.0    | Questionário |
 | Q29           | O aplicativo deve ter informações unificadas sobre sua jornada escolar.                                               | RF        | Sim          | 1.0    | Questionário |
-| Q30           | O aplicativo deve manter as informações do usuário seguras e privadas.                                                | RR        | Sim          | 1.0    | Questionário |
+| Q30           | O aplicativo deve manter as informações do estudante seguras e privadas.                                                | RR        | Sim          | 1.0    | Questionário |
 | Q31           | O aplicativo deve ser acessível (contraste em cores, suporte à libras e auto-descrição ).                             | RNF       | Não          | 1.0    | Questionário |
 | Q32           | O aplicativo deve ter um design sem sobrecarga de informações na tela                                                 | RI        | sim          | 1.0    | Questionário |
 
