@@ -1,6 +1,6 @@
 # Introdução
 
- objetivo dessa página é armazenar a inspeção da entrega 4 e demais documentos relacionados. Acesse o vídeo clicando no link correspondente.
+objetivo dessa página é armazenar a inspeção da entrega 4 e demais documentos relacionados. Acesse o vídeo clicando no link correspondente.
 
 ## Inspeção 4
 
@@ -125,7 +125,7 @@ A tabela 5 mostra a lista de verificação para a técnica NFR Framework.
   Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
 
 De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
-Todo o conteúdo apresentado é de autoria do Grupo 04, que assume total responsabilidade por sua originalidade e precisão.
+Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total responsabilidade por sua originalidade e precisão.
 
 </div>
 
