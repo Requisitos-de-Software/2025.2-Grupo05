@@ -1,0 +1,6164 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../Especificacao/">
+      
+      
+        <link rel="next" href="../Backlog/">
+      
+      
+      <link rel="icon" href="../../../img/logo-jornada.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.4.6">
+    
+    
+      
+        <title>Histórias de usuário - Jornada do Estudante</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.35e1ed30.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.356b1318.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="green">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#historia-de-usuario" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Jornada do Estudante" class="md-header__button md-logo" aria-label="Jornada do Estudante" data-md-component="logo">
+      
+  <img src="../../../img/logo-jornada.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Jornada do Estudante
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Histórias de usuário
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="green"  aria-label="Alternar para modo escuro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Alternar para modo escuro" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="grey" data-md-color-accent="blue"  aria-label="Alternar para modo claro"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Alternar para modo claro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../Sobre/Sobre/" class="md-tabs__link">
+        
+  
+    
+  
+  Sobre
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Entregas/Reunioes/" class="md-tabs__link">
+          
+  
+  Entregas
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Planejamento/Metodologia/" class="md-tabs__link">
+          
+  
+  Planejamento
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Atas/ata09-04/" class="md-tabs__link">
+          
+  
+  Atas
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Pr%C3%A9-Rastriabilidade/Rich-picture/" class="md-tabs__link">
+          
+  
+  Pré-Rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Elicita%C3%A7%C3%A3o/Perfil_usuario/" class="md-tabs__link">
+          
+  
+  Elicitação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../Cen%C3%A1rios/" class="md-tabs__link">
+          
+  
+  Modelagem
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../An%C3%A1lise/Verifica%C3%A7%C3%A3o/" class="md-tabs__link">
+          
+  
+  Análise
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../P%C3%B3s-Rastreabilidade/Lvs/Elos-Rastreabilidade/" class="md-tabs__link">
+          
+  
+  Pós-Rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Aplicativo_anterior/Sobre_hbo/" class="md-tabs__link">
+          
+  
+  Aplicativo Anterior
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Jornada do Estudante" class="md-nav__button md-logo" aria-label="Jornada do Estudante" data-md-component="logo">
+      
+  <img src="../../../img/logo-jornada.png" alt="logo">
+
+    </a>
+    Jornada do Estudante
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo05" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Sobre/Sobre/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sobre
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Entregas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entregas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Reunioes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reuniões
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Inspeções
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeções
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_1" id="__nav_3_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Inspeções grupo 5
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeções grupo 5
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Inspe%C3%A7%C3%B5es/Inspe%C3%A7%C3%B5es_grupo5/Inspecao1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Inspe%C3%A7%C3%B5es/Inspe%C3%A7%C3%B5es_grupo5/Inspecao2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Inspe%C3%A7%C3%B5es/Inspe%C3%A7%C3%B5es_grupo5/Inspecao3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Inspe%C3%A7%C3%B5es/Inspe%C3%A7%C3%B5es_grupo5/Inspecao4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Inspe%C3%A7%C3%B5es/Inspe%C3%A7%C3%B5es_grupo5/Inspecao6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção 6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_2" id="__nav_3_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Inspeções grupo 6
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeções grupo 6
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Inspe%C3%A7%C3%B5es/Inspe%C3%A7%C3%B5es_grupo6/Inspecao1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Inspe%C3%A7%C3%B5es/Inspe%C3%A7%C3%B5es_grupo6/Inspecao2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Inspe%C3%A7%C3%B5es/Inspe%C3%A7%C3%B5es_grupo6/Inspecao3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Inspe%C3%A7%C3%B5es/Inspe%C3%A7%C3%B5es_grupo6/Inspecao4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inspeção 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Inspe%C3%A7%C3%B5es/Inspe%C3%A7%C3%B5es_grupo6/Inspecao6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    inspeção 6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Apresentações
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Apresentações
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Apresenta%C3%A7%C3%B5es/Apresentacao1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Apresenta%C3%A7%C3%B5es/Apresentacao2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Apresenta%C3%A7%C3%B5es/Apresentacao3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Apresenta%C3%A7%C3%B5es/Apresentacao4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Entregas/Apresenta%C3%A7%C3%B5es/Apresentacao6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/Metodologia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metodologia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/Ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Aplicativo Selecionado
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Aplicativo Selecionado
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/Aplicativo_selecionado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jornada de Estudante
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/termo_de_uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Termo de uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/Aplicativo_analisado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicativos Analisados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/Cronograma/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/Heatmap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Heatmap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Planejamento/ValidacaoMonitora/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Validações da monitora
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Atas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Ata de Reunião(04/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Ata de Reunião(05/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-06/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Ata de Reunião(06/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-07_1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Ata de Reunião(07/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-07_2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Ata de Reunião(07/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-09/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Ata de Reunião(09/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-12/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Ata de Reunião(12/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-13_1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    8. Ata de Reunião(13/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-13_2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    9. Ata de Reunião(13/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-13_3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    10. Ata de Reunião(13/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-15/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    11. Ata de Reunião(15/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-16/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    12. Ata de Reunião(16/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-18/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    13. Ata da Reunião(18/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-21/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    14. Ata da Reunião(21/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-22/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    15. Ata da Reunião(22/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-24/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    16. Ata da Reunião(24/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-25_1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    17. Ata da Reunião(25/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata09-25_2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    18. Ata da Reunião(25/09)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Atas/ata10-03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    19. Ata da Reunião(03/10)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Pré-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Pr%C3%A9-Rastriabilidade/Rich-picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Pr%C3%A9-Rastriabilidade/Rich_pictureLV/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Perfil_usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Tecnicas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2">
+            <span class="md-nav__icon md-icon"></span>
+            Tecnicas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise de documentação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Tecnicas/Brainstorming/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brainstorming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrevista
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_4" id="__nav_7_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_4">
+            <span class="md-nav__icon md-icon"></span>
+            Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tree Level Scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In_or_Out/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    In or Out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    $100 dólares
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MoSCoW
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Listas de verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_5">
+            <span class="md-nav__icon md-icon"></span>
+            Listas de verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_5_1" id="__nav_7_5_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Inspeções
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_5_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_5_1">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeções
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/LVs/elicita%C3%A7%C3%B5es/Lv_analise_docs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise de documentação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/LVs/elicita%C3%A7%C3%B5es/Lv_entrevista/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrevista
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/LVs/elicita%C3%A7%C3%B5es/QuestionarioLV/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/LVs/elicita%C3%A7%C3%B5es/BrainstormLV/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brainstorming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_5_2" id="__nav_7_5_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorizações
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Priorizações
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/LVs/prioriza%C3%A7%C3%B5es/LV_Three_level/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Three-level scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/LVs/prioriza%C3%A7%C3%B5es/MoscowLV/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Moscow
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/LVs/prioriza%C3%A7%C3%B5es/100_dolaresLV/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    100 dólares
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Elicita%C3%A7%C3%A3o/LVs/prioriza%C3%A7%C3%B5es/In_or_outLV/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    In or out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Cen%C3%A1rios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../L%C3%A9xicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Casos-de-uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Especificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_8_5" id="__nav_8_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_8_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Histórias de usuário
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de usuário
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivo" class="md-nav__link">
+    Objetivo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#participantes" class="md-nav__link">
+    Participantes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historias-de-usuario" class="md-nav__link">
+    Histórias de usuário
+  </a>
+  
+    <nav class="md-nav" aria-label="Histórias de usuário">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hu01-autenticacao-govbr" class="md-nav__link">
+    HU01 - Autenticação gov.br
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu02-unificacao-do-acesso-a-suas-informacoes-academicas" class="md-nav__link">
+    HU02 - Unificação do acesso a suas informações acadêmicas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu03-acompanhamento-pe-de-meia" class="md-nav__link">
+    HU03 - Acompanhamento Pé-de-Meia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu04-visualizacao-de-faltas" class="md-nav__link">
+    HU04 - Visualização de faltas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu05-atualizacoes-de-pagamento-pe-de-meia" class="md-nav__link">
+    HU05 - Atualizações de pagamento Pé-de-Meia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu06-acompanhamento-da-vida-estudantil" class="md-nav__link">
+    HU06 - Acompanhamento da vida estudantil
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu07-comunicacao-do-mec-com-estudante" class="md-nav__link">
+    HU07 - Comunicação do MEC com estudante
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu08-registro-de-curso" class="md-nav__link">
+    HU08 - Registro de curso
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu09-novidades-e-programas-do-governo-federal" class="md-nav__link">
+    HU09 - Novidades e programas do Governo Federal
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu10-programas-estudantis-do-governo-federal" class="md-nav__link">
+    HU10 - Programas estudantis do Governo Federal
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu11-integracao-com-a-instituicao-de-ensino" class="md-nav__link">
+    HU11 - Integração com a Instituição de Ensino
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu12-visualizar-disciplina-e-professor" class="md-nav__link">
+    HU12 - Visualizar disciplina e professor
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu13-horario-e-sala-de-aula" class="md-nav__link">
+    HU13 - Horário e sala de aula
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu14-avaliacoes-e-trabalhos-da-disciplina" class="md-nav__link">
+    HU14 - Avaliações e Trabalhos da Disciplina
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu15-visualizacao-de-notas" class="md-nav__link">
+    HU15: Visualização de Notas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu16-notificacao-de-avaliacoes" class="md-nav__link">
+    HU16: Notificação de Avaliações
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu17-notificacao-de-faltas" class="md-nav__link">
+    HU17: Notificação de Faltas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu18-notificacao-do-beneficio-pe-de-meia" class="md-nav__link">
+    HU18: Notificação do Benefício Pé-de-Meia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu19-emissao-de-declaracao-de-vinculo" class="md-nav__link">
+    HU19: Emissão de Declaração de Vínculo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu20-emissao-de-historico-escolar" class="md-nav__link">
+    HU20: Emissão de Histórico Escolar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu21-visualizacao-de-boletim" class="md-nav__link">
+    HU21: Visualização de Boletim
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu22-visualizacao-de-programas-estudantis" class="md-nav__link">
+    HU22: Visualização de Programas Estudantis
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu23-visualizar-parcelas-do-auxilio" class="md-nav__link">
+    HU23 – Visualizar Parcelas do Auxílio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu24-visualizar-valor-total-do-auxilio" class="md-nav__link">
+    HU24 – Visualizar Valor Total do Auxílio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu25-visualizar-conta-bancaria-cadastrada" class="md-nav__link">
+    HU25 – Visualizar Conta Bancária Cadastrada
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu26-visualizar-dia-do-pagamento-do-auxilio" class="md-nav__link">
+    HU26 – Visualizar Dia do Pagamento do Auxílio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu27-acesso-ao-forum-de-duvidas" class="md-nav__link">
+    HU27 – Acesso ao Fórum de Dúvidas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu28-atendimento-via-canal-de-conversa" class="md-nav__link">
+    HU28 – Atendimento via Canal de Conversa
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu29-visualizar-eventos-em-calendario" class="md-nav__link">
+    HU29 – Visualizar Eventos em Calendário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu30-informacoes-unificadas-sobre-jornada-escolar" class="md-nav__link">
+    HU30 – Informações Unificadas sobre Jornada Escolar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu31-ranqueamento-de-materias-por-nota" class="md-nav__link">
+    HU31 – Ranqueamento de Matérias por Nota
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu32-pagina-de-perfil-do-estudante" class="md-nav__link">
+    HU32 - Página de perfil do estudante
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu33-editar-informacoes-do-perfil-do-estudante" class="md-nav__link">
+    HU33 - Editar informações do perfil do estudante
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu34-editar-informacoes-bancarias" class="md-nav__link">
+    HU34 - Editar informações bancárias
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu35-agenda-de-organizacao-pessoal" class="md-nav__link">
+    HU35 - Agenda de organização pessoal
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu36-inserir-atividades-na-agenda" class="md-nav__link">
+    HU36 - Inserir atividades na agenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu37-editar-atividades-na-agenda" class="md-nav__link">
+    HU37 - Editar atividades na agenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu38-excluir-atividades-na-agenda" class="md-nav__link">
+    HU38 - Excluir atividades na agenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu39-notificar-atividades-na-agenda" class="md-nav__link">
+    HU39 - Notificar atividades na agenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu40-inserir-data-e-horario-em-atividades-na-agenda" class="md-nav__link">
+    HU40 - Inserir data e horário em atividades na agenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu41-avaliar-atividades-com-grau-de-importancia" class="md-nav__link">
+    HU41 - Avaliar atividades com grau de importância
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu42-integracao-da-agenda-com-outros-aplicativos" class="md-nav__link">
+    HU42 - Integração da agenda com outros aplicativos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu43-tutorial-em-video-sobre-funcionalidades" class="md-nav__link">
+    HU43 - Tutorial em vídeo sobre funcionalidades
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu44-notificacao-sobre-abertura-de-editais-de-vestibulares" class="md-nav__link">
+    HU44 - Notificação sobre abertura de editais de vestibulares
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu45-forum-entre-estudantes" class="md-nav__link">
+    HU45 - Fórum entre estudantes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu46-forum-por-disciplina-entre-estudantes-e-professores" class="md-nav__link">
+    HU46 - Fórum por disciplina entre estudantes e professores
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu47-emissao-de-diplomas" class="md-nav__link">
+    HU47 - Emissão de diplomas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu48-canal-de-suporte-ao-usuario" class="md-nav__link">
+    HU48 - Canal de suporte ao usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu49-visualizacao-de-certificados" class="md-nav__link">
+    HU49 - Visualização de certificados
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu50-visualizacao-de-ocorrencias" class="md-nav__link">
+    HU50 - Visualização de ocorrências
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gravacao" class="md-nav__link">
+    Gravação
+  </a>
+  
+    <nav class="md-nav" aria-label="Gravação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#participantes-1" class="md-nav__link">
+    Participantes 1
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#video-1" class="md-nav__link">
+    Video 1
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#validacao-historia-de-usuario" class="md-nav__link">
+    Validação - História de usuário
+  </a>
+  
+    <nav class="md-nav" aria-label="Validação - História de usuário">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#participantes-2" class="md-nav__link">
+    Participantes 2
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#video-2" class="md-nav__link">
+    Video 2
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#agradecimentos" class="md-nav__link">
+    Agradecimentos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../NFR-Framework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_8_6" id="__nav_8_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Listas de Verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8_6">
+            <span class="md-nav__icon md-icon"></span>
+            Listas de Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../LVs/LVCenario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../LVs/LVLexico/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxico
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../LVs/LVSuplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../LVs/LVUseCase/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Caso de uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_6_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_8_6_5" id="__nav_8_6_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_6_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8_6_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../LVs/%C3%81gil/HULV/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    História de usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../LVs/%C3%81gil/BacklogLV/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../LVs/%C3%81gil/NFRLV/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Análise
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Análise
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../An%C3%A1lise/Verifica%C3%A7%C3%A3o/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../An%C3%A1lise/Valida%C3%A7%C3%A3o/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Validação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../An%C3%A1lise/Comprovacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Comprovação informal
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Pós-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Pós-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../P%C3%B3s-Rastreabilidade/Lvs/Elos-Rastreabilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Elos de Rastreabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../P%C3%B3s-Rastreabilidade/Forward-From/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forward-From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../P%C3%B3s-Rastreabilidade/Backward-From/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backward-From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz de Rastreabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Aplicativo Anterior
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            Aplicativo Anterior
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Aplicativo_anterior/Sobre_hbo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sobre
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Aplicativo_anterior/Rich_picture_hbo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Aplicativo_anterior/Aplicativo_selecionado_hbo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicativo Selecionado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivo" class="md-nav__link">
+    Objetivo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#participantes" class="md-nav__link">
+    Participantes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historias-de-usuario" class="md-nav__link">
+    Histórias de usuário
+  </a>
+  
+    <nav class="md-nav" aria-label="Histórias de usuário">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hu01-autenticacao-govbr" class="md-nav__link">
+    HU01 - Autenticação gov.br
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu02-unificacao-do-acesso-a-suas-informacoes-academicas" class="md-nav__link">
+    HU02 - Unificação do acesso a suas informações acadêmicas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu03-acompanhamento-pe-de-meia" class="md-nav__link">
+    HU03 - Acompanhamento Pé-de-Meia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu04-visualizacao-de-faltas" class="md-nav__link">
+    HU04 - Visualização de faltas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu05-atualizacoes-de-pagamento-pe-de-meia" class="md-nav__link">
+    HU05 - Atualizações de pagamento Pé-de-Meia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu06-acompanhamento-da-vida-estudantil" class="md-nav__link">
+    HU06 - Acompanhamento da vida estudantil
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu07-comunicacao-do-mec-com-estudante" class="md-nav__link">
+    HU07 - Comunicação do MEC com estudante
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu08-registro-de-curso" class="md-nav__link">
+    HU08 - Registro de curso
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu09-novidades-e-programas-do-governo-federal" class="md-nav__link">
+    HU09 - Novidades e programas do Governo Federal
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu10-programas-estudantis-do-governo-federal" class="md-nav__link">
+    HU10 - Programas estudantis do Governo Federal
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu11-integracao-com-a-instituicao-de-ensino" class="md-nav__link">
+    HU11 - Integração com a Instituição de Ensino
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu12-visualizar-disciplina-e-professor" class="md-nav__link">
+    HU12 - Visualizar disciplina e professor
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu13-horario-e-sala-de-aula" class="md-nav__link">
+    HU13 - Horário e sala de aula
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu14-avaliacoes-e-trabalhos-da-disciplina" class="md-nav__link">
+    HU14 - Avaliações e Trabalhos da Disciplina
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu15-visualizacao-de-notas" class="md-nav__link">
+    HU15: Visualização de Notas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu16-notificacao-de-avaliacoes" class="md-nav__link">
+    HU16: Notificação de Avaliações
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu17-notificacao-de-faltas" class="md-nav__link">
+    HU17: Notificação de Faltas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu18-notificacao-do-beneficio-pe-de-meia" class="md-nav__link">
+    HU18: Notificação do Benefício Pé-de-Meia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu19-emissao-de-declaracao-de-vinculo" class="md-nav__link">
+    HU19: Emissão de Declaração de Vínculo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu20-emissao-de-historico-escolar" class="md-nav__link">
+    HU20: Emissão de Histórico Escolar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu21-visualizacao-de-boletim" class="md-nav__link">
+    HU21: Visualização de Boletim
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu22-visualizacao-de-programas-estudantis" class="md-nav__link">
+    HU22: Visualização de Programas Estudantis
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu23-visualizar-parcelas-do-auxilio" class="md-nav__link">
+    HU23 – Visualizar Parcelas do Auxílio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu24-visualizar-valor-total-do-auxilio" class="md-nav__link">
+    HU24 – Visualizar Valor Total do Auxílio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu25-visualizar-conta-bancaria-cadastrada" class="md-nav__link">
+    HU25 – Visualizar Conta Bancária Cadastrada
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu26-visualizar-dia-do-pagamento-do-auxilio" class="md-nav__link">
+    HU26 – Visualizar Dia do Pagamento do Auxílio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu27-acesso-ao-forum-de-duvidas" class="md-nav__link">
+    HU27 – Acesso ao Fórum de Dúvidas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu28-atendimento-via-canal-de-conversa" class="md-nav__link">
+    HU28 – Atendimento via Canal de Conversa
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu29-visualizar-eventos-em-calendario" class="md-nav__link">
+    HU29 – Visualizar Eventos em Calendário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu30-informacoes-unificadas-sobre-jornada-escolar" class="md-nav__link">
+    HU30 – Informações Unificadas sobre Jornada Escolar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu31-ranqueamento-de-materias-por-nota" class="md-nav__link">
+    HU31 – Ranqueamento de Matérias por Nota
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu32-pagina-de-perfil-do-estudante" class="md-nav__link">
+    HU32 - Página de perfil do estudante
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu33-editar-informacoes-do-perfil-do-estudante" class="md-nav__link">
+    HU33 - Editar informações do perfil do estudante
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu34-editar-informacoes-bancarias" class="md-nav__link">
+    HU34 - Editar informações bancárias
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu35-agenda-de-organizacao-pessoal" class="md-nav__link">
+    HU35 - Agenda de organização pessoal
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu36-inserir-atividades-na-agenda" class="md-nav__link">
+    HU36 - Inserir atividades na agenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu37-editar-atividades-na-agenda" class="md-nav__link">
+    HU37 - Editar atividades na agenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu38-excluir-atividades-na-agenda" class="md-nav__link">
+    HU38 - Excluir atividades na agenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu39-notificar-atividades-na-agenda" class="md-nav__link">
+    HU39 - Notificar atividades na agenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu40-inserir-data-e-horario-em-atividades-na-agenda" class="md-nav__link">
+    HU40 - Inserir data e horário em atividades na agenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu41-avaliar-atividades-com-grau-de-importancia" class="md-nav__link">
+    HU41 - Avaliar atividades com grau de importância
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu42-integracao-da-agenda-com-outros-aplicativos" class="md-nav__link">
+    HU42 - Integração da agenda com outros aplicativos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu43-tutorial-em-video-sobre-funcionalidades" class="md-nav__link">
+    HU43 - Tutorial em vídeo sobre funcionalidades
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu44-notificacao-sobre-abertura-de-editais-de-vestibulares" class="md-nav__link">
+    HU44 - Notificação sobre abertura de editais de vestibulares
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu45-forum-entre-estudantes" class="md-nav__link">
+    HU45 - Fórum entre estudantes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu46-forum-por-disciplina-entre-estudantes-e-professores" class="md-nav__link">
+    HU46 - Fórum por disciplina entre estudantes e professores
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu47-emissao-de-diplomas" class="md-nav__link">
+    HU47 - Emissão de diplomas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu48-canal-de-suporte-ao-usuario" class="md-nav__link">
+    HU48 - Canal de suporte ao usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu49-visualizacao-de-certificados" class="md-nav__link">
+    HU49 - Visualização de certificados
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu50-visualizacao-de-ocorrencias" class="md-nav__link">
+    HU50 - Visualização de ocorrências
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gravacao" class="md-nav__link">
+    Gravação
+  </a>
+  
+    <nav class="md-nav" aria-label="Gravação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#participantes-1" class="md-nav__link">
+    Participantes 1
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#video-1" class="md-nav__link">
+    Video 1
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#validacao-historia-de-usuario" class="md-nav__link">
+    Validação - História de usuário
+  </a>
+  
+    <nav class="md-nav" aria-label="Validação - História de usuário">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#participantes-2" class="md-nav__link">
+    Participantes 2
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#video-2" class="md-nav__link">
+    Video 2
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#agradecimentos" class="md-nav__link">
+    Agradecimentos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="historia-de-usuario">Historia de Usuário</h1>
+<h2 id="introducao">Introdução</h2>
+<p>A história de usuário é uma técnica de elicitação de requisitos amplamente utilizada nas metodologias de desenvolvimento ágil e se refere a descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Além disso, as histórias de usuário devem possuir critérios de aceitação bem definidos para que seja possível verificar sua implementação<a id="anchor_1" href="#FRM1">[1]</a>.</p>
+<h2 id="objetivo">Objetivo</h2>
+<p>Esse documento propõe trazer uma descrição detalhada e critérios de aceitação das histórias de usuário presentes no <a href="../Backlog/">product backlog</a>.</p>
+<h2 id="participantes">Participantes</h2>
+<p>A seguir temos a tabela 1, onde indica todos os participantes das histórias de usuário, o horário e local da aplicação da técnica.</p>
+<p><font size="3"><p style="text-align: center">Tabela 1: Participantes histórias de usuário</p></font></p>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Histórias de usuário elaboradas</th>
+<th>Data</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+<td>Elaborou as histórias de usuário <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu11-integracao-com-a-instituicao-de-ensino:~:text=Fonte%3A%20Geovanna%20Alves-,HU11%20%2D%20Integra%C3%A7%C3%A3o%20com%20a%20Institui%C3%A7%C3%A3o%20de%20Ensino,-A%20tabela%2012">HU11</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu23-visualizar-parcelas-do-auxilio:~:text=Fonte%3A%20Pedro%20Henrique-,HU23%20%E2%80%93%20Visualizar%20Parcelas%20do%20Aux%C3%ADlio,-A%20tabela%2024">HU23</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu24-visualizar-valor-total-do-auxilio:~:text=Fonte%3A%20Camila%20Silva-,HU24%20%E2%80%93%20Visualizar%20Valor%20Total%20do%20Aux%C3%ADlio,-A%20tabela%2025">HU24</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu25-visualizar-conta-bancaria-cadastrada:~:text=Fonte%3A%20Camila%20Silva-,HU25%20%E2%80%93%20Visualizar%20Conta%20Banc%C3%A1ria%20Cadastrada,-A%20tabela%2026">HU25</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu26-visualizar-dia-do-pagamento-do-auxilio:~:text=Fonte%3A%20Camila%20Silva-,HU26%20%E2%80%93%20Visualizar%20Dia%20do%20Pagamento%20do%20Aux%C3%ADlio,-A%20tabela%2027">HU26</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu27-acesso-ao-forum-de-duvidas:~:text=Fonte%3A%20Camila%20Silva-,HU27%20%E2%80%93%20Acesso%20ao%20F%C3%B3rum%20de%20D%C3%BAvidas,-A%20tabela%2028">HU27</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu28-atendimento-via-canal-de-conversa:~:text=Fonte%3A%20Camila%20Silva-,HU28%20%E2%80%93%20Atendimento%20via%20Canal%20de%20Conversa,-A%20tabela%2029">HU28</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu29-visualizar-eventos-em-calendario:~:text=Fonte%3A%20Camila%20Silva-,HU29%20%E2%80%93%20Visualizar%20Eventos%20em%20Calend%C3%A1rio,-A%20tabela%2030">HU29</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu30-informacoes-unificadas-sobre-jornada-escolar:~:text=Fonte%3A%20Camila%20Silva-,HU30%20%E2%80%93%20Informa%C3%A7%C3%B5es%20Unificadas%20sobre%20Jornada%20Escolar,-A%20tabela%2031">HU30</a></td>
+<td>20/10/2025</td>
+</tr>
+<tr>
+<td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
+<td>Elaborou as histórias de usuário <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu06-acompanhamento-da-vida-estudantil:~:text=Fonte%3A%20Lara%20Souza-,HU06%20%2D%20Acompanhamento%20da%20vida%20estudantil,-A%20tabela%207">HU06</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu08-registro-de-curso:~:text=Fonte%3A%20Pedro%20Henrique-,HU08%20%2D%20Registro%20de%20curso,-A%20tabela%209">HU08</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu10-novidades-e-programas-do-governo-federal:~:text=Fonte%3A%20Yan%20Matheus-,HU10%20%2D%20Programas%20estudantis%20do%20Governo%20Federal,-A%20tabela%2011">HU10</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu12-visualizar-disciplina-e-professor:~:text=Fonte%3A%20Camila%20Silva-,HU12%20%2D%20Visualizar%20disciplina%20e%20professor,-A%20tabela%2013">HU12</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu13-horario-e-sala-de-aula:~:text=Fonte%3A%20Geovanna%20Alves-,HU13%20%2D%20Hor%C3%A1rio%20e%20sala%20de%20aula,-A%20tabela%2014">HU13</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu14-avaliacoes-e-trabalhos-da-disciplina:~:text=Fonte%3A%20Geovanna%20Alves-,HU14%20%2D%20Avalia%C3%A7%C3%B5es%20e%20Trabalhos%20da%20Disciplina,-A%20tabela%2015">HU14</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu21-visualizacao-de-boletim:~:text=Fonte%3A%20Pedro%20Henrique-,HU21%3A%20Visualiza%C3%A7%C3%A3o%20de%20Boletim,-A%20tabela%2022">HU21</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu31-ranqueamento-de-materias-por-nota:~:text=Fonte%3A%20Camila%20Silva-,HU31%20%E2%80%93%20Ranqueamento%20de%20Mat%C3%A9rias%20por%20Nota,-A%20tabela%2032">HU31</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu40-inserir-data-e-horario-em-atividades-na-agenda:~:text=Fonte%3A%20Yan%20Matheus-,HU40%20%2D%20Inserir%20data%20e%20hor%C3%A1rio%20em%20atividades%20na%20agenda,-A%20tabela%2041">HU40</a></td>
+<td>20/10/2025</td>
+</tr>
+<tr>
+<td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+<td>Elaborou as histórias de usuário <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu01-autenticacao-govbr:~:text=de%20usu%C3%A1rios%20elicitadas-,HU01%20%2D%20Autentica%C3%A7%C3%A3o%20gov.br,-A%20tabela%202">HU01</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu04-visualizacao-de-faltas:~:text=Lu%C3%ADsa%20de%20Souza-,HU04%20%2D%20Visualiza%C3%A7%C3%A3o%20de%20faltas,-A%20tabela%205">HU04</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu05-atualizacoes-de-pagamento-pe-de-meia:~:text=Fonte%3A%20Lara%20Souza-,HU05%20%2D%20Atualiza%C3%A7%C3%B5es%20de%20pagamento%20P%C3%A9%2Dde%2DMeia,-A%20tabela%206">HU05</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu47-emissao-de-diplomas:~:text=Lu%C3%ADsa%20de%20Souza-,HU47%20%2D%20Emiss%C3%A3o%20de%20diplomas,-A%20tabela%2048">HU47</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu49-visualizacao-de-certificados:~:text=Lu%C3%ADsa%20de%20Souza-,HU49%20%2D%20Visualiza%C3%A7%C3%A3o%20de%20certificados,-A%20tabela%2050">HU49</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu50-visualizacao-de-ocorrencias:~:text=Fonte%3A%20Lara%20Souza-,HU50%20%2D%20Visualiza%C3%A7%C3%A3o%20de%20ocorr%C3%AAncias,-A%20tabela%2051">HU50</a></td>
+<td>20/10/2025</td>
+</tr>
+<tr>
+<td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
+<td>Elaborou as histórias de usuário <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu02-unificacao-do-acesso-a-suas-informacoes-academicas:~:text=Fonte%3A%20Lara%20Souza-,HU02%20%2D%20Unifica%C3%A7%C3%A3o%20do%20acesso%20a%20suas%20informa%C3%A7%C3%B5es%20acad%C3%AAmicas,-A%20tabela%203">HU02</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu03-acompanhamento-pe-de-meia:~:text=Lu%C3%ADsa%20de%20Souza-,HU03%20%2D%20Acompanhamento%20P%C3%A9%2Dde%2DMeia,-A%20tabela%204">HU03</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu41-avaliar-atividades-com-grau-de-importancia:~:text=Fonte%3A%20Geovanna%20Alves-,HU41%20%2D%20Avaliar%20atividades%20com%20grau%20de%20import%C3%A2ncia,-A%20tabela%2042">HU41</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu42-integracao-da-agenda-com-outros-aplicativos:~:text=Lu%C3%ADsa%20de%20Souza-,HU42%20%2D%20Integra%C3%A7%C3%A3o%20da%20agenda%20com%20outros%20aplicativos,-A%20tabela%2043">HU42</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu43-tutorial-em-video-sobre-funcionalidades:~:text=Lu%C3%ADsa%20de%20Souza-,HU43%20%2D%20Tutorial%20em%20v%C3%ADdeo%20sobre%20funcionalidades,-A%20tabela%2044">HU43</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu44-notificacao-sobre-abertura-de-editais-de-vestibulares:~:text=Lu%C3%ADsa%20de%20Souza-,HU44%20%2D%20Notifica%C3%A7%C3%A3o%20sobre%20abertura%20de%20editais%20de%20vestibulares,-A%20tabela%2045">HU44</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu45-forum-entre-estudantes:~:text=Lu%C3%ADsa%20de%20Souza-,HU45%20%2D%20F%C3%B3rum%20entre%20estudantes,-A%20tabela%2046">HU45</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu46-forum-por-disciplina-entre-estudantes-e-professores:~:text=Lu%C3%ADsa%20de%20Souza-,HU46%20%2D%20F%C3%B3rum%20por%20disciplina%20entre%20estudantes%20e%20professores,-A%20tabela%2047">HU46</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu48-canal-de-suporte-ao-usuario:~:text=Fonte%3A%20Lara%20Souza-,HU48%20%2D%20Canal%20de%20suporte%20ao%20usu%C3%A1rio,-A%20tabela%2049">HU48</a></td>
+<td>20/10/2025</td>
+</tr>
+<tr>
+<td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+<td>Elaborou as histórias de usuário <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu07-comunicacao-do-mec-com-estudante:~:text=Fonte%3A%20Geovanna%20Alves-,HU07%20%2D%20Comunica%C3%A7%C3%A3o%20do%20MEC%20com%20estudante,-A%20tabela%208">HU07</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu15-visualizacao-de-notas:~:text=Fonte%3A%20Geovanna%20Alves-,HU15%3A%20Visualiza%C3%A7%C3%A3o%20de%20Notas,-A%20tabela%2016">HU15</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu16-notificacao-de-avaliacoes:~:text=Fonte%3A%20Pedro%20Henrique-,HU16%3A%20Notifica%C3%A7%C3%A3o%20de%20Avalia%C3%A7%C3%B5es,-A%20tabela%2017">HU16</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu17-notificacao-de-faltas:~:text=Fonte%3A%20Pedro%20Henrique-,HU17%3A%20Notifica%C3%A7%C3%A3o%20de%20Faltas,-A%20tabela%2018">HU17</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu18-notificacao-do-beneficio-pe-de-meia:~:text=Fonte%3A%20Pedro%20Henrique-,HU18%3A%20Notifica%C3%A7%C3%A3o%20do%20Benef%C3%ADcio%20P%C3%A9%2Dde%2DMeia,-A%20tabela%2019">HU18</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu19-emissao-de-declaracao-de-vinculo:~:text=Fonte%3A%20Pedro%20Henrique-,HU19%3A%20Emiss%C3%A3o%20de%20Declara%C3%A7%C3%A3o%20de%20V%C3%ADnculo,-A%20tabela%2020">HU19</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu20-emissao-de-historico-escolar:~:text=Fonte%3A%20Pedro%20Henrique-,HU20%3A%20Emiss%C3%A3o%20de%20Hist%C3%B3rico%20Escolar,-A%20tabela%2021">HU20</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu22-visualizacao-de-programas-estudantis:~:text=Fonte%3A%20Geovanna%20Alves-,HU22%3A%20Visualiza%C3%A7%C3%A3o%20de%20Programas%20Estudantis,-A%20tabela%2023">HU22</a></td>
+<td>20/10/2025</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+<td>Elaborou as histórias de usuário <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu09-novidades-e-programas-do-governo-federal:~:text=Fonte%3A%20Geovanna%20Alves-,HU09%20%2D%20Novidades%20e%20programas%20do%20Governo%20Federal,-A%20tabela%2010">HU09</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu32-pagina-de-perfil-do-estudante:~:text=Fonte%3A%20Geovanna%20Alves-,HU32%20%2D%20P%C3%A1gina%20de%20perfil%20do%20estudante,-A%20tabela%2033">HU32</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu33-editar-informacoes-do-perfil-do-estudante:~:text=Fonte%3A%20Yan%20Matheus-,HU33%20%2D%20Editar%20informa%C3%A7%C3%B5es%20do%20perfil%20do%20estudante,-A%20tabela%2034">HU33</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu34-editar-informacoes-bancarias:~:text=Fonte%3A%20Yan%20Matheus-,HU34%20%2D%20Editar%20informa%C3%A7%C3%B5es%20banc%C3%A1rias,-A%20tabela%2035">HU34</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu35-agenda-de-organizacao-pessoal:~:text=Fonte%3A%20Yan%20Matheus-,HU35%20%2D%20Agenda%20de%20organiza%C3%A7%C3%A3o%20pessoal,-A%20tabela%2036">HU35</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu36-inserir-atividades-na-agenda:~:text=Fonte%3A%20Yan%20Matheus-,HU36%20%2D%20Inserir%20atividades%20na%20agenda,-A%20tabela%2037">HU36</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu37-editar-atividades-na-agenda:~:text=Fonte%3A%20Yan%20Matheus-,HU37%20%2D%20Editar%20atividades%20na%20agenda,-A%20tabela%2038">HU37</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu38-excluir-atividades-na-agenda:~:text=Fonte%3A%20Yan%20Matheus-,HU38%20%2D%20Excluir%20atividades%20na%20agenda,-A%20tabela%2039">HU38</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/#hu39-notificar-atividades-na-agenda:~:text=Fonte%3A%20Yan%20Matheus-,HU39%20%2D%20Notificar%20atividades%20na%20agenda,-A%20tabela%2040">HU39</a></td>
+<td>20/10/2025</td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font></p>
+<h2 id="historias-de-usuario">Histórias de usuário</h2>
+<p>As tabelas 2 a 51 descrevem as histórias de usuários elicitadas</p>
+<h3 id="hu01-autenticacao-govbr">HU01 - Autenticação gov.br</h3>
+<p>A tabela 2 mostra a história de usuário 1.</p>
+<table>
+<thead>
+<tr>
+<th>HU01</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo acessar o aplicativo através de autenticação com gov.br para garantir segurança e facilidade no login.</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>- O aplicativo deve exibir a opção de login com gov.br na tela inicial. <br> - Ao selecionar a opção, o usuário deve ser redirecionado para a página de autenticação do gov.br. <br> - Após autenticação bem-sucedida, o usuário deve ter acesso completo às funcionalidades do aplicativo.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Refer%C3%AAncia-,RQ1,-O%20aplicativo%20deve">RQ01</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 2: Autenticação gov.br</p>
+<p>Fonte: <a href="https://github.com/mel14-hub">Lara Souza</a></p>
+<h3 id="hu02-unificacao-do-acesso-a-suas-informacoes-academicas">HU02 - Unificação do acesso a suas informações acadêmicas</h3>
+<p>A tabela 3 mostra a história de usuário 2.</p>
+<table>
+<thead>
+<tr>
+<th>HU02</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante do Brasil, desejo unificar o acesso a minhas informações acadêmicas</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>- O aplicativo deve consolidar informações de diferentes instituições de ensino em uma única interface.<br> - As informações devem incluir dados de cursos, disciplinas cursadas e progresso acadêmico. <br></td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ4,-O%20aplicativo%20deve">RQ04</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 3: Unificação do acesso a suas informações acadêmicas</p>
+<p>Fonte: <a href="https://github.com/Luisa12ll">Luísa de Souza</a></p>
+<h3 id="hu03-acompanhamento-pe-de-meia">HU03 - Acompanhamento Pé-de-Meia</h3>
+<p>A tabela 4 mostra a história de usuário 3.</p>
+<table>
+<thead>
+<tr>
+<th>HU03</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante beneficiário, desejo acompanhar o status do programa Pé-de-Meia para verificar minha elegibilidade e situação dos pagamentos.</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>- O aplicativo deve exibir o status atual do benefício Pé-de-Meia.<br> - As informações devem ser atualizadas conforme os dados oficiais do programa. <br></td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ5,-O%20aplicativo%20deve">RQ05</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 4: Acompanhamento Pé-de-Meia</p>
+<p>Fonte: <a href="https://github.com/Luisa12ll">Luísa de Souza</a></p>
+<h3 id="hu04-visualizacao-de-faltas">HU04 - Visualização de faltas</h3>
+<p>A tabela 5 mostra a história de usuário 4.</p>
+<table>
+<thead>
+<tr>
+<th>HU04</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo visualizar minhas faltas para acompanhar minha frequência escolar.</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>- O aplicativo deve apresentar uma seção dedicada à visualização de faltas.<br></td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ8,-O%20aplicativo%20deve">RQ08</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 5: Visualização de faltas</p>
+<p>Fonte: <a href="https://github.com/mel14-hub">Lara Souza</a></p>
+<h3 id="hu05-atualizacoes-de-pagamento-pe-de-meia">HU05 - Atualizações de pagamento Pé-de-Meia</h3>
+<p>A tabela 6 mostra a história de usuário 5.</p>
+<table>
+<thead>
+<tr>
+<th>HU05</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante beneficiário, desejo receber atualizações referente ao pagamento do Pé-de-Meia em até um mês</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>- As informações sobre pagamentos devem ser atualizadas no aplicativo em até 30 dias.<br> -Deve exibir histórico de pagamentos anteriores e previsão de próximos pagamentos.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ9,-O%20aplicativo%20deve">RQ09</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 6: Atualizações de pagamento Pé-de-Meia</p>
+<p>Fonte: <a href="https://github.com/mel14-hub">Lara Souza</a></p>
+<h3 id="hu06-acompanhamento-da-vida-estudantil">HU06 - Acompanhamento da vida estudantil</h3>
+<p>A tabela 7 mostra a história de usuário 6.</p>
+<table>
+<thead>
+<tr>
+<th>HU06</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu como estudante desejo conseguir acompanhar meus registros estudantis desde o ingresso até níveis superiores.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- Exibir informações completas do histórico estudantil</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ11,-O%20aplicativo%20deve">RQ11</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 7: História de acompanhamento da vida estudantil.</p>
+<p>Fonte: <a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></p>
+<h3 id="hu07-comunicacao-do-mec-com-estudante">HU07 - Comunicação do MEC com estudante</h3>
+<p>A tabela 8 mostra a história de usuário 7.</p>
+<table>
+<thead>
+<tr>
+<th>HU07</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu como estudante desejo me comunicar com o MEC por um canal direto de informações entre o MEC e os estudantes</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- Exibir notificações com novas informações.<br>- Receber menssagens e comunicados oficiais.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ12,-O%20aplicativo%20deve">RQ12</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 8: História de comunicação MEC-Estudante.</p>
+<p>Fonte: <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
+<h3 id="hu08-registro-de-curso">HU08 - Registro de curso</h3>
+<p>A tabela 9 mostra a história de usuário 8.</p>
+<table>
+<thead>
+<tr>
+<th>HU08</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu como estudante desejo informa o curso que conclui e que estou cursando no aplicativo</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- Adicionar informações sobre o curso.<br> - Editar informações do curso.<br> - Visualizar dados salvos no perfil.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ13,-O%20aplicativo%20deve">RQ13</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 9: História de registro de curso.</p>
+<p>Fonte: <a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></p>
+<h3 id="hu09-novidades-e-programas-do-governo-federal">HU09 - Novidades e programas do Governo Federal</h3>
+<p>A tabela 10 mostra a história de usuário 9.</p>
+<table>
+<thead>
+<tr>
+<th>HU09</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu como estudante desejo visualizar novidades e programas voltados à educação enviadas pelo governo federal.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- Exibir notificação de novidade e programas voltados a educação<br> - Visualizar seção dedicada aos programas novidades educacionais</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ14,-O%20aplicativo%20deve">RQ14</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 10: História de novidades e programas do governo federal.</p>
+<p>Fonte: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
+<h3 id="hu10-programas-estudantis-do-governo-federal">HU10 - Programas estudantis do Governo Federal</h3>
+<p>A tabela 11 mostra a história de usuário 10.</p>
+<table>
+<thead>
+<tr>
+<th>HU10</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu como estudante desejo acesso aos serviços estudantis (como FIES, ENEM, ProUni, etc.) pelo aplicativo.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- Vizualizar seção que e dedicada a levar o estudande direto para esses serviços em pouco tempo</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ15,-O%20aplicativo%20deve">RQ15</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 11: História de serviços estudantis ofertados pelo governo.</p>
+<p>Fonte: <a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></p>
+<h3 id="hu11-integracao-com-a-instituicao-de-ensino">HU11 - Integração com a Instituição de Ensino</h3>
+<p>A tabela 12 mostra a história de usuário 11.</p>
+<table>
+<thead>
+<tr>
+<th>HU11</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu como estudante desejo ter minhas informações da escola ou universidade integrada com o sistema do aplicativo.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- Acessar o perfil de estudante<br> - visualizar informações acadêmicas diretamente pelo aplicativo.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ16,-O%20aplicativo%20deve">RQ16</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 12: História de integração com a instituição de ensino.</p>
+<p>Fonte: <a href="https://github.com/CamilaSilvaC">Camila Silva</a></p>
+<h3 id="hu12-visualizar-disciplina-e-professor">HU12 - Visualizar disciplina e professor</h3>
+<p>A tabela 13 mostra a história de usuário 12.</p>
+<table>
+<thead>
+<tr>
+<th>HU12</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu como estudante desejo visualizar as disciplinas e os professores responsáveis.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- Visualizar lista de diciplisnas que contém o nome do professor responsavel</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ17,-O%20aplicativo%20deve">RQ17</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Nâo</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 13: História de visualizar diciplina e professor.</p>
+<p>Fonte: <a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></p>
+<h3 id="hu13-horario-e-sala-de-aula">HU13 - Horário e sala de aula</h3>
+<p>A tabela 14 mostra a história de usuário 13.</p>
+<table>
+<thead>
+<tr>
+<th>HU13</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu como estudante desejo visualizar o horário e a sala da disciplina</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- Acessar o cronograma de aulas de forma facíl<br> - Visualizar a sala no cronograma</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ18,-O%20aplicativo%20deve">RQ18</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Nâo</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 14: História de horário e sala de aula.</p>
+<p>Fonte: <a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></p>
+<h3 id="hu14-avaliacoes-e-trabalhos-da-disciplina">HU14 - Avaliações e Trabalhos da Disciplina</h3>
+<p>A tabela 15 mostra a história de usuário 14.</p>
+<table>
+<thead>
+<tr>
+<th>HU14</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu como estudante desejo visualizar informações sobre trabalho, data de avaliação, tipo de avaliação e o peso na média</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- Visualizar inrfomações sobre as avaliações da diciplina de forma detalhada (tipo, data e peso)<br> - Atualização em caso de mudança</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ19,-O%20aplicativo%20deve">RQ19</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 15: História de avaliação e trabalhos da diciplina.</p>
+<p>Fonte: <a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></p>
+<h3 id="hu15-visualizacao-de-notas">HU15: Visualização de Notas</h3>
+<p>A tabela 16 mostra a história de usuário 15.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">HU15</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;">Eu, como estudante, quero visualizar as notas das minhas avaliações e trabalhos para que eu possa acompanhar meu desempenho acadêmico na disciplina.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- A tela deve listar todas as avaliações e trabalhos da disciplina com suas respectivas notas.<br>- O sistema deve exibir a média parcial calculada com base nas notas lançadas.<br>- Ao selecionar uma disciplina, o sistema deve indicar claramente quando uma nota ainda não foi lançada.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Rastreabilidade</td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ20,-O%20aplicativo%20deve">RQ20</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+<tr>
+<td style="text-align: left;">Implementado</td>
+<td style="text-align: left;">Nâo</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 16: Visualização de notas.</p>
+<p>Fonte: <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
+<h3 id="hu16-notificacao-de-avaliacoes">HU16: Notificação de Avaliações</h3>
+<p>A tabela 17 mostra a história de usuário 16.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">HU16</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;">Eu, como estudante, quero receber notificações sobre as próximas avaliações com antecedência para que eu possa me organizar e não perder os prazos.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O sistema deve enviar uma notificação push 7 dias antes da avaliação.<br>- O sistema deve enviar uma segunda notificação 2 dias antes da avaliação.<br>- A notificação deve conter o nome da disciplina e o tipo da avaliação (e.g., "Prova 1", "Trabalho Final").</td>
+</tr>
+<tr>
+<td style="text-align: left;">Rastreabilidade</td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ21,-O%20aplicativo%20deve">RQ21</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+<tr>
+<td style="text-align: left;">Implementado</td>
+<td style="text-align: left;">Nâo</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 17: Notificação de avaliações.</p>
+<p>Fonte: <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
+<h3 id="hu17-notificacao-de-faltas">HU17: Notificação de Faltas</h3>
+<p>A tabela 18 mostra a história de usuário 17.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">HU17</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;">Eu, como estudante, quero ser notificado quando uma falta for lançada para que eu possa acompanhar minha frequência e evitar a reprovação.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- Ao receber o registro de uma nova falta, o sistema deve enviar uma notificação imediatamente.<br>- A notificação deve especificar a disciplina e a data da falta.<br>- Na tela de detalhes da disciplina, deve haver um contador de faltas atualizado.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Rastreabilidade</td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ22,-O%20aplicativo%20deve">RQ22</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+<tr>
+<td style="text-align: left;">Implementado</td>
+<td style="text-align: left;">Nâo</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 18: Notificação de faltas.</p>
+<p>Fonte: <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
+<h3 id="hu18-notificacao-do-beneficio-pe-de-meia">HU18: Notificação do Benefício Pé-de-Meia</h3>
+<p>A tabela 19 mostra a história de usuário 18.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">HU18</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;">Eu, como estudante beneficiário, quero receber notificações sobre as parcelas e valores do programa Pé-de-Meia para que eu possa ter um melhor controle financeiro.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O sistema deve enviar uma notificação na data de pagamento de uma nova parcela.<br>- A notificação deve informar o valor recebido.<br>- Deve existir uma seção no aplicativo para consultar o histórico de pagamentos do benefício.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Rastreabilidade</td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ23,-O%20aplicativo%20deve">RQ23</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+<tr>
+<td style="text-align: left;">Implementado</td>
+<td style="text-align: left;">Nâo</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 19: Notificação do venefício.</p>
+<p>Fonte: <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
+<h3 id="hu19-emissao-de-declaracao-de-vinculo">HU19: Emissão de Declaração de Vínculo</h3>
+<p>A tabela 20 mostra a história de usuário 19.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">HU19</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;">Eu, como estudante, quero emitir a declaração de vínculo com a instituição de ensino através do aplicativo para que eu possa comprovar minha matrícula de forma rápida e fácil.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- Deve existir uma funcionalidade no aplicativo para solicitar a declaração de vínculo.<br> - O aplicativo deve gerar a declaração de vínculo no formato PDF.<br> - O estudante deve conseguir baixar a declaração gerada no dispositivo.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Rastreabilidade</td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ27,-O%20aplicativo%20deve">RQ27</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+<tr>
+<td style="text-align: left;">Implementado</td>
+<td style="text-align: left;">Nâo</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 20: Emissão de declaração de vínculo.</p>
+<p>Fonte: <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
+<h3 id="hu20-emissao-de-historico-escolar">HU20: Emissão de Histórico Escolar</h3>
+<p>A tabela 21 mostra a história de usuário 20.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">HU20</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;">Eu, como estudante, quero emitir meu histórico escolar</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- Ao selecionar a opção "Emitir Histórico", o sistema deve gerar um documento em formato PDF.<br>- O documento deve conter todas as disciplinas cursadas, notas finais e status (Aprovado/Reprovado).<br>- O usuário deve ter as opções de baixar e compartilhar o documento gerado.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Rastreabilidade</td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ28,-O%20aplicativo%20deve">RQ28</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+<tr>
+<td style="text-align: left;">Implementado</td>
+<td style="text-align: left;">Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 21: Emissão de histórico escolar.</p>
+<p>Fonte: <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
+<h3 id="hu21-visualizacao-de-boletim">HU21: Visualização de Boletim</h3>
+<p>A tabela 22 mostra a história de usuário 21.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">HU21</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;">Eu, como estudante, quero visualizar meu boletim no aplicativo para que eu possa verificar minhas notas finais e meu status de aprovação nas disciplinas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- Na tela de boletim, as notas devem ser organizadas por período letivo.<br>- Para cada disciplina, deve ser exibida a nota final, o total de faltas e o status (Aprovado, Reprovado, Cursando).<br>- Deve ser possível navegar entre os boletins de períodos anteriores.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Rastreabilidade</td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ29,-O%20aplicativo%20deve">RQ29</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+<tr>
+<td style="text-align: left;">Implementado</td>
+<td style="text-align: left;">Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 22: Visualização de boletim.</p>
+<p>Fonte: <a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></p>
+<h3 id="hu22-visualizacao-de-programas-estudantis">HU22: Visualização de Programas Estudantis</h3>
+<p>A tabela 23 mostra a história de usuário 22.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">HU22</th>
+<th style="text-align: left;">Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;">Eu, como estudante, quero visualizar informações sobre programas estudantis (FIES, Prouni, etc.) para que eu possa me manter informado sobre oportunidades de auxílio financeiro.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- Na página inicial, deve haver uma seção ou card dedicado a "Programas Estudantis".<br>- Ao acessar a seção, deve ser listado cada programa com uma breve descrição.<br>- Ao selecionar um programa, deve haver um link para redirecionar o usuário ao site oficial correspondente.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Rastreabilidade</td>
+<td style="text-align: left;"><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ30,-O%20aplicativo%20deve">RQ30</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+<tr>
+<td style="text-align: left;">Implementado</td>
+<td style="text-align: left;">Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 23: Visualização de programas estudantis.</p>
+<p>Fonte: <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></p>
+<h3 id="hu23-visualizar-parcelas-do-auxilio">HU23 – Visualizar Parcelas do Auxílio</h3>
+<p>A tabela 24 mostra a história de usuário 23.</p>
+<table>
+<thead>
+<tr>
+<th>HU23</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como beneficiário do auxílio, desejo visualizar as parcelas já pagas e as que ainda faltam, para acompanhar o andamento dos meus recebimentos.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O sistema deve exibir uma lista com as parcelas pagas e pendentes.<br> - Cada parcela deve conter o valor e a data correspondente.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ31,-O%20aplicativo%20deve">RQ31</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 24: História de visualização ds parcelas do auxílio.</p>
+<p>Fonte: <a href="https://github.com/CamilaSilvaC">Camila Silva</a></p>
+<h3 id="hu24-visualizar-valor-total-do-auxilio">HU24 – Visualizar Valor Total do Auxílio</h3>
+<p>A tabela 25 mostra a história de usuário 24.</p>
+<table>
+<thead>
+<tr>
+<th>HU24</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como beneficiário do auxílio, desejo visualizar o valor total recebido, para ter controle sobre o montante total do benefício.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O sistema deve exibir o valor total somando todas as parcelas pagas.<br> - O valor total deve ser atualizado automaticamente conforme novas parcelas são pagas.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ32,-O%20aplicativo%20deve">RQ32</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 25: História de visualização do valor total do auxílio.</p>
+<p>Fonte: <a href="https://github.com/CamilaSilvaC">Camila Silva</a></p>
+<h3 id="hu25-visualizar-conta-bancaria-cadastrada">HU25 – Visualizar Conta Bancária Cadastrada</h3>
+<p>A tabela 26 mostra a história de usuário 25.</p>
+<table>
+<thead>
+<tr>
+<th>HU25</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como beneficiário do auxílio, desejo visualizar a conta bancária cadastrada para o recebimento, a fim de confirmar se os dados estão corretos.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O sistema deve exibir o banco, agência e número da conta vinculada.<br> - O sistema deve ocultar parcialmente informações sensíveis (ex.: dígitos finais).</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ33,-O%20aplicativo%20deve">RQ33</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 26: História de visualização da conta bancária cadastrada.</p>
+<p>Fonte: <a href="https://github.com/CamilaSilvaC">Camila Silva</a></p>
+<h3 id="hu26-visualizar-dia-do-pagamento-do-auxilio">HU26 – Visualizar Dia do Pagamento do Auxílio</h3>
+<p>A tabela 27 mostra a história de usuário 26.</p>
+<table>
+<thead>
+<tr>
+<th>HU26</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como beneficiário do auxílio, desejo visualizar o dia de pagamento, para me planejar financeiramente.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O sistema deve exibir a data prevista para o próximo pagamento.<br> - O sistema deve indicar se o pagamento já foi efetuado ou está pendente</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ34,-O%20aplicativo%20deve">RQ34</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 27: História de visualização do dia do pagamento do auxílio.</p>
+<p>Fonte: <a href="https://github.com/CamilaSilvaC">Camila Silva</a></p>
+<h3 id="hu27-acesso-ao-forum-de-duvidas">HU27 – Acesso ao Fórum de Dúvidas</h3>
+<p>A tabela 28 mostra a história de usuário 27.</p>
+<table>
+<thead>
+<tr>
+<th>HU27</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como beneficiário do auxílio, desejo acessar um fórum de dúvidas, para trocar informações e esclarecer questões sobre o benefício.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O sistema deve permitir a visualização de tópicos e respostas existentes.<br> - O sistema deve permitir ao usuário postar novas dúvidas e responder outras.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ35,-O%20aplicativo%20deve">RQ35</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 28: História de acesso ao fórum de dúvidas.</p>
+<p>Fonte: <a href="https://github.com/CamilaSilvaC">Camila Silva</a></p>
+<h3 id="hu28-atendimento-via-canal-de-conversa">HU28 – Atendimento via Canal de Conversa</h3>
+<p>A tabela 29 mostra a história de usuário 28.</p>
+<table>
+<thead>
+<tr>
+<th>HU28</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como beneficiário do auxílio, desejo ser atendido em um canal de conversa, para resolver dúvidas ou problemas relacionados ao auxílio.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O sistema deve oferecer um chat com atendente virtual ou humano.<br> - O usuário deve poder registrar solicitações e acompanhar respostas. <br> - O sistema deve registrar o histórico de conversas.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ36,-O%20aplicativo%20deve">RQ36</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 29: História de atendimento via canal de conversa.</p>
+<p>Fonte: <a href="https://github.com/CamilaSilvaC">Camila Silva</a></p>
+<h3 id="hu29-visualizar-eventos-em-calendario">HU29 – Visualizar Eventos em Calendário</h3>
+<p>A tabela 30 mostra a história de usuário 29.</p>
+<table>
+<thead>
+<tr>
+<th>HU29</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo visualizar as datas de eventos no calendário, para me organizar e participar das atividades programadas.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O sistema deve exibir um calendário com as datas dos eventos.<br> - O usuário deve poder clicar em uma data e visualizar detalhes do evento.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ37,-O%20aplicativo%20deve">RQ37</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 30: História de visualização de eventos em calendário.</p>
+<p>Fonte: <a href="https://github.com/CamilaSilvaC">Camila Silva</a></p>
+<h3 id="hu30-informacoes-unificadas-sobre-jornada-escolar">HU30 – Informações Unificadas sobre Jornada Escolar</h3>
+<p>A tabela 31 mostra a história de usuário 30.</p>
+<table>
+<thead>
+<tr>
+<th>HU30</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo visualizar informações unificadas sobre minha jornada escolar, para acompanhar meu desempenho e atividades acadêmicas.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O sistema deve exibir dados sobre notas, frequência, disciplinas, e outros.<br> - As informações devem estar centralizadas em uma única tela.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=%2C%20Question%C3%A1rio%20Brainstorming-,RQ38,-O%20aplicativo%20deve">RQ38</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 31: História de informações unificadas sobre a jornada escolar.</p>
+<p>Fonte: <a href="https://github.com/CamilaSilvaC">Camila Silva</a></p>
+<h3 id="hu31-ranqueamento-de-materias-por-nota">HU31 – Ranqueamento de Matérias por Nota</h3>
+<p>A tabela 32 mostra a história de usuário 31.</p>
+<table>
+<thead>
+<tr>
+<th>HU31</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo visualizar um ranqueamento das matérias com base nas minhas notas, para identificar em quais preciso focar mais.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O sistema deve exibir as matérias ordenadas por nota, da menor para a maior.<br> - O sistema deve destacar matérias com desempenho abaixo da média.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ41,-O%20aplicativo%20deve">RQ41</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 32: História de ranqueamento de matérias por nota.</p>
+<p>Fonte: <a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></p>
+<h3 id="hu32-pagina-de-perfil-do-estudante">HU32 - Página de perfil do estudante</h3>
+<p>A tabela 33 mostra a história de usuário 32.</p>
+<table>
+<thead>
+<tr>
+<th>HU32</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo que o aplicativo tenha uma página de perfil com minha informações pessoais, para eu ter acesso rápido ao meus dados cadastrados no aplicativo</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>Na página inicial do aplicativo, deve haver uma seção de perfil claramente visível contendo as informações do estudante</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%202-,RQ42,-O%20aplicativo%20deve">RQ42</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 33: Página de perfil</p>
+<p>Fonte: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
+<h3 id="hu33-editar-informacoes-do-perfil-do-estudante">HU33 - Editar informações do perfil do estudante</h3>
+<p>A tabela 34 mostra a história de usuário 33.</p>
+<table>
+<thead>
+<tr>
+<th>HU33</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo que o aplicativo me possibilite editar minha informações pessoais, para eu ter controle de minhas informações</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>Na página de perfil do aplicativo, deverá ser possível editar as informações pessoais do estudante, como nome e instituição de ensino</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%202-,RQ43,-O%20aplicativo%20deve">RQ43</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 34: Editar perfil</p>
+<p>Fonte: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
+<h3 id="hu34-editar-informacoes-bancarias">HU34 - Editar informações bancárias</h3>
+<p>A tabela 35 mostra a história de usuário 34.</p>
+<table>
+<thead>
+<tr>
+<th>HU34</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo que o aplicativo me possibilite editar minha informações bancárias, para eu ter controle de minhas informações e serem atualizadas para o recebimento do meu auxílio</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>Na página de perfil do aplicativo, deverá ser possível editar as informações bancárias através de um link externo para o Gov.br</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%203-,RQ44,-O%20aplicativo%20deve">RQ44</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 35: Editar informações bancárias</p>
+<p>Fonte: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
+<h3 id="hu35-agenda-de-organizacao-pessoal">HU35 - Agenda de organização pessoal</h3>
+<p>A tabela 36 mostra a história de usuário 35.</p>
+<table>
+<thead>
+<tr>
+<th>HU35</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo que o aplicativo me disponibilize uma agenda para organização pessoal onde agrupo minhas atividades escolares</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>Na página inicial do aplicativo, deverá haver uma seção de agenda, a qual será possível organizar e agrupar atividades escolares</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%203-,RQ45,-O%20aplicativo%20deve">RQ45</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Nâo</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 36: Agenda de organização pessoal</p>
+<p>Fonte: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
+<h3 id="hu36-inserir-atividades-na-agenda">HU36 - Inserir atividades na agenda</h3>
+<p>A tabela 37 mostra a história de usuário 36.</p>
+<table>
+<thead>
+<tr>
+<th>HU36</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo que o aplicativo me possibilite de criar atividades na agenda para eu ter maior controle de minhas organizações escolares</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>Na página da agenda, deverá haver a opção de inserir uma nova atividade</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ46,-A%20agenda%20deve">RQ46</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 37: Inserir atividades na agenda</p>
+<p>Fonte: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
+<h3 id="hu37-editar-atividades-na-agenda">HU37 - Editar atividades na agenda</h3>
+<p>A tabela 38 mostra a história de usuário 37.</p>
+<table>
+<thead>
+<tr>
+<th>HU37</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo que o aplicativo me possibilite de editar uma atividades na agenda para ter um maior controle delas e me desfazer de erros</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>Na página da agenda, deverá haver a opção de editar atividade já existente, alterando seu dia e horário por exemplo</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ47,-A%20agenda%20deve">RQ47</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 38: Editar atividades na agenda</p>
+<p>Fonte: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
+<h3 id="hu38-excluir-atividades-na-agenda">HU38 - Excluir atividades na agenda</h3>
+<p>A tabela 39 mostra a história de usuário 38.</p>
+<table>
+<thead>
+<tr>
+<th>HU38</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo que o aplicativo me possibilite de excluir atividades na agenda para ter um maior controle delas, me desfazer de erros e ajustar minha agenda por outras circunstâncias</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>Na página da agenda, deverá haver a opção de excluir uma atividade já existente, tirando sua visibilidade da agenda</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ48,-A%20agenda%20deve">RQ48</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 39: Excluir atividades na agenda</p>
+<p>Fonte: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
+<h3 id="hu39-notificar-atividades-na-agenda">HU39 - Notificar atividades na agenda</h3>
+<p>A tabela 40 mostra a história de usuário 39.</p>
+<table>
+<thead>
+<tr>
+<th>HU39</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo que o aplicativo me notifique de atividades que foram inseridas na minha agenda com um dia de antecendência, para impedir que atividades passem despercebidas por mim</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>O aplicativo deverá notificar o estudante quando uma atividade estiver a um dia antes de vencer seu prazo na agenda</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ49,-A%20agenda%20deve">RQ49</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 40: Notificar atividades na agenda</p>
+<p>Fonte: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></p>
+<h3 id="hu40-inserir-data-e-horario-em-atividades-na-agenda">HU40 - Inserir data e horário em atividades na agenda</h3>
+<p>A tabela 41 mostra a história de usuário 40.</p>
+<table>
+<thead>
+<tr>
+<th>HU40</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo ao criar uma atividade na agenda, conseguir inserir uma data e horário como prazo daquela atividade</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- A agenda deverá possibilitar o estudante inserir uma data e horário para a conclusão da atividade durante sua criação <br> - A agenda deverá ajustar a visualização da atividade para o dia de seu vencimento na agenda</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ50,-A%20agenda%20deve">RQ50</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 41: Inserir data e horário em atividades na agenda</p>
+<p>Fonte: <a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></p>
+<h3 id="hu41-avaliar-atividades-com-grau-de-importancia">HU41 - Avaliar atividades com grau de importância</h3>
+<p>A tabela 42 mostra a história de usuário 41.</p>
+<table>
+<thead>
+<tr>
+<th>HU41</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo avaliar minhas atividades com grau de importância, para poder priorizar melhor o que deve ser feito.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O sistema deve permitir ao estudante atribuir um grau de importância (baixa, média ou alta) a cada atividade. <br> - O sistema deve possibilitar filtrar as atividades por grau de importância.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ51,-A%20agenda%20deve">RQ51</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 42: Avaliar atividades com grau de importância</p>
+<p>Fonte: <a href="https://github.com/Luisa12ll">Luísa de Souza</a></p>
+<h3 id="hu42-integracao-da-agenda-com-outros-aplicativos">HU42 - Integração da agenda com outros aplicativos</h3>
+<p>A tabela 43 mostra a história de usuário 42.</p>
+<table>
+<thead>
+<tr>
+<th>HU42</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo integrar minha agenda com outros aplicativos de organização pessoal, para ter todos os meus compromissos em um só lugar.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- A agenda deve permitir a sincronização com aplicativos externos, como Google Calendar e Outlook. <br> - O sistema deve atualizar automaticamente as informações sincronizadas.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ52,-O%20aplicativo%20deve">RQ52</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 43: Integração da agenda com outros aplicativos</p>
+<p>Fonte: <a href="https://github.com/Luisa12ll">Luísa de Souza</a></p>
+<h3 id="hu43-tutorial-em-video-sobre-funcionalidades">HU43 - Tutorial em vídeo sobre funcionalidades</h3>
+<p>A tabela 44 mostra a história de usuário 43.</p>
+<table>
+<thead>
+<tr>
+<th>HU43</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como novo usuário, desejo acessar um tutorial em vídeo sobre as funcionalidades do aplicativo, para aprender a utilizá-lo com mais facilidade.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O aplicativo deve disponibilizar um tutorial em vídeo acessível no menu inicial. <br> - O vídeo deve apresentar as principais funcionalidades do aplicativo.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ53,-O%20aplicativo%20deve">RQ53</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 44: Tutorial em vídeo sobre funcionalidades</p>
+<p>Fonte: <a href="https://github.com/Luisa12ll">Luísa de Souza</a></p>
+<h3 id="hu44-notificacao-sobre-abertura-de-editais-de-vestibulares">HU44 - Notificação sobre abertura de editais de vestibulares</h3>
+<p>A tabela 45 mostra a história de usuário 44.</p>
+<table>
+<thead>
+<tr>
+<th>HU44</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo receber notificações quando editais de vestibulares forem abertos, para não perder prazos importantes.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O aplicativo deve notificar o usuário sempre que um novo edital for publicado. <br> - As notificações devem exibir o nome da instituição e a data limite de inscrição.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ55,-O%20aplicativo%20deve">RQ55</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 45: Notificação sobre abertura de editais de vestibulares</p>
+<p>Fonte: <a href="https://github.com/Luisa12ll">Luísa de Souza</a></p>
+<h3 id="hu45-forum-entre-estudantes">HU45 - Fórum entre estudantes</h3>
+<p>A tabela 46 mostra a história de usuário 45.</p>
+<table>
+<thead>
+<tr>
+<th>HU45</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo acessar um fórum com outros estudantes, para trocar experiências e tirar dúvidas.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O aplicativo deve permitir criar e responder tópicos de discussão entre estudantes. <br> - O fórum deve ter categorias para organização dos temas.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ56,-O%20aplicativo%20deve">RQ56</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 46: Fórum entre estudantes</p>
+<p>Fonte: <a href="https://github.com/Luisa12ll">Luísa de Souza</a></p>
+<h3 id="hu46-forum-por-disciplina-entre-estudantes-e-professores">HU46 - Fórum por disciplina entre estudantes e professores</h3>
+<p>A tabela 47 mostra a história de usuário 46.</p>
+<table>
+<thead>
+<tr>
+<th>HU46</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo participar de um fórum por disciplina com estudantes e professores, para esclarecer dúvidas sobre os conteúdos das aulas.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O sistema deve permitir a criação de fóruns específicos por disciplina. <br> - Professores e alunos devem poder interagir por meio de comentários e respostas.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ57,-O%20aplicativo%20deve">RQ57</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 47: Fórum por disciplina entre estudantes e professores</p>
+<p>Fonte: <a href="https://github.com/Luisa12ll">Luísa de Souza</a></p>
+<h3 id="hu47-emissao-de-diplomas">HU47 - Emissão de diplomas</h3>
+<p>A tabela 48 mostra a história de usuário 47.</p>
+<table>
+<thead>
+<tr>
+<th>HU47</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo emitir meu diploma diretamente pelo aplicativo, para facilitar o acesso ao documento após a conclusão do curso.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O aplicativo deve permitir solicitar e gerar o diploma em formato digital. <br> - O documento deve conter autenticação e validação oficial.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ58,-O%20aplicativo%20deve">RQ58</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 48: Emissão de diplomas</p>
+<p>Fonte: <a href="https://github.com/mel14-hub">Lara Souza</a></p>
+<h3 id="hu48-canal-de-suporte-ao-usuario">HU48 - Canal de suporte ao usuário</h3>
+<p>A tabela 49 mostra a história de usuário 48.</p>
+<table>
+<thead>
+<tr>
+<th>HU48</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo acessar um canal de suporte dentro do aplicativo, para obter ajuda em caso de dúvidas ou problemas.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O aplicativo deve disponibilizar um canal de contato direto com a equipe de suporte. <br> - O suporte deve responder em tempo hábil, via chat.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ59,-O%20aplicativo%20deve">RQ59</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Sim</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 49: Canal de suporte ao usuário</p>
+<p>Fonte: <a href="https://github.com/Luisa12ll">Luísa de Souza</a></p>
+<h3 id="hu49-visualizacao-de-certificados">HU49 - Visualização de certificados</h3>
+<p>A tabela 50 mostra a história de usuário 49.</p>
+<table>
+<thead>
+<tr>
+<th>HU49</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo visualizar meus certificados diretamente no aplicativo, para acessar rapidamente meus comprovantes de participação.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O sistema deve listar todos os certificados emitidos ao usuário. <br> - Cada certificado deve poder ser baixado em formato PDF.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ60,-O%20aplicativo%20deve">RQ60</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 50: Visualização de certificados</p>
+<p>Fonte: <a href="https://github.com/mel14-hub">Lara Souza</a></p>
+<h3 id="hu50-visualizacao-de-ocorrencias">HU50 - Visualização de ocorrências</h3>
+<p>A tabela 51 mostra a história de usuário 50.</p>
+<table>
+<thead>
+<tr>
+<th>HU50</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Eu, como estudante, desejo visualizar minhas ocorrências no aplicativo, para acompanhar registros relacionados ao meu desempenho ou comportamento.</td>
+</tr>
+<tr>
+<td>Critérios de aceitação</td>
+<td>- O sistema deve exibir uma lista de ocorrências vinculadas ao perfil do estudante.. <br> - Cada ocorrência deve conter a data, descrição e status de resolução.</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ61,-O%20aplicativo%20deve">RQ61</a></td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>Média</td>
+</tr>
+<tr>
+<td>Implementado</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 51: Visualização de ocorrências</p>
+<p>Fonte: <a href="https://github.com/mel14-hub">Lara Souza</a></p>
+<h2 id="gravacao">Gravação</h2>
+<h3 id="participantes-1">Participantes 1</h3>
+<p>A seguir temos a tabela 52, onde indica todos os participantes da sessão história de usuário, o horário e local da aplicação da técnica.</p>
+<p><font size="3"><p style="text-align: center">Tabela 51: Participantes História de usuários</p></font></p>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>15/10/2025</td>
+         </tr>
+      <tr>
+      <tr>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+         <td>15/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>15/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+         <td>15/10/2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+         <td>15/10/2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p><font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font></p>
+<h3 id="video-1">Video 1</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ABpGp8DPYMQ?si=2aRXT1LRjyqqCgDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2 id="validacao-historia-de-usuario">Validação - História de usuário</h2>
+<h3 id="participantes-2">Participantes 2</h3>
+<p>A seguir temos a tabela 53, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O estudante corresponde ao perfil de estudante 2</p>
+<p><font size="3"><p style="text-align: center">Tabela 52: Validação História de usuários</p></font></p>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/Yanmatheus0812)">Yan Matheus</a></td>
+        <td>19/10/2025</td>
+        <td>13:00</td>
+        <td>Santa Maria - DF</td>
+         </tr>
+      <tr>
+       <tr>
+        <td>estudante</td>
+        <td>Pedro Henrique</td>
+         <td>19/10/2025</td>
+        <td>13:00</td>
+        <td>Santa Maria - DF</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p><font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font></p>
+<h3 id="video-2">Video 2</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lQ7N3OCHZr0?si=NMPi0STS9uj_Z4fl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2 id="agradecimentos">Agradecimentos</h2>
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
+
+<h2 id="bibliografia">Bibliografia</h2>
+<p><a id="FRM1" href="#anchor_1">1.</a> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.</p>
+<p><a id="FRM2" href="#anchor_2">2.</a> SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf">aprender 3</a>. Acesso em: 15/10/2025.</p>
+<p><a id="FRM3" href="#anchor_3">3.</a> Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: <a href="http://www.computer.org/web/swebok/v3">computer.org</a>. p. 38.</p>
+<p><a id="FRM4" href="#anchor_4">4.</a> MACIEL, Geovanna; ALVES, Douglas. Histórias de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/">https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/</a>. Acesso em: 15 out. 2025</p>
+<h2 id="historico-de-versoes">Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Descrição</th>
+<th>Autor</th>
+<th>Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>16/10/2025</td>
+<td>Documentação das histórias de usuários</td>
+<td><a href="https://github.com/mel14-hub">Lara Souza</a>, <a href="https://github.com/pedrohpsantos">Pedro Henrique</a>, <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>, <a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a> e <a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+<td><a href="https://github.com/Luisa12ll">Luisa de Souza</a></td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>18/10/2025</td>
+<td>Corrigindo formatações</td>
+<td><a href="https://github.com/Luisa12ll">Luisa de Souza</a> e <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+<td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>19/10/2025</td>
+<td>Corrigindo formatações</td>
+<td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+<td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>19/10/2025</td>
+<td>Ajustando links</td>
+<td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+<td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.top"], "search": "../../../assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.aecac24b.min.js"></script>
+      
+    
+  </body>
+</html>
