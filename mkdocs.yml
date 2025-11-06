@@ -139,8 +139,7 @@ nav:
               - Backlog: Modelagem/LVs/Ágil/BacklogLV.md
               - NFR Framework: Modelagem/LVs/Ágil/NFRLV.md
   - Análise:
-      - Verificação: Análise/Verificação.md
-      - Validação: Análise/Validação.md
+      - Prototipação: Análise/Prototipacao.md
       - Comprovação informal: Análise/Comprovacao.md
 
   - Pós-Rastreabilidade:
