@@ -555,11 +555,11 @@ A seguir, apresentamos a gravação referente à elaboração dos **cenários**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iwwYGksRwcY?si=Ef5OWspuIle-WEXJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Verificação
+## Validação
 
 ### Participantes 2
 
-A seguir temos a tabela 28, onde indica todos os participantes do cenários, o horário e local da verificação.
+A seguir temos a tabela 28, onde indica todos os participantes do cenários, o horário e local da validação.
 
 <font size="3"><p style="text-align: center">Tabela 28: Participantes do video de verificação do cenários</p></font>
 

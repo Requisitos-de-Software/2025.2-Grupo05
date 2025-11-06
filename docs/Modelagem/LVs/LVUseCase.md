@@ -43,7 +43,7 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 ## Referências Bibliográficas
 
 > <a id="RP1" href="#TEC2">1.</a> Lucid Software Português, Youtube. “Tutorial de caso de uso UML”.Disponível em:
-> <[[Video](https://www.youtube.com/watch?v=ab6eDdwS3rA)]([Video](https://www.youtube.com/watch?v=ab6eDdwS3rA))>. Acesso em: 26 set. 2025.
+> [https://www.youtube.com/watch?v=ab6eDdwS3rA](https://www.youtube.com/watch?v=ab6eDdwS3rA)>. Acesso em: 26 set. 2025.
 
 ## Histórico de Versões
 

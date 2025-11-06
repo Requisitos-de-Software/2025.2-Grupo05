@@ -618,7 +618,7 @@ A seguir, apresentamos a gravação referente à elaboração dos **Léxicos**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHz6GUU4eZA?si=alxyUcacnnGON7OH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Verificação
+## Validação
 
 ### Participantes 2
 
