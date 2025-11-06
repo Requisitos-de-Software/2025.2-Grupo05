@@ -17,39 +17,39 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou na m
     <thead>
       <tr>
         <th>Nome</th>
-        <th>quais etapas participou</th>
+        <th>Participação</th>
         <th>Data</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
-        <td>Elaborou os elos <a href=""></a>  </td>
+        <td>Elaborou a matriz dos requisitos </td>
         <td>25/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
-        <td>Elaborou o <a href="">Cartão de especificação do NFR54</a> e colaborou na confecção do grafo SIG </td>
+        <td>Elaborou a matriz dos requisitos </td>
         <td>25/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
-        <td>Elaborou o <a href="">Cartão de especificação do NFR03</a>  e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou a matriz dos requisitos </td>
         <td>25/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
-        <td>Elaborou o <a href="">Cartão de especificação do NFR40</a> e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou a matriz dos requisitos </td>
         <td>25/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
-        <td>Elaborou o <a href="">Cartão de especificação do NFR24</a> e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou a matriz dos requisitos </td>
         <td>25/10/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
-        <td>Elaborou o <a href="">Cartão de especificação do NFR26</a> e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou a matriz dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#:~:text=from%0ABackward%2Dfrom-,RQ56,-O%20aplicativo%20deve">RQ56, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#:~:text=from%20Backward%2Dfrom-,RQ57,-O%20aplicativo%20deve">RQ57, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#:~:text=from%20Backward%2Dfrom-,RQ58,-O%20aplicativo%20deve">RQ58, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#:~:text=from%20Backward%2Dfrom-,RQ59,-O%20aplicativo%20deve">RQ59, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#:~:text=from%20Backward%2Dfrom-,RQ60,-O%20aplicativo%20deve">RQ60 e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#:~:text=from%20Backward%2Dfrom-,RQ61,-O%20aplicativo%20deve">RQ61</td>
         <td>25/10/2025</td>
       </tr>
     </tbody>
@@ -182,3 +182,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 | Versão |    Data    |                    Descrição                    |                                                                Autor(es)                                                                |                   Revisor(es)                    |
 | :----: | :--------: | :---------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 26/10/2025 | Adicionando tabela da Matriz de rastreabilidade | [Camila Silva](https://github), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luisa de Souza](https://github.com/Luisa12ll). | [Yan Matheus](https://github.com/Yanmatheus0812) |
+|  1.1   | 04/11/2025 | Completando tabela da Matriz de rastreabilidade | [Luisa de Souza](https://github.com/Luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github) e [Geovanna Alves](https://github.com/GeovannaUmbelino) |
