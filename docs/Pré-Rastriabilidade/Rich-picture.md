@@ -6,9 +6,9 @@ As Rich Pictures são representações visuais que ilustram os principais elemen
 
 No caso da Jornada do Estudante, a Rich Picture representa a plataforma, suas principais funcionalidades e a forma como os usuários interagem com seus recursos.
 
-## Parrticipantes
+## Participantes
 
-A seguir temos a tabela 1, onde indica todos os participantes da criação do Rich picture, o horário e local.
+A seguir temos a tabela 1, onde indica todos os participantes da criação do Rich picture, o horário e sua contribuição.
 
 <div align="center">
   <table>
@@ -16,29 +16,26 @@ A seguir temos a tabela 1, onde indica todos os participantes da criação do Ri
       <tr>
         <th>Nome</th>
         <th>Data</th>
-        <th>Hora</th>
-        <th>Local</th>
+        <th>Participação</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
         <td>13/09/2025</td>
-        <td>21:00</td>
-        <td>Reunião no Teams</td>
+        <td>Criação do rich picture</td>
          </tr>
       <tr>
         <tr>
         <td><a href="https://github.com/luisa12ll">Luísa de Souza</a></td>
          <td>13/09/2025</td>
-        <td>21:00</td>
-        <td>Reunião no Teams</td>
+        <td>Criação do rich picture</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-Tabela 1: Participante
+Tabela 1: Participantes
 Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v6Cmgz2QPM0?si=0htjRtZDmzKkYCdD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -84,3 +81,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 | 1.0    | 07/09/2025 | Elaboração do Rich picture do aplicativo      | [Geovanna Alves](https://github.com/GeovannaUmbelino)                                             | [Pedro Henrique](https://github.com/pedrohpsantos) |
 | 1.1    | 13/09/2025 | Elaboração do Rich picture do novo aplicativo | [Luisa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) |
 | 1.2    | 03/10/2025 | Adição da tabela de validação                 | [Yan Matheus](https://github.com/Yanmatheus0812)                                                  | [Camila Silva](https://github.com/CamilaSilvaC)    |
+| 1.3 | 06/11/2025 | Criação da tabela de contribuição | [Yan Matheus](https://github.com/Yanmatheus0812) | [Lara Souza](https://github.com/mel14-hub) |
