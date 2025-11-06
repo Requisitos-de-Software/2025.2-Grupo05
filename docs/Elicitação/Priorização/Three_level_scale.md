@@ -20,15 +20,12 @@ Não há um ranqueamento numérico dos requisitos, mas sim uma classificação e
 
 A seguir temos a tabela 1, onde indica todos os participantes da aplicação da técnica, o horário e local da aplicação da técnica.
 
-<div align="center">
-
 | Papel | Nome | Data | Hora | Local |
 |-------|------|------|------|-------|
 | Mediador | [Yan Matheus](https://github.com/Yanmatheus0812) | 26/09/2025 | 15:40 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
 | Mediador | [Lara Souza](https://github.com/mel14-hub) | 26/09/2025 | 15:40 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
 | Usuário | Héllen | 26/09/2025 | 15:40 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
 
-</div>
 
 <p style="text-align: center; font-size: 14px;">
 <strong>Tabela 1:</strong> Participantes Three Level Scale<br>
@@ -127,14 +124,11 @@ Elaboração por
 
 A seguir temos a tabela 3, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O usuário corresponde ao perfil de usuário 2.
 
-<div align="center">
-
 | Papel | Nome | Data | Hora | Local |
 |-------|------|------|------|-------|
 | Mediador | [Yan Matheus](https://github.com/Yanmatheus0812) | 30/09/2025 | 13:30 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
 | Usuário | Bryan | 30/09/2025 | 13:30 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
 
-</div>
 
 <p style="text-align: center; font-size: 14px;">
 <strong>Tabela 3:</strong> Validação Three Level Scale<br>
