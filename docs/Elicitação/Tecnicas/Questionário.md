@@ -56,13 +56,13 @@ A tabela 1 disposta abaixo representa todos os requisitos levantados durante a a
 
 | Identificação | Descrição                                                                                                             | Categoria | Implementado | Versão | Referência   |
 | ------------- | --------------------------------------------------------------------------------------------------------------------- | --------- | ------------ | ------ | ------------ |
-| Q01           | O aplicativo deve possuir uma agenda para organização pessoal do usuário através de atividades                        | RF        | Não          | 1.0    | Questionário |
-| Q02           | A agenda deve possuir a opção do usuário inserir atividades                                                           | RF        | Não          | 1.0    | Questionário |
-| Q03           | A agenda deve possuir a opção do usuário editar atividades                                                            | RF        | Não          | 1.0    | Questionário |
-| Q04           | A agenda deve possuir a opção do usuário excluir atividades                                                           | RF        | Não          | 1.0    | Questionário |
-| Q05           | A agenda deve notificar o usuário sobre atividades inseridas com um dia de antecedência                               | RF        | Não          | 1.0    | Questionário |
-| Q06           | A agenda deve permitir o usuário inserir um horário e data na criação de uma atividade                                | RF        | Não          | 1.0    | Questionário |
-| Q07           | A agenda deve permitir o usuário avaliar suas atividades com grau de importância                                      | RF        | Não          | 1.0    | Questionário |
+| Q01           | O aplicativo deve possuir uma agenda para organização pessoal do estudante através de atividades                        | RF        | Não          | 1.0    | Questionário |
+| Q02           | A agenda deve possuir a opção do estudante inserir atividades                                                           | RF        | Não          | 1.0    | Questionário |
+| Q03           | A agenda deve possuir a opção do estudante editar atividades                                                            | RF        | Não          | 1.0    | Questionário |
+| Q04           | A agenda deve possuir a opção do estudante excluir atividades                                                           | RF        | Não          | 1.0    | Questionário |
+| Q05           | A agenda deve notificar o estudante sobre atividades inseridas com um dia de antecedência                               | RF        | Não          | 1.0    | Questionário |
+| Q06           | A agenda deve permitir o estudante inserir um horário e data na criação de uma atividade                                | RF        | Não          | 1.0    | Questionário |
+| Q07           | A agenda deve permitir o estudante avaliar suas atividades com grau de importância                                      | RF        | Não          | 1.0    | Questionário |
 | Q08           | O aplicativo deve oferecer integração na agenda entre outros aplicativos de organização pessoal                       | RF        | Não          | 1.0    | Questionário |
 | Q09           | O aplicativo deve oferecer um tutorial em vídeo sobre suas funcionalidades                                            | RF        | Não          | 1.0    | Questionário |
 | Q10           | O aplicativo deve permitir a visualização da disciplina.                                                              | RF        | Sim          | 1.0    | Questionário |

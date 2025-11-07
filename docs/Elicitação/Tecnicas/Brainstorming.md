@@ -154,7 +154,7 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 
 A seguir temos as **gravações das sessões**:
 
-- Termo de Consentimento e Brainstorm perfil de usuário
+- Termo de Consentimento e Brainstorm
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ls3DBFVdAmE?si=cs1L53MZNpy24zCt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
