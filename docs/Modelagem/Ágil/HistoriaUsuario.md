@@ -405,7 +405,7 @@ A tabela 25 mostra a história de usuário 24.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu, como beneficiário do auxílio, desejo visualizar o valor total recebido, para ter controle sobre o montante total do benefício.                                        |
 | Critérios de aceitação | - O sistema deve exibir o valor total somando todas as parcelas pagas.<br> - O valor total deve ser atualizado automaticamente conforme novas parcelas são pagas.         |
-| Rastreabilidade        | [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ32,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ32](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=E018)%0AQuestion%C3%A1rio%20(Q22)-,RQ32,-O%20aplicativo%20deve>) |
 | Prioridade             | Média                                                                                                                                                                     |
 | Implementado           | Não                                                                                                                                                                       |
 
@@ -501,7 +501,7 @@ A tabela 31 mostra a história de usuário 30.
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu, como estudante, desejo visualizar informações unificadas sobre minha jornada escolar, para acompanhar meu desempenho e atividades acadêmicas.                                        |
 | Critérios de aceitação | - O sistema deve exibir dados sobre notas, frequência, disciplinas, e outros.<br> - As informações devem estar centralizadas em uma única tela.                                          |
-| Rastreabilidade        | [RQ38](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=%2C%20Question%C3%A1rio%20Brainstorming-,RQ38,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ38](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ38,-O%20aplicativo%20deve) |
 | Prioridade             | Alta                                                                                                                                                                                     |
 | Implementado           | Sim                                                                                                                                                                                      |
 
