@@ -390,7 +390,7 @@ A tabela 24 mostra a história de usuário 23.
 | Descrição              | Eu, como beneficiário do auxílio, desejo visualizar as parcelas já pagas e as que ainda faltam, para acompanhar o andamento dos meus recebimentos.                                    |
 | Critérios de aceitação | - O sistema deve exibir uma lista com as parcelas pagas e pendentes.<br> - Cada parcela deve conter o valor e a data correspondente.                                                  |
 | Rastreabilidade        | [RQ31](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q21)%0ABrainstorming(B018)-,RQ31,-O%20aplicativo%20deve>) |
-| Prioridade             | Média                                                                                                                                                                                 |
+| Prioridade             | Alta                                                                                                                                                                                 |
 | Implementado           | Sim                                                                                                                                                                                   |
 
 Tabela 24: História de visualização ds parcelas do auxílio.
@@ -694,7 +694,7 @@ A tabela 43 mostra a história de usuário 42.
 | Descrição              | Eu, como estudante, desejo integrar minha agenda com outros aplicativos de organização pessoal, para ter todos os meus compromissos em um só lugar.                              |
 | Critérios de aceitação | - A agenda deve permitir a sincronização com aplicativos externos, como Google Calendar e Outlook. <br> - O sistema deve atualizar automaticamente as informações sincronizadas. |
 | Rastreabilidade        | [RQ52](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ52,-O%20aplicativo%20deve)               |
-| Prioridade             | Média                                                                                                                                                                            |
+| Prioridade             | Alta                                                                                                                                                                            |
 | Implementado           | Não                                                                                                                                                                              |
 
 Tabela 43: Integração da agenda com outros aplicativos
@@ -806,7 +806,7 @@ A tabela 50 mostra a história de usuário 49.
 | Descrição              | Eu, como estudante, desejo visualizar meus certificados diretamente no aplicativo, para acessar rapidamente meus comprovantes de participação.                 |
 | Critérios de aceitação | - O sistema deve listar todos os certificados emitidos ao usuário. <br> - Cada certificado deve poder ser baixado em formato PDF.                              |
 | Rastreabilidade        | [RQ60](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ60,-O%20aplicativo%20deve) |
-| Prioridade             | Alta                                                                                                                                                           |
+| Prioridade             | Média                                                                                                                                                           |
 | Implementado           | Não                                                                                                                                                            |
 
 Tabela 50: Visualização de certificados
