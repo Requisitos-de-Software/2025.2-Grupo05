@@ -149,7 +149,7 @@ Na tabela 3, está apresentado o cartão de especificação do Requisito Não Fu
 | Justificativa         | O uso da tecnologia blockchain garante a segurança dos dados ,reduzindo a perda de dados.                                                                           |
 | Critério de Aceitação | O sistema deve realizar autenticação e disponibilização de documentos via blockchain,em um tempo médio garantindo a integridade dos dados.                          |
 | Dependências          | integração com serviços de blockchain, módulo de autenticação de usuários, e infraestrutura de armazenamento de documentos.                                         |
-| Prioridade            | Alta                                                                                                                                                                |
+| Prioridade            | Média                                                                                                                                                                |
 | Conflitos             | Nenhum                                                                                                                                                              |
 
 <font size="3"><p style="text-align: center">Tabela 3: Tecnologia blockchain para autenticação e disponubilização de documentos </p></font>
@@ -167,7 +167,7 @@ Tabela 4, está apresentado o cartão de especificação do Requisito Não Funci
 | Justificativa         | Garantir uma curva de aprendizado baixa e uma primeira experiência positiva, aumentando a taxa de adoção e a satisfação do usuário ao permitir que ele utilize as funcionalidades chave de forma rápida e intuitiva.                                  |
 | Critério de Aceitação | Durante os testes de usabilidade, pelo menos 95% dos usuários de teste devem ser capazes de completar o fluxo de cadastro, login, busca e envio de dados com sucesso em menos de 8 minutos, sem assistência externa.                                  |
 | Dependências          | Design de interface (UI) e experiência do usuário (UX) claros e intuitivos, fluxo de navegação simplificado e tempo de resposta do sistema para cada ação.                                                                                            |
-| Prioridade            | Alta                                                                                                                                                                                                                                                  |
+| Prioridade            | Média                                                                                                                                                                                                                                                  |
 | Conflitos             | Nenhum                                                                                                                                                                                                                                                |
 
 <font size="3"><p style="text-align: center">Tabela 4: Tempo para realizar funções principais </p></font>
@@ -185,7 +185,7 @@ A tabela 5, está apresentado o cartão de especificação do Requisito Não Fun
 | Justificativa         | Uma linguagem simples facilita a compreensão das funcionalidades e conteúdos pelo usuário, melhorando a experiência de uso, reduzindo o tempo de aprendizado, dúvidas e erros.                                                                                   |
 | Critério de Aceitação | Todas as mensagens, rótulos, botões e textos de ajuda do sistema devem usar vocabulário cotidiano e frases diretas, validado por uma análise de adequação ao público-alvo, garantindo que nenhum termo técnico de domínio de software seja usado sem explicação. |
 | Dependências          | Escopo de conteúdo e textos da interface, Design de Experiência do Usuário (UX Writing).                                                                                                                                                                         |
-| Prioridade            | Alta                                                                                                                                                                                                                                                             |
+| Prioridade            | Média                                                                                                                                                                                                                                                             |
 | Conflitos             | Nenhum                                                                                                                                                                                                                                                           |
 
 <font size="3"><p style="text-align: center">Tabela 5: Linguagem adequada ao usuário </p></font>
@@ -239,7 +239,7 @@ A tabela 8, está apresentado o cartão de especificação do Requisito Não Fun
 | Justificativa         | Facilitar o uso e reduzir o tempo de aprendizado, melhorando a experiência do usuário e a eficiência na interação com o aplicativo.                                                |
 | Critério de Aceitação | O sistema deve oferecer navegação intuitiva, menus organizados e mecanismos de busca eficientes que permitam ao usuário localizar rapidamente qualquer funcionalidade.             |
 | Dependências          | Design de interface intuitiva, estrutura hierárquica de menus, mecanismos de busca eficientes e tempo de resposta do sistema.                                                      |
-| Prioridade            | Média                                                                                                                                                                              |
+| Prioridade            | Alta                                                                                                                                                                              |
 | Conflitos             | Nenhum                                                                                                                                                                             |
 
 <font size="3"><p style="text-align: center">Tabela 8: Tempo de localização de funcionalidades </p></font>
