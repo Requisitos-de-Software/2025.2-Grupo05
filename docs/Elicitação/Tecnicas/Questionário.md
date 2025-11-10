@@ -2,8 +2,8 @@
 
 ## Introdução
 
-- O questionário é um meio de elicitar requisitos de diversas perguntas para usuários<a id="anchor_1" href="#FRM1">[1]</a>. Neste trabalho o resultado no questionário teve um total de 55 respostas todas de acordo com o [termo de consentimento](../Termo_de_consentimento_questionario.pdf). O questionário foi elaborado pelo Google Forms, possuía 13 questões sobre aspectos gerais de possíveis usuários do aplicativo, e foi foi divulgado amplamente em grupos dos aplicativos WhatsApp e Telegram entre o período de 22 a 24 de setembro de 2025.
-- A estrutura do questionário pode ser visualizada [clicando aqui](../Questionario.pdf)
+O questionário é um meio de elicitar requisitos de diversas perguntas para usuários<a id="anchor_1" href="#FRM1">[1]</a>. Neste trabalho o resultado no questionário teve um total de 55 respostas todas de acordo com o [termo de consentimento](../Termo_de_consentimento_questionario.pdf). O questionário foi elaborado pelo Google Forms, possuía 13 questões sobre aspectos gerais de possíveis usuários do aplicativo, e foi foi divulgado amplamente em grupos dos aplicativos WhatsApp e Telegram entre o período de 22 a 24 de setembro de 2025.
+A estrutura do questionário pode ser visualizada [clicando aqui](../Questionario.pdf)
 
 ## Participantes
 
@@ -14,20 +14,25 @@ A seguir temos a tabela 1, onde indica todos os participantes da técnica de eli
     <thead>
       <tr>
         <th>Nome</th>
+        <th>Data</th>
+        <th>Participação</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/CamilaSilvaC">Camila Souza</a></td>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
         <td>21/09/2025</td>
+        <td>Elaborou de forma conjunta todos os requisitos</td>
       </tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
         <td>21/09/2025</td>
+        <td>Elaborou de forma conjunta todos os requisitos</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
         <td>21/09/2025</td>
+        <td>Elaborou de forma conjunta todos os requisitos</td>
       </tr>
     </tbody>
   </table>
@@ -51,13 +56,13 @@ A tabela 1 disposta abaixo representa todos os requisitos levantados durante a a
 
 | Identificação | Descrição                                                                                                             | Categoria | Implementado | Versão | Referência   |
 | ------------- | --------------------------------------------------------------------------------------------------------------------- | --------- | ------------ | ------ | ------------ |
-| Q01           | O aplicativo deve possuir uma agenda para organização pessoal do usuário através de atividades                        | RF        | Não          | 1.0    | Questionário |
-| Q02           | A agenda deve possuir a opção do usuário inserir atividades                                                           | RF        | Não          | 1.0    | Questionário |
-| Q03           | A agenda deve possuir a opção do usuário editar atividades                                                            | RF        | Não          | 1.0    | Questionário |
-| Q04           | A agenda deve possuir a opção do usuário excluir atividades                                                           | RF        | Não          | 1.0    | Questionário |
-| Q05           | A agenda deve notificar o usuário sobre atividades inseridas com um dia de antecedência                               | RF        | Não          | 1.0    | Questionário |
-| Q06           | A agenda deve permitir o usuário inserir um horário e data na criação de uma atividade                                | RF        | Não          | 1.0    | Questionário |
-| Q07           | A agenda deve permitir o usuário avaliar suas atividades com grau de importância                                      | RF        | Não          | 1.0    | Questionário |
+| Q01           | O aplicativo deve possuir uma agenda para organização pessoal do estudante através de atividades                        | RF        | Não          | 1.0    | Questionário |
+| Q02           | A agenda deve possuir a opção do estudante inserir atividades                                                           | RF        | Não          | 1.0    | Questionário |
+| Q03           | A agenda deve possuir a opção do estudante editar atividades                                                            | RF        | Não          | 1.0    | Questionário |
+| Q04           | A agenda deve possuir a opção do estudante excluir atividades                                                           | RF        | Não          | 1.0    | Questionário |
+| Q05           | A agenda deve notificar o estudante sobre atividades inseridas com um dia de antecedência                               | RF        | Não          | 1.0    | Questionário |
+| Q06           | A agenda deve permitir o estudante inserir um horário e data na criação de uma atividade                                | RF        | Não          | 1.0    | Questionário |
+| Q07           | A agenda deve permitir o estudante avaliar suas atividades com grau de importância                                      | RF        | Não          | 1.0    | Questionário |
 | Q08           | O aplicativo deve oferecer integração na agenda entre outros aplicativos de organização pessoal                       | RF        | Não          | 1.0    | Questionário |
 | Q09           | O aplicativo deve oferecer um tutorial em vídeo sobre suas funcionalidades                                            | RF        | Não          | 1.0    | Questionário |
 | Q10           | O aplicativo deve permitir a visualização da disciplina.                                                              | RF        | Sim          | 1.0    | Questionário |

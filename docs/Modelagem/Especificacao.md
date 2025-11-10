@@ -107,7 +107,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="h
 
 ## Gravação
 
-### Participantes 1
+### Participantes da gravação
 
 A seguir temos a tabela 3, onde indica todos os menbros da equipe que participaram da gravação.
 
@@ -152,13 +152,51 @@ A seguir temos a tabela 3, onde indica todos os menbros da equipe que participar
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></font>
 
-### Vídeo 1
-
 A seguir, apresentamos a gravação referente à elaboração da **especificação suplementar**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A_6FJ9gH3F0?si=Dq85LAq3XjP_Z1bD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Vídeo 2
+## Validação
+
+### Participantes da validação
+
+A seguir temos a tabela 4, onde indica todos os participantes da especificação suplementar, o horário e local da aplicação da técnica.
+
+<font size="3"><p style="text-align: center">Tabela 4: Participantes do video de validação da especificação suplementar</p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+        <td>12/10/2025</td>
+        <td>13:15</td>
+        <td>Gama - Distrito Federal</td>
+         </tr>
+      <tr>
+      <tr>
+        <td>Usuário</td>
+        <td>João Victor</td>
+        <td>12/10/2025</td>
+        <td>13:15</td>
+        <td>Gama - Distrito Federal</td>
+      </tr>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/luisa12ll">Luísa de Souza</a></font>
 
 A seguir, apresentamos a gravação referente à **verificação da especificação suplementar**.
 

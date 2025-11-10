@@ -724,7 +724,7 @@ A tabela 45 mostra a história de usuário 44.
 | HU44                   | Informações                                                                                                                                                              |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Descrição              | Eu, como estudante, desejo receber notificações quando editais de vestibulares forem abertos, para não perder prazos importantes.                                        |
-| Critérios de aceitação | - O aplicativo deve notificar o usuário sempre que um novo edital for publicado. <br> - As notificações devem exibir o nome da instituição e a data limite de inscrição. |
+| Critérios de aceitação | - O aplicativo deve notificar o estudante sempre que um novo edital for publicado. <br> - As notificações devem exibir o nome da instituição e a data limite de inscrição. |
 | Rastreabilidade        | [RQ55](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ55,-O%20aplicativo%20deve)           |
 | Prioridade             | Alta                                                                                                                                                                     |
 | Implementado           | Não                                                                                                                                                                      |
@@ -781,7 +781,7 @@ Tabela 48: Emissão de diplomas
 
 Fonte: [Lara Souza](https://github.com/mel14-hub)
 
-### HU48 - Canal de suporte ao usuário
+### HU48 - Canal de suporte ao estudante
 
 A tabela 49 mostra a história de usuário 48.
 
@@ -804,7 +804,7 @@ A tabela 50 mostra a história de usuário 49.
 | HU49                   | Informações                                                                                                                                                    |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu, como estudante, desejo visualizar meus certificados diretamente no aplicativo, para acessar rapidamente meus comprovantes de participação.                 |
-| Critérios de aceitação | - O sistema deve listar todos os certificados emitidos ao usuário. <br> - Cada certificado deve poder ser baixado em formato PDF.                              |
+| Critérios de aceitação | - O sistema deve listar todos os certificados emitidos ao estudante. <br> - Cada certificado deve poder ser baixado em formato PDF.                              |
 | Rastreabilidade        | [RQ60](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ60,-O%20aplicativo%20deve) |
 | Prioridade             | Média                                                                                                                                                           |
 | Implementado           | Não                                                                                                                                                            |

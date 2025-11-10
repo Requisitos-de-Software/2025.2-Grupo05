@@ -2,7 +2,9 @@
 
 O objetivo dessa página é armazenar a inspeção da entrega 6 e demais documentos relacionados do nosso próprio grupo. Acesse o vídeo clicando no link correspondente.
 
-# Inspeção 6
+## Inspeção 6
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LjAFGTEfRK8?si=Mtg-K0KwU8vUmB5n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Participantes
