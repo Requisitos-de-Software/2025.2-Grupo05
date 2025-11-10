@@ -66,6 +66,8 @@ A tabela 2 disposta abaixo representa todos os requisitos levantados durante a a
 - RR: Riscos - São os riscos associados ao desenvolvimento e uso do software.
 - RT: Testes e Validações - Descrevem as atividades necessárias para testar e validar o software antes de sua implantação.
 
+
+
 | Identificação | Descrição                                                                                                                                                                           | Categoria | Implementado | Versão | Referência                                                                                                                         |
 | :------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :----------: | :----: | ---------------------------------------------------------------------------------------------------------------------------------- |
 |           RQ1 | O aplicativo deve permitir o acesso do estudante através de uma autenticação com o gov.                                                                                               |    RF     |     Sim      |  1.1   | [Análise de documentação (ADD01)](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD01,-O%20aplicativo%20deve)                                                                              |

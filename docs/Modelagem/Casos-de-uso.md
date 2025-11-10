@@ -117,7 +117,7 @@ Fonte: [Luisa de Souza](https://github.com/Luisa12ll) e [Geovanna Alves](https:/
 | Pós-condição | As informações da disciplina são exibidas na tela |
 | Relacionamentos   | Associação com estudante e extensão para "Acessar fórum da disciplina"                                                                                                                                                                                                                                                                                                                                                                              |
 | Data de Criação   | 09/10/2025                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Rastreabilidade   | [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ17,-O%20aplicativo%20deve), [RQ18](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ18,-O%20aplicativo%20deve), [RQ19](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ19,-O%20aplicativo%20deve) e [RQ20](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ20,-O%20aplicativo%20deve) |
+| Rastreabilidade   | [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20(ADD019)-,RQ17,-O%20aplicativo%20deve), [RQ18](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=B01)%0ABrainstorming%20(B03)-,RQ18,-O%20aplicativo%20deve>), [RQ19](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=E02)%0ABrainstorming(B02)-,RQ19,-O%20aplicativo%20deve>) e [RQ20](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q11)%0ABrainstorming(B04)-,RQ20,-O%20aplicativo%20deve>) |
 
 <font size="3"><p style="text-align: center">Tabela 3: Visualizar informações da disciplina</p></font>
 
@@ -153,7 +153,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
 | Pós-condição | As informações sobre o auxílio são apresentadas |
 | Relacionamentos   | Asociação com aluno e extensões com "Editar dados bancários", "Visualizar dia do pagamento do auxílio" e "Comunicar em um canal de conversa do auxílio"                                                                                                                                                                             |
 | Data de Criação   | 09/10/2025                                                                                                                                                                                                                                                                                                                          |
-| Rastreabilidade   | [RQ31](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ31,-O%20aplicativo%20deve), [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ32,-O%20aplicativo%20deve) e [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ33,-O%20aplicativo%20deve) |
+| Rastreabilidade   | [RQ31](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q21)%0ABrainstorming(B018)-,RQ31,-O%20aplicativo%20deve>), [RQ32](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=E018)%0AQuestion%C3%A1rio%20(Q22)-,RQ32,-O%20aplicativo%20deve>) e [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ33,-O%20aplicativo%20deve) |
 
 <font size="3"><p style="text-align: center">Tabela 5: Consultar auxílio</p></font>
 
@@ -171,7 +171,7 @@ Fonte: [Camila Silva](https://github.com/CamilaSilvaC)
 | Pós-condição | Os dados bancários são atualizados com sucesso |
 | Relacionamentos   | Asociação com Gov.br e extensão de "Consultar auxílio"                                                                                                                                                                                                                                                                              |
 | Data de Criação   | 09/10/2025                                                                                                                                                                                                                                                                                                                          |
-| Rastreabilidade   |  [RQ31](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ31,-O%20aplicativo%20deve), [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ32,-O%20aplicativo%20deve) e [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ33,-O%20aplicativo%20deve)|
+| Rastreabilidade   |  [RQ31](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q21)%0ABrainstorming(B018)-,RQ31,-O%20aplicativo%20deve>), [RQ32](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=E018)%0AQuestion%C3%A1rio%20(Q22)-,RQ32,-O%20aplicativo%20deve>) e [RQ33](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ33,-O%20aplicativo%20deve)|
 
 <font size="3"><p style="text-align: center">Tabela 6: Editar dados bancários</p></font>
 
@@ -279,7 +279,7 @@ Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
 | Pós-condição | O documento é exibido ao estudante, caso esteja disponível |
 | Relacionamentos   | Associação de estudante, associação de instituição de ensino e generalização para "Emitir histórico", "Emitir declaração de vínculo" e "Emitir certificados"                                                                                                                                                                           |
 | Data de Criação   | 09/10/2025                                                                                                                                                                                                                                                                                                                             |
-| Rastreabilidade   | [RQ27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ27,-O%20aplicativo%20deve), [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ28,-O%20aplicativo%20deve) e [RQ60](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ60,-O%20aplicativo%20deve) |
+| Rastreabilidade   | [RQ27](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q17)%0ABrainstorming(B014)-,RQ27,-O%20aplicativo%20deve>)), [RQ28](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q18)%0ABrainstorming(B015)-,RQ28,-O%20aplicativo%20deve>) e [RQ60](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ60,-O%20aplicativo%20deve) |
 
 <font size="3"><p style="text-align: center">Tabela 12: Requerir documentos </p></font>
 
@@ -297,7 +297,7 @@ Fonte: [Pedro Henrique](https://github.com/pedrohpsantos)
 | Pós-condição | O histórico escolar é emitido com sucesso |
 | Relacionamentos   | Generalização de "Requerir documentos"                                                                      |
 | Data de Criação   | 09/10/2025                                                                                                  |
-| Rastreabilidade   | [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ28,-O%20aplicativo%20deve) |
+| Rastreabilidade   | [RQ28](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q18)%0ABrainstorming(B015)-,RQ28,-O%20aplicativo%20deve>) |
 
 <font size="3"><p style="text-align: center">Tabela 13: Emitir histórico </p></font>
 
@@ -315,7 +315,7 @@ Fonte: [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github
 | Pós-condição | A declaração de vínculo é gerada e disponibilizada |
 | Relacionamentos   | Generalização de "Requerir documentos"                                                                      |
 | Data de Criação   | 09/10/2025                                                                                                  |
-| Rastreabilidade   | [RQ27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ27,-O%20aplicativo%20deve) |
+| Rastreabilidade   | [RQ27](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q17)%0ABrainstorming(B014)-,RQ27,-O%20aplicativo%20deve>) |
 
 <font size="3"><p style="text-align: center">Tabela 14: Emitir declaração de vínculo </p></font>
 

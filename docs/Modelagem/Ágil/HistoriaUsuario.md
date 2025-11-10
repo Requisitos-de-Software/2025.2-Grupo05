@@ -69,7 +69,7 @@ A tabela 4 mostra a história de usuário 3.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Descrição              | Eu, como estudante beneficiário, desejo acompanhar o status do programa Pé-de-Meia para verificar minha elegibilidade e situação dos pagamentos.                                           |
 | Critérios de Aceitação | - O aplicativo deve exibir o status atual do benefício Pé-de-Meia.<br> - As informações devem ser atualizadas conforme os dados oficiais do programa. <br>                                 |
-| Rastreabilidade        | [RQ05](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ5,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ05](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20(ADD05)-,RQ5,-O%20aplicativo%20deve) |
 | Prioridade             | Média                                                                                                                                                                                      |
 | Implementado           | Sim                                                                                                                                                                                        |
 
@@ -85,7 +85,7 @@ A tabela 5 mostra a história de usuário 4.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Descrição              | Eu, como estudante, desejo visualizar minhas faltas para acompanhar minha frequência escolar.                                                                                              |
 | Critérios de Aceitação | - O aplicativo deve apresentar uma seção dedicada à visualização de faltas.<br>                                                                                                            |
-| Rastreabilidade        | [RQ08](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ8,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ08](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20(ADD08)-,RQ8,-O%20aplicativo%20deve) |
 | Prioridade             | Alta                                                                                                                                                                                       |
 | Implementado           | Sim                                                                                                                                                                                        |
 
@@ -101,7 +101,7 @@ A tabela 6 mostra a história de usuário 5.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Descrição              | Eu, como estudante beneficiário, desejo receber atualizações referente ao pagamento do Pé-de-Meia em até um mês                                                                            |
 | Critérios de Aceitação | - As informações sobre pagamentos devem ser atualizadas no aplicativo em até 30 dias.<br> -Deve exibir histórico de pagamentos anteriores e previsão de próximos pagamentos.               |
-| Rastreabilidade        | [RQ09](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ9,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ09](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20(ADD09)-,RQ9,-O%20aplicativo%20deve) |
 | Prioridade             | Média                                                                                                                                                                                      |
 | Implementado           | Não                                                                                                                                                                                        |
 
@@ -117,7 +117,7 @@ A tabela 7 mostra a história de usuário 6.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu como estudante desejo conseguir acompanhar meus registros estudantis desde o ingresso até níveis superiores.                                                                             |
 | Critérios de aceitação | - Exibir informações completas do histórico estudantil                                                                                                                                      |
-| Rastreabilidade        | [RQ11](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ11,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ11](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20(ADD012)-,RQ11,-O%20aplicativo%20deve) |
 | Prioridade             | Alta                                                                                                                                                                                        |
 | Implementado           | Sim                                                                                                                                                                                         |
 
@@ -133,7 +133,7 @@ A tabela 8 mostra a história de usuário 7.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu como estudante desejo me comunicar com o MEC por um canal direto de informações entre o MEC e os estudantes                                                                              |
 | Critérios de aceitação | - Exibir notificações com novas informações.<br>- Receber menssagens e comunicados oficiais.                                                                                                |
-| Rastreabilidade        | [RQ12](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ12,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ12](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20(ADD013)-,RQ12,-O%20aplicativo%20deve) |
 | Prioridade             | Média                                                                                                                                                                                       |
 | Implementado           | Sim                                                                                                                                                                                         |
 
@@ -149,7 +149,7 @@ A tabela 9 mostra a história de usuário 8.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu como estudante desejo informa o curso que conclui e que estou cursando no aplicativo                                                                                                     |
 | Critérios de aceitação | - Adicionar informações sobre o curso.<br> - Editar informações do curso.<br> - Visualizar dados salvos no perfil.                                                                          |
-| Rastreabilidade        | [RQ13](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ13,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ13](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20ADD015-,RQ13,-O%20aplicativo%20deve) |
 | Prioridade             | Média                                                                                                                                                                                       |
 | Implementado           | Sim                                                                                                                                                                                         |
 
@@ -165,7 +165,7 @@ A tabela 10 mostra a história de usuário 9.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu como estudante desejo visualizar novidades e programas voltados à educação enviadas pelo governo federal.                                                                                |
 | Critérios de aceitação | - Exibir notificação de novidade e programas voltados a educação<br> - Visualizar seção dedicada aos programas novidades educacionais                                                       |
-| Rastreabilidade        | [RQ14](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ14,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ14](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20(ADD016)-,RQ14,-O%20aplicativo%20deve) |
 | Prioridade             | Alta                                                                                                                                                                                        |
 | Implementado           | Sim                                                                                                                                                                                         |
 
@@ -181,7 +181,7 @@ A tabela 11 mostra a história de usuário 10.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu como estudante desejo acesso aos serviços estudantis (como FIES, ENEM, ProUni, etc.) pelo aplicativo.                                                                                    |
 | Critérios de aceitação | - Vizualizar seção que e dedicada a levar o estudande direto para esses serviços em pouco tempo                                                                                             |
-| Rastreabilidade        | [RQ15](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ15,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ15](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20(ADD017)-,RQ15,-O%20aplicativo%20deve) |
 | Prioridade             | Média                                                                                                                                                                                       |
 | Implementado           | Sim                                                                                                                                                                                         |
 
@@ -197,7 +197,7 @@ A tabela 12 mostra a história de usuário 11.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu como estudante desejo ter minhas informações da escola ou universidade integrada com o sistema do aplicativo.                                                                            |
 | Critérios de aceitação | - Acessar o perfil de estudante<br> - visualizar informações acadêmicas diretamente pelo aplicativo.                                                                                        |
-| Rastreabilidade        | [RQ16](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ16,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ16](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20(ADD018)-,RQ16,-O%20aplicativo%20deve) |
 | Prioridade             | Média                                                                                                                                                                                       |
 | Implementado           | Sim                                                                                                                                                                                         |
 
@@ -213,7 +213,7 @@ A tabela 13 mostra a história de usuário 12.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu como estudante desejo visualizar as disciplinas e os professores responsáveis.                                                                                                           |
 | Critérios de aceitação | - Visualizar lista de diciplisnas que contém o nome do professor responsavel                                                                                                                |
-| Rastreabilidade        | [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ17,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ17](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20(ADD019)-,RQ17,-O%20aplicativo%20deve) |
 | Prioridade             | Alta                                                                                                                                                                                        |
 | Implementado           | Nâo                                                                                                                                                                                         |
 
@@ -229,7 +229,7 @@ A tabela 14 mostra a história de usuário 13.
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu como estudante desejo visualizar o horário e a sala da disciplina                                                                                                  |
 | Critérios de aceitação | - Acessar o cronograma de aulas de forma facíl<br> - Visualizar a sala no cronograma                                                                                  |
-| Rastreabilidade        | [RQ18](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ18,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ18](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=B01)%0ABrainstorming%20(B03)-,RQ18,-O%20aplicativo%20deve>) |
 | Prioridade             | Alta                                                                                                                                                                  |
 | Implementado           | Nâo                                                                                                                                                                   |
 
@@ -245,7 +245,7 @@ A tabela 15 mostra a história de usuário 14.
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu como estudante desejo visualizar informações sobre trabalho, data de avaliação, tipo de avaliação e o peso na média                                                |
 | Critérios de aceitação | - Visualizar inrfomações sobre as avaliações da diciplina de forma detalhada (tipo, data e peso)<br> - Atualização em caso de mudança                                 |
-| Rastreabilidade        | [RQ19](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ19,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ19](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=E02)%0ABrainstorming(B02)-,RQ19,-O%20aplicativo%20deve>) |
 | Prioridade             | Média                                                                                                                                                                 |
 | Implementado           | Não                                                                                                                                                                   |
 
@@ -261,7 +261,7 @@ A tabela 16 mostra a história de usuário 15.
 | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu, como estudante, quero visualizar as notas das minhas avaliações e trabalhos para que eu possa acompanhar meu desempenho acadêmico na disciplina.                                                                                                                                         |
 | Critérios de Aceitação | - A tela deve listar todas as avaliações e trabalhos da disciplina com suas respectivas notas.<br>- O sistema deve exibir a média parcial calculada com base nas notas lançadas.<br>- Ao selecionar uma disciplina, o sistema deve indicar claramente quando uma nota ainda não foi lançada. |
-| Rastreabilidade        | [RQ20](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ20,-O%20aplicativo%20deve)                                                                                                        |
+| Rastreabilidade        | [RQ20](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q11)%0ABrainstorming(B04)-,RQ20,-O%20aplicativo%20deve>)                                                                                                        |
 | Prioridade             | Alta                                                                                                                                                                                                                                                                                         |
 | Implementado           | Nâo                                                                                                                                                                                                                                                                                          |
 
@@ -277,7 +277,7 @@ A tabela 17 mostra a história de usuário 16.
 | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu, como estudante, quero receber notificações sobre as próximas avaliações com antecedência para que eu possa me organizar e não perder os prazos.                                                                                                                  |
 | Critérios de Aceitação | - O sistema deve enviar uma notificação push 7 dias antes da avaliação.<br>- O sistema deve enviar uma segunda notificação 2 dias antes da avaliação.<br>- A notificação deve conter o nome da disciplina e o tipo da avaliação (e.g., "Prova 1", "Trabalho Final"). |
-| Rastreabilidade        | [RQ21](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ21,-O%20aplicativo%20deve)                                                                                |
+| Rastreabilidade        | [RQ21](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q12)%0ABrainstorming(B05)-,RQ21,-O%20aplicativo%20deve>)                                                                                |
 | Prioridade             | Alta                                                                                                                                                                                                                                                                 |
 | Implementado           | Nâo                                                                                                                                                                                                                                                                  |
 
@@ -293,7 +293,7 @@ A tabela 18 mostra a história de usuário 17.
 | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu, como estudante, quero ser notificado quando uma falta for lançada para que eu possa acompanhar minha frequência e evitar a reprovação.                                                                                                               |
 | Critérios de Aceitação | - Ao receber o registro de uma nova falta, o sistema deve enviar uma notificação imediatamente.<br>- A notificação deve especificar a disciplina e a data da falta.<br>- Na tela de detalhes da disciplina, deve haver um contador de faltas atualizado. |
-| Rastreabilidade        | [RQ22](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ22,-O%20aplicativo%20deve)                                                                    |
+| Rastreabilidade        | [RQ22](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q14)%0ABrainstorming(B09)-,RQ22,-O%20aplicativo%20deve>)                                                                    |
 | Prioridade             | Alta                                                                                                                                                                                                                                                     |
 | Implementado           | Nâo                                                                                                                                                                                                                                                      |
 
@@ -309,7 +309,7 @@ A tabela 19 mostra a história de usuário 18.
 | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Descrição              | Eu, como estudante beneficiário, quero receber notificações sobre as parcelas e valores do programa Pé-de-Meia para que eu possa ter um melhor controle financeiro.                                                                   |
 | Critérios de Aceitação | - O sistema deve enviar uma notificação na data de pagamento de uma nova parcela.<br>- A notificação deve informar o valor recebido.<br>- Deve existir uma seção no aplicativo para consultar o histórico de pagamentos do benefício. |
-| Rastreabilidade        | [RQ23](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ23,-O%20aplicativo%20deve)                                                                 |
+| Rastreabilidade        | [RQ23](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=E09)%0ABrainstorming(B10)-,RQ23,-O%20aplicativo%20deve>)                                                                 |
 | Prioridade             | Alta                                                                                                                                                                                                                                  |
 | Implementado           | Nâo                                                                                                                                                                                                                                   |
 
@@ -325,7 +325,7 @@ A tabela 20 mostra a história de usuário 19.
 | :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu, como estudante, quero emitir a declaração de vínculo com a instituição de ensino através do aplicativo para que eu possa comprovar minha matrícula de forma rápida e fácil.                                                           |
 | Critérios de Aceitação | - Deve existir uma funcionalidade no aplicativo para solicitar a declaração de vínculo.<br> - O aplicativo deve gerar a declaração de vínculo no formato PDF.<br> - O estudante deve conseguir baixar a declaração gerada no dispositivo. |
-| Rastreabilidade        | [RQ27](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ27,-O%20aplicativo%20deve)                                                     |
+| Rastreabilidade        | [RQ27](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q17)%0ABrainstorming(B014)-,RQ27,-O%20aplicativo%20deve>)                                                     |
 | Prioridade             | Alta                                                                                                                                                                                                                                      |
 | Implementado           | Nâo                                                                                                                                                                                                                                       |
 
@@ -341,7 +341,7 @@ A tabela 21 mostra a história de usuário 20.
 | :--------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu, como estudante, quero emitir meu histórico escolar                                                                                                                                                                                                                               |
 | Critérios de Aceitação | - Ao selecionar a opção "Emitir Histórico", o sistema deve gerar um documento em formato PDF.<br>- O documento deve conter todas as disciplinas cursadas, notas finais e status (Aprovado/Reprovado).<br>- O usuário deve ter as opções de baixar e compartilhar o documento gerado. |
-| Rastreabilidade        | [RQ28](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ28,-O%20aplicativo%20deve)                                                                                                |
+| Rastreabilidade        | [RQ28](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q18)%0ABrainstorming(B015)-,RQ28,-O%20aplicativo%20deve>)                                                                                                |
 | Prioridade             | Alta                                                                                                                                                                                                                                                                                 |
 | Implementado           | Não                                                                                                                                                                                                                                                                                  |
 
@@ -357,7 +357,7 @@ A tabela 22 mostra a história de usuário 21.
 | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Descrição              | Eu, como estudante, quero visualizar meu boletim no aplicativo para que eu possa verificar minhas notas finais e meu status de aprovação nas disciplinas.                                                                                                                 |
 | Critérios de Aceitação | - Na tela de boletim, as notas devem ser organizadas por período letivo.<br>- Para cada disciplina, deve ser exibida a nota final, o total de faltas e o status (Aprovado, Reprovado, Cursando).<br>- Deve ser possível navegar entre os boletins de períodos anteriores. |
-| Rastreabilidade        | [RQ29](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ29,-O%20aplicativo%20deve)                                                                                     |
+| Rastreabilidade        | [RQ29](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q19)%0ABrainstorming(B016)-,RQ29,-O%20aplicativo%20deve>)                                                                                     |
 | Prioridade             | Média                                                                                                                                                                                                                                                                     |
 | Implementado           | Não                                                                                                                                                                                                                                                                       |
 
@@ -373,7 +373,7 @@ A tabela 23 mostra a história de usuário 22.
 | :--------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu, como estudante, quero visualizar informações sobre programas estudantis (FIES, Prouni, etc.) para que eu possa me manter informado sobre oportunidades de auxílio financeiro.                                                                                                    |
 | Critérios de Aceitação | - Na página inicial, deve haver uma seção ou card dedicado a "Programas Estudantis".<br>- Ao acessar a seção, deve ser listado cada programa com uma breve descrição.<br>- Ao selecionar um programa, deve haver um link para redirecionar o usuário ao site oficial correspondente. |
-| Rastreabilidade        | [RQ30](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ30,-O%20aplicativo%20deve)                                                                                                |
+| Rastreabilidade        | [RQ30](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q20)%0ABrainstorming(B017)-,RQ30,-O%20aplicativo%20deve>)                                                                                                |
 | Prioridade             | Alta                                                                                                                                                                                                                                                                                 |
 | Implementado           | Sim                                                                                                                                                                                                                                                                                  |
 
@@ -389,7 +389,7 @@ A tabela 24 mostra a história de usuário 23.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu, como beneficiário do auxílio, desejo visualizar as parcelas já pagas e as que ainda faltam, para acompanhar o andamento dos meus recebimentos.                                    |
 | Critérios de aceitação | - O sistema deve exibir uma lista com as parcelas pagas e pendentes.<br> - Cada parcela deve conter o valor e a data correspondente.                                                  |
-| Rastreabilidade        | [RQ31](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ31,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ31](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q21)%0ABrainstorming(B018)-,RQ31,-O%20aplicativo%20deve>) |
 | Prioridade             | Média                                                                                                                                                                                 |
 | Implementado           | Sim                                                                                                                                                                                   |
 
@@ -405,7 +405,7 @@ A tabela 25 mostra a história de usuário 24.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu, como beneficiário do auxílio, desejo visualizar o valor total recebido, para ter controle sobre o montante total do benefício.                                        |
 | Critérios de aceitação | - O sistema deve exibir o valor total somando todas as parcelas pagas.<br> - O valor total deve ser atualizado automaticamente conforme novas parcelas são pagas.         |
-| Rastreabilidade        | [RQ32](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ32,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ32](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=E018)%0AQuestion%C3%A1rio%20(Q22)-,RQ32,-O%20aplicativo%20deve>) |
 | Prioridade             | Média                                                                                                                                                                     |
 | Implementado           | Não                                                                                                                                                                       |
 
@@ -501,7 +501,7 @@ A tabela 31 mostra a história de usuário 30.
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição              | Eu, como estudante, desejo visualizar informações unificadas sobre minha jornada escolar, para acompanhar meu desempenho e atividades acadêmicas.                                        |
 | Critérios de aceitação | - O sistema deve exibir dados sobre notas, frequência, disciplinas, e outros.<br> - As informações devem estar centralizadas em uma única tela.                                          |
-| Rastreabilidade        | [RQ38](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=%2C%20Question%C3%A1rio%20Brainstorming-,RQ38,-O%20aplicativo%20deve) |
+| Rastreabilidade        | [RQ38](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ38,-O%20aplicativo%20deve) |
 | Prioridade             | Alta                                                                                                                                                                                     |
 | Implementado           | Sim                                                                                                                                                                                      |
 
