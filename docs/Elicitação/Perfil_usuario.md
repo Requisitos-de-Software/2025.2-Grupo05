@@ -183,6 +183,22 @@ Após uma análise das respostas, foi traçado dois perfis de usuário, o primei
 - **Grau de escolaridade:** Ensino superior incompleto a superior completo
 - **Tarefas desejadas:** Organizar atividades acadêmicas e centralizar suas respectivas informações.
 
+## Validação - Perfis de usuário
+
+A seguir temos a tabela 2, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O usuário corresponde ao perfil de usuário 1.
+
+| Papel | Nome | Data | Hora | Local |
+|-------|------|------|------|-------|
+| Mediador | [Geovanna Alves](https://github.com/GeovannaUmbelino) | 09/11/2025 | 10:30 | Cidade Ocidental - GO |
+| Usuário | Miguel | 09/11/2025 | 10:30 | Cidade Ocidental - GO |
+
+<p style="text-align: center; font-size: 14px;">
+<strong>Tabela 2:</strong> Validação Perfis de Usuário<br>
+Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6opsT6Ll2oc?si=dQwtxYZpbc77rQa5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Agradecimentos
 
 <div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">

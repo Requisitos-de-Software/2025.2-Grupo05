@@ -47,7 +47,7 @@ A seguir temos a tabela 1, onde indica todos os participantes da elaboração do
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
-        <td>Elaborou o <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/NFR-Framework/#:~:text=m%C3%A1ximo%203%20segundos.-,Rastreabilidade,RQ26,-Classifica%C3%A7%C3%A3o">Cartão de especificação do NFR26</a> e colaborou na confecção do grafo SIG</td>
+        <td>Elaborou o <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/NFR-Framework/#:~:text=m%C3%A1ximo%203%20segundos.-,Rastreabilidade,RQ26,-Classifica%C3%A7%C3%A3o">Cartão de especificação do NFR26</a>, <a href="">Cartão de especificação do NFR10</a> e colaborou na confecção do grafo SIG</td>
         <td>17/10/2025</td>
       </tr>
     </tbody>
@@ -143,7 +143,7 @@ Na tabela 3, está apresentado o cartão de especificação do Requisito Não Fu
 | Itens                 | Descrição                                                                                                                                                           |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | RNF                   | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos.                                                   |
-| Rastriabilidade       | [RQ03](<https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Autor-,RQ3,-Confiabilidade%20(R)>)                                 |
+| Rastreabilidade       | [RQ03](<https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Autor-,RQ3,-Confiabilidade%20(R)>)                                 |
 | Classificação         | Segurança (S)                                                                                                                                                       |
 | Descrição             | O requisito define que aplicativo deve ter tecnologia blockchain para autenticação e diponibilização de documentos ,garantindo ratreabiliade e segurança dos dados. |
 | Justificativa         | O uso da tecnologia blockchain garante a segurança dos dados ,reduzindo a perda de dados.                                                                           |
@@ -156,7 +156,25 @@ Na tabela 3, está apresentado o cartão de especificação do Requisito Não Fu
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/mel14-hub">Lara Souza Mota</a></font>
 
-Tabela 4, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Usabilidade, com foco no tempo para realizar funções principais.
+Na tabela 4, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Usabilidade, com foco na disponibilização do aplicativo em diversas plataformas.
+
+| Itens                 | Descrição                                                                                                                                                           |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RNF                   | O aplicativo deve ter disponibilidade gratuita nos sistemas operacionais: Android e iOS.                                                   |
+| Rastriabilidade       | [RQ10](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20(ADD010)-,RQ10,-O%20aplicativo%20deve)                                 |
+| Classificação         | Usabilidade (U)                                                                                                                                                       |
+| Descrição             | O requisito define que aplicativo deve ter disponibilidade gratuita em sistemas operacionais Android e iOS |
+| Justificativa         | Permite acesso a todos os estudantes que utilizam celular.                                                                           |
+| Critério de Aceitação | O sistema deve ter um acesso gratuito nas lojas de Android e iOS.                          |
+| Dependências          | Disponibilização do aplicativo nas principais lojas de aplicativo.                                         |
+| Prioridade            | Alta                                                                                                                                                                |
+| Conflitos             | Nenhum                                                                                                                                                              |
+
+<font size="3"><p style="text-align: center">Tabela 4: Disponibilização em Android e iOS </p></font>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a></font>
+
+Tabela 5, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Usabilidade, com foco no tempo para realizar funções principais.
 
 | Itens                 | Descrição                                                                                                                                                                                                                                             |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -170,11 +188,11 @@ Tabela 4, está apresentado o cartão de especificação do Requisito Não Funci
 | Prioridade            | Média                                                                                                                                                                                                                                                  |
 | Conflitos             | Nenhum                                                                                                                                                                                                                                                |
 
-<font size="3"><p style="text-align: center">Tabela 4: Tempo para realizar funções principais </p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Tempo para realizar funções principais </p></font>
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/pedrohpsantos">Pedro Henrique</a></font>
 
-A tabela 5, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Usabilidade, com foco na linguagem adequada ao estudante.
+A tabela 6, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Usabilidade, com foco na linguagem adequada ao estudante.
 
 | Itens                 | Descrição                                                                                                                                                                                                                                                        |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -188,11 +206,11 @@ A tabela 5, está apresentado o cartão de especificação do Requisito Não Fun
 | Prioridade            | Média                                                                                                                                                                                                                                                             |
 | Conflitos             | Nenhum                                                                                                                                                                                                                                                           |
 
-<font size="3"><p style="text-align: center">Tabela 5: Linguagem adequada ao estudante </p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Linguagem adequada ao estudante </p></font>
 
 <font size="3"><p style="text-align: center">Autor: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a></font>
 
-A tabela 6, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Performace, com foco em carregar informações em 3 segundos.
+A tabela 7, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Performace, com foco em carregar informações em 3 segundos.
 
 | Itens                 | Descrição                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -206,11 +224,11 @@ A tabela 6, está apresentado o cartão de especificação do Requisito Não Fun
 | Prioridade            | Alta                                                                                                                                                                           |
 | Conflitos             | Nenhum                                                                                                                                                                         |
 
-<font size="3"><p style="text-align: center">Tabela 6: Carregar informações em 3 segundos </p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Carregar informações em 3 segundos </p></font>
 
 <font size="3"><p style="text-align: center">Autor: <a  href="https://github.com/Yanmatheus0812"> Yan Matheus</a></font>
 
-A tabela 7, está apresentados o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Usabilidade, com foco em acessibilidade e inclusão digital.
+A tabela 8, está apresentados o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Usabilidade, com foco em acessibilidade e inclusão digital.
 
 | Itens                 | Descrição                                                                                                                                                                                                          |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -224,11 +242,11 @@ A tabela 7, está apresentados o cartão de especificação do Requisito Não Fu
 | Prioridade            | Alta                                                                                                                                                                                                               |
 | Conflitos             | Nenhum                                                                                                                                                                                                             |
 
-<font size="3"><p style="text-align: center">Tabela 7: Acessibilidade e inclusão digital </p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Acessibilidade e inclusão digital </p></font>
 
 <font size="3"><p style="text-align: center">Autor: <a  href="https://github.com/luisa12ll"> Luísa de Souza </a></font>
 
-A tabela 8, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Performance, com foco no tempo de localização de funcionalidades.
+A tabela 9, está apresentado o cartão de especificação do Requisito Não Funcional (RNF) associados ao NFR Framework de Performance, com foco no tempo de localização de funcionalidades.
 
 | Itens                 | Descrição                                                                                                                                                                          |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -242,7 +260,7 @@ A tabela 8, está apresentado o cartão de especificação do Requisito Não Fun
 | Prioridade            | Alta                                                                                                                                                                              |
 | Conflitos             | Nenhum                                                                                                                                                                             |
 
-<font size="3"><p style="text-align: center">Tabela 8: Tempo de localização de funcionalidades </p></font>
+<font size="3"><p style="text-align: center">Tabela 9: Tempo de localização de funcionalidades </p></font>
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></font>
 
@@ -262,9 +280,9 @@ Figura 4 - Análise diagrama - Usabilidade
 
 ### Requisitos Não-Funcionais - Usabilidade
 
-Na Tabela 8, estão listados os RNF presentes no NFR Famework de Usabilidade :
+Na Tabela 10, estão listados os RNF presentes no NFR Famework de Usabilidade :
 
-<b>Tabela 8</b> - Requisitos Não-Funcionais 1
+<b>Tabela 10</b> - Requisitos Não-Funcionais 1
 
 | RNF (Fonte)                                                                                                                                    | Descrição                                                                                                                                                                           | Classificação |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
@@ -290,9 +308,9 @@ Figura 5 - Análise diagrama - Perfomance
 
 ### Requisitos Não-Funcionais - Performance
 
-Na Tabela 9, estão listados os RNF presentes no NFR Famework de Usabilidade :
+Na Tabela 11, estão listados os RNF presentes no NFR Famework de Usabilidade :
 
-<b>Tabela 9</b> - Requisitos Não-Funcionais 2
+<b>Tabela 11</b> - Requisitos Não-Funcionais 2
 
 | RNF (Fonte)                                                                                                                                | Descrição                                                                                               | Classificação |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | ------------- |
@@ -317,9 +335,9 @@ Figura 6 - Análise diagrama - Segurança
 
 ### Requisitos Não-Funcionais - Segurança
 
-Na Tabela 10, estão listados os RNF presentes no NFR Famework de Usabilidade :
+Na Tabela 12, estão listados os RNF presentes no NFR Famework de Usabilidade :
 
-<b>Tabela 10</b> - Requisitos Não-Funcionais 3
+<b>Tabela 12</b> - Requisitos Não-Funcionais 3
 
 | RNF (Fonte)                                                                                                                         | Descrição                                                                                                         | Classificação |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------- |
@@ -331,9 +349,9 @@ Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ### Participantes 1
 
-A seguir temos a tabela 11, onde indica todos os participantes da sessão NFR Framework, o horário e local da aplicação da técnica.
+A seguir temos a tabela 13, onde indica todos os participantes da sessão NFR Framework, o horário e local da aplicação da técnica.
 
-<font size="3"><p style="text-align: center">Tabela 11: Participantes NFR Framwork</p></font>
+<font size="3"><p style="text-align: center">Tabela 13: Participantes NFR Framwork</p></font>
 
 <div align="center">
   <table>
@@ -402,3 +420,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 | :----: | :--------: | :-----------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------: |
 |  1.0   | 18/10/2025 | Documentação dos primeiros NFRs | [Luisa de Souza](https://github.com/Luisa12ll), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos), [Yan Matheus](https://github.com/Yanmatheus0812), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) | [Luisa de Souza](https://github.com/Luisa12ll) |
 |  1.1   | 20/10/2025 |      Atualização da tabela      |                                                                                                                            [Pedro Henrique](https://github.com/pedrohpsantos)                                                                                                                             |   [Lara Souza](https://github.com/mel14-hub)   |
+|  1.2   | 10/11/2025 |      Adicionado NFR de disponibilização de plataforma   |   [Yan Matheus](https://github.com/Yanmatheus0812) | [Geovanna Alves](https://github.com/GeovannaUmbelino) |

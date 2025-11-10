@@ -79,7 +79,7 @@ A tabela 2 disposta abaixo representa todos os requisitos levantados durante a a
 |           RQ7 | O aplicativo deve apresentar os dados do estudante conforme a ultima atualização recebida do sistema acadêmico, podendo haver divergência em relação ao status final.               |    RR     |     Sim      |  1.1   | [Análise de documentação (ADD08)](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD08,-O%20aplicativo%20deve)                                                                              |
 |           RQ8 | O aplicativo deve possibilitar a visualização de faltas do estudante.                                                                                                               |    RF     |     Sim      |  1.0   | [Análise de documentação (ADD09)](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD09,-O%20aplicativo%20deve)                                                                              |
 |           RQ9 | O aplicativo deve apresentar atualizações referente ao pagamento do Pé-de-Meia disponível em até um mês.                                                                            |    RF     |     Não      |  1.0   | [Análise de documentação (ADD010)](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD010,-O%20aplicativo%20deve)                                                                              |
-|          RQ10 | O aplicativo deve ter disponibilidade gratuita nos sistemas operacionais: Android e iOS.                                                                                            |    RPR    |     Sim      |  1.0   | [Análise de documentação (ADD012)](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD012,-O%20aplicativo%20deve)                                                                             |
+|          RQ10 | O aplicativo deve ter disponibilidade gratuita nos sistemas operacionais: Android e iOS.                                                                                            |    RNF    |     Sim      |  1.1   | [Análise de documentação (ADD012)](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD012,-O%20aplicativo%20deve)                                                                             |
 |          RQ11 | O aplicativo deve possibilitar o acompanhamento de registros estudantis desde o ingresso até níveis superiores.                                                                     |    RF     |     Sim      |  1.0   | [Análise de documentação (ADD013)](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD013,-O%20aplicativo%20deve)                                                                              |
 |          RQ12 | O aplicativo deve ter um canal direto de comunicação entre o MEC e os estudantes.                                                                                                   |    RF     |     Sim      |  1.0   | [Análise de documentação ADD015](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD015,-O%20aplicativo%20deve)                                                                              |
 |          RQ13 | O aplicativo deve possibilitar informar um curso que você estudou ou está cursando.                                                                                                 |    RF     |     Sim      |  1.0   | [Análise de documentação (ADD016)](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/#:~:text=Foto-,ADD016,-O%20aplicativo%20deve)                                                                              |
@@ -143,31 +143,20 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 
 </p>
 
-## Validação da Elicitação de Requisitos
+## Validação - Elicitação de requisitos
+A seguir temos a tabela 3, onde indica todos os participantes da validação da elicitação, o horário e local da aplicação da técnica. O usuário corresponde ao perfil de usuário 1.
 
-A etapa de validação da elicitação tem como objetivo confirmar junto aos stakeholders se os requisitos levantados estão corretos, consistentes e de acordo com as reais necessidades do projeto.
+| Papel | Nome | Data | Hora | Local |
+|-------|------|------|------|-------|
+| Mediador | [Geovanna Alves](https://github.com/GeovannaUmbelino) | 27/09/2025 | 10:40 | Cidade Ocidental - GO |
+| Usuário | Miguel | 27/09/2025 | 10:40 | Cidade Ocidental - GO |
 
-Esse processo é importante para:
+<p style="text-align: center; font-size: 14px;">
+<strong>Tabela 3:</strong> Validação elicitação de requisitos<br>
+Autor: <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>
+</p>
 
-Garantir que não haja ambiguidades ou erros de interpretação.
-
-Verificar se os requisitos elicitados atendem às expectativas do cliente.
-
-Evitar retrabalho durante as próximas fases do desenvolvimento.
-
-A validação foi realizada por meio de entrevista, onde os requisitos foram apresentados, discutidos e ajustados com base no feedback dos envolvidos.
-
-A Tabela 3 apresenta as informações da etapa de gravação da elicitação, como data, hora e local.
-
-Tabela 3: Informações da Gravação.
-
-| Data       | Hora  | Local               |
-| ---------- | ----- | ------------------- |
-| 27/09/2025 | 10:40 | Cidade Ocidental-GO |
-
-Autoria de <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>.</p>
-
-Além disso, a gravação da validação pode ser conferida em: [Validação da elicitação de requisitos](https://www.youtube.com/watch?v=dK_SfG7SVw8&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji&index=24).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dK_SfG7SVw8?si=GtXG_cbe6-XWQUpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Agradecimentos
 
@@ -190,3 +179,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 | 1.4    | 28/10/2025 | Ajustando requisito 59 não implementado |[Yan Matheus](https://github.com/Yanmatheus0812)   | [Geovanna Alves](https://github.com/GeovannaUmbelino)     |
 | 1.5    | 31/10/2025 | Ajustando os hiperlinks dos requisitos |  [Geovanna Alves](https://github.com/GeovannaUmbelino)   e  [Camila Silva](https://github.com/CamilaSilvaC)  | [Yan Matheus](https://github.com/Yanmatheus0812)   |
 | 1.6    | 09/10/2025 | Adicionado a tabela de contribuição         | [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                                          | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
+| 1.7 | 10/11/2025 | Ajuste no RQ10 e correção no vídeo de validação | [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC)
