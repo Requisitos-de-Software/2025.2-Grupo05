@@ -166,6 +166,50 @@ A seguir temos as **gravações das sessões**:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/95WRn_oEFC0?si=pDSPptZqjMFu92Tj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+## Validação - Brainstorming
+
+A seguir temos a tabela 2 , onde indica todos os participantes da validação da técnica , o horário e local da aplicação da técnica. Todos os usuários correspondem ao perfil de usuário 2
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>09/11/2025</td>
+        <td>9:00</td>
+        <td>Residência da participante Deucimar</td>
+         </tr>
+      <tr>
+       <tr>
+        <td>Usuário</td>
+        <td>Deucimar</td>
+         <td>09/11/2025</td>
+        <td>9:00</td>
+        <td>Residência da participante Deucimar</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+Tabela 2: Validação 1 Braisntorming
+Autor: [Lara Souza](https://github.com/mel14-hub)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KgVbfhW2zSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Agradecimentos
 
 <div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
