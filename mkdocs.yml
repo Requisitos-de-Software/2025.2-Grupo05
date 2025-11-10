@@ -139,14 +139,15 @@ nav:
               - Backlog: Modelagem/LVs/Ágil/BacklogLV.md
               - NFR Framework: Modelagem/LVs/Ágil/NFRLV.md
   - Análise:
-      - Verificação: Análise/Verificação.md
-      - Validação: Análise/Validação.md
+      - Prototipação: Análise/Prototipacao.md
       - Comprovação informal: Análise/Comprovacao.md
+
   - Pós-Rastreabilidade:
-      - Elos de Rastreabilidade: Pós-Rastreabilidade/Lvs/Elos-Rastreabilidade.md
       - Forward-From: Pós-Rastreabilidade/Forward-From.md
       - Backward-From: Pós-Rastreabilidade/Backward-From.md
       - Matriz de Rastreabilidade: Pós-Rastreabilidade/Matriz_Rastreabilidade.md
+      - Listas de verificação:
+        - Elos de Rastreabilidade: Pós-Rastreabilidade/Lvs/Elos-Rastreabilidade.md
 
   - Aplicativo Anterior:
       - Sobre: Aplicativo_anterior/Sobre_hbo.md

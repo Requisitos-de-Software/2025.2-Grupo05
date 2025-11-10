@@ -4,9 +4,59 @@
 
 - Essa página reune todos os requisitos elicitados usando as técnicas de [Análise de documentação](./Tecnicas/Analise_docs.md), [Entrevista](./Tecnicas/Entrevista.md), [Questionário](./Tecnicas/Questionário.md) e [Brainstorm](./Tecnicas/Brainstorming.md).
 
+## Participantes
+
+A seguir temos a tabela 1, onde indica todos os participantes da técnica de elicitação do questionário e a data da elaboração.
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Participação</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>21/09/2025</td>
+        <td>Elaborou de forma conjunta todos os requisitos</td>
+      </tr>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+        <td>21/09/2025</td>
+        <td>Elaborou de forma conjunta todos os requisitos</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>21/09/2025</td>
+        <td>Elaborou de forma conjunta todos os requisitos</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/luisa12ll">Luísa Souza</a></td>
+        <td>21/09/2025</td>
+        <td>Elaborou de forma conjunta todos os requisitos</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+        <td>21/09/2025</td>
+        <td>Elaborou de forma conjunta todos os requisitos</td>
+      </tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+        <td>21/09/2025</td>
+        <td>Elaborou de forma conjunta todos os requisitos</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 1: Participantes do questionário
+
+Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+
 ## Tabela de Requisitos
 
-A tabela 1 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'RQ' + numero do requisito, e com a seguinte legenda de categoria:
+A tabela 2 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'RQ' + numero do requisito, e com a seguinte legenda de categoria:
 
 - RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
 - RNF: Requisitos Não-Funcionais - Descrevem os atributos que o software deve ter, como desempenho, segurança e usabilidade, mas não descrevem o comportamento do software em si.
@@ -83,7 +133,7 @@ A tabela 1 disposta abaixo representa todos os requisitos levantados durante a a
 |          RQ61 | O aplicativo deve permitir a visualização de ocorrências.                                                                                                                           |    RF     |     Não      |  1.0   | [Brainstorming](./Tecnicas/Brainstorming.md)                                                                                       |
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 1 – Conjunto de requisitos elicitados.<br>
+Tabela 2 – Conjunto de requisitos elicitados.<br>
 Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>,
 <a href="https://github.com/mel14-hub">Lara Souza</a>,
@@ -107,9 +157,9 @@ Evitar retrabalho durante as próximas fases do desenvolvimento.
 
 A validação foi realizada por meio de entrevista, onde os requisitos foram apresentados, discutidos e ajustados com base no feedback dos envolvidos.
 
-A Tabela 2 apresenta as informações da etapa de gravação da priorização, como data, hora e local.
+A Tabela 3 apresenta as informações da etapa de gravação da elicitação, como data, hora e local.
 
-Tabela 2:Informações da Gravação.
+Tabela 3: Informações da Gravação.
 
 | Data       | Hora  | Local               |
 | ---------- | ----- | ------------------- |
@@ -139,3 +189,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 | 1.3    | 30/09/2025 | Adicionando vídeo da validação dos requisitos | [Geovanna Alves](https://github.com/GeovannaUmbelino)                                                                                                                                                                                                                                                      | [Yan Matheus](https://github.com/Yanmatheus0812)      |
 | 1.4    | 28/10/2025 | Ajustando requisito 59 não implementado |[Yan Matheus](https://github.com/Yanmatheus0812)   | [Geovanna Alves](https://github.com/GeovannaUmbelino)     |
 | 1.5    | 31/10/2025 | Ajustando os hiperlinks dos requisitos |  [Geovanna Alves](https://github.com/GeovannaUmbelino)   e  [Camila Silva](https://github.com/CamilaSilvaC)  | [Yan Matheus](https://github.com/Yanmatheus0812)   |
+| 1.6    | 09/10/2025 | Adicionado a tabela de contribuição         | [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                                          | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
