@@ -202,13 +202,10 @@ A seguir temos a tabela 2 , onde indica todos os participantes da validação da
   </table>
 </div>
 
-
-
 Tabela 2: Validação 1 Braisntorming
 Autor: [Lara Souza](https://github.com/mel14-hub)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KgVbfhW2zSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/53EtVdgDjSo?si=cKVyuJGEjyp60lIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Agradecimentos
 

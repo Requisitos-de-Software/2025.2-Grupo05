@@ -393,6 +393,46 @@ A seguir temos a tabela 13, onde indica todos os participantes da sessão NFR Fr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZolIzMOZ5J0?si=dbfvRF6vv7gEiFmn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Validação - NFR Framework
+
+A seguir temos a tabela 14 , onde indica todos os participantes da validação da técnica , o horário e local da aplicação da técnica. Todos os usuários correspondem ao perfil de usuário 2
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+        <td>10/11/2025</td>
+        <td>20:00</td>
+        <td>Santa Maria - DF</td>
+         </tr>
+      <tr>
+       <tr>
+        <td>Usuário</td>
+        <td>Matheus</td>
+         <td>10/11/2025</td>
+        <td>20:00</td>
+        <td>Santa Maria - DF</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 14: Validação NFR Framework
+Autor: [Yan Matheus](https://github.com/Yanmatheus0812) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UFYjj2E0R88?si=PDe3oeynYqg0Ib3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Agradecimentos
 
 <div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">

@@ -186,6 +186,47 @@ As gravações da priorização podem ser conferidas em:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRTOS0YSoTg?si=pZQh83kvEK0rjXKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Validação - 100$
+
+A seguir temos a tabela 3 , onde indica todos os participantes da validação da técnica , o horário e local da aplicação da técnica. Todos os usuários correspondem ao perfil de usuário 2
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>10/11/2025</td>
+        <td>9:00</td>
+        <td>Goiânia - GO</td>
+         </tr>
+      <tr>
+       <tr>
+        <td>Usuário</td>
+        <td>Bruno</td>
+         <td>10/11/2025</td>
+        <td>9:00</td>
+        <td>Goiânia - GO</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 3: Validação 100$
+Autor: [Yan Matheus](https://github.com/Yanmatheus0812) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dIOrMjK-7Ec?si=vO-QRQFCiay2UW-y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Agradecimentos
 
 <div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
