@@ -80,7 +80,7 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou com 
 # Validação do protótipo 
 
 
-## Tarefas do Particpantes
+## Tarefas dos Usuários 
 
 - Encontar melhorias
 - Apontar falhas 
