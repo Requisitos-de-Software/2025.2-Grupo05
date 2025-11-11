@@ -122,26 +122,26 @@ A tabela 2 disposta abaixo representa todos os requisitos levantados durante a a
 | B07           | O aplicativo deve permitir a visualização de datas importantes em um calendário.                                      | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)        |
 | B08           | O aplicativo deve permitir a visualização das faltas em cada disciplina.                                              | RF        | Sim          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
 | B09           | O aplicativo deve notificar notas e avaliações com dois dias e uma semana antes.                                      | RF        | Não          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)        |
-| B010          | O aplicativo deve notificar faltas após serem lançadas no aplicativo.                                                 | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)       |
-| B011          | O aplicativo deve permitir a visualização de ocorrências.                                                             | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
-| B012          | O aplicativo deve ser fácil de usar e aprender suas funcionalidades.                                                  | RNF       | Sim          | 1.0    | [Priorização dos requisitos pelos participantes](https://youtu.be/95WRn_oEFC0) |
-| B013          | O aplicativo deve ter uma linguagem simples e adequada ao estudante (sem termos técnicos).                              | RNF       | Sim          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
-| B014          | O aplicativo deve carregar suas informações em no máximo 3 segundos.                                                  | RNF       | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)       |
-| B015          | O aplicativo deve possibilitar o estudante emitir a declaração de vínculo da instituição de ensino.                     | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
-| B016          | O aplicativo deve possibilitar o estudante emitir seu histórico da instituição de ensino.                               | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)       |
-| B017          | O aplicativo deve possibilitar o estudante visualizar boletim da instituição de ensino.                                 | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
-| B018          | O aplicativo deve possibilitar o estudante visualizar programas estudantis (FIES, Prouni, Sisu, Moodle e outros).       | RF        | Sim          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)      |
-| B019          | O aplicativo deve possibilitar o estudante adicionar datas importantes em um calendario.                                | RF        | Não          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
-| B020          | O aplicativo deve ter informações unificadas sobre sua jornada escolar.                                               | RF        | Sim          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
-| B021          | O aplicativo deve manter as informações do estudante seguras e privadas.                                                | RR        | Sim          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)        |
-| B022          | O aplicativo deve ser acessível (contraste em cores, suporte à libras e auto-descrição ).                             | RNF       | Não          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
-| B023          | O aplicativo deve ter um design sem sobrecarga de informações na tela                                                 | RI        | Sim          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)        |
-| B024          | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos.               | RNF       | Não          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
-| B025          | O aplicativo deve notificar quando editais de vestibulares forem abertos.                                             | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)       |
-| B026          | O aplicattivo deve ter um forum entre estudantes.                                                                     | RF        | Não          | 1.0    |  [Priorização dos requisitos pelos participantes](https://youtu.be/95WRn_oEFC0) |
-| B027          | O aplicativo deve ter um forum por disciplina entre estudantes e professores.                                         | RF        | Não          | 1.0    |   [Priorização dos requisitos pelos participantes](https://youtu.be/95WRn_oEFC0)  |
-| B028          | O aplicativo deve permitir a emissão de diplomas.                                                                     | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
-| B029          | O aplicativo deve ter um canal de suporte ao estudante.                                                                 | RF        | Sim          | 1.0    |  [Priorização dos requisitos pelos participantes](https://youtu.be/95WRn_oEFC0) |
+| B10          | O aplicativo deve notificar faltas após serem lançadas no aplicativo.                                                 | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)       |
+| B11          | O aplicativo deve permitir a visualização de ocorrências.                                                             | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
+| B12          | O aplicativo deve ser fácil de usar e aprender suas funcionalidades.                                                  | RNF       | Sim          | 1.0    | [Priorização dos requisitos pelos participantes](https://youtu.be/95WRn_oEFC0) |
+| B13          | O aplicativo deve ter uma linguagem simples e adequada ao estudante (sem termos técnicos).                              | RNF       | Sim          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
+| B14          | O aplicativo deve carregar suas informações em no máximo 3 segundos.                                                  | RNF       | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)       |
+| B15          | O aplicativo deve possibilitar o estudante emitir a declaração de vínculo da instituição de ensino.                     | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
+| B16          | O aplicativo deve possibilitar o estudante emitir seu histórico da instituição de ensino.                               | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)       |
+| B17          | O aplicativo deve possibilitar o estudante visualizar boletim da instituição de ensino.                                 | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
+| B18          | O aplicativo deve possibilitar o estudante visualizar programas estudantis (FIES, Prouni, Sisu, Moodle e outros).       | RF        | Sim          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)      |
+| B19          | O aplicativo deve possibilitar o estudante adicionar datas importantes em um calendario.                                | RF        | Não          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
+| B20          | O aplicativo deve ter informações unificadas sobre sua jornada escolar.                                               | RF        | Sim          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
+| B21          | O aplicativo deve manter as informações do estudante seguras e privadas.                                                | RR        | Sim          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)        |
+| B22          | O aplicativo deve ser acessível (contraste em cores, suporte à libras e auto-descrição ).                             | RNF       | Não          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
+| B23          | O aplicativo deve ter um design sem sobrecarga de informações na tela                                                 | RI        | Sim          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)        |
+| B24          | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos.               | RNF       | Não          | 1.0    |  [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
+| B25          | O aplicativo deve notificar quando editais de vestibulares forem abertos.                                             | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)       |
+| B26          | O aplicattivo deve ter um forum entre estudantes.                                                                     | RF        | Não          | 1.0    |  [Priorização dos requisitos pelos participantes](https://youtu.be/95WRn_oEFC0) |
+| B27          | O aplicativo deve ter um forum por disciplina entre estudantes e professores.                                         | RF        | Não          | 1.0    |   [Priorização dos requisitos pelos participantes](https://youtu.be/95WRn_oEFC0)  |
+| B28          | O aplicativo deve permitir a emissão de diplomas.                                                                     | RF        | Não          | 1.0    | [Brainstorm de elicitação de requisitos](https://youtu.be/OuCuQnkgDT4)         |
+| B29          | O aplicativo deve ter um canal de suporte ao estudante.                                                                 | RF        | Sim          | 1.0    |  [Priorização dos requisitos pelos participantes](https://youtu.be/95WRn_oEFC0) |
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 2 – Conjunto de requisitos elicitados no Brainstorm.<br>
@@ -154,7 +154,7 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>,
 
 A seguir temos as **gravações das sessões**:
 
-- Termo de Consentimento e Brainstorm perfil de usuário
+- Termo de Consentimento e Brainstorm
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ls3DBFVdAmE?si=cs1L53MZNpy24zCt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -165,6 +165,50 @@ A seguir temos as **gravações das sessões**:
 - Priorização dos requisitos pelos participantes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/95WRn_oEFC0?si=pDSPptZqjMFu92Tj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Validação - Brainstorming
+
+A seguir temos a tabela 2 , onde indica todos os participantes da validação da técnica , o horário e local da aplicação da técnica. Todos os usuários correspondem ao perfil de usuário 2
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+        <td>09/11/2025</td>
+        <td>9:00</td>
+        <td>Residência da participante Deucimar</td>
+         </tr>
+      <tr>
+       <tr>
+        <td>Usuário</td>
+        <td>Deucimar</td>
+         <td>09/11/2025</td>
+        <td>9:00</td>
+        <td>Residência da participante Deucimar</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+Tabela 2: Validação 1 Braisntorming
+Autor: [Lara Souza](https://github.com/mel14-hub)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KgVbfhW2zSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Agradecimentos
 

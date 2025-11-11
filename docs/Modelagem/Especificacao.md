@@ -94,12 +94,12 @@ A seguir, temos a Tabela 2, referente à Especificação Suplementar, na qual a 
 
 | Código                                                                                                      | Categoria          | Requisito Não Funcional                                                                                                                                                             | Descrição                                                                                                                                                                                                         | Justificativa                                                                                                                                                           | Prioridade | Implementado | Autor                                                 |
 | ----------------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------ | ----------------------------------------------------- |
-| [RQ3](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ3,-O%20aplicativo%20deve)  | Confiabilidade (R) | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos.                                                                   | O aplicativo deve usar blockchain para tornar a autenticação de estudantes e a disponibilização de documentos seguras, confiáveis e imutáveis, garantindo a integridade e autenticidade das informações.            | O uso da tecnologia blockchain oferece um alto nível de qualidade e segurança, protegendo o sistema contra fraudes e alterações indevidas nos documentos.               | Alta       | Sim          | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
-| [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%201-,RQ24,-O%20usu%C3%A1rio%20deve) | Usabilidade (U)    | O estudante deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio. | O aplicativo deve oferecer uma interface clara e intuitiva, permitindo que os estudantes naveguem de forma simples e natural. As funcionalidades devem ser fáceis de entender, com instruções diretas e acessíveis. | Um aplicativo fácil de usar melhora a experiência dos estudantes, reduz a ocorrência de erros e permite que eles naveguem pela plataforma de forma mais rápida e simples. | Alta       | Sim          | [Pedro Henrique](https://github.com/pedrohpsantos)    |
-| [RQ25](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ25,-O%20aplicativo%20deve) | Usabilidade (U)    | O aplicativo deve ter uma linguagem simples e adequada ao estudante (sem termos técnicos)                                                                                             | O aplicativo deve usar uma linguagem clara, acessível e adequada ao perfil dos estudantes, evitando termos técnicos complexos e promovendo uma comunicação eficiente.                                               | Uma linguagem simples facilita a compreensão das funcionalidades e conteúdos pelo estudantes, melhorando a experiência de uso e reduzindo dúvidas e erros.                 | Alta       | Sim          | [Lara Souza](https://github.com/mel14-hub)            |
-| [RQ26](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ26,-O%20aplicativo%20deve) | Performance (P)    | O aplicativo deve carregar suas informações em no máximo 3 segundos.                                                                                                                | O sistema deve garantir tempos de carregamento rápidos para páginas e funcionalidades, com tempo máximo de 3 segundos para o carregamento completo das informações.                                               | Garantir rapidez no carregamento melhora a experiência do estudantes e evita desistência, especialmente em redes lentas ou dispositivos com menor capacidade.              | Alta       | Não          | [Luisa de Souza](https://github.com/Luisa12ll)        |
+| [RQ3](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20(ADD03)-,RQ3,-O%20aplicativo%20deve)  | Confiabilidade (R) | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos.                                                                   | O aplicativo deve usar blockchain para tornar a autenticação de estudantes e a disponibilização de documentos seguras, confiáveis e imutáveis, garantindo a integridade e autenticidade das informações.            | O uso da tecnologia blockchain oferece um alto nível de qualidade e segurança, protegendo o sistema contra fraudes e alterações indevidas nos documentos.               | Média       | Sim          | [Geovanna Alves](https://github.com/GeovannaUmbelino) |
+| [RQ24](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Entrevista%20(E010)-,RQ24,-O%20estudante%20deve) | Usabilidade (U)    | O estudante deve ser capaz de realizar as principais funções do aplicativo (cadastro, login, busca, e envio de dados) em até 8 minutos de uso, sem necessidade de treinamento prévio. | O aplicativo deve oferecer uma interface clara e intuitiva, permitindo que os estudantes naveguem de forma simples e natural. As funcionalidades devem ser fáceis de entender, com instruções diretas e acessíveis. | Um aplicativo fácil de usar melhora a experiência dos estudantes, reduz a ocorrência de erros e permite que eles naveguem pela plataforma de forma mais rápida e simples. | Média       | Sim          | [Pedro Henrique](https://github.com/pedrohpsantos)    |
+| [RQ25](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q15)%0ABrainstorming(B012)-,RQ25,-O%20aplicativo%20deve>) | Usabilidade (U)    | O aplicativo deve ter uma linguagem simples e adequada ao estudante (sem termos técnicos)                                                                                             | O aplicativo deve usar uma linguagem clara, acessível e adequada ao perfil dos estudantes, evitando termos técnicos complexos e promovendo uma comunicação eficiente.                                               | Uma linguagem simples facilita a compreensão das funcionalidades e conteúdos pelo estudantes, melhorando a experiência de uso e reduzindo dúvidas e erros.                 | Média       | Sim          | [Lara Souza](https://github.com/mel14-hub)            |
+| [RQ26](<https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q16)%0ABrainstorming(B013)-,RQ26,-O%20aplicativo%20deve>) | Performance (P)    | O aplicativo deve carregar suas informações em no máximo 3 segundos.                                                                                                                | O sistema deve garantir tempos de carregamento rápidos para páginas e funcionalidades, com tempo máximo de 3 segundos para o carregamento completo das informações.                                               | Garantir rapidez no carregamento melhora a experiência do estudantes e evita desistência, especialmente em redes lentas ou dispositivos com menor capacidade.              | Alta       | Não          | [Luisa de Souza](https://github.com/Luisa12ll)        |
 | [RQ40](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ40,-O%20aplicativo%20deve) | Usabilidade (U)    | O aplicativo deve ser acessível (contraste em cores, suporte à Libras e auto-descrição).                                                                                            | Garantir que o aplicativo siga boas práticas de acessibilidade, oferecendo contraste adequado, suporte à tradução em Libras e auto-descrição para pessoas com deficiência visual.                                 | Promover a inclusão digital e o cumprimento de normas de acessibilidade (Lei Brasileira de Inclusão e WCAG 2.1).                                                        | Alta       | Sim          | [Camila Silva](https://github.com/CamilaSilvaC)       |
-| [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ54,-O%20aplicativo%20deve) | Performance (P)    | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos.                                                                             | O sistema deve oferecer uma navegação intuitiva e mecanismos de busca eficientes que permitam localizar rapidamente qualquer funcionalidade.                                                                      | Facilitar o uso e reduzir o tempo de aprendizado, melhorando a experiência do estudantes.                                                                                  | Média      | Não          | [Yan Matheus](https://github.com/Yanmatheus0812)      |
+| [RQ54](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio-,RQ54,-O%20aplicativo%20deve) | Performance (P)    | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos.                                                                             | O sistema deve oferecer uma navegação intuitiva e mecanismos de busca eficientes que permitam localizar rapidamente qualquer funcionalidade.                                                                      | Facilitar o uso e reduzir o tempo de aprendizado, melhorando a experiência do estudantes.                                                                                  | Alta      | Não          | [Yan Matheus](https://github.com/Yanmatheus0812)      |
 
 Tabela 2 – Requisitos Não Funcionais classificados de acordo com o modelo FURPS+. <br>
 Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="https://github.com/GeovannaUmbelino"> Geovanna Alves </a>, <a href="https://github.com/mel14-hub">Lara Mota</a>,
@@ -107,7 +107,7 @@ Fonte: <a  href="https://github.com/CamilaSilvaC"> Camila Silva</a>, <a  href="h
 
 ## Gravação
 
-### Participantes 1
+### Participantes da gravação
 
 A seguir temos a tabela 3, onde indica todos os menbros da equipe que participaram da gravação.
 
@@ -152,13 +152,51 @@ A seguir temos a tabela 3, onde indica todos os menbros da equipe que participar
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></font>
 
-### Vídeo 1
-
 A seguir, apresentamos a gravação referente à elaboração da **especificação suplementar**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A_6FJ9gH3F0?si=Dq85LAq3XjP_Z1bD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Vídeo 2
+## Validação
+
+### Participantes da validação
+
+A seguir temos a tabela 4, onde indica todos os participantes da especificação suplementar, o horário e local da aplicação da técnica.
+
+<font size="3"><p style="text-align: center">Tabela 4: Participantes do video de validação da especificação suplementar</p></font>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+        <td>12/10/2025</td>
+        <td>13:15</td>
+        <td>Gama - Distrito Federal</td>
+         </tr>
+      <tr>
+      <tr>
+        <td>Usuário</td>
+        <td>João Victor</td>
+        <td>12/10/2025</td>
+        <td>13:15</td>
+        <td>Gama - Distrito Federal</td>
+      </tr>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/luisa12ll">Luísa de Souza</a></font>
 
 A seguir, apresentamos a gravação referente à **verificação da especificação suplementar**.
 

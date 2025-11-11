@@ -4,6 +4,56 @@
 
 No intuito de se conhecer melhor os usuários do aplicativo é necessário elaborar um perfil genérico chamado de perfil de usuário. Segundo Barbosa e Silva<a id="anchor_1" href="#FRM1">[1]</a> <q>perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado</q>.
 
+## Participantes
+
+A seguir temos a tabela 1, onde indica todos os participantes da criação do Perfil de usuário, o horário e sua contribuição.
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Participação</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+         <td>25/09/2025</td>
+        <td>Criação do perfil de usuário através da elaboração do questionário</td>
+      </tr>
+      <tr>
+        <tr>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
+         <td>25/09/2025</td>
+        <td>Criação do perfil de usuário através da gravação das entrevistas e questionário</td>
+      </tr>
+      <tr>
+        <tr>
+        <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+         <td>25/09/2025</td>
+        <td>Criação do perfil de usuário através da gravação das entrevistas</td>
+      </tr>
+      <tr>
+        <tr>
+        <td><a href="https://github.com/pedrohpsanto">Pedro Henrique</a></td>
+         <td>25/09/2025</td>
+        <td>Criação do perfil de usuário através da gravação das entrevistas</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
+        <td>25/09/2025</td>
+        <td>Criação do perfil de usuário através da gravação das entrevistas e questionário</td>
+         </tr>
+      <tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 1: Participantes
+Autor: [Yan Matheus](https://github.com/Yanmatheus0812)
+
 ## Metodologia
 
 Para a aquisição de dados para a criação do perfil de usuário, foram usadas duas técnicas de elicitação de requisitos, o questionário e entrevistas. Em ambas as técnicas o grupo optou por não entrevistar menores de dezoito anos para evitar maiores burocracias.
@@ -152,3 +202,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 | Versão | Data       | Descrição                         | Autor                                                                                                                                                                                                                                                     | Revisor                                        |
 | ------ | ---------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 25/09/2025 | Documentação do perfil de usuário | [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza](https://github.com/mel14-hub), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |
+| 1.1 | 06/11/2025 | Criação da tabela de contribuição | [Yan Matheus](https://github.com/Yanmatheus0812) | [Lara Souza](https://github.com/mel14-hub) |
