@@ -360,7 +360,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../An%C3%A1lise/Verifica%C3%A7%C3%A3o/" class="md-tabs__link">
+        <a href="../../An%C3%A1lise/Prototipacao/" class="md-tabs__link">
           
   
   Análise
@@ -378,7 +378,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../P%C3%B3s-Rastreabilidade/Lvs/Elos-Rastreabilidade/" class="md-tabs__link">
+        <a href="../../P%C3%B3s-Rastreabilidade/Forward-From/" class="md-tabs__link">
           
   
   Pós-Rastreabilidade
@@ -3074,31 +3074,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../An%C3%A1lise/Verifica%C3%A7%C3%A3o/" class="md-nav__link">
+      <a href="../../An%C3%A1lise/Prototipacao/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Verificação
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../An%C3%A1lise/Valida%C3%A7%C3%A3o/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Validação
+    Prototipação
   </span>
   
 
@@ -3180,26 +3160,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../P%C3%B3s-Rastreabilidade/Lvs/Elos-Rastreabilidade/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Elos de Rastreabilidade
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../../P%C3%B3s-Rastreabilidade/Forward-From/" class="md-nav__link">
         
   
@@ -3249,6 +3209,70 @@
   
 
       </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_4" id="__nav_10_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Listas de verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_4">
+            <span class="md-nav__icon md-icon"></span>
+            Listas de verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../P%C3%B3s-Rastreabilidade/Lvs/Elos-Rastreabilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Elos de Rastreabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
     </li>
   
 
@@ -3608,8 +3632,24 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>O estudante acessa o tutorial do aplicativo</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve estar logado no aplicativo</td>
+</tr>
+<tr>
 <td>Fluxo principal</td>
 <td>entrar no aplicativo &gt; acessar o tutorial em vídeo</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O estudante pausa ou sai do vídeo antes do término</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>Falha na conexão impede o carregamento do vídeo</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>O tutorial em vídeo é exibido com sucesso</td>
 </tr>
 <tr>
 <td>Relacionamentos</td>
@@ -3648,8 +3688,24 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>O estudante visualiza informações da disciplinas</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve estar matriculado em pelo menos uma disciplina</td>
+</tr>
+<tr>
 <td>Fluxo principal</td>
 <td>entrar no aplicativo &gt; acessar a página da disciplina</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O estudante acessa outra disciplina pelo menu</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>Falha na comunicação com o servidor impede o carregamento das informações</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>As informações da disciplina são exibidas na tela</td>
 </tr>
 <tr>
 <td>Relacionamentos</td>
@@ -3661,7 +3717,7 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 </tr>
 <tr>
 <td>Rastreabilidade</td>
-<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=An%C3%A1lise%20de%20documenta%C3%A7%C3%A3o-,RQ17,-O%20aplicativo%20deve">RQ17</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ18,-O%20aplicativo%20deve">RQ18</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=1%2C%20Brainstorming-,RQ19,-O%20aplicativo%20deve">RQ19</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ20,-O%20aplicativo%20deve">RQ20</a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=de%20documenta%C3%A7%C3%A3o%20(ADD019)-,RQ17,-O%20aplicativo%20deve">RQ17</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=B01)%0ABrainstorming%20(B03)-,RQ18,-O%20aplicativo%20deve">RQ18</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=E02)%0ABrainstorming(B02)-,RQ19,-O%20aplicativo%20deve">RQ19</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q11)%0ABrainstorming(B04)-,RQ20,-O%20aplicativo%20deve">RQ20</a></td>
 </tr>
 </tbody>
 </table>
@@ -3688,8 +3744,24 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>O estudante acessa o fórum da disciplina para falar com o professor</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve estar logado e matriculado na disciplina</td>
+</tr>
+<tr>
 <td>Fluxo principal</td>
 <td>entrar no aplicativo &gt; acessar a página da disciplina &gt; acessar fórum da disciplina</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O estudante apenas lê as mensagens sem interagir</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>O fórum está temporariamente indisponível</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>O fórum da disciplina é exibido e pode ser utilizado</td>
 </tr>
 <tr>
 <td>Relacionamentos</td>
@@ -3728,8 +3800,24 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>O estudante acessa a página do auxílio</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve possuir cadastro ativo no programa de auxílio</td>
+</tr>
+<tr>
 <td>Fluxo principal</td>
 <td>entrar no aplicativo &gt; acessar a página do auxílio</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O estudante atualiza a página para obter novos dados</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>Falha na conexão com o servidor do programa de auxílio</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>As informações sobre o auxílio são apresentadas</td>
 </tr>
 <tr>
 <td>Relacionamentos</td>
@@ -3741,7 +3829,7 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 </tr>
 <tr>
 <td>Rastreabilidade</td>
-<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ31,-O%20aplicativo%20deve">RQ31</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ32,-O%20aplicativo%20deve">RQ32</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ33,-O%20aplicativo%20deve">RQ33</a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q21)%0ABrainstorming(B018)-,RQ31,-O%20aplicativo%20deve">RQ31</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=E018)%0AQuestion%C3%A1rio%20(Q22)-,RQ32,-O%20aplicativo%20deve">RQ32</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ33,-O%20aplicativo%20deve">RQ33</a></td>
 </tr>
 </tbody>
 </table>
@@ -3768,8 +3856,24 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>O estudante edita suas informações bancárias acessando um link do Gov.br</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve estar logado e ter acesso ao Gov.br</td>
+</tr>
+<tr>
 <td>Fluxo principal</td>
 <td>entrar no aplicativo &gt; acessar a página do auxílio &gt; Editar informações bancárias &gt; Gov.br</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O estudante cancela a edição antes de confirmar</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>Erro de autenticação no Gov.br impede a edição dos dados</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>Os dados bancários são atualizados com sucesso</td>
 </tr>
 <tr>
 <td>Relacionamentos</td>
@@ -3781,7 +3885,7 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 </tr>
 <tr>
 <td>Rastreabilidade</td>
-<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ31,-O%20aplicativo%20deve">RQ31</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ32,-O%20aplicativo%20deve">RQ32</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ33,-O%20aplicativo%20deve">RQ33</a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q21)%0ABrainstorming(B018)-,RQ31,-O%20aplicativo%20deve">RQ31</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=E018)%0AQuestion%C3%A1rio%20(Q22)-,RQ32,-O%20aplicativo%20deve">RQ32</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=2%2C%20Question%C3%A1rio-,RQ33,-O%20aplicativo%20deve">RQ33</a></td>
 </tr>
 </tbody>
 </table>
@@ -3808,8 +3912,24 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>O estudante visualiza o dia do pagamento do auxílio</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve estar inscrito no programa de auxílio</td>
+</tr>
+<tr>
 <td>Fluxo principal</td>
 <td>entrar no aplicativo &gt; acessar a página do auxílio &gt; Visualizar dia do pagamento</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O estudante consulta datas de pagamentos anteriores</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>O sistema não consegue obter as informações de pagamento</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>A data de pagamento é exibida corretamente</td>
 </tr>
 <tr>
 <td>Relacionamentos</td>
@@ -3848,8 +3968,24 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>O estudante se comunica através de um canal com um atendente</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve estar logado e ter um canal de atendimento disponível</td>
+</tr>
+<tr>
 <td>Fluxo principal</td>
 <td>entrar no aplicativo &gt; acessar a página do auxílio &gt; Falar com um atendente</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O estudante envia uma mensagem fora do horário de atendimento e espera muito tempo para uma resposta</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>Falha no servidor impede o envio da mensagem</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>A conversa é registrada no sistema de atendimento</td>
 </tr>
 <tr>
 <td>Relacionamentos</td>
@@ -3888,8 +4024,24 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>O estudante cadastra eventos na agenda, podendo edita-los e exclui-los</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve estar logado no aplicativo</td>
+</tr>
+<tr>
 <td>Fluxo principal</td>
 <td>entrar no aplicativo &gt; Agenda</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O estudante edita ou exclui o evento após criá-lo</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>O sistema não consegue salvar o evento por falha de sincronização</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>O evento é criado, salvo e exibido na agenda</td>
 </tr>
 <tr>
 <td>Relacionamentos</td>
@@ -3928,8 +4080,24 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>O estudante ativa as notificações ao criar o evento na agenda</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve ter criado pelo menos um evento na agenda</td>
+</tr>
+<tr>
 <td>Fluxo principal</td>
 <td>entrar no aplicativo &gt; Agenda &gt; Criar/Editar evento &gt; Ativar notificações?</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O estudante escolhe um horário diferente de notificação</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>O sistema falha ao enviar a notificação na data agendada</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>A notificação é configurada com sucesso</td>
 </tr>
 <tr>
 <td>Relacionamentos</td>
@@ -3968,8 +4136,24 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>O estudante seleciona a importância da atividade criada</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve estar criando ou editando um evento na agenda</td>
+</tr>
+<tr>
 <td>Fluxo principal</td>
 <td>entrar no aplicativo &gt; Agenda &gt; Criar/Editar evento &gt; Importância do evento</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O estudante altera a importância posteriormente</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>O sistema não consegue registrar o grau de importância selecionado</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>O evento é salvo com o grau de importância definido</td>
 </tr>
 <tr>
 <td>Relacionamentos</td>
@@ -4008,8 +4192,24 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>O estudante requere documentos para sua instituição de ensino</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve estar logado e vinculado a uma instituição de ensino</td>
+</tr>
+<tr>
 <td>Fluxo principal</td>
 <td>entrar no aplicativo &gt; Emitir documentos</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O documento ainda não pode ser acessado</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>O documento não é gerado com sucesso</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>O documento é exibido ao estudante, caso esteja disponível</td>
 </tr>
 <tr>
 <td>Relacionamentos</td>
@@ -4021,7 +4221,7 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 </tr>
 <tr>
 <td>Rastreabilidade</td>
-<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ27,-O%20aplicativo%20deve">RQ27</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ28,-O%20aplicativo%20deve">RQ28</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ60,-O%20aplicativo%20deve">RQ60</a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q17)%0ABrainstorming(B014)-,RQ27,-O%20aplicativo%20deve">RQ27</a>), <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q18)%0ABrainstorming(B015)-,RQ28,-O%20aplicativo%20deve">RQ28</a> e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Brainstorming-,RQ60,-O%20aplicativo%20deve">RQ60</a></td>
 </tr>
 </tbody>
 </table>
@@ -4052,6 +4252,22 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>entrar no aplicativo &gt; Emitir documentos &gt; Emtiir histórico escolar</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve estar matriculado e com situação ativa na instituição</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O estudante não baixa o histórico imediatamente, preferindo acessá-lo mais tarde pela área “Documentos”</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>Falha no sistema da instituição impede a emissão do histórico</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>O histórico escolar é emitido com sucesso</td>
+</tr>
+<tr>
 <td>Relacionamentos</td>
 <td>Generalização de "Requerir documentos"</td>
 </tr>
@@ -4061,7 +4277,7 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 </tr>
 <tr>
 <td>Rastreabilidade</td>
-<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ28,-O%20aplicativo%20deve">RQ28</a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q18)%0ABrainstorming(B015)-,RQ28,-O%20aplicativo%20deve">RQ28</a></td>
 </tr>
 </tbody>
 </table>
@@ -4088,8 +4304,24 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>O estudante requere sua declaração de vínculo para sua instituição de ensino</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve ter vínculo ativo com a instituição</td>
+</tr>
+<tr>
 <td>Fluxo principal</td>
 <td>entrar no aplicativo &gt; Emitir documentos &gt; Emtiir declaração de vínculo</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O estudante não baixa a declaração imediatamente, preferindo acessá-lo mais tarde pela área “Documentos”</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>O sistema não consegue gerar o documento solicitado</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>A declaração de vínculo é gerada e disponibilizada</td>
 </tr>
 <tr>
 <td>Relacionamentos</td>
@@ -4101,7 +4333,7 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 </tr>
 <tr>
 <td>Rastreabilidade</td>
-<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Question%C3%A1rio%2C%20Brainstorming-,RQ27,-O%20aplicativo%20deve">RQ27</a></td>
+<td><a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=Q17)%0ABrainstorming(B014)-,RQ27,-O%20aplicativo%20deve">RQ27</a></td>
 </tr>
 </tbody>
 </table>
@@ -4128,8 +4360,24 @@ O objetivo dos casos de uso é auxiliar no processo de desenvolvimento de um sis
 <td>O estudante requere seus certificados para sua instituição de ensino</td>
 </tr>
 <tr>
+<td>Pré-condição</td>
+<td>O estudante deve ter completado atividades ou cursos válidos para certificação</td>
+</tr>
+<tr>
 <td>Fluxo principal</td>
 <td>entrar no aplicativo &gt; Emitir documentos &gt; Emtiir certificados</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>O estudante não baixa o certificado imediatamente, preferindo acessá-lo mais tarde pela área “Documentos”</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td>Falha no sistema impede a emissão do certificado</td>
+</tr>
+<tr>
+<td>Pós-condição</td>
+<td>O certificado é gerado e armazenado no aplicativo</td>
 </tr>
 <tr>
 <td>Relacionamentos</td>
@@ -4269,6 +4517,13 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 <td>20/10/2025</td>
 <td>Atualização da tabela</td>
 <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
+<td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>09/11/2025</td>
+<td>Atualização da tabela</td>
+<td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
 <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
 </tr>
 </tbody>
