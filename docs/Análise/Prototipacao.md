@@ -35,39 +35,69 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou com 
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
         <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ21">RQ21</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ22">RQ22</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ23">RQ23</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ55">RQ55, <a href ="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ49">RQ49 e <a herf="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ60">
         </td>
-        <td>11/10/2025</td>
+        <td>11/11/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
         <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ27">RQ27, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ28">RQ28, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ29">RQ29, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ58">RQ58, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ60">RQ60 </td>
-        <td>11/10/2025</td>
+        <td>11/11/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/mel14-hub">Lara Souza</a></td>
         <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ32">RQ32, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ33">RQ33, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ34">RQ34, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ35">RQ35, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ36">RQ36
-        <td>11/10/2025</td>
+        <td>11/11/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
         <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ45">RQ45, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ46">RQ46, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ47">RQ47, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ48">RQ48, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ50">RQ50,<a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ51">51 e<a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ52"> 52</td>
-        <td>11/10/2025</td>
+        <td>11/11/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pedrohpsantos">Pedro Henrique</a></td>
         <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ56">RQ56, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ57">RQ57 e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ59">RQ59 </td>
-        <td>11/10/2025</td>
+        <td>11/11/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
         <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ17">RQ17, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ18">RQ18, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ19">RQ19, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ20">RQ20, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ53">RQ53 
-        <td>11/10/2025</td>
+        <td>11/11/2025</td>
       </tr>
     </tbody>
   </table>
 </div>
 
+<font size="3"><p style="text-align:center"> Autor: <a href="https://github.com/mel14-hub">Lara Mota</a> </font>
 
 
+
+
+
+
+
+
+
+
+# Validação do protótipo 
+
+
+## Tarefas do Particpantes
+
+- Encontar melhorias
+- Apontar falhas 
+- Identificar pontos de fricção
+- Coletar *feedback
+
+## Validação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/56Ua5MB8DSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Fonte:** Yan Matheus
+
+A *Tabela 2*  detalha as informações da primeira sessão de avaliação de usabilidade do protótipo, incluindo os registros de gravação efetuados durante o processo
+
+| Participante | Avaliador | Data | Horário | Local |
+| :--- | :--- | :--- | :--- | :--- |
+|  | Yan Matheus | 11/11/2025 | 15:37 | Microsoft Teams |
 
 
 
@@ -107,7 +137,7 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 ## Bibliografia
 
 
-<a id="FRM3" href="#anchor_3">3.</a> Prototipagem do Grupo VLCna de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [hhttps://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/](https://requisitos-de-software.github.io/2023.1-VLC/#/validacao/prototipagem). Acesso em: 11 nov. 2025
+<a id="FRM3" href="#anchor_3">3.</a> Prototipagem do Grupo VLCna de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-VLC/#/validacao/prototipagem](https://requisitos-de-software.github.io/2023.1-VLC/#/validacao/prototipagem). Acesso em: 11 nov. 2025
 
 <a id="FRM3" href="#anchor_3">3.</a> Prototipagem do Grupo Bilheteira Digital de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [ttps://requisitos-de-software.github.io/2023.1-BilheteriaDigital/validacao/prototipo/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/validacao/prototipo/). Acesso em: 11 nov. 2025
 
@@ -118,5 +148,5 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 
 | Versão |    Data    |                    Descrição                    |                                                                Autor(es)                                                                |                   Revisor(es)                    |
 | :----: | :--------: | :---------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
-|  1.0   | 11/11/2025 | Adicionando protótipaçãp | [Lara Souza](https://github.com/mel14-hub), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) | [Yan Matheus](https://github.com/Yanmatheus0812) |
+|  1.0   | 11/11/2025 | Adicionando protótipação | [Lara Souza](https://github.com/mel14-hub), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) | [Yan Matheus](https://github.com/Yanmatheus0812) |
 |  1.1   | 12/11/2025 | Completando a página da protótipação| [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github) e [Geovanna Alves](https://github.com/GeovannaUmbelino) |
