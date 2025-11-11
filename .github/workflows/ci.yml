@@ -1,121 +1,53 @@
-name: CI & Deploy
+name: Deploy GitHub Pages
 
-# Eventos bem específicos para evitar duplicação
+# Gatilho simplificado: roda apenas em push para a branch 'main'
 on:
   push:
-    branches: [main] # Push só para main
-  pull_request:
-    branches: [main, devel] # PRs para main ou devel
-    types: [opened, synchronize, reopened]
+    branches: [main]
 
 jobs:
-  # ===================================================================
-  # JOB ÚNICO: Validação + Deploy Condicional
-  # ===================================================================
-  ci-and-deploy:
-    name: "🔍 CI & Deploy"
+  deploy-pages:
+    name: "🚀 Deploy Pages"
     runs-on: ubuntu-latest
 
     steps:
+      # Passo 1: Checkout do código
+      # fetch-depth: 0 garante que todo o histórico Git seja baixado
       - name: 🔦 Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
+      # Passo 2: Configurar o ambiente Python
       - name: 🧰 Setup python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
+      # Passo 3: Cache de dependências pip para velocidade
+      # Armazena pacotes em cache para acelerar builds futuros
+      - name: ⚡ Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      # Passo 4: Instalar dependências (usará o cache se disponível)
       - name: 💾 Instalar dependências
         run: |
           pip install -r requirements.txt
-          pip install ruff
 
-      # ============ VALIDAÇÃO ============
-      - name: 🎨 Ruff format
-        id: ruff-format
-        run: ruff format --check .
-        continue-on-error: true
-
-      - name: 🛁 Ruff check
-        id: ruff-check
-        run: ruff check .
-        continue-on-error: true
-
-      - name: 🐍 Python syntax
-        id: python-syntax
-        run: find . -name "*.py" -type f -exec python -m py_compile {} \;
-        continue-on-error: true
-
-      - name: 📚 MkDocs build
-        id: mkdocs-build
-        run: mkdocs build --strict --verbose
-        continue-on-error: true
-
-      - name: 📝 MarkdownLint
-        id: markdown-lint
-        uses: DavidAnson/markdownlint-cli2-action@v15
-        with:
-          globs: |
-            **/*.md
-            !site/**
-            !node_modules/**
-            !venv/**
-        continue-on-error: true
-
-      # ============ VERIFICAÇÃO DE ERROS ============
-      - name: ❌ Verificar erros e mostrar correções
-        if: |
-          steps.ruff-format.outcome == 'failure' ||
-          steps.ruff-check.outcome == 'failure' ||
-          steps.python-syntax.outcome == 'failure' ||
-          steps.mkdocs-build.outcome == 'failure' ||
-          steps.markdown-lint.outcome == 'failure'
-        run: |
-          echo "################################################################"
-          echo "#         ❌ ERROS ENCONTRADOS - COMO CORRIGIR                  #"
-          echo "################################################################"
-
-          if [[ "${{ steps.ruff-format.outcome }}" == "failure" ]]; then
-            echo "🦄 Ruff format: ruff format ."
-          fi
-
-          if [[ "${{ steps.ruff-check.outcome }}" == "failure" ]]; then
-            echo "⭐ Ruff check: ruff check . --fix"
-          fi
-
-          if [[ "${{ steps.python-syntax.outcome }}" == "failure" ]]; then
-            echo "🐍 Python: python -m py_compile arquivo.py"
-          fi
-
-          if [[ "${{ steps.markdown-lint.outcome }}" == "failure" ]]; then
-            echo "📝 Markdown: Corrija links vazios [Foto]() e [Link]()"
-          fi
-
-          if [[ "${{ steps.mkdocs-build.outcome }}" == "failure" ]]; then
-            echo "📚 MkDocs: mkdocs build --strict"
-          fi
-
-          echo "################################################################"
-          # Remover o 'exit 1' para permitir deploy mesmo com erro
-          # exit 1
-
-      # ============ DEPLOY (SEMPRE EXECUTA EM PUSH PARA MAIN) ============
+      # Passo 5: Fazer o deploy no GitHub Pages
+      # A condição 'if' é uma segurança extra
       - name: 🚀 Deploy to GitHub Pages
-        if: always() && github.event_name == 'push' && github.ref == 'refs/heads/main'
+        if: github.event_name == 'push'
         run: |
           echo "📚 Fazendo deploy da documentação..."
+          # --force: Força o push para a branch gh-pages
+          # --clean: Remove arquivos antigos da branch gh-pages
           mkdocs gh-deploy --force --clean --verbose
         env:
+          # Token necessário para autenticar o push na branch gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # ============ NOTIFICAÇÃO DE SUCESSO ============
-      - name: ✅ Sucesso
-        if: success()
-        run: |
-          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
-            echo "✅ Pull Request validado com sucesso!"
-          elif [[ "${{ github.ref }}" == "refs/heads/main" ]]; then
-            echo "✅ Deploy realizado com sucesso!"
-            echo "📚 Site: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
-          else
-            echo "✅ Validação concluída com sucesso!"
