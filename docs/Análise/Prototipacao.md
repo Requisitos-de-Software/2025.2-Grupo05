@@ -78,10 +78,9 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou com 
 
 # Validação do protótipo 
 
-## Perfil do participantes
+## Perfil dos Usuários
 
-A validação contará com 6 participantes, todos estudantes da FCTE com faixa etária em torno de 25 anos. O perfil escolhido representa o público-alvo principal do aplicativo, garantindo que o feedback coletado seja relevante para as necessidades e expectativas dos usuários finais. Os participantes realizarão tarefas específicas no protótipo, permitindo identificar pontos de melhoria na usabilidade e falhas identificadas.
-
+A validação contará com 6 participantes que possuem o perfil de usuário do aplicativo Jornada do Estudante. Esse perfil representa o público-alvo principal do aplicativo, garantindo que as respostas coletadas sejam relevantes para as necessidades e expectativas dos usuários finais. Os participantes realizarão tarefas específicas no protótipo, permitindo identificar pontos de melhoria na usabilidade e possíveis falhas.
 
 ## Tarefas dos Usuários 
 
@@ -96,11 +95,11 @@ A validação contará com 6 participantes, todos estudantes da FCTE com faixa e
 
 **Fonte:** Yan Matheus
 
-A *Tabela 2*  detalha as informações da primeira sessão de avaliação de usabilidade do protótipo, incluindo os registros de gravação efetuados durante o processo
+A *Tabela 2*  detalha as informações da primeira sessão de avaliação de usabilidade do protótipo, incluindo os registros de gravação e o local onde o processo foi realizado.
 
 | Participante | Avaliador | Data | Horário | Local |
 | :--- | :--- | :--- | :--- | :--- |
-|  | Yan Matheus | 11/11/2025 | 15:37 | Microsoft Teams |
+| Arthur Ribeiro | Yan Matheus | 11/11/2025 | 15:37 | Microsoft Teams |
 
 
 
