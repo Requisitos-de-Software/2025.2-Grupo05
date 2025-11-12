@@ -1,6 +1,6 @@
 # Introdução
 
- O objetivo dessa página é armazenar a inspeção da entrega 5 e demais documentos relacionados. Acesse o vídeo clicando no link correspondente. Essa inspeção em específico, não foi relacionada ao grupo 6, mas sim ao grupo 1, de acordo com as normas da disciplina.
+Esta página tem como objetivo armazenar a inspeção da Entrega 5, bem como demais documentos relacionados, referentes ao nosso próprio grupo.
 
 ## Inspeção 5
 
@@ -12,8 +12,9 @@ A seguir temos a tabela 1, onde indica todos os participantes da inspeção.
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes inspeção 5 </p></font>
 
+
 <div align="center">
-  <table border="1" cellpadding="5" cellspacing="0">
+  <table>
     <thead>
       <tr>
         <th>Nome</th>
@@ -22,15 +23,16 @@ A seguir temos a tabela 1, onde indica todos os participantes da inspeção.
     </thead>
     <tbody>
       <tr>
-        <td><a href=""></a></td>
+        <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
+        <td>11/11/2025</td>
+         </tr>
+      <tr>
+      <tr>
+        <td><a href="https://github.com/luisa12ll">Luísa de Souza</a></td>
         <td>11/11/2025</td>
       </tr>
       <tr>
-        <td><a href=""></a></td>
-        <td>11/11/2025</td>
-      </tr>
-            <tr>
-        <td><a href=""></a></td>
+        <td><a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></td>
          <td>11/11/2025</td>
       </tr>
     </tbody>
@@ -46,15 +48,15 @@ A tabela 2 mostra a lista de verificação dos planejamento geral.
 | O github pages possui:                                                                                                                                                                           | Avaliação | Versão, Data e hora da avaliação |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | :------------------------------: |
 | 1 – Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?                                                                                                        | Sim       |     Versão 1.0 \- 11/11/2025     |
-| 2 \- o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Não       |    Versão 1.0 \- 11/11/2025    |
-| 3 \- o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.                                                                                                | Não       |    Versão 1.0 \- 11/11/2025    |
-| 4 \- O cronograma prevê um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?                                                                            | Não       |    Versão 1.0 \- 11/11/2025    |
-| 5 \- O cronograma prevê cada uma das técnicas de elicitação de requisitos que serão usadas no projeto?                                                                                           | Não       |    Versão 1.0 \- 11/11/2025    |
-| 6 \- O cronograma prevê cada uma das técnicas de priorização de requisitos que serão usadas no projeto?                                                                                          | Não       |    Versão 1.0 \- 11/11/2025    |
+| 2 \- o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim       |    Versão 1.0 \- 11/11/2025    |
+| 3 \- o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.                                                                                                | Sim       |    Versão 1.0 \- 11/11/2025    |
+| 4 \- O cronograma prevê um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?                                                                            | Sim       |    Versão 1.0 \- 11/11/2025    |
+| 5 \- O cronograma prevê cada uma das técnicas de elicitação de requisitos que serão usadas no projeto?                                                                                           | Sim      |    Versão 1.0 \- 11/11/2025    |
+| 6 \- O cronograma prevê cada uma das técnicas de priorização de requisitos que serão usadas no projeto?                                                                                          | Sim       |    Versão 1.0 \- 11/11/2025    |
 | 7 \- A motivação e os critérios para a escolha do App?                                                                                                                                           | Sim       |     Versão 1.0 \- 11/11/2025     |
-| 8 \- Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina.                                                                           | Não       |     Versão 1.0 \- 11/11/2025     |
+| 8 \- Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina.                                                                           | Sim      |     Versão 1.0 \- 11/11/2025     |
 | 9 \- Possui opção de contraste de cores?                                                                                                                                                         | Sim       |     Versão 1.0 \- 11/11/2025     |
-| 10 \- Uma página com as atas de reunião com o acesso a gravação (vídeo), quando houver.                                                                                                          | Não       |     Versão 1.0 \- 11/11/2025     |
+| 10 \- Uma página com as atas de reunião com o acesso a gravação (vídeo), quando houver.                                                                                                          | Sim      |     Versão 1.0 \- 11/11/2025     |
 
 <figcaption align="center">Tabela 2: Lista de inspeção planejamento geral.</figcaption>
 
@@ -66,16 +68,16 @@ A tabela 3 mostra a lista de verificação do desenvolvimento do projeto.
 
 | O github pages possui:                                                                                                                                                             | Avaliação            | Versão, Data e hora da avaliação |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------- | :------------------------------- |
-| 1 \- O histórico de versão padronizado?                                                                                                                                            | Sim | **Versão 1.0 \- 11/11/2025**     |
-| 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                                                                          | Sim | **Versão 1.0 \- 11/11/2025**     |
-| 3 \- Referências bibliográficas e/ou bibliografia em todos os artefatos?                                                                                                           | Não                  | **Versão 1.0 \- 11/11/2025**     |
-| 4 \- As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?                                                                                                | Não | **Versão 1.0 \- 11/11/2025**     |
-| 5 \- Um texto fazendo uma introdução dos artefatos?                                                                                                                                | Sim                  | **Versão 1.0 \- 11/11/2025**     |
-| 6 \- o cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.                                 | Não                  | **Versão 1.0 \- 11/11/2025**   |
-| 7 \- Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).                                                            | Não                  | **Versão 1.0 \- 11/11/2025**     |
-| 8 – A gravação da reunião do grupo.                                                                                                                                                | Não                  | **Versão 1.0 \- 11/11/2025**     |
-| 9 \- Vídeo de apresentação na categoria “não listado” no youtube?                                                                                                                  | Sim                  | **Versão 1.0 \- 11/11/2025**     |
-| 10 \- . Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | Sim                  | **Versão 1.0 \- 11/11/2025**     |
+| 1 \- O histórico de versão padronizado?                                                                                                                                            | Sim | Versão 1.0 \- 11/11/2025    |
+| 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                                                                          | Sim | Versão 1.0 \- 11/11/2025    |
+| 3 \- Referências bibliográficas e/ou bibliografia em todos os artefatos?                                                                                                           | Sim                 | Versão 1.0 \- 11/11/2025    |
+| 4 \- As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?                                                                                                | Sim | Versão 1.0 \- 11/11/2025     |
+| 5 \- Um texto fazendo uma introdução dos artefatos?                                                                                                                                | Sim                  | Versão 1.0 \- 11/11/2025     |
+| 6 \- o cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.                                 | Sim                  | Versão 1.0 \- 11/11/2025   |
+| 7 \- Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).                                                            | Sim                  | Versão 1.0 \- 11/11/2025    |
+| 8 – A gravação da reunião do grupo.                                                                                                                                                | Sim                  | Versão 1.0 \- 11/11/2025     |
+| 9 \- Vídeo de apresentação na categoria “não listado” no youtube?                                                                                                                  | Sim                 | Versão 1.0 \- 11/11/2025    |
+| 10 \- . Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | Sim                  | Versão 1.0 \- 11/11/2025     |
 
 <figcaption align="center">Tabela 3: Lista de inspeção desenvolvimento do projeto.</figcaption>
 
@@ -85,39 +87,39 @@ A tabela 3 mostra a lista de verificação do desenvolvimento do projeto.
 
 A tabela 4 mostra a lista de verificação do rich picture.
 
-| Item | Descrição                                      | Verificação |                                                       
+| O github pages possui:                                                                                                                                                                           | Avaliação | Versão, Data e hora da avaliação |                                                
 | ---- | ----------------------------------------------------------------------------------------------------------------------- | ----------- | 
-| 1    | Os atores interagem com o sistema?                                                                                      | Sim        | 
-| 2    | Os atores possuem uma descrição clara?                                                                                  | Sim         | 
-| 3    | Os atores são representados como um boneco?                                                                             | Sim          | 
-| 4    | Os atores envolvidos nos processos e suas responsabilidades estão identificados?                                        | Sim         | 
-| 5    | As operações representam o que o sistema faz?                                                                           | Sim         | 
-| 6    | Cada operação é executada por um ator ou por outra operação?                                                            | Sim         | 
-| 7    | As operações são representadas como círculos com descrições dentro?                                                     | Sim      | 
-| 8    | Os armazenamentos de dados é correspondente às tabelas do banco de dados ou arquivos do sistema?                        | Sim         | 
-| 9    | Os armazenamos de dados são escritos ou lidos somente por operações?                                                    | Sim         | 
-| 10   | Os armazenamentos de dados foram representados graficamente como retângulos?                                            | Sim         | 
-| 11   | As setas indicam as direções das informações entre os atores, operações e armazenamento de dados?                       | Sim         | 
-| 12   | As setas tem uma ponta única?                                                                                           | Não         | 
-| 13   | Rótulos descritivos indicam a natureza dos dados ou das informações que estão fluindo nas setas de fluxo de informação? | Não         | 
-| 14   | O limite de sistema indica claramente a área limitada em que as operações são responsáveis?                             | Não         | 
-| 15   | É possível ver uma clara distinção entre o que está dentro e o que está fora?                                           | Não         | 
-| 16   | O limite de sistema possibilita o usuário ignorar tudo o que está fora de seu limite?                                   | Não         | 
-| 17   | O Rich Picture contém um enunciado central do problema?                                                                 | Não         | 
-| 18   | O Rich Picture inclui palavras-chave relevantes?                                                                        | Não         | 
-| 19   | O Rich Picture é autoexplicativo?                                                                                       | Não         | 
-| 20   | O Rich Picture conta uma história?                                                                                      | Não         | 
-| 21   | O rich picture apresenta os dados que entram no sistema?                                                                | Não         | 
-| 22   | O rich picture apresenta as informações que saem do sistema?                                                            | Não         | 
-| 23   | O rich picture é claro e direto, sem excesso de texto?                                                                  | Não         | 
-| 24   | Todas as pessoas que usarão o sistema ou que podem ser afetadas por ele estão incluídas no rich picture?                | Não         | 
-| 25   | As preocupações dos envolvidos estão visíveis no rich picture?                                                          | Não         | 
-| 26   | O processo está representado de forma clara e sintética, os principais fluxos de trabalho, sem detalhamento excessivo?  | Não         | 
-| 27   | Os processos estão presentes na imagem?                                                                                 | Não         | 
-| 28   | As estruturas estão presentes na imagem?                                                                                | Não         | 
-| 29   | A linguagem das pessoas retratadas no sistema está sendo utilizada?                                                     | Não         | 
-| 30   | Utilizou balões de pensamento para caricaturar as preocupações dos envolvidos?                                          | Não         | 
-| 31   | O Rich Picture contém imagens, figuras ou rótulos descritivos?                                                          | Não         | 
+| 1 -  Os atores interagem com o sistema?                                                                                      | Sim        |  Versão 1.0 \- 11/11/2025    |
+| 2 - Os atores possuem uma descrição clara?                                                                                  | Sim         |  Versão 1.0 \- 11/11/2025    |
+| 3 - Os atores são representados como um boneco?                                                                             | Sim          |  Versão 1.0 \- 11/11/2025   |
+| 4 - Os atores envolvidos nos processos e suas responsabilidades estão identificados?                                        | Sim         |  Versão 1.0 \- 11/11/2025    |
+| 5 - As operações representam o que o sistema faz?                                                                           | Sim         |  Versão 1.0 \- 11/11/2025    |
+| 6 - Cada operação é executada por um ator ou por outra operação?                                                            | Sim         |  Versão 1.0 \- 11/11/2025    |
+| 7 -  As operações são representadas como círculos com descrições dentro?                                                     | Sim      |  Versão 1.0 \- 11/11/2025    |
+| 8 -  Os armazenamentos de dados é correspondente às tabelas do banco de dados ou arquivos do sistema?                        | Sim         |  Versão 1.0 \- 11/11/2025   |
+| 9 - Os armazenamos de dados são escritos ou lidos somente por operações?                                                    | Não        |  Versão 1.0 \- 11/11/2025    |
+| 10   - Os armazenamentos de dados foram representados graficamente como retângulos?                                            | Sim         |  Versão 1.0 \- 11/11/2025 |
+| 11-  As setas indicam as direções das informações entre os atores, operações e armazenamento de dados?                       | Sim         |  Versão 1.0 \- 11/11/2025   |
+| 12 - As setas tem uma ponta única?                                                                                           | Não         |  Versão 1.0 \- 11/11/2025   |
+| 13 -  Rótulos descritivos indicam a natureza dos dados ou das informações que estão fluindo nas setas de fluxo de informação? | Sim       |  Versão 1.0 \- 11/11/2025    |
+| 14  - O limite de sistema indica claramente a área limitada em que as operações são responsáveis?                             | Sim         |  Versão 1.0 \- 11/11/2025  |
+| 15 - É possível ver uma clara distinção entre o que está dentro e o que está fora?                                           | Sim        |  Versão 1.0 \- 11/11/2025    |
+| 16  -  O limite de sistema possibilita o usuário ignorar tudo o que está fora de seu limite?                                   | Sim        |  Versão 1.0 \- 11/11/2025  |
+| 17 -  O Rich Picture contém um enunciado central do problema?                                                                 | Não        |  Versão 1.0 \- 11/11/2025   |
+| 18 - O Rich Picture inclui palavras-chave relevantes?                                                                        | Sim        |  Versão 1.0 \- 11/11/2025    |
+| 19 - O Rich Picture é autoexplicativo?                                                                                       | Sim        |  Versão 1.0 \- 11/11/2025    |
+| 20 -  O Rich Picture conta uma história?                                                                                      | Sim         |  Versão 1.0 \- 11/11/2025  |
+| 21  -  O rich picture apresenta os dados que entram no sistema?                                                                | Sim         |  Versão 1.0 \- 11/11/2025 |
+| 22 -  O rich picture apresenta as informações que saem do sistema?                                                            | Sim         |  Versão 1.0 \- 11/11/2025  |
+| 23  -  O rich picture é claro e direto, sem excesso de texto?                                                                  | Sim         |  Versão 1.0 \- 11/11/2025 |
+| 24  -  Todas as pessoas que usarão o sistema ou que podem ser afetadas por ele estão incluídas no rich picture?                | Sim        |  Versão 1.0 \- 11/11/2025  |
+| 25 -  As preocupações dos envolvidos estão visíveis no rich picture?                                                          | Parcial         |  Versão 1.0 \- 11/11/2025    |
+| 26 -  O processo está representado de forma clara e sintética, os principais fluxos de trabalho, sem detalhamento excessivo?  | Sim        |  Versão 1.0 \- 11/11/2025   |
+| 27 - Os processos estão presentes na imagem?                                                                                 | Sim         |  Versão 1.0 \- 11/11/2025   |
+| 28 -  As estruturas estão presentes na imagem?                                                                                | Sim         |  Versão 1.0 \- 11/11/2025  |
+| 29 -  A linguagem das pessoas retratadas no sistema está sendo utilizada?                                                     | Sim         |  Versão 1.0 \- 11/11/2025  |
+| 30 - Utilizou balões de pensamento para caricaturar as preocupações dos envolvidos?                                          | Parcial        |  Versão 1.0 \- 11/11/2025|
+| 31 - O Rich Picture contém imagens, figuras ou rótulos descritivos?                                                          | Sim        |  Versão 1.0 \- 11/11/2025    |
 
 <figcaption align="center">Tabela 4: Lista de inspeção do rich picture.</figcaption>
 
@@ -129,16 +131,16 @@ A tabela 5 mostra a lista de verificação dos planejamento geral.
 
 | O github pages possui:                                                                                                                     | Avaliação   | Versão, Data e hora da avaliação |
 | :----------------------------------------------------------------------------------------------------------------------------------------- | ----------- | :------------------------------: |
-| 1 – Todos os 10 itens anteriores.                                                                                                          | Não         |     Versão 1.0 \- 11/11/2025     |
-| 2 \- O perfil do usuário é definido por mais de uma forma (técnica de elicitação e/ou ferramenta)?                                         | Não         |     Versão 1.0 \- 11/11/2025     |
+| 1 – Todos os 10 itens anteriores.                                                                                                          | Sim         |     Versão 1.0 \- 11/11/2025     |
+| 2 \- O perfil do usuário é definido por mais de uma forma (técnica de elicitação e/ou ferramenta)?                                         | Sim        |     Versão 1.0 \- 11/11/2025     |
 | 3 \- Há gravação da elicitação dos requisitos com o usuário?                                                                               | Sim         |     Versão 1.0 \- 11/11/2025     |
 | 4 \- Cada requisito possui ao menos uma fonte de origem?                                                                                   | Sim         |     Versão 1.0 \- 11/11/2025     |
 | 5 \- São apresentados requisitos implementados e não implementados para a aplicação?                                                       | Sim         |     Versão 1.0 \- 11/11/2025     |
 | 6 \- Os requisitos pode ser verificado na aplicação (critério de aceitação)?                                                               | Sim |     Versão 1.0 \- 11/11/2025     |
-| 7 \- Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?        | Não         |     Versão 1.0 \- 11/11/2025     |
-| 8 \- No mínimo quatro técnicas de priorização (quanto mais melhor)? MoSCoW*/ 100 $* / First thing First / ROI / QFD / TQM / Outra técnica? | Não         |     Versão 1.0 \- 11/11/2025     |
-| 9 \- Todas as priorizações contém a participação do usuário?                                                                               | Não         |     Versão 1.0 \- 11/11/2025     |
-| 10 \- Há gravação e o(s) registro(s) da atividade de priorização dos requisitos?                                                           | Não         |     Versão 1.0 \- 11/11/2025     |
+| 7 \- Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?        |     Sim    |     Versão 1.0 \- 11/11/2025     |
+| 8 \- No mínimo quatro técnicas de priorização (quanto mais melhor)? MoSCoW*/ 100 $* / First thing First / ROI / QFD / TQM / Outra técnica? | Sim     |     Versão 1.0 \- 11/11/2025     |
+| 9 \- Todas as priorizações contém a participação do usuário?                                                                               | Sim         |     Versão 1.0 \- 11/11/2025     |
+| 10 \- Há gravação e o(s) registro(s) da atividade de priorização dos requisitos?                                                           | Sim         |     Versão 1.0 \- 11/11/2025     |
 
 <figcaption align="center">Tabela 5: Lista de inspeção planejamento geral.</figcaption>
 
@@ -150,16 +152,16 @@ A tabela 6 mostra a lista de verificação da tecnica de elicitação análise d
 
 | O github pages possui:                                                                                                                                                      | Avaliação     | Versão, Data e hora da avaliação |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | :------------------------------: |
-| 1 – A análise inclui documentos que abrangem o máximo possível do domínio do problema?                                                                                      | Sim |     Versão 1.0 \- 11/11/2025     |
-| 2 \- A análise identificou os problemas a resolver do négocio?                                                                                                              | Não |     Versão 1.0 \- 11/11/2025     |
-| 3 \- A análise identificou os objetivos a alcançar do négocio?                                                                                                              | Não  |     Versão 1.0 \- 11/11/2025     |
-| 4 \- A análise identificou as métricas de sucesso do négocio?                                                                                                               | Não |     Versão 1.0 \- 11/11/2025     |
+| 1 – A análise inclui documentos que abrangem o máximo possível do domínio do problema?                                                                                      | Não se aplica |     Versão 1.0 \- 11/11/2025     |
+| 2 \- A análise identificou os problemas a resolver do négocio?                                                                                                              | Não se aplica |     Versão 1.0 \- 11/11/2025     |
+| 3 \- A análise identificou os objetivos a alcançar do négocio?                                                                                                              | Não se aplica  |     Versão 1.0 \- 11/11/2025     |
+| 4 \- A análise identificou as métricas de sucesso do négocio?                                                                                                               |  Não se aplica  |     Versão 1.0 \- 11/11/2025     |
 | 5 \- A análise possibilitou uma identificação relevante para os requisitos?                                                                                                 | Sim |     Versão 1.0 \- 11/11/2025     |
 | 6 \- A análise estabeleceu uma faixa ampla de documentos a serem analisados?                                                                                                | Sim |     Versão 1.0 \- 11/11/2025     |
-| 7 \- A análise conseguiu identificar e entender fluxos operacionais da empresa? Se realizada em momentos iniciais do ciclo de vida do projeto.                              | Sim |     Versão 1.0 \- 11/11/2025     |
-| 8 \- A análise transformou necessidades vagas em objetivos organizacionais? Se realizada em momentos iniciais do ciclo de vida do projeto.                                  | Sim |     Versão 1.0 \- 11/11/2025     |
+| 7 \- A análise conseguiu identificar e entender fluxos operacionais da empresa? Se realizada em momentos iniciais do ciclo de vida do projeto.                              |  Não se aplica  |     Versão 1.0 \- 11/11/2025     |
+| 8 \- A análise transformou necessidades vagas em objetivos organizacionais? Se realizada em momentos iniciais do ciclo de vida do projeto.                                  |  Não se aplica  |     Versão 1.0 \- 11/11/2025     |
 | 9 \- A análise identificou quais tarefas ou macroprocessos devem ser explorados em maior profundidade? Se realizada em momentos intermediários do ciclo de vida do projeto. | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 10 \- Os documentos analisados foram organizados de forma que possam ser recuperados facilmente?                                                                            | Não |     Versão 1.0 \- 11/11/2025     |
+| 10 \- Os documentos analisados foram organizados de forma que possam ser recuperados facilmente?                                                                            | Sim |     Versão 1.0 \- 11/11/2025     |
 
 <figcaption align="center">Tabela 6: Lista de inspeção da tecnica de elicitação análise de documentos.</figcaption>
 
@@ -171,16 +173,16 @@ A tabela 7 mostra a lista de verificação da tecnica de elicitação questioná
 
 | O github pages possui:                                                                                       | Avaliação     | Versão, Data e hora da avaliação |
 | :----------------------------------------------------------------------------------------------------------- | ------------- | :------------------------------: |
-| 1 \- A formulação das perguntas e respostas evita ambiguidade e mal-entendidos?                              | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 2 – Há a indicação clara se uma pergunta admite apenas uma resposta ou múltiplas respostas?                  | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 3 – As perguntas fechadas incluem opções “não sei”, “não quero responder” ou “outros” quando necessário?     | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 4 – O questionário começa com informações demográficas e contextuais relevantes (ex.: idade, experiência)?   | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 5 – A ordem das perguntas foi projetada de forma a evitar que respostas anteriores influenciem as seguintes? | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 6 \- O questionário evita excesso de perguntas abertas, que podem reduzir a taxa de respostas?               | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 7 \- As opções de múltipla escolha permitem ao respondente marcar mais de uma alternativa quando aplicável?  | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 8 – Perguntas com faixas de valores (ex.: idade, renda) foram estruturadas sem sobreposição de intervalos?   | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 9 \- Foram utilizadas escalas adequadas (Likert, diferencial semântico) para medir opiniões e atitudes?      | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 10 \- O questionário apresenta claramente o objetivo da pesquisa e as instruções de preenchimento?           | Não se aplica |     Versão 1.0 \- 11/11/2025     |
+| 1 \- A formulação das perguntas e respostas evita ambiguidade e mal-entendidos?                              | Sim |     Versão 1.0 \- 11/11/2025     |
+| 2 – Há a indicação clara se uma pergunta admite apenas uma resposta ou múltiplas respostas?                  | Sim |     Versão 1.0 \- 11/11/2025     |
+| 3 – As perguntas fechadas incluem opções “não sei”, “não quero responder” ou “outros” quando necessário?     | Não  |     Versão 1.0 \- 11/11/2025     |
+| 4 – O questionário começa com informações demográficas e contextuais relevantes (ex.: idade, experiência)?   | Sim |     Versão 1.0 \- 11/11/2025     |
+| 5 – A ordem das perguntas foi projetada de forma a evitar que respostas anteriores influenciem as seguintes? | Sim |     Versão 1.0 \- 11/11/2025     |
+| 6 \- O questionário evita excesso de perguntas abertas, que podem reduzir a taxa de respostas?               |Sim |     Versão 1.0 \- 11/11/2025     |
+| 7 \- As opções de múltipla escolha permitem ao respondente marcar mais de uma alternativa quando aplicável?  | Sim |     Versão 1.0 \- 11/11/2025     |
+| 8 – Perguntas com faixas de valores (ex.: idade, renda) foram estruturadas sem sobreposição de intervalos?   | Sim |     Versão 1.0 \- 11/11/2025     |
+| 9 \- Foram utilizadas escalas adequadas (Likert, diferencial semântico) para medir opiniões e atitudes?      | Sim |     Versão 1.0 \- 11/11/2025     |
+| 10 \- O questionário apresenta claramente o objetivo da pesquisa e as instruções de preenchimento?           | Sim |     Versão 1.0 \- 11/11/2025     |
 
 <figcaption align="center">Tabela 7: Lista de inspeção da tecnica de elicitação questionário.</figcaption>
 
@@ -192,16 +194,16 @@ A tabela 8 mostra a lista de verificação da tecnica de elicitação brainstorm
 
 | Questão: O github pages possui:                                                                                              | Resposta (Sim / Não / Incompleto) | Versão, Data e hora da avaliação |
 | :------------------------------------------------------------------------------------------------------------------------- | :-------------------------------- | :------------------------------- |
-| 1 – O objetivo da sessão de brainstorming foi claramente definido?                                                            | Não                               | 1.0                              |
-| 2 – A preparação para a atividade foi realizada de forma adequada e rápida?                                               | Não                               | 1.0                              |
-| 3 – Itens repetidos do mesmo participante foram contabilizados apenas uma vez?                                              | Não                               | 1.0                              |
-| 4 – A sessão contou com um moderador?                                                                                        | Não                               | 1.0                              |
-| 5 – Houve atividade de priorização em que cada participante selecionou os itens mais importantes, atribuindo pesos iguais?     | Não                               | 1.0                              |
-| 6 \- Foi fornecido material (como papel e lápis) para que as ideias individuais não se perdessem durante a discussão?      | Sim                             | 1.0                              |
-| 7 \- A sessão tem entre 8 á 12 usuários finais?                                                                              | Sim                               | 1.0                              |
-| 8 – Cada participante teve um tempo para compartilhar suas ideias?                                                           | Sim                                | 1.0                              |
-| 9 \- Os participantes foram informados no início da atividade sobre os objetivos e procedimentos que irão ocorrer?          | Sim                               | 1.0                              |
-| 10 \- O moderador repetiu a pergunta inicial ou as regras caso os participantes tenham se desviado dos objetivos?           | Sim                                | 1.0                              |
+| 1 – O objetivo da sessão de brainstorming foi claramente definido?                                                            | Sim                              | Versão 1.0 \- 11/11/2025                               |
+| 2 – A preparação para a atividade foi realizada de forma adequada e rápida?                                               | Sim                             | Versão 1.0 \- 11/11/2025                             |
+| 3 – Itens repetidos do mesmo participante foram contabilizados apenas uma vez?                                              | Sim                               | Versão 1.0 \- 11/11/2025                              |
+| 4 – A sessão contou com um moderador?                                                                                        | Sim                            | Versão 1.0 \- 11/11/2025                             |
+| 5 – Houve atividade de priorização em que cada participante selecionou os itens mais importantes, atribuindo pesos iguais?     | Sim                             | Versão 1.0 \- 11/11/2025                               |
+| 6 \- Foi fornecido material (como papel e lápis) para que as ideias individuais não se perdessem durante a discussão?      | Sim                             | Versão 1.0 \- 11/11/2025                             |
+| 7 \- A sessão tem entre 8 á 12 usuários finais?                                                                              | Sim                               | Versão 1.0 \- 11/11/2025                              |
+| 8 – Cada participante teve um tempo para compartilhar suas ideias?                                                           | Sim                                | Versão 1.0 \- 11/11/2025                              |
+| 9 \- Os participantes foram informados no início da atividade sobre os objetivos e procedimentos que irão ocorrer?          | Sim                               | Versão 1.0 \- 11/11/2025                               |
+| 10 \- O moderador repetiu a pergunta inicial ou as regras caso os participantes tenham se desviado dos objetivos?           | Sim                                | Versão 1.0 \- 11/11/2025                              |
 
 <figcaption align="center">Tabela 8: Lista de inspeção da tecnica de elicitação brainstorm.</figcaption>
 
@@ -213,16 +215,16 @@ A tabela 9 mostra a lista de verificação da tecnica de elicitação entrevista
 
 | Questão: O github pages possui:                                                                                        | Resposta (Sim / Não / Incompleto) | Versão, Data e hora da avaliação |
 | :-----------------------------------------------------------------------------------------------------------------  | :-------------------------------- | :------------------------------- |
-| 1 \- A entrevista foi realizada diretamente com usuários para compreender suas necessidades?                            | Sim                               | 1.0                              |
-| 2 \- As entrevistas individuais ou em pequenos grupos foram planejadas com o contexto do projeto?                         | Sim                               | 1.0                              |
-| 3 \- O entrevistador conseguiu estabelecer uma conexão e criar um clima de confiança com o entrevistado?              | Sim                               | 1.0                              |
-| 4 \- O entrevistador manteve o foco da entrevista no escopo previamente definido?                                     | Sim                               | 1.0                              |
-| 5 \- Houve planejamento prévio das perguntas e recursos necessários para conduzir a entrevista de forma eficaz?       | Sim                               | 1.0                              |
-| 6 \- O entrevistador propôs ideias e alternativas quando os usuários tinham dificuldade de expressar necessidades?    | Sim                               | 1.0                              |
-| 7 \- O entrevistador praticou escuta ativa durante a entrevista?                                                       | Sim                               | 1.0                              |
-| 8 \- A entrevista começou com apresentação, revisão de agenda e esclarecimento de dúvidas preliminares?             | Não                               | 1.0                              |
-| 9 \- As respostas dadas foram validadas ao final da entrevista?                                                       | Sim                               | 1.0                              |
-| 10 \- A entrevista ajudou a esclarecer ambiguidades nos requisitos?                                                  | Sim                               | 1.0                              |
+| 1 \- A entrevista foi realizada diretamente com usuários para compreender suas necessidades?                            | Sim                               | Versão 1.0 \- 11/11/2025                              |
+| 2 \- As entrevistas individuais ou em pequenos grupos foram planejadas com o contexto do projeto?                         | Sim                               | Versão 1.0 \- 11/11/2025                              |
+| 3 \- O entrevistador conseguiu estabelecer uma conexão e criar um clima de confiança com o entrevistado?              | Sim                               | Versão 1.0 \- 11/11/2025                            |
+| 4 \- O entrevistador manteve o foco da entrevista no escopo previamente definido?                                     | Sim                               | Versão 1.0 \- 11/11/2025                             |
+| 5 \- Houve planejamento prévio das perguntas e recursos necessários para conduzir a entrevista de forma eficaz?       | Sim                               | Versão 1.0 \- 11/11/2025                              |
+| 6 \- O entrevistador propôs ideias e alternativas quando os usuários tinham dificuldade de expressar necessidades?    | Sim                               | Versão 1.0 \- 11/11/2025                             |
+| 7 \- O entrevistador praticou escuta ativa durante a entrevista?                                                       | Sim                               | Versão 1.0 \- 11/11/2025                              |
+| 8 \- A entrevista começou com apresentação, revisão de agenda e esclarecimento de dúvidas preliminares?             | Sim                             | Versão 1.0 \- 11/11/2025                             |
+| 9 \- As respostas dadas foram validadas ao final da entrevista?                                                       | Sim                               | Versão 1.0 \- 11/11/2025                             |
+| 10 \- A entrevista ajudou a esclarecer ambiguidades nos requisitos?                                                  | Sim                               | Versão 1.0 \- 11/11/2025                              |
 
 <figcaption align="center">Tabela 9: Lista de inspeção da tecnica de elicitação entrevista.</figcaption>
 
@@ -234,16 +236,16 @@ A tabela 10 mostra a lista de verificação da tecnica de priorização in or ou
 
 | Questão: O github pages possui:                                                                                        | Resposta (Sim / Não / Incompleto) | Versão, Data e hora da avaliação |
 | :-----------------------------------------------------------------------------------------------------------------  | :-------------------------------- | :------------------------------- |
-| 1 – Foram feitas decisões binárias sobre cada requisito (in ou out)?                                                   | Não                               | 1.0                              |
-| 2 – Havia uma lista de requisitos definida a ser trabalhada pelo grupo de stakeholders?                              | Não                               | 1.0                              |
-| 3 –As decisões foram guiadas pelos objetivos de negócio do projeto?                                                   | Não                               | 1.0                              |
-| 4 – A lista de requisitos foi reduzida ao mínimo necessário para a primeira release?                                 | Não                               | 1.0                              |
-| 5 – Foi feito um planejamento para reavaliar os requisitos “out” em releases futuras?                                | Não                               | 1.0                              |
-| 6 \- Foi definido tempo adequado em reunião para analisar toda a lista de requisitos?                                 | Não                               | 1.0                              |
-| 7 \- Foi decidido quem tem a autoridade final na decisão de priorização, caso surjam impasses?                       | Não                               | 1.0                              |
-| 8 – O processo de priorização foi conduzido de forma Simples e direta, sem complexidade desnecessária? ?       | Não                               | 1.0                              |
-| 9 \- Foi definido claramente que a priorização tinha como foco a primeira release do produto?                           | Não                               | 1.0                              |
-| 10 \- O método In or Out foi conduzido de forma que o processo fosse menos cansativo e mais motivador para o time?   | Não                               | 1.0                              |
+| 1 – Foram feitas decisões binárias sobre cada requisito (in ou out)?                                                   | Sim                              | Versão 1.0 \- 11/11/2025                               |
+| 2 – Havia uma lista de requisitos definida a ser trabalhada pelo grupo de stakeholders?                              | Sim                              | Versão 1.0 \- 11/11/2025                             |
+| 3 –As decisões foram guiadas pelos objetivos de negócio do projeto?                                                   | Sim                              | Versão 1.0 \- 11/11/2025                              |
+| 4 – A lista de requisitos foi reduzida ao mínimo necessário para a primeira release?                                 | Sim                               | Versão 1.0 \- 11/11/2025                              |
+| 5 – Foi feito um planejamento para reavaliar os requisitos “out” em releases futuras?                                | Não se aplica                            | Versão 1.0 \- 11/11/2025                              |
+| 6 \- Foi definido tempo adequado em reunião para analisar toda a lista de requisitos?                                 | Sim                               | Versão 1.0 \- 11/11/2025                              |
+| 7 \- Foi decidido quem tem a autoridade final na decisão de priorização, caso surjam impasses?                       | Não se aplica                             | Versão 1.0 \- 11/11/2025                               |
+| 8 – O processo de priorização foi conduzido de forma Simples e direta, sem complexidade desnecessária? ?       | Sim                              | Versão 1.0 \- 11/11/2025                            |
+| 9 \- Foi definido claramente que a priorização tinha como foco a primeira release do produto?                           | Sim                               | Versão 1.0 \- 11/11/2025                              |
+| 10 \- O método In or Out foi conduzido de forma que o processo fosse menos cansativo e mais motivador para o time?   | Sim                               | Versão 1.0 \- 11/11/2025                             |
 
 <figcaption align="center">Tabela 10: Lista de inspeção da tecnica de priorização in or out.</figcaption>
 
@@ -255,16 +257,16 @@ A tabela 11 mostra a lista de verificação da tecnica de priorização moscow.
 
 | Questão: O github pages possui:                                                                                                                                                                  | Resposta (Sim / Não / Incompleto) | Versão, Data e hora da avaliação |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | :-------------------------------- | :------------------------------- |
-| 1 – Cada requisito foi categorizado com umas das quatro classes moscow(must, should, could e won´t)?                                                                                             | Sim                               | 1.0                              |
-| 2 – A priorização dos requisitos foi bem distribuída, tendo mais de uma classificação, como por exemplo must e should?                                                                           | Não                               | 1.0                              |
-| 3 – Os requisitos que dependem de outro receberam a mesma classificação?                                                                                                                      | Não                               | 1.0                              |
-| 4 – As prioridades foram definidas por consenso entre os clientes ou por um único cliente?                                                                                                     | Não                               | 1.0                              |
-| 5 – A categoria "Won't" tem um significado claro para todos os participantes?                                                                                                                  | Não se aplica                               | 1.0                              |
-| 6 \- Caso tenha must: Os requisitos considerados essenciais pelo cliente foram classificados como must?                                                                                         | Não se aplica                               | 1.0                              |
-| 7 \- Caso tenha should: Os requisitos que são importantes para o cliente mais não obrigatório foram classificados com should?                                                                 | Não se aplica                               | 1.0                              |
-| 8 – Caso tenha could: Os requisitos que só serão implementados se tiver tempo e recurso foram classificados como could?                                                                           | Não se aplica                               | 1.0                              |
-| 9 \- Caso Won´t: Os requisitos que não foram implementados podem ser incluídos em uma versão futura ou não serem implementados nunca de acordo com o cliente foram classificados como won´t?     | Não se aplica                               | 1.0                              |
-| 10 \- A pessoa interessada(cliente) tinha de fato conhecimento sobre o negócio?                                                                                                                 | Não se aplica                               | 1.0                              |
+| 1 – Cada requisito foi categorizado com umas das quatro classes moscow(must, should, could e won´t)?                                                                                             | Sim                               | Versão 1.0 \- 11/11/2025                             |
+| 2 – A priorização dos requisitos foi bem distribuída, tendo mais de uma classificação, como por exemplo must e should?                                                                           | Sim                              | Versão 1.0 \- 11/11/2025                             |
+| 3 – Os requisitos que dependem de outro receberam a mesma classificação?                                                                                                                      | Sim                             | Versão 1.0 \- 11/11/2025                             |
+| 4 – As prioridades foram definidas por consenso entre os clientes ou por um único cliente?                                                                                                     | Sim                            | Versão 1.0 \- 11/11/2025                              |
+| 5 – A categoria "Won't" tem um significado claro para todos os participantes?                                                                                                                  | Sim                             | Versão 1.0 \- 11/11/2025                              |
+| 6 \- Caso tenha must: Os requisitos considerados essenciais pelo cliente foram classificados como must?                                                                                         |Sim                          | Versão 1.0 \- 11/11/2025                            |
+| 7 \- Caso tenha should: Os requisitos que são importantes para o cliente mais não obrigatório foram classificados com should?                                                                 | Sim                              | Versão 1.0 \- 11/11/2025                             |
+| 8 – Caso tenha could: Os requisitos que só serão implementados se tiver tempo e recurso foram classificados como could?                                                                           | Sim                              | Versão 1.0 \- 11/11/2025                               |
+| 9 \- Caso Won´t: Os requisitos que não foram implementados podem ser incluídos em uma versão futura ou não serem implementados nunca de acordo com o cliente foram classificados como won´t?     | Não se aplica                               | Versão 1.0 \- 11/11/2025                             |
+| 10 \- A pessoa interessada(cliente) tinha de fato conhecimento sobre o negócio?                                                                                                                 | Não se aplica                               | Versão 1.0 \- 11/11/2025                            |
 
 <figcaption align="center">Tabela 11: Lista de inspeção da tecnica de priorização moscow.</figcaption>
 
@@ -276,14 +278,14 @@ A tabela 12 mostra a lista de verificação da tecnica de priorização 100$.
 
 | Questão: O github pages possui:                                                                               | Resposta (Sim / Não / Incompleto) | Versão, Data e hora da avaliação |
 | :-------------------------------------------------------------------------------------------------------- | :-------------------------------- | :------------------------------- |
-| 1 \- A equipe recebeu 100 dólares imaginários para distribuir entre os requisitos?                            | Não                               | 1.0                              |
-| 2 \- Os requisitos foram listados de forma clara antes da priorização?                                        | Não                               | 1.0                              |
-| 3 \- Cada membro colocou mais dinheiro para os requisitos que consideram de maior prioridade?                 | Não                               | 1.0                              |
-| 4 \- Cada membro fez sua própria distribuição antes de juntar os resultados do grupo?                         | Não                               | 1.0                              |
-| 5 \- Os resultados foram somados para determinar a prioridade coletiva dos requisitos?                    | Não                               | 1.0                              |
-| 6 \- Os participantes evitaram concentrar todos os dólares em um único requisito para evitar manipulação?    | Não                               | 1.0                              |
-| 7 \- Os participantes usaram proporções para refletir diferenças de importância entre requisitos?            | Não                               | 1.0                              |
-| 8 \- Foram considerados múltiplos stakeholders ao somar as alocações?                                          | Não                               | 1.0                              |
+| 1 \- A equipe recebeu 100 dólares imaginários para distribuir entre os requisitos?                            | Sim                              | Versão 1.0 \- 11/11/2025                              |
+| 2 \- Os requisitos foram listados de forma clara antes da priorização?                                        | Sim                               | Versão 1.0 \- 11/11/2025                              |
+| 3 \- Cada membro colocou mais dinheiro para os requisitos que consideram de maior prioridade?                 | Sim                              | Versão 1.0 \- 11/11/2025                              |
+| 4 \- Cada membro fez sua própria distribuição antes de juntar os resultados do grupo?                         | Sim                               | Versão 1.0 \- 11/11/2025                              |
+| 5 \- Os resultados foram somados para determinar a prioridade coletiva dos requisitos?                    | Sim                              | Versão 1.0 \- 11/11/2025                            |
+| 6 \- Os participantes evitaram concentrar todos os dólares em um único requisito para evitar manipulação?    | Sim                              | Versão 1.0 \- 11/11/2025                               |
+| 7 \- Os participantes usaram proporções para refletir diferenças de importância entre requisitos?            | Sim                              | Versão 1.0 \- 11/11/2025                              |
+| 8 \- Foram considerados múltiplos stakeholders ao somar as alocações?                                          | Sim                             | Versão 1.0 \- 11/11/2025                             |
 
 <figcaption align="center">Tabela 12: Lista de inspeção da tecnica de priorização 100$.</figcaption>
 
@@ -295,17 +297,17 @@ A tabela 13 mostra a lista de verificação da tecnica de priorização three-le
 
 | O github pages possui:                                                                                                                  | Avaliação     | Versão, Data e hora da avaliação |
 | :-------------------------------------------------------------------------------------------------------------------------------------- | ------------- | :------------------------------: |
-| 1 – Os requisitos foram agrupados em 3 categorias?                                                                                      | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 2 \- A avaliação de prioridades considera a importância e a urgência?                                                                   | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 3 \- Os requisitos de alta prioridade foram classificados em importantes e urgentes?                                                    | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 4 \- Os requisitos de média prioridade foram classificados em importantes e não urgentes?                                               | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 5 \- Os requisitos de baixa prioridade foram classificados em não importantes e não urgentes?                                           | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 6 \- Os requisitos classificados como não importantes e urgentes foram movidos para baixa prioridade ou eliminados?                     | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 7 \- A prioridade de cada requisito foi documentada?                                                                                    | Não se aplica |     Versão 1.0 \- 11/11/2025     |
+| 1 – Os requisitos foram agrupados em 3 categorias?                                                                                      | Sim |     Versão 1.0 \- 11/11/2025     |
+| 2 \- A avaliação de prioridades considera a importância e a urgência?                                                                   | Sim |     Versão 1.0 \- 11/11/2025     |
+| 3 \- Os requisitos de alta prioridade foram classificados em importantes e urgentes?                                                    | Sim |     Versão 1.0 \- 11/11/2025     |
+| 4 \- Os requisitos de média prioridade foram classificados em importantes e não urgentes?                                               | Sim |     Versão 1.0 \- 11/11/2025     |
+| 5 \- Os requisitos de baixa prioridade foram classificados em não importantes e não urgentes?                                           | Sim |     Versão 1.0 \- 11/11/2025     |
+| 6 \- Os requisitos classificados como não importantes e urgentes foram movidos para baixa prioridade ou eliminados?                     | Sim |     Versão 1.0 \- 11/11/2025     |
+| 7 \- A prioridade de cada requisito foi documentada?                                                                                    | Sim |     Versão 1.0 \- 11/11/2025     |
 | 8 \- Os requisitos de alta prioridade foram divididos em outras três categorias em caso de um número excessivo?                         | Não se aplica |     Versão 1.0 \- 11/11/2025     |
 | 9 \- Os dois grupos de requisitos de menor prioridade que foram subdivididos, foram reajustados para se encaixarem em média prioridade? | Não se aplica |     Versão 1.0 \- 11/11/2025     |
 | 10 \- O grupo de requisitos de mais alta prioridade que foram subdivididos, foram reajustados para se encaixarem em alta prioridade?    | Não se aplica |     Versão 1.0 \- 11/11/2025     |
-| 11 \- Os requisitos de alta prioridade não dependem de requisitos de prioridade menor?                                                  | Não se aplica |     Versão 1.0 \- 11/11/2025     |
+| 11 \- Os requisitos de alta prioridade não dependem de requisitos de prioridade menor?                                                  | Sim |     Versão 1.0 \- 11/11/2025     |
 
 <figcaption align="center">Tabela 13: Lista de inspeção da tecnica de priorização three-level scale.</figcaption>
 
@@ -332,16 +334,16 @@ A tabela 14 mostra a lista de verificação da modelagem de requisitos.
 | 13 \- Cada RNF especificado na Especificação Suplementar é rastreável (possui o requisito de origem e esse requisito possui uma origem em ao menos uma técnica de elicitação)(com hiperlink)                                                                   | Sim           |     Versão 1.0 - 11/11/2025      |
 | 14 \- Na especificação suplementar, todos os RNF podem ser testáveis?                                                                                                                                                                                          | Sim           |     Versão 1.0 - 11/11/2025      |
 | 15 \- Na especificação suplementar, o documento especifica qual plataforma o aplicativo pode ser executado (versão)?                                                                                                                                           | Sim           |     Versão 1.0 - 11/11/2025      |
-| 16 \- Cada item da lista de verificação de Cenários possui uma referência, com foto do texto (destacado) de origem do item?                                                                                                                                    | Não           |     Versão 1.0 - 11/11/2025      |
-| 17 \- Cada item da lista de verificação de Diagrama de Caso de Uso possui uma referência, com foto do texto (destacado) de origem do item?                                                                                                                     | Não           |     Versão 1.0 - 11/11/2025      |
-| 18 \- Na lista de verificação há um item para verificar o ator principal e ator secundário no diagrama de caso de uso? Há um texto explicando a diferença entre os dois para o avaliador?                                                                      | Não           |     Versão 1.0 - 11/11/2025      |
-| 19 \- Na lista de verificação há um item para verificar se o ator principal está do lado esquerdo do sistema no diagrama de caso de uso? Há uma referência bibliográfica da fonte e foto do texto (destacado) da referência explicando esse item de avaliação? | Não           |     Versão 1.0 - 11/11/2025      |
-| 20 \- Cada item da lista de verificação da Especificação do Caso de Uso possui uma referência, com foto do texto (destacado) de origem do item?                                                                                                                | Não           |     Versão 1.0 - 11/11/2025      |
-| 21 \- Cada item da lista de verificação da Especificação Suplementar possui uma referência, com foto do texto (destacado) de origem do item?                                                                                                                   | Não           |     Versão 1.0 - 11/11/2025      |
-| 22 \- A gravação da inspeção do próprio grupo e do grupo +1?                                                                                                                                                                                                   | Não           |     Versão 1.0 - 11/11/2025      |
-| 23 \- Na lista de verificação dos Cenários, cada item de conteúdo da disciplina possui referência bibliográfica da fonte e foto do texto da referência e o autor do item?                                                                                      | Não           |     Versão 1.0 - 11/11/2025      |
-| 24 \- Na lista de verificação do Diagrama de Caso de Uso e da Especificação do Diagrama de Caso de Uso, cada item de conteúdo da disciplina possui referência bibliográfica da fonte e foto do texto da referência e o autor do item?                          | Não           |     Versão 1.0 - 11/11/2025      |
-| 25 \- Na lista de verificação da Especificação Suplementar, cada item de conteúdo da disciplina possui referência bibliográfica da fonte e foto do texto da referência e o autor do item?                                                                      | Não           |     Versão 1.0 - 11/11/2025      |
+| 16 \- Cada item da lista de verificação de Cenários possui uma referência, com foto do texto (destacado) de origem do item?                                                                                                                                    | Sim         |     Versão 1.0 - 11/11/2025      |
+| 17 \- Cada item da lista de verificação de Diagrama de Caso de Uso possui uma referência, com foto do texto (destacado) de origem do item?                                                                                                                     | Sim           |     Versão 1.0 - 11/11/2025      |
+| 18 \- Na lista de verificação há um item para verificar o ator principal e ator secundário no diagrama de caso de uso? Há um texto explicando a diferença entre os dois para o avaliador?                                                                      | Sim          |     Versão 1.0 - 11/11/2025      |
+| 19 \- Na lista de verificação há um item para verificar se o ator principal está do lado esquerdo do sistema no diagrama de caso de uso? Há uma referência bibliográfica da fonte e foto do texto (destacado) da referência explicando esse item de avaliação? | Sim           |     Versão 1.0 - 11/11/2025      |
+| 20 \- Cada item da lista de verificação da Especificação do Caso de Uso possui uma referência, com foto do texto (destacado) de origem do item?                                                                                                                | Sim          |     Versão 1.0 - 11/11/2025      |
+| 21 \- Cada item da lista de verificação da Especificação Suplementar possui uma referência, com foto do texto (destacado) de origem do item?                                                                                                                   | Sim           |     Versão 1.0 - 11/11/2025      |
+| 22 \- A gravação da inspeção do próprio grupo e do grupo +1?                                                                                                                                                                                                   | Sim          |     Versão 1.0 - 11/11/2025      |
+| 23 \- Na lista de verificação dos Cenários, cada item de conteúdo da disciplina possui referência bibliográfica da fonte e foto do texto da referência e o autor do item?                                                                                      | SIm          |     Versão 1.0 - 11/11/2025      |
+| 24 \- Na lista de verificação do Diagrama de Caso de Uso e da Especificação do Diagrama de Caso de Uso, cada item de conteúdo da disciplina possui referência bibliográfica da fonte e foto do texto da referência e o autor do item?                          | Sim         |     Versão 1.0 - 11/11/2025      |
+| 25 \- Na lista de verificação da Especificação Suplementar, cada item de conteúdo da disciplina possui referência bibliográfica da fonte e foto do texto da referência e o autor do item?                                                                      | Sim          |     Versão 1.0 - 11/11/2025      |
 | 26 \- Foi realizada a inspeção do grupo +1?                                                                                                                                                                                                                    | Sim |     Versão 1.0 - 11/11/2025      |
 | 27 \- Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento dos Léxicos1?                                                                                                                                 | Sim           |     Versão 1.0 - 11/11/2025      |
 | 28 \- Possui um tópico de agradecimento informando o uso de Inteligência Artificial (IA) Generativa no documento dos Cenários1?                                                                                                                                | Sim           |     Versão 1.0 - 11/11/2025      |
@@ -362,7 +364,7 @@ A tabela 15 mostra a lista de verificação da técnica.
 | 3 \- O cenário descreve claramente o objetivo principal do ator?                                              | Sim       |     Versão 1.0 - 11/11/2025      |
 | 4 \- O cenário descreve os eventos que acontecem, como as reações do sistema ou de outros elementos?          | Sim       |     Versão 1.0 - 11/11/2025      |
 | 5 \- O cenário inclui exceções ou situações extremas que o usuário pode enfrentar?                            | Sim       |     Versão 1.0 - 11/11/2025      |
-| 6 \- Elaboraram cenários para tarefas principais e secundárias?                                               | Não       |     Versão 1.0 - 11/11/2025      |
+| 6 \- Elaboraram cenários para tarefas principais e secundárias?                                               | Sim       |     Versão 1.0 - 11/11/2025      |
 | 7 \- O cenário detalha o ambiente ou contexto da situação de uso, incluindo quando e onde a atividade ocorre? | Sim       |     Versão 1.0 - 11/11/2025      |
 | 8 \- A descrição do ator no cenário inclui suas características pessoais relevantes?                          | Sim       |     Versão 1.0 - 11/11/2025      |
 | 9 \- O cenário inclui a sequência de ações realizadas pelo ator para atingir o objetivo?                      | Sim       |     Versão 1.0 - 11/11/2025      |
@@ -381,13 +383,13 @@ A tabela 16 mostra a lista de verificação do léxico.
 | 1- O léxico procura descrever os símbolos de uma linguagem?                       | Sim       |     Versão 1.0 - 11/11/2025      |
 | 2- Cada léxico é descrito com uma noção?                                          | Sim       |     Versão 1.0 - 11/11/2025      |
 | 3- Cada léxico é descrito com um impacto?                                         | Sim       |     Versão 1.0 - 11/11/2025      |
-| 4- Cada noção representa uma denotação?                                           | Não       |     Versão 1.0 - 11/11/2025      |
+| 4- Cada noção representa uma denotação?                                           | Sim       |     Versão 1.0 - 11/11/2025      |
 | 5- Cada impacto descreve um efeito ou ocorrência da noção?                        | Sim       |     Versão 1.0 - 11/11/2025      |
 | 6- Cada termo do léxico está classificado corretamente (verbo,objetos ou estado)? | Sim       |     Versão 1.0 - 11/11/2025      |
 | 7- Cada símbolo tem zero ou mais sinônimos?                                       | Sim       |     Versão 1.0 - 11/11/2025      |
 | 8- Cada símbolo tem uma ou mais noções?                                           | Sim       |     Versão 1.0 - 11/11/2025      |
 | 9- Cada símbolo tem um ou mais impactos?                                          | Sim       |     Versão 1.0 - 11/11/2025      |
-| 10- Em objetos foram definidos outros objetos com quais se relaciona?             | Não       |     Versão 1.0 - 11/11/2025      |
+| 10- Em objetos foram definidos outros objetos com quais se relaciona?             | Sim       |     Versão 1.0 - 11/11/2025      |
 
 <figcaption align="center">Tabela 16: Lista de inspeção léxico.</figcaption>
 
@@ -400,15 +402,15 @@ A tabela 17 mostra a lista de verificação da técnica.
 | O github pages possui:                                                                                                                                                     | Avaliação     | Versão, Data e hora da avaliação |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | :------------------------------: |
 | 1 \- O objetivo desta Especificação Suplementar está especificado na seção Introdução?                                                                                     | Sim           |     Versão 1.0 - 11/11/2025      |
-| 2 \- A seção Escopo contém uma breve descrição do escopo e a qual Projeto ele está associado?                                                                              | Não           |     Versão 1.0 - 11/11/2025      |
+| 2 \- A seção Escopo contém uma breve descrição do escopo e a qual Projeto ele está associado?                                                                              | Sim        |     Versão 1.0 - 11/11/2025      |
 | 3 \- A subseção Definições, Acrônimos e Abreviações está alinhada ou faz referência ao Glossário do projeto?                                                               | Não           |     Versão 1.0 - 11/11/2025      |
 | 4 \- A seção Referências lista todos os documentos mencionados na Especificação Suplementar, incluindo título, data e organização da publicação?                           | Sim           |     Versão 1.0 - 11/11/2025      |
-| 5 \- A seção Utilidade inclui requisitos para o tempo de treinamento necessário para que os usuários se tornem produtivos?                                                 | Não |     Versão 1.0 - 11/11/2025      |
-| 6 \- A seção Funcionalidade aborda requisitos funcionais que são expressos no estilo de idioma nativo e estão organizados por recurso, usuário ou subsistema?              | Sim |     Versão 1.0 - 11/11/2025      |
-| 7 \- A seção Confiabilidade especifica a porcentagem de Disponibilidade do sistema?                                                                                        | Não |     Versão 1.0 - 11/11/2025      |
-| 8 \- O requisito de Confiabilidade inclui o MTBF (Mean Time Between Failures), especificado em horas, dias, meses ou anos?                                                 | Não |     Versão 1.0 - 11/11/2025      |
-| 9 \- A seção Desempenho esboça as características do desempenho do sistema, incluindo tempos de resposta específicos e o rendimento do processamento (transações/segundo)? | Sim           |     Versão 1.0 - 11/11/2025      |
-| 10 \-Os requisitos de Suportabilidade indicam padrões de codificação, convenções de nomenclatura ou bibliotecas de classe para aprimorar a capacidade de manutenção?       | Sim |     Versão 1.0 - 11/11/2025      |
+| 5 \- A seção Utilidade inclui requisitos para o tempo de treinamento necessário para que os usuários se tornem produtivos?                                                 | Não se aplica |     Versão 1.0 - 11/11/2025      |
+| 6 \- A seção Funcionalidade aborda requisitos funcionais que são expressos no estilo de idioma nativo e estão organizados por recurso, usuário ou subsistema?              | Não se aplica  |     Versão 1.0 - 11/11/2025      |
+| 7 \- A seção Confiabilidade especifica a porcentagem de Disponibilidade do sistema?                                                                                        | Não se aplica  |     Versão 1.0 - 11/11/2025      |
+| 8 \- O requisito de Confiabilidade inclui o MTBF (Mean Time Between Failures), especificado em horas, dias, meses ou anos?                                                 | Não se aplica  |     Versão 1.0 - 11/11/2025      |
+| 9 \- A seção Desempenho esboça as características do desempenho do sistema, incluindo tempos de resposta específicos e o rendimento do processamento (transações/segundo)? | Não se aplica           |     Versão 1.0 - 11/11/2025      |
+| 10 \-Os requisitos de Suportabilidade indicam padrões de codificação, convenções de nomenclatura ou bibliotecas de classe para aprimorar a capacidade de manutenção?       | Não se aplica  |     Versão 1.0 - 11/11/2025      |
 
 <figcaption align="center">Tabela 17: Lista de inspeção especificação suplementar.</figcaption>
 
@@ -433,8 +435,8 @@ A tabela 18 mostra a lista de verificação do caso de uso.
 | 11- Os relacionamentos de associação (quando ocorre uma comunicação ou interação -ples) é simbolizado como uma linha sólida?                                                           | Sim           |     Versão 1.0 - 11/11/2025      |
 | 12- Os relacionamentos de inclusão (quando ocorre uma dependência entre um caso de uso baso e um incluído) é simbolizado como uma seta tracejada?                                      | Sim           |     Versão 1.0 - 11/11/2025      |
 | 13- Os relacionamentos de extensão (quando ocorre necessidade de estender o caso de uso base) é simbolizado como uma seta tracejada?                                                   | Sim           |     Versão 1.0 - 11/11/2025      |
-| 14- Os relacionamentos de generalização (quando um caso de uso compartilha das características de outro, acrescentando algo novo) é simbolizado como uma seta sólida com ponta branca? | Não se aplica |     Versão 1.0 - 11/11/2025      |
-| 15- Os pontos de extensão são versões detalhadas dos relacionamentos de extensão?                                                                                                      | Não se aplica |     Versão 1.0 - 11/11/2025      |
+| 14- Os relacionamentos de generalização (quando um caso de uso compartilha das características de outro, acrescentando algo novo) é simbolizado como uma seta sólida com ponta branca? | Sim |     Versão 1.0 - 11/11/2025      |
+| 15- Os pontos de extensão são versões detalhadas dos relacionamentos de extensão?                                                                                                      | Sim |     Versão 1.0 - 11/11/2025      |
 
 <figcaption align="center">Tabela 18: Lista de inspeção caso de uso.</figcaption>
 
@@ -553,4 +555,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 
 | Versão |    Data    | Descrição                             |                                                                                                 Autor(es)                                                                                                 |                    Revisor(es)                     |
 | :----: | :--------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
-|  1.0   | 11/11/2025 | Documentação da inspeção 5      |   [Yan Matheus](https://github.com/Yanmatheus0812)  | [Pedro Henrique](https://github.com/pedrohpsantos)
+|  1.0   | 11/11/2025 | Documentação da inspeção 5      | [Camila Silva](https://github) e [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luisa de Souza](https://github.com/Luisa12ll).  | [Pedro Henrique](https://github.com/pedrohpsantos)
