@@ -68,6 +68,13 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou com 
 
 <font size="3"><p style="text-align:center"> Autor: <a href="https://github.com/mel14-hub">Lara Mota</a> </font>
 
+## Protótipo
+Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/i8EmwaHmv8SLQ5qWf1JDvC/Requisitos?node-id=9-12&p=f&t=Q6DcufM9z964CkRj-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=9%3A12&show-proto-sidebar=1" target="blanket">clique aqui</a>.
+
+<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/i8EmwaHmv8SLQ5qWf1JDvC/Requisitos?node-id=9-12&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=9%3A12&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe></p>
+
+
+
 # Validação do protótipo 
 
 ## Perfil dos Usuários
