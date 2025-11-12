@@ -54,6 +54,16 @@ A seguir temos a tabela 1, onde indica todos os participantes da inspeção.
 
 <figcaption align="center">Tabela 2: Lista de inspeção 6 — Rastreabilidade de Requisitos.</figcaption>
 
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
+
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                             |                                                                                                 Autor(es)                                                                                                 |                    Revisor(es)                     |
