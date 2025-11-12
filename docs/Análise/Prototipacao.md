@@ -3,7 +3,7 @@
 ## Introdução 
 
 O protótipo é uma representação inicial de um design, criada para testar e validar ideias antes do desenvolvimento final. Ele permite que os usuários interajam com o sistema e avaliem sua usabilidade e aparência, identificando possíveis falhas e melhorias.
-Segundo Rogers (2013), o protótipo pode variar de esboços simples a versões digitais de alta fidelidade, permitindo simular soluções antes da implementação. Essa prática reduz custos e retrabalho, além de garantir que o design e as funcionalidades atendam às necessidades reais dos usuários.
+ O protótipo pode variar de esboços simples a versões digitais de alta fidelidade, permitindo simular soluções antes da implementação. Essa prática reduz custos e retrabalho, além de garantir que o design e as funcionalidades atendam às necessidades reais dos usuários.
 
 ## Objetivos
 
@@ -76,8 +76,11 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou com 
 
 
 
-
 # Validação do protótipo 
+
+## Perfil do participantes
+
+A validação contará com 6 participantes, todos estudantes da FCTE com faixa etária em torno de 25 anos. O perfil escolhido representa o público-alvo principal do aplicativo, garantindo que o feedback coletado seja relevante para as necessidades e expectativas dos usuários finais. Os participantes realizarão tarefas específicas no protótipo, permitindo identificar pontos de melhoria na usabilidade e falhas identificadas.
 
 
 ## Tarefas do Particpantes
