@@ -93,19 +93,25 @@ A validação contará com 6 participantes que possuem o perfil de usuário do a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/56Ua5MB8DSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Fonte:** Yan Matheus
+**Fonte:**[Yan Matheus](https://github.com/Yanmatheus0812)
 
 A *Tabela 2*  detalha as informações da primeira sessão de avaliação de usabilidade do protótipo, incluindo os registros de gravação e o local onde o processo foi realizado.
 
 | Participante | Avaliador | Data | Horário | Local |
 | :--- | :--- | :--- | :--- | :--- |
-| Arthur Ribeiro | Yan Matheus | 11/11/2025 | 15:37 | Microsoft Teams |
+| Arthur Ribeiro | Yan Matheus | 11/11/2025 | 15:37 | Microsoft Teams 
 
+## Validação 2
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OtZeB8SMIIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+**Fonte:** [Lara Mota]("https://github.com/mel14-hub")
 
+A *Tabela 2*  detalha as informações da primeira sessão de avaliação de usabilidade do protótipo, incluindo os registros de gravação e o local onde o processo foi realizado.
 
-
+| Participante | Avaliador | Data | Horário | Local |
+| :--- | :--- | :--- | :--- | :--- |
+| Pedro Henrique | Lara Souza Mota | 12/11/2025 | 15:59 | Microsoft Teams 
 
 
 
