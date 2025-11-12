@@ -68,14 +68,6 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou com 
 
 <font size="3"><p style="text-align:center"> Autor: <a href="https://github.com/mel14-hub">Lara Mota</a> </font>
 
-
-
-
-
-
-
-
-
 # Validação do protótipo 
 
 ## Perfil dos Usuários
@@ -157,4 +149,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 | Versão |    Data    |                    Descrição                    |                                                                Autor(es)                                                                |                   Revisor(es)                    |
 | :----: | :--------: | :---------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 11/11/2025 | Adicionando protótipação | [Lara Souza](https://github.com/mel14-hub), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Camila Silva](https://github.com/CamilaSilvaC) | [Yan Matheus](https://github.com/Yanmatheus0812) |
-|  1.1   | 12/11/2025 | Completando a página da protótipação| [Lara Souza](https://github.com/mel14-hub) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github) e [Geovanna Alves](https://github.com/GeovannaUmbelino) |
+|  1.1   | 12/11/2025 | Completando a página da protótipação| [Lara Souza](https://github.com/mel14-hub) e [Pedro Henrique](https://github.com/pedrohpsantos) | [Camila Silva](https://github) e [Geovanna Alves](https://github.com/GeovannaUmbelino) |
