@@ -83,14 +83,14 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou com 
 A validação contará com 6 participantes, todos estudantes da FCTE com faixa etária em torno de 25 anos. O perfil escolhido representa o público-alvo principal do aplicativo, garantindo que o feedback coletado seja relevante para as necessidades e expectativas dos usuários finais. Os participantes realizarão tarefas específicas no protótipo, permitindo identificar pontos de melhoria na usabilidade e falhas identificadas.
 
 
-## Tarefas do Particpantes
+## Tarefas dos Usuários 
 
 - Encontar melhorias
 - Apontar falhas 
 - Identificar pontos de fricção
 - Coletar *feedback
 
-## Validação
+## Validação 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/56Ua5MB8DSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
