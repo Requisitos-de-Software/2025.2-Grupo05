@@ -93,33 +93,54 @@ A *Tabela 2*  detalha as informações da primeira sessão de avaliação de usa
 | :--- | :--- | :--- | :--- | :--- |
 | Arthur Ribeiro | Yan Matheus | 11/11/2025 | 15:37 | Microsoft Teams 
 
+
+
 ## Validação 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RXtT6Ioq2uk?si=x7dbgiArrFclgmyC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Fonte:** [Camila Silva](https://github.com/CamilaSilvaC)
+
+A *Tabela 4*  detalha as informações da primeira sessão de avaliação de usabilidade do protótipo, incluindo os registros de gravação e o local onde o processo foi realizado.
+
+| Participante | Avaliador | Data | Horário | Local |
+| :--- | :--- | :--- | :--- | :--- |
+| - | Camila Silva | 12/11/2025 | 15:00 | Microsoft Teams 
+
+## Validação 3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iVC-Cq09rtw?si=XU_qXvqTLhqdJ7sA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Fonte:** [Geovanna]("https://github.com/GeovannaUmbeliino")
+
+A *Tabela 4*  detalha as informações da primeira sessão de avaliação de usabilidade do protótipo, incluindo os registros de gravação e o local onde o processo foi realizado.
+
+| Participante | Avaliador | Data | Horário | Local |
+| :--- | :--- | :--- | :--- | :--- |
+| - | Geovanna Alves | 12/11/2025 | 15:00 | Microsoft Teams 
+
+
+## Validação 4
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OtZeB8SMIIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Fonte:** [Lara Mota]("https://github.com/mel14-hub")
+**Fonte:** [Lara Mota](ttps://github.com/mel14-hub)
 
-A *Tabela 2*  detalha as informações da primeira sessão de avaliação de usabilidade do protótipo, incluindo os registros de gravação e o local onde o processo foi realizado.
+A *Tabela 3*  detalha as informações da primeira sessão de avaliação de usabilidade do protótipo, incluindo os registros de gravação e o local onde o processo foi realizado.
 
 | Participante | Avaliador | Data | Horário | Local |
 | :--- | :--- | :--- | :--- | :--- |
 | Pedro Henrique | Lara Souza Mota | 12/11/2025 | 15:59 | Microsoft Teams 
 
+## Validação 5
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cCHLwdXw2QA?si=hlP0n1-E3z77lq2y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+**Fonte:** [Luisa de Souza](https://github.com/luisa12ll)
 
+A *Tabela 4*  detalha as informações da primeira sessão de avaliação de usabilidade do protótipo, incluindo os registros de gravação e o local onde o processo foi realizado.
 
-
-
-
-
-
-
-
-
-
-
-
+| Participante | Avaliador | Data | Horário | Local |
+| :--- | :--- | :--- | :--- | :--- |
+| Agatha | Luisa de Souza | 12/11/2025 | 17:00| Microsoft Teams 
 
 
 
