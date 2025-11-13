@@ -33,13 +33,13 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou com 
     <tbody>
       <tr>
         <td><a href="https://github.com/CamilaSilvaC">Camila Silva</a></td>
-        <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ21">RQ21</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ22">RQ22</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ23">RQ23</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ55">RQ55, <a href ="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ49">RQ49 e <a herf="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ60">
+        <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ21">RQ21</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ22">RQ22</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ23">RQ23</a>, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ55">RQ55 e <a href ="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ49">RQ49
         </td>
         <td>11/11/2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a></td>
-        <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ27">RQ27, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ28">RQ28, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ29">RQ29, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ58">RQ58, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ60">RQ60 </td>
+        <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ27">RQ27, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ28">RQ28, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ29">RQ29, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ58">RQ58 e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ60">RQ60 </td>
         <td>11/11/2025</td>
       </tr>
       <tr>
@@ -49,7 +49,7 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou com 
       </tr>
       <tr>
         <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
-        <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ45">RQ45, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ46">RQ46, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ47">RQ47, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ48">RQ48, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ50">RQ50,<a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ51">51 e<a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ52"> 52</td>
+        <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ45">RQ45, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ46">RQ46, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ47">RQ47, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ48">RQ48, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ50">RQ50, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ51">RQ51 e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ52"> RQ52</td>
         <td>11/11/2025</td>
       </tr>
       <tr>
@@ -59,7 +59,7 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou com 
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
-        <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ17">RQ17, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ18">RQ18, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ19">RQ19, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ20">RQ20, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ53">RQ53 
+        <td>Colaborou com a prototipação dos requisitos <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ17">RQ17, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ18">RQ18, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ19">RQ19, <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ20">RQ20 e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/#:~:text=RQ53">RQ53 
         <td>11/11/2025</td>
       </tr>
     </tbody>
@@ -68,11 +68,21 @@ A seguir temos a tabela 1, onde indica todos os participantes que colaborou com 
 
 <font size="3"><p style="text-align:center"> Autor: <a href="https://github.com/mel14-hub">Lara Mota</a> </font>
 
+## Protótipo
+Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/i8EmwaHmv8SLQ5qWf1JDvC/Requisitos?node-id=9-12&p=f&t=Q6DcufM9z964CkRj-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=9%3A12&show-proto-sidebar=1" target="blanket">clique aqui</a>.
+
+<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/i8EmwaHmv8SLQ5qWf1JDvC/Requisitos?node-id=9-12&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=9%3A12&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe></p>
+
+
+<iframe src="site/assets/prototipo/prototipo.pdff" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="site/assets/prototipo/prototipo.pdf">aqui</a>.
+</iframe>
+
 # Validação do protótipo 
 
 ## Perfil dos Usuários
 
-A validação contará com 6 participantes que possuem o perfil de usuário do aplicativo Jornada do Estudante. Esse perfil representa o público-alvo principal do aplicativo, garantindo que as respostas coletadas sejam relevantes para as necessidades e expectativas dos usuários finais. Os participantes realizarão tarefas específicas no protótipo, permitindo identificar pontos de melhoria na usabilidade e possíveis falhas.
+A validação contará com participantes que possuem o perfil de usuário do aplicativo Jornada do Estudante. Esse perfil representa o público-alvo principal do aplicativo, garantindo que as respostas coletadas sejam relevantes para as necessidades e expectativas dos usuários finais. Os participantes realizarão tarefas específicas no protótipo, permitindo identificar pontos de melhoria na usabilidade e possíveis falhas.
 
 ## Tarefas dos Usuários 
 
