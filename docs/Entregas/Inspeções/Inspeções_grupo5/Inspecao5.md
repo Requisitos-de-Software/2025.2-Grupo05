@@ -41,7 +41,7 @@ A seguir temos a tabela 1, onde indica todos os participantes da inspeção.
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/GeovannaUmbelino">Geovanna Alves</a></font>
 
-## Lista de Verificação - Itens do Planejamento Geral do projeto Grupo 1
+## Lista de Verificação - Itens do Planejamento Geral do projeto Grupo 5
 
 A tabela 2 mostra a lista de verificação dos planejamento geral.
 
@@ -62,7 +62,7 @@ A tabela 2 mostra a lista de verificação dos planejamento geral.
 
 <font size="3"><p style="text-align: center">Fonte: André Barros Sales.</p></font>
 
-## Lista de Verificação - Itens do Desenvolvimento do projeto Grupo 1
+## Lista de Verificação - Itens do Desenvolvimento do projeto Grupo 5
 
 A tabela 3 mostra a lista de verificação do desenvolvimento do projeto.
 
@@ -83,7 +83,7 @@ A tabela 3 mostra a lista de verificação do desenvolvimento do projeto.
 
 <font size="3"><p style="text-align: center">Fonte: André Barros Sales.</p></font>
 
-## Lista de Verificação - Rich Picture Grupo 1
+## Lista de Verificação - Rich Picture Grupo 5
 
 A tabela 4 mostra a lista de verificação do rich picture.
 
@@ -125,7 +125,7 @@ A tabela 4 mostra a lista de verificação do rich picture.
 
 <font size="3"><p style="text-align: center">Fonte: Elaboração própria, [Lara Mota](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
-## Lista de Verificação - Itens do Planejamento Geral do projeto Grupo 1
+## Lista de Verificação - Itens do Planejamento Geral do projeto Grupo 5
 
 A tabela 5 mostra a lista de verificação dos planejamento geral.
 
