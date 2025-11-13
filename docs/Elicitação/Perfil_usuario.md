@@ -183,6 +183,22 @@ Após uma análise das respostas, foi traçado dois perfis de usuário, o primei
 - **Grau de escolaridade:** Ensino superior incompleto a superior completo
 - **Tarefas desejadas:** Organizar atividades acadêmicas e centralizar suas respectivas informações.
 
+## Validação - Perfis de usuário
+
+A seguir temos a tabela 2, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O usuário corresponde ao perfil de usuário 1.
+
+| Papel | Nome | Data | Hora | Local |
+|-------|------|------|------|-------|
+| Mediador | [Geovanna Alves](https://github.com/GeovannaUmbelino) | 09/11/2025 | 10:30 | Cidade Ocidental - GO |
+| Usuário | Miguel | 09/11/2025 | 10:30 | Cidade Ocidental - GO |
+
+<p style="text-align: center; font-size: 14px;">
+<strong>Tabela 2:</strong> Validação Perfis de Usuário<br>
+Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6opsT6Ll2oc?si=dQwtxYZpbc77rQa5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Agradecimentos
 
 <div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
@@ -203,3 +219,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 | ------ | ---------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 25/09/2025 | Documentação do perfil de usuário | [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza](https://github.com/mel14-hub), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |
 | 1.1 | 06/11/2025 | Criação da tabela de contribuição | [Yan Matheus](https://github.com/Yanmatheus0812) | [Lara Souza](https://github.com/mel14-hub) |
+| 1.3 | 11/11/2025 | Adicionado validação com usuário | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) | 

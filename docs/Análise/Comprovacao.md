@@ -11,7 +11,7 @@ A mensagem enviada por e-mail adotou uma abordagem estruturada e solene. A escol
 
 A figura 1 mostra a mensagem enviada no dia 06/11/2025.
 
-![Email](/docs/img/Email.png)
+![Email](../img/Email.png)
 
 ## Retorno do Jornada do Estudante
 Até o momento da entrega do artefato 12/11/2025 não foram obtidas respostas de validação. Caso a equipe entre em contato, será inserido neste artefato sua comprovação informal quanto ao que foi desenvolvido no projeto.
