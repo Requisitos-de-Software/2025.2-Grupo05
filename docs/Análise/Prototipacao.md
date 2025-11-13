@@ -98,31 +98,33 @@ A *Tabela 2*  detalha as informações da primeira sessão de avaliação de usa
 
 | Participante | Avaliador | Data | Horário | Local |
 | :--- | :--- | :--- | :--- | :--- |
-| Arthur Ribeiro | Yan Matheus | 11/11/2025 | 15:37 | Microsoft Teams 
+| Arthur Ribeiro | Yan Matheus | 11/11/2025 | 15:37 | Faculdade de Ciências e Tecnologia em Engenharias (FCTE) 
 
 
 
 ## Validação 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RXtT6Ioq2uk?si=x7dbgiArrFclgmyC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Fonte:** [Camila Silva](https://github.com/CamilaSilvaC)
 
 A *Tabela 3*  detalha as informações da primeira sessão de avaliação de usabilidade do protótipo, incluindo os registros de gravação e o local onde o processo foi realizado.
 
 | Participante | Avaliador | Data | Horário | Local |
 | :--- | :--- | :--- | :--- | :--- |
-| Enzo Menali | Camila Silva | 12/11/2025 | 15:00 | Microsoft Teams 
+| Enzo Menali | Camila Silva | 12/11/2025 | 15:00 | Faculdade de Ciências e Tecnologia em Engenharias (FCTE) 
 
 ## Validação 3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iVC-Cq09rtw?si=XU_qXvqTLhqdJ7sA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Fonte:** [Geovanna]("https://github.com/GeovannaUmbeliino")
 
 A *Tabela 4*  detalha as informações da primeira sessão de avaliação de usabilidade do protótipo, incluindo os registros de gravação e o local onde o processo foi realizado.
 
 | Participante | Avaliador | Data | Horário | Local |
 | :--- | :--- | :--- | :--- | :--- |
-| Enzo Menali | Geovanna Alves | 12/11/2025 | 15:00 | Microsoft Teams 
+| Enzo Menali | Geovanna Alves | 12/11/2025 | 15:00 | Faculdade de Ciências e Tecnologia em Engenharias (FCTE) 
 
 
 ## Validação 4
@@ -135,7 +137,7 @@ A *Tabela 5*  detalha as informações da primeira sessão de avaliação de usa
 
 | Participante | Avaliador | Data | Horário | Local |
 | :--- | :--- | :--- | :--- | :--- |
-| Pedro Henrique | Lara Souza Mota | 12/11/2025 | 15:59 | Microsoft Teams 
+| Pedro Henrique | Lara Souza Mota | 12/11/2025 | 15:59 | Faculdade de Ciências e Tecnologia em Engenharias (FCTE) 
 
 ## Validação 5
 
@@ -149,7 +151,19 @@ A *Tabela 6* detalha as informações da primeira sessão de avaliação de usab
 
 | Participante | Avaliador | Data | Horário | Local |
 | :--- | :--- | :--- | :--- | :--- |
-| Agatha | Luisa de Souza | 12/11/2025 | 17:00| Microsoft Teams 
+| Agatha | Luisa de Souza | 12/11/2025 | 17:00| Faculdade de Ciências e Tecnologia em Engenharias (FCTE) 
+
+## Validação 6
+
+
+
+**Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
+
+A *Tabela 6* detalha as informações da primeira sessão de avaliação de usabilidade do protótipo, incluindo os registros de gravação e o local onde o processo foi realizado.
+
+| Participante | Avaliador | Data | Horário | Local |
+| :--- | :--- | :--- | :--- | :--- |
+| João | Pedro Henrique | 12/11/2025 | 17:00 | Faculdade de Ciências e Tecnologia em Engenharias (FCTE) 
 
 
 
