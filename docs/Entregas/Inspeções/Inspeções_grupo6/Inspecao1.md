@@ -97,7 +97,7 @@ A tabela 3 mostra a lista de verificação do desenvolvimento do projeto.
 
 A tabela 4 mostra a lista de verificação do rich picture.
 
-| Item | Descrição                                                                                                               | Verificação |                                                       |
+| Item | Descrição                                                                                                               | Verificação |                                                       
 | ---- | ----------------------------------------------------------------------------------------------------------------------- | ----------- | 
 | 1    | Os atores interagem com o sistema?                                                                                      | Sim         | 
 | 2    | Os atores possuem uma descrição clara?                                                                                  | Sim         | 
