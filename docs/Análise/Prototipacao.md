@@ -140,9 +140,13 @@ A *Tabela 3*  detalha as informações da primeira sessão de avaliação de usa
 | :--- | :--- | :--- | :--- | :--- |
 | Pedro Henrique | Lara Souza Mota | 12/11/2025 | 15:59 | Microsoft Teams 
 
-## Validação 5
+## Validação Presencial do Protótipo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cCHLwdXw2QA?si=hlP0n1-E3z77lq2y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Validação Remota via Microsoft Teams
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xqCW2EDekHk?si=FY1tACcKekcxTRuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Fonte:** [Luisa de Souza](https://github.com/luisa12ll)
 
