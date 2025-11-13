@@ -73,11 +73,7 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/i8EmwaHm
 
 <p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/i8EmwaHmv8SLQ5qWf1JDvC/Requisitos?node-id=9-12&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=9%3A12&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe></p>
 
-
-<iframe src="./prototipo.pdf" width="100%" height="450px" style="border:1px solid #ccc;">
-    Este navegador não suporta PDFs. 
-    Faça o download <a href="./prototipo.pdf">aqui</a>.
-</iframe>
+Acesse o PDF [aqui](./prototipo.pdf).
 
 # Validação do protótipo 
 
