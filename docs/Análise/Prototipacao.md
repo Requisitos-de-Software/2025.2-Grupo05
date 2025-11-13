@@ -74,12 +74,15 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/i8EmwaHm
 <p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/i8EmwaHmv8SLQ5qWf1JDvC/Requisitos?node-id=9-12&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=9%3A12&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe></p>
 
 
+<iframe src="site/assets/prototipo/prototipo.pdff" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="site/assets/prototipo/prototipo.pdf">aqui</a>.
+</iframe>
 
 # Validação do protótipo 
 
 ## Perfil dos Usuários
 
-A validação contará com 6 participantes que possuem o perfil de usuário do aplicativo Jornada do Estudante. Esse perfil representa o público-alvo principal do aplicativo, garantindo que as respostas coletadas sejam relevantes para as necessidades e expectativas dos usuários finais. Os participantes realizarão tarefas específicas no protótipo, permitindo identificar pontos de melhoria na usabilidade e possíveis falhas.
+A validação contará com participantes que possuem o perfil de usuário do aplicativo Jornada do Estudante. Esse perfil representa o público-alvo principal do aplicativo, garantindo que as respostas coletadas sejam relevantes para as necessidades e expectativas dos usuários finais. Os participantes realizarão tarefas específicas no protótipo, permitindo identificar pontos de melhoria na usabilidade e possíveis falhas.
 
 ## Tarefas dos Usuários 
 
