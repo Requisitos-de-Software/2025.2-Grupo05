@@ -75,6 +75,11 @@ Resumo geral
 
 ### Lara Souza
 
+No início da disciplina, tive bastante dificuldade para entender o conteúdo e compreender exatamente o que precisava ser feito no trabalho. Devido à carga horária semanal das outras matérias, era bem complicado conciliar tudo. Como esta disciplina possuía várias entregas semanais, a rotina ficava ainda mais puxada, pois eu precisava organizar melhor meu tempo para conseguir acompanhar todas as atividades.
+
+Apesar das dificuldades iniciais, algumas partes do conteúdo se tornaram mais tranquilas com o tempo. Minhas maiores facilidades foram aprender a mexer no MkDocs e no Git. Eu não tinha experiência prévia nessas ferramentas, mas consegui aprender bem e evoluir bastante ao longo das semanas.
+
+De modo geral, termino o trabalho sentindo que aprendi muito  tanto sobre o conteúdo técnico quanto sobre trabalhar em equipe. Foi um processo importante para o meu desenvolvimento acadêmico. Sinto que cresci bastante e que agora tenho mais confiança para lidar com ferramentas e metodologias que antes eu sequer conhecia.
 ### Luísa de Souza
 No começo da disciplina, tive bastante dificuldade. O processo de adaptação foi bem desafiador, principalmente por causa da quantidade de entregas semanais e pela complexidade dos conteúdos. Esse início exigiu um esforço extra para conseguir acompanhar tudo. Além disso, também tive problemas para organizar meu tempo, mas, depois que percebi a importância de separar algumas horas da semana só para os requisitos, as coisas começaram a fluir muito melhor.  
 
