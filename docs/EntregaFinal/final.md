@@ -16,6 +16,26 @@ Tabela dos vídeos das verificações
 
 Tabela dos vídeos das apresentações
 
+
+## Relação apresentações
+
+A relação das gravações das apresentações, nos vídeos de 1 a 7, e os respectivos membros que participaram de cada uma está apresentada na Tabela 1.  
+
+| Apresentação | Membros | Gravação |
+| :----------: | :------ | :------: |
+| Entrega 1 |[Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <iframe width="560" height="315" src="https://www.youtube.com/embed/v9r0mlOZKa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 1</b>: gravação apresentação 1.</p></div> |
+| Entrega 2 | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <iframe width="560" height="315" src="https://www.youtube.com/embed/Q4VNBmDyI1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 2</b>: gravação apresentação 2.</p></div> |
+| Entrega 3 | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <iframe width="560" height="315" src="https://www.youtube.com/embed/Q15Y1bvoOxc?si=xOoiD5QBmcxJvgVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 3</b>: gravação apresentação 3 (Fonte: Grupo. 2023).</p></div> |
+| Entrega 4 | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <iframe width="560" height="315" src="https://www.youtube.com/embed/8bg0IVDFjew?si=-36jSAYAX4EeHLA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 4</b>: gravação apresentação 4.</p></div> |
+| Entrega 5 |[Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)| <iframe width="560" height="315" src="https://www.youtube.com/embed/hQl5bxSUrlg?si=9gr2kVijZc2_3aFj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 5</b>: gravação apresentação 5.</p></div> |
+| Entrega 6 | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <iframe width="560" height="315" src="https://www.youtube.com/embed/LXvS1r1e32I?si=4LEdAhMu810dJVVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 6</b>: gravação apresentação 6.</p></div> |
+| Entrega Final | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <div align="center"><p> <b>Vídeo 7</b>: gravação apresentação final.</p></div> |
+
+Tabela 1 – Relações de apresentações
+
+Elaboração por <a href="https://github.com/luisa12ll">Luisa de Souza</a>
+
+
 ## Tabela de contribuição geral
 
 ### Etapa 1 - Pré-Rastreabilidade
@@ -56,6 +76,11 @@ Resumo geral
 ### Lara Souza
 
 ### Luísa de Souza
+No começo da disciplina, tive bastante dificuldade. O processo de adaptação foi bem desafiador, principalmente por causa da quantidade de entregas semanais e pela complexidade dos conteúdos. Esse início exigiu um esforço extra para conseguir acompanhar tudo. Além disso, também tive problemas para organizar meu tempo, mas, depois que percebi a importância de separar algumas horas da semana só para os requisitos, as coisas começaram a fluir muito melhor.  
+
+Uma das minhas maiores facilidades foi na parte de elicitação e prototipagem, já que eu já tinha experiência com essas etapas em outros projetos profissionais. Isso me ajudou bastante a entender melhor os requisitos e a aplicar o que aprendi de forma prática durante a disciplina. Outra coisa muito positiva foi ter encontrado um grupo incrível, com pessoas que estavam realmente comprometidas em entregar um trabalho bem feito e acima de tudo, focadas no aprendizado. Quero deixar meu agradecimento a todos pelo apoio e pela parceria ao longo da disciplina,  isso fez toda a diferença na nossa jornada e na nossa entrega final. 
+
+Por fim, apesar dos desafios, termino a disciplina com muita gratidão e orgulho pelo trabalho que realizamos como grupo. Aprendi lições muito importantes que já consegui aplicar tanto no trainee da EngNet quanto em projetos pessoais, sendo assim, sinto que evoluí bastante, tanto no lado acadêmico e profissional quanto pessoal.   
 
 ### Pedro Henrique
 
@@ -75,3 +100,5 @@ Em geral, finalizo o trabalho muito satisfeito com seu resultado e tudo o que ap
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 1.0 | 13/11/2025 | Criação da documentação da apresentação final | [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC) |
+| 1.1 | 14/11/2025 | Adicionando as apresentações | [Luísa de Souza](https://github.com/luisa12ll) | [Yan Matheus](https://github.com/Yanmatheus0812) |
+
