@@ -65,6 +65,18 @@ Elaboração por <a href="https://github.com/luisa12ll">Luisa de Souza</a>
 | Especificação suplementar | 0 | 0 | 0 | 0 | 0 | 0 |
 | Validação da especificação suplementar | 0 | 0 | 0 | 0 | 0 | 0 |
 
+
+
+### Etapa 6 - Elos de Rastreabilidade
+
+| Artefato | Camila Silva | Geovanna Alves | Lara Souza | Luísa de Souza | Pedro Henrique | Yan Matheus |
+| -------- | ------------ | -------------- | ---------- | -------------- | -------------- | ----------- |
+| Quantidade de Elos de Especificação | 9- [Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes), [Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes) | 11- [Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes),[Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)| 10- [Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes),[Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)| 6- [Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes),[Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)| 6-[Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes),[Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)  | 9- [Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes),[Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)|
+| Participação da Matriz Rastreabilidade(requisitos com versionamento)| sim |sim | sim | sim| sim|sim |
+| Total de documentos criados | 5| 8| 5| 5 | 5| 5|
+| Total de documentos revisados | 1| 1 | 0| 1| 0 | 4|
+
+
 ## Facilidades e dificuldades encontradas
 
 Resumo geral
