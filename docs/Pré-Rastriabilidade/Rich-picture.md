@@ -66,9 +66,10 @@ A seguir temos a tabela 2, onde indica todos os participantes da validação da 
 
 | Papel | Nome | Data | Hora | Local |
 |-------|------|------|------|-------|
-| Mediador | [Yan Matheus](https://github.com/Yanmatheus0812) | 30/09/2025 | 13:30 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
-| Usuário | Bryan | 30/09/2025 | 13:30 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
+| Mediador | [Yan Matheus](https://github.com/Yanmatheus0812) | 18/11/2025 | 10:30 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
+| Usuário | Mariana | 18/11/2025 | 10:30 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APP16_m2kWs?si=EwPHpJMjGDECvO4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center; font-size: 14px;">
 <strong>Tabela 2:</strong> Validação Rich picture Scale<br>
