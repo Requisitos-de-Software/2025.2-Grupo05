@@ -155,7 +155,7 @@ A *Tabela 6* detalha as informações da primeira sessão de avaliação de usab
 
 ## Validação 6
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p36gfBiwoZU?si=AP9QPF2AKruA4pgS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Fonte:** [Pedro Henrique](https://github.com/pedrohpsantos)
 
@@ -163,7 +163,7 @@ A *Tabela 6* detalha as informações da primeira sessão de avaliação de usab
 
 | Participante | Avaliador | Data | Horário | Local |
 | :--- | :--- | :--- | :--- | :--- |
-| João | Pedro Henrique | 12/11/2025 | 17:00 | Faculdade de Ciências e Tecnologia em Engenharias (FCTE) 
+| Hemyle | Pedro Henrique | 12/11/2025 | 20:00 | Santa Maria - DF
 
 
 
@@ -181,9 +181,9 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 ## Bibliografia
 
 
-<a id="FRM3" href="#anchor_3">3.</a> Prototipagem do Grupo VLCna de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-VLC/#/validacao/prototipagem](https://requisitos-de-software.github.io/2023.1-VLC/#/validacao/prototipagem). Acesso em: 11 nov. 2025
+<a id="FRM3" href="#anchor_3">1.</a> Prototipagem do Grupo VLCna de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-VLC/#/validacao/prototipagem](https://requisitos-de-software.github.io/2023.1-VLC/#/validacao/prototipagem). Acesso em: 11 nov. 2025
 
-<a id="FRM3" href="#anchor_3">3.</a> Prototipagem do Grupo Bilheteira Digital de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [ttps://requisitos-de-software.github.io/2023.1-BilheteriaDigital/validacao/prototipo/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/validacao/prototipo/). Acesso em: 11 nov. 2025
+<a id="FRM3" href="#anchor_3">2.</a> Prototipagem do Grupo Bilheteira Digital de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [ttps://requisitos-de-software.github.io/2023.1-BilheteriaDigital/validacao/prototipo/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/validacao/prototipo/). Acesso em: 11 nov. 2025
 
 <a id="FRM3" href="#anchor_3">3.</a> ROGERS, Yvonne; SHARP, Helen; PREECE, Jennifer. Design de Interação: Além da Interação Humano-Computador. 3. ed. Porto Alegre: Bookman, 2013. xiv, 585 p.Cap 8 Acesso em: 11 nov. 2025
 
