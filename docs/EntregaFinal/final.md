@@ -6,6 +6,38 @@ Introdução
 
 ## Informações
 
+### Aplicativo selecionado
+  
+  **Sobre o aplicativo**:
+
+**Jornada do Estudante** é uma iniciativa do **Ministério da Educação (MEC)**, em parceria com órgãos do Governo Federal, desenvolvida dentro do programa **Startup Gov.br**.
+
+<section>
+- Para acessar os detalhes sobre o aplicativo selecionado:
+
+[Página do aplicativo selecionado](https://requisitos-de-software.github.io/2025.2-Grupo05/Planejamento/Aplicativo_selecionado/)
+</section>
+
+
+### Planejamento
+  
+  **Sobre o Planejamento do projeto**:
+
+    O planejamento do projeto **Jornada do Estudante** seguiu o planejamento da **Metodologia Scrum**, para garantir as entregas e e alta adaptabilidade.
+
+    Nesta seção, documentamos o ciclo completo de trabalho, incluindo:
+
+    * Metodologia Scrum e seus papéis no projeto.
+    * O Cronograma detalhado das sprints
+    * O mapeamento de artefatos e a  dos requisitos.
+
+<section>
+- Para acessar on planejamento completo:
+[Página do planejamento](https://requisitos-de-software.github.io/2025.2-Grupo05/Planejamento/Metodologia/)
+</section>
+
+
+
 Hiperlinks para (aplicativo selecionado, planejamento, resultados alcançados (artefatos), ferramentas e playlist dos vídeos) - dica: olhar o repositorio do bilheteria digital, acho que fizeram bem completo
 
 ## Vídeos das verificações 
