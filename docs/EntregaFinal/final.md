@@ -29,7 +29,7 @@ Nesta seção, documentamos o ciclo completo de trabalho, incluindo:
 
 * Metodologia Scrum e seus papéis no projeto.
 * O Cronograma detalhado das Sprints.
-* O mapeamento de artefatos e a **rastreabilidade** dos requisitos.
+* O mapeamento de artefatos e a rastreabilidade dos requisitos.
 
 - Para acessar o planejamento completo:
 [Página do planejamento](https://requisitos-de-software.github.io/2025.2-Grupo05/Planejamento/Metodologia/)
