@@ -115,6 +115,10 @@ Elaboração por <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 | Artefato | Camila Silva | Geovanna Alves | Lara Souza | Luísa de Souza | Pedro Henrique | Yan Matheus |
 | -------- | ------------ | -------------- | ---------- | -------------- | -------------- | ----------- |
 
+Tabela 7 – Tabela de contribuição da etapa 5 - Análise de Requisitos
+
+Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a> e <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>
+
 ### Etapa 6 - Elos de Rastreabilidade
 
 | Artefato | Camila Silva | Geovanna Alves | Lara Souza | Luísa de Souza | Pedro Henrique | Yan Matheus |
