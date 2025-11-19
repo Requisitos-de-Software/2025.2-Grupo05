@@ -6,7 +6,6 @@ Introdução
 
 ## Informações
 
-## Informações
 
 ### Aplicativo selecionado
   
@@ -35,7 +34,32 @@ Nesta seção, documentamos o ciclo completo de trabalho, incluindo:
 [Página do planejamento](https://requisitos-de-software.github.io/2025.2-Grupo05/Planejamento/Metodologia/)
 
 
+### Ferramentas 
+  
+**Sobre as ferramentas do projeto**:
+
+Para assegurar a eficiência e promover a colaboração contínua da equipe, nosso projeto conta com diversas ferramentas que otimizam desde a comunicação até o gerenciamento de versões. 
+
+
+- Para acessar a página de ferramentas  completa:
+[Página das ferramentas](https://requisitos-de-software.github.io/2025.2-Grupo05/Planejamento/Ferramentas/)
+
+
+### Playlist de vídeos
+  
+**Sobre a playlist**:
+
+A playlist de vídeos contém  as entregas (sprints) e gravações das apresentações realizadas ao longo da disciplina. Estes vídeos servem como um complemento visual e dinâmico à documentação escrita.
+
+- Para acessar a página de playlist :
+[Página da playlist](requisitos-de-software.github.io/2025.2-Grupo05/Entregas/Reunioes/)
+
+- Para acessar a página de playlist completa no youtube :
+[Acessar playlist completa no youtube](https://www.youtube.com/watch?v=1ZlOacYxBDo&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji)
+
+
 Hiperlinks para (aplicativo selecionado, planejamento, resultados alcançados (artefatos), ferramentas e playlist dos vídeos) - dica: olhar o repositorio do bilheteria digital, acho que fizeram bem completo
+
 
 ## Vídeos das verificações 
 
