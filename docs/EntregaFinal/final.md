@@ -2,7 +2,9 @@
 
 ## Introdução
 
-Introdução
+Este documento tem como objetivo apresentar, de forma clara, organizada e abrangente, uma visão geral de todas as etapas realizadas pelo Grupo 5 ao longo da disciplina de Requisitos de Software.Ao longo do semestre, o Grupo 5 concentrou-se no estudo, análise e documentação do aplicativo Jornada do Estudante. Este documento consolida todas as etapas desenvolvidas, abrangendo desde o planejamento inicial até os processos de elicitação, modelagem, especificação, verificação. Dessa forma, o artefato oferece uma compreensão completa e estruturada de todo o percurso do grupo.
+
+A partir desta análise, torna-se possível compreender como cada etapa contribuiu para o desenvolvimento do projeto, evidenciando tanto o rigor metodológico aplicado quanto os resultados alcançados ao longo da disciplina.
 
 ## Informações
 
@@ -123,6 +125,11 @@ Elaboração por <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 ### Camila Silva
 
 ### Geovanna Alves
+
+No início da disciplina, tive dificuldade para compreender as entregas, mas fui ganhando prática e, a partir da segunda atividade, já me sentia mais segura. A organização do projeto também foi um desafio, porém se tornou mais simples com o tempo. Ao final, conseguimos entregar uma documentação bem estruturada, com todos os artefatos linkados, o que facilitou bastante o acesso às informações.
+
+Minhas maiores facilidades foram a organização das tabelas e a criação do protótipo, graças às experiências anteriores. A etapa de priorização foi uma das que mais gostei de desenvolver, pois trouxe muitos aprendizados. Gostaria de agradecer ao grupo pela colaboração e pelo excelente trabalho realizado. A disciplina proporcionou ensinamentos valiosos sobre organização, trabalho em equipe e conteúdo técnico, que serão fundamentais na minha trajetória acadêmica e profissional.
+
 
 ### Lara Souza
 
