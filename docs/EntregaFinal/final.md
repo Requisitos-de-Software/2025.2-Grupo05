@@ -110,6 +110,11 @@ Tabela 6 – Tabela de contribuição da etapa 3 - modelagem
 
 Elaboração por <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 
+### Etapa 5 - Análise de Requisitos: Verificação e Validação
+
+| Artefato | Camila Silva | Geovanna Alves | Lara Souza | Luísa de Souza | Pedro Henrique | Yan Matheus |
+| -------- | ------------ | -------------- | ---------- | -------------- | -------------- | ----------- |
+
 ### Etapa 6 - Elos de Rastreabilidade
 
 | Artefato | Camila Silva | Geovanna Alves | Lara Souza | Luísa de Souza | Pedro Henrique | Yan Matheus |
