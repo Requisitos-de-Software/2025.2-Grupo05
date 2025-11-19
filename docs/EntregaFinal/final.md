@@ -58,7 +58,6 @@ A playlist de vídeos contém  as entregas (sprints) e gravações das apresenta
 [Acessar playlist completa no youtube](https://www.youtube.com/watch?v=1ZlOacYxBDo&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji)
 
 
-Hiperlinks para (aplicativo selecionado, planejamento, resultados alcançados (artefatos), ferramentas e playlist dos vídeos) - dica: olhar o repositorio do bilheteria digital, acho que fizeram bem completo
 
 
 ## Vídeos das verificações 
