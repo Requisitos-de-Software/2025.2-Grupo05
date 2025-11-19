@@ -128,8 +128,9 @@ Elaboração por <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 
 No início da disciplina, tive dificuldade para compreender as entregas, mas fui ganhando prática e, a partir da segunda atividade, já me sentia mais segura. A organização do projeto também foi um desafio, porém se tornou mais simples com o tempo. Ao final, conseguimos entregar uma documentação bem estruturada, com todos os artefatos linkados, o que facilitou bastante o acesso às informações.
 
-Minhas maiores facilidades foram a organização das tabelas e a criação do protótipo, graças às experiências anteriores. A etapa de priorização foi uma das que mais gostei de desenvolver, pois trouxe muitos aprendizados. Gostaria de agradecer ao grupo pela colaboração e pelo excelente trabalho realizado. A disciplina proporcionou ensinamentos valiosos sobre organização, trabalho em equipe e conteúdo técnico, que serão fundamentais na minha trajetória acadêmica e profissional.
+Minhas maiores facilidades foram a organização das tabelas no MkDocs, mesmo enfrentando alguns obstáculos ao longo do processo. Também tive facilidade na criação do protótipo, graças às experiências adquiridas em projetos anteriores. A etapa de priorização foi uma das que mais gostei de desenvolver, pois proporcionou aprendizados significativos.
 
+Por fim, gostaria de agradecer ao grupo pela colaboração e pelo excelente trabalho realizado. A disciplina trouxe ensinamentos valiosos sobre organização, trabalho em equipe e conteúdo técnico, que serão fundamentais na minha trajetória acadêmica e profissional.
 
 ### Lara Souza
 
