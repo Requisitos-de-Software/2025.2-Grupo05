@@ -15,7 +15,6 @@ A análise geral demonstra um **excelente índice de conformidade** do projeto, 
 
 A tabela 1 apresenta o resumo quantitativo geral dos resultados:
 
-<div align="center">
 
 <font size="3"><p style="text-align: center">Tabela 1: Resumo Geral dos Resultados</p></font>
 
@@ -28,7 +27,6 @@ A tabela 1 apresenta o resumo quantitativo geral dos resultados:
 
 <font size="3"><p style="text-align: center">Fonte: Listas de Verificação Grupo 5.</p></font>
 
-</div>
 
 Esses resultados evidenciam a qualidade geral do trabalho desenvolvido e o rigor metodológico aplicado em todas as etapas do projeto de requisitos de software.
 
@@ -41,7 +39,6 @@ Esses resultados evidenciam a qualidade geral do trabalho desenvolvido e o rigor
 
 A distribuição dos resultados por categoria permite identificar o desempenho em cada fase do processo de engenharia de requisitos. A tabela 2 apresenta os dados consolidados por categoria:
 
-<div align="center">
 
 <font size="3"><p style="text-align: center">Tabela 2: Resultados por Categoria</p></font>
 
@@ -57,7 +54,6 @@ A distribuição dos resultados por categoria permite identificar o desempenho e
 
 <font size="3"><p style="text-align: center">Fonte: Listas de Verificação Grupo 5.</p></font>
 
-</div>
 
 ### Planejamento
 
@@ -114,7 +110,6 @@ Assim como o planejamento, a rastreabilidade (Tabela 23) alcançou **conformidad
 
 A análise granular por tabela permite identificar com precisão os artefatos específicos e seus respectivos desempenhos. A tabela 3 apresenta os resultados detalhados de todas as 23 tabelas avaliadas:
 
-<div align="center">
 
 <font size="3"><p style="text-align: center">Tabela 3: Resultados Detalhados por Tabela de Inspeção</p></font>
 
@@ -145,7 +140,6 @@ A análise granular por tabela permite identificar com precisão os artefatos es
 
 <font size="3"><p style="text-align: center">Fonte: Listas de Verificação Grupo 5.</p></font>
 
-</div>
 
 ### Destaques Positivos
 
@@ -200,6 +194,16 @@ As áreas que apresentaram não conformidades são bem delimitadas e representam
 A presença de **21 itens "não se aplica" (8,0%)** é natural e esperada, refletindo a adequação dos checklists à realidade específica do projeto acadêmico e às características do aplicativo escolhido.
 
 Este resultado consolida o trabalho desenvolvido pelo Grupo 05 e valida a qualidade dos artefatos produzidos em todas as etapas da disciplina de Requisitos de Software, demonstrando comprometimento, rigor metodológico e atenção aos detalhes ao longo de todo o processo de engenharia de requisitos.
+
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
 
 ## Histórico de Versões
 

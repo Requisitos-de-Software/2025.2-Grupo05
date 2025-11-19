@@ -52,7 +52,7 @@ Para assegurar a eficiência e promover a colaboração contínua da equipe, nos
 A playlist de vídeos contém  as entregas (sprints) e gravações das apresentações realizadas ao longo da disciplina. Estes vídeos servem como um complemento visual e dinâmico à documentação escrita.
 
 - Para acessar a página de playlist :
-[Página da playlist](requisitos-de-software.github.io/2025.2-Grupo05/Entregas/Reunioes/)
+[Página da playlist](https://requisitos-de-software.github.io/2025.2-Grupo05/Entregas/Reunioes/)
 
 - Para acessar a página de playlist completa no youtube :
 [Acessar playlist completa no youtube](https://www.youtube.com/watch?v=1ZlOacYxBDo&list=PLLWUvFk-8eapL5FB6mMvY3y0y_tqLEXji)
@@ -204,7 +204,15 @@ Minhas maiores facilidades se encontraram em organizar o grupo e as responsabili
 
 Em geral, finalizo o trabalho muito satisfeito com seu resultado e tudo o que aprendi na disciplina, acredito que graças à resiliência e responsabilidade do grupo conseguimos entregar um trabalho de qualidade e que faz jus a nossa disposição geral durante todo o semestre da disciplina. Sinto que pude aprender bastante sobre requisitos de software, conhecimento que ja pude aplicar em meu estágio, fico grato a todos que contribuiram para meu aprendizado, entre professor, monitores e ao meu grupo.
 
-## Bibliografia
+## Agradecimentos
+
+<div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">
+  Queremos agradecer o <b>Gemini e ChatGPT</b>, ferramenta de Inteligência Artificial Generativa, pelo apoio durante o desenvolvimento deste projeto Jornada do Estudante. Sua ajuda foi essencial na revisão de textos, na organização das ideias e na pesquisa de conteúdos complementares que contribuíram para deixar nossa documentação mais clara e completa.
+
+De acordo com o Código de Conduta da Sociedade Brasileira de Computação (SBC), destacamos que a ferramenta foi utilizada apenas como apoio técnico e linguístico.
+Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total responsabilidade por sua originalidade e precisão.
+
+</div>
 
 
 ## Histórico de Vesões
