@@ -208,7 +208,7 @@ Elaboração por <a href="https://github.com/luisa12ll">Luísa de Souza</a>
 | Artefato | Camila Silva | Geovanna Alves | Lara Souza | Luísa de Souza | Pedro Henrique | Yan Matheus |
 | -------- | ------------ | -------------- | ---------- | -------------- | -------------- | ----------- |
 <p style="text-align: center; font-size: 14px;">
-Tabela 7 – Tabela de contribuição da etapa 5 - Análise de Requisitos
+Tabela 8 – Tabela de contribuição da etapa 5 - Análise de Requisitos
 Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a> e <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>
 </p>
 
@@ -221,8 +221,8 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a> e <a
 | **Total de documentos criados** | 3| 3| 3| 3 | 3| 3|
 | **Total de documentos revisados** | 3| 3 | 3 | 3| 3 | 3|
 <p style="text-align: center; font-size: 14px;">
-Tabela 7 – Tabela de contribuição da etapa 5 - Análise de Requisitos
-Elaboração por <a href="https://github.com/nome">Nome</a>
+Tabela 9 – Tabela de contribuição da etapa 6 - Elos de Rastreabilidade
+Elaboração por <a href="https://github.com/mel14-hub">Lara Souza</a>
 </p>
 
 ## Facilidades e dificuldades encontradas
