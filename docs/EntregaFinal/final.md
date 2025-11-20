@@ -62,12 +62,42 @@ A playlist de vídeos contém  as entregas (sprints) e gravações das apresenta
 
 ## Vídeos das verificações 
 
-Tabela dos vídeos das verificações
+### Inspeções do grupo 05
+
+A relação das gravações das inspeções do nosso grupo e os respectivos membros que participaram de cada uma está apresentada na Tabela 1.  
+
+| Inspeção | Membros | Gravação |
+| :----------: | :------ | :------: |
+| Inspeção 1 | [Lara Souza](https://github.com/mel14-hub),  [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <iframe width="560" height="315" src="https://www.youtube.com/embed/EeNfz6zeWoc?si=ch2U5BM5bzilzWR6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 1</b>: gravação inspeção 1.</p></div> |
+| Inspeção 2 | [Camila Silva](https://github.com/CamilaSilvaC) e [Geovanna Alves](https://github.com/GeovannaUmbelino)| <iframe width="560" height="315" src="https://www.youtube.com/embed/TDUvLCktvTI?si=0P3o6mFP_RKL9Phy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 2</b>: gravação inspeção 2.</p></div> |
+| Inspeção 3 | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e  [Luísa de Souza](https://github.com/luisa12ll) | <iframe width="560" height="315" src="https://www.youtube.com/embed/cBXAl4vEaZ8?si=ysSv9kiJm0wuCdhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 3</b>: gravação inspeção 3 (Fonte: Grupo. 2023).</p></div> |
+| Inspeção 4 | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino),  [Luísa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812) | <iframe width="560" height="315" src="https://www.youtube.com/embed/JdY30e0yqQo?si=UordNM3oQ6T7rkxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 4</b>: gravação inspeção 4.</p></div> |
+| Inspeção 5 |[Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Luísa de Souza](https://github.com/luisa12ll)| <iframe width="560" height="315" src="https://www.youtube.com/embed/tWK5XUnaq-w?si=dthrr4MNf2p_Qt3n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 5</b>: gravação inspeção 5.</p></div> |
+| Inspeção 6 | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos)| <iframe width="560" height="315" src="https://www.youtube.com/embed/LjAFGTEfRK8?si=Mtg-K0KwU8vUmB5n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 6</b>: gravação inspeção 6.</p></div> |
+
+Tabela 1 – Relações de inspeções do grupo 05
+
+Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>
+
+### Inspeções do grupo +1 (Grupo 06)
+
+| Inspeção | Membros | Gravação |
+| :----------: | :------ | :------: |
+| Inspeção 1 |[Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <iframe width="560" height="315" src="https://www.youtube.com/embed/uXs-pqlbXPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 1</b>: gravação inspeção 1.</p></div> |
+| Inspeção 2 |  [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <iframe width="560" height="315" src="https://www.youtube.com/embed/ChWfyY-DhzU?si=dlgHMaZmONEasBtJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 2</b>: gravação inspeção 2.</p></div> |
+| Inspeção 3 |  [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <iframe width="560" height="315" src="https://www.youtube.com/embed/p9lG-5diNio?si=eV97_jWECarDhCeF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 3</b>: gravação inspeção 3 (Fonte: Grupo. 2023).</p></div> |
+| Inspeção 4 |  [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos) | <iframe width="560" height="315" src="https://www.youtube.com/embed/xT2oOKes48s?si=l3zS0-opVa-DbUOq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 4</b>: gravação inspeção 4.</p></div> |
+| Inspeção 5  <br> (Grupo 01)|[Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)| <iframe width="560" height="315" src="https://www.youtube.com/embed/A5xM4hjlhRo?si=P2msPpxXHsQ5a77l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 5</b>: gravação inspeção 5.</p></div> |
+| Inspeção 6  | [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <iframe width="560" height="315" src="https://www.youtube.com/embed/A5xM4hjlhRo?si=P2msPpxXHsQ5a77l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 6</b>: gravação inspeção 6.</p></div> |
+
+Tabela 2 – Relações de inspeções dos outros grupos
+
+Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>
 
 
 ## Relação apresentações
 
-A relação das gravações das apresentações, nos vídeos de 1 a 7, e os respectivos membros que participaram de cada uma está apresentada na Tabela 1.  
+A relação das gravações das apresentações, nos vídeos de 1 a 7, e os respectivos membros que participaram de cada uma está apresentada na Tabela 3.  
 
 | Apresentação | Membros | Gravação |
 | :----------: | :------ | :------: |
@@ -79,7 +109,7 @@ A relação das gravações das apresentações, nos vídeos de 1 a 7, e os resp
 | Entrega 6 | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <iframe width="560" height="315" src="https://www.youtube.com/embed/LXvS1r1e32I?si=4LEdAhMu810dJVVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 6</b>: gravação apresentação 6.</p></div> |
 | Entrega Final | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <div align="center"><p> <b>Vídeo 7</b>: gravação apresentação final.</p></div> |
 
-Tabela 1 – Relações de apresentações
+Tabela 3 – Relações de apresentações
 
 Elaboração por <a href="https://github.com/luisa12ll">Luisa de Souza</a>
 
@@ -163,13 +193,19 @@ Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a> e <a
 | -------- | ------------ | -------------- | ---------- | -------------- | -------------- | ----------- |
 | Quantidade de Elos de Especificação | 9 [Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes), [Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes) | 11[Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes),[Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)| 10 [Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes),[Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)| 6 [Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes),[Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)| 6 [Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes),[Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)  | 9 [Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes),[Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)|
 | Participação da Matriz Rastreabilidade(requisitos com versionamento)| sim -10 [matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes)|sim-11  [matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes)| sim -10 [matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes)| sim-6 [matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes)| sim-6 [matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes)|sim -9 [matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes)|
-| Total de documentos criados | 3| 3| 5| 5 | 5| 5|
-| Total de documentos revisados | 1| 1 | 2| 3| 1 | 1|
+| Total de documentos criados | 3| 3| 3| 3 | 3| 3|
+| Total de documentos revisados | 3| 3 | 3 | 3| 3 | 3|
 
 
 ## Facilidades e dificuldades encontradas
 
 ### Camila Silva
+
+No início da disciplina, tive dificuldade para acompanhar o ritmo das entregas e entender como estruturar o projeto. A quantidade de atividades semanais e a complexidade dos conteúdos exigiram um esforço maior de adaptação, além de uma reorganização do meu tempo. Com o passar das semanas, fui me acostumando à dinâmica e percebi que dedicar algumas horas fixas só para os requisitos fez tudo fluir muito melhor.
+
+Minhas maiores facilidades na disciplina foram trabalhar com o Git e desenvolver a prototipação, por já ter utilizado em projetos anteriores. A experiência prévia com ferramentas de design ajudou bastante na criação dos protótipos, permitindo transformar as ideias do grupo em telas claras e funcionais. Outro ponto positivo foi o grupo, trabalhei com pessoas extremamente competentes, que demonstraram responsabilidade, proatividade e disposição para ajudar sempre que necessário. A forma como cada um contribuiu fez toda a diferença para que conseguíssemos alcançar um resultado final tão bem estruturado e completo.
+
+Sou muito grata ao grupo pelo comprometimento e pelo trabalho conjunto ao longo de toda a disciplina. Termino a disciplina com a sensação de evolução acadêmica, profissional e pessoal, levando comigo aprendizados que já estou aplicando em outras atividades e projetos, e que certamente vão contribuir muito para minha trajetória.
 
 ### Geovanna Alves
 
@@ -188,6 +224,7 @@ Apesar das dificuldades iniciais, algumas partes do conteúdo se tornaram mais t
 De modo geral, termino o trabalho sentindo que aprendi muito  tanto sobre o conteúdo técnico quanto sobre trabalhar em equipe. Foi um processo importante para o meu desenvolvimento acadêmico. Sinto que cresci bastante e que agora tenho mais confiança para lidar com ferramentas e metodologias que antes eu sequer conhecia.
 
 ### Luísa de Souza
+
 No começo da disciplina, tive bastante dificuldade. O processo de adaptação foi bem desafiador, principalmente por causa da quantidade de entregas semanais e pela complexidade dos conteúdos. Esse início exigiu um esforço extra para conseguir acompanhar tudo. Além disso, também tive problemas para organizar meu tempo, mas, depois que percebi a importância de separar algumas horas da semana só para os requisitos, as coisas começaram a fluir muito melhor.  
 
 Uma das minhas maiores facilidades foi na parte de elicitação e prototipagem, já que eu já tinha experiência com essas etapas em outros projetos profissionais. Isso me ajudou bastante a entender melhor os requisitos e a aplicar o que aprendi de forma prática durante a disciplina. Outra coisa muito positiva foi ter encontrado um grupo incrível, com pessoas que estavam realmente comprometidas em entregar um trabalho bem feito e acima de tudo, focadas no aprendizado. Quero deixar meu agradecimento a todos pelo apoio e pela parceria ao longo da disciplina,  isso fez toda a diferença na nossa jornada e na nossa entrega final. 
@@ -221,3 +258,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 | --- | --- | --- | --- | --- |
 | 1.0 | 13/11/2025 | Criação da documentação da apresentação final | [Yan Matheus](https://github.com/Yanmatheus0812) | [Camila Silva](https://github.com/CamilaSilvaC) |
 | 1.1 | 14/11/2025 | Adicionando as apresentações | [Luísa de Souza](https://github.com/luisa12ll) | [Yan Matheus](https://github.com/Yanmatheus0812) |
+| 1.2 | 20/11/2025 | Adicionando as inspeções | [Camila Silva](https://github.com/CamilaSilvaC) |[Geovanna Alves](https://github.com/GeovannaUmbelino)|
