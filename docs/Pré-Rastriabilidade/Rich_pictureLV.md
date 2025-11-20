@@ -4,9 +4,9 @@
 
 O objetivo dessa página é armazenar o documento montado da lista de verificação do rich picture. Acesse o vídeo clicando no Foto correspondente.
 
-## Lista de Verificação - Análise de documentos
+## Lista de Verificação - Rich Picture
 
-A tabela_1 mostra a lista de verificação de análise de documentação.
+A tabela_1 mostra a lista de verificação de rich picture.
 
 | Itens                                                                                                                       | Fontes                                                                                                                                                                                                                               |                      Responsável                      |   Acesso   |                    Fotos                     |
 | :-------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------: | :--------: | :------------------------------------------: |
@@ -42,6 +42,7 @@ A tabela_1 mostra a lista de verificação de análise de documentação.
 | 30- Utilizou balões de pensamento para caricaturar as preocupações dos envolvidos?                                          | ANDREW MONK AND STEVE HOWARD.The Rich Picture: A Tool for Reasoning About Work Context.Monk, A. F.; Howard, S. The Rich Picture: A Tool for Reasoning About Work Context. interactions, ACM, 1998. pg. 23.                           | [Geovanna Alves](https://github.com/GeovannaUmbelino) | 06/09/2025 | [Foto](https://i.postimg.cc/RFcQkVSR/30.png) |
 | 31- O Rich Picture contém imagens, figuras ou rótulos descritivos?                                                          | CTEC2402 Software Development Project. Introducing Rich Pictures. Leicester: De Montfort University, 2025. p. 3.                                                                                                                     |    [Camila Silva](https://github.com/CamilaSilvaC)    | 06/09/2025 | [Foto](https://i.postimg.cc/zBnSsXzT/31.png) |
 
+Tabela 1 - Lista de verificação do rich picture
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Luísa de Souza](https://github.com/luisa12ll), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 ## Agradecimentos
@@ -59,3 +60,4 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 | Versão | Data       | Descrição                        | Autor(es)                                        | Revisor(es)                                                                                      |
 | ------ | ---------- | -------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | 1.0    | 01/10/2025 | Adicionando lista de verificação | [Yan Matheus](https://github.com/Yanmatheus0812) | [Luisa de Souza](https://github.com/Luisa12ll) e [Camila Silva](https://github.com/CamilaSilvaC) |
+
