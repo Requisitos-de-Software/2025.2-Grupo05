@@ -8,7 +8,7 @@ Esta página apresenta a análise consolidada dos resultados da inspeção da En
 
 <div align="center">
   <img src="/img/resultados_gerais.png" width="600" alt="Gráfico de pizza mostrando distribuição geral dos resultados">
-  <p><b>Figura 1:</b> Distribuição geral dos resultados da inspeção<br>Elaborado por: [Pedro Henrique](https://github.com/pedrohpsantos)</p>
+  <p><b>Figura 1:</b> Distribuição geral dos resultados da inspeção</p>
 </div>
 
 A análise geral demonstra um **excelente índice de conformidade** do projeto, com **88,5% dos itens avaliados** (232 de 262 itens) atendendo plenamente aos critérios estabelecidos. Apenas **3,4% dos itens** (9 itens) foram identificados como não conformes, representando pontos de melhoria específicos e bem delimitados. Os **8,0% restantes** (21 itens) foram classificados como "não se aplica", indicando critérios que não eram pertinentes ao contexto específico do projeto ou da técnica utilizada.
@@ -34,7 +34,7 @@ Esses resultados evidenciam a qualidade geral do trabalho desenvolvido e o rigor
 
 <div align="center">
   <img src="/img/resultados_por_categoria.png" width="800" alt="Gráfico de barras empilhadas por categoria">
-  <p><b>Figura 2:</b> Resultados da inspeção agrupados por categoria<br>Elaborado por: [Pedro Henrique](https://github.com/pedrohpsantos)</p>
+  <p><b>Figura 2:</b> Resultados da inspeção agrupados por categoria</p>
 </div>
 
 A distribuição dos resultados por categoria permite identificar o desempenho em cada fase do processo de engenharia de requisitos. A tabela 2 apresenta os dados consolidados por categoria:
@@ -105,7 +105,7 @@ Assim como o planejamento, a rastreabilidade (Tabela 23) alcançou **conformidad
 
 <div align="center">
   <img src="/img/resultados_por_tabela.png" width="1000" alt="Gráfico de barras agrupadas por tabela">
-  <p><b>Figura 3:</b> Comparação de resultados individuais por tabela de inspeção<br>Elaborado por: [Pedro Henrique](https://github.com/pedrohpsantos)</p>
+  <p><b>Figura 3:</b> Comparação de resultados individuais por tabela de inspeção</p>
 </div>
 
 A análise granular por tabela permite identificar com precisão os artefatos específicos e seus respectivos desempenhos. A tabela 3 apresenta os resultados detalhados de todas as 23 tabelas avaliadas:
