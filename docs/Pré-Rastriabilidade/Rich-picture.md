@@ -76,8 +76,6 @@ A seguir temos a tabela 2, onde indica todos os participantes da validação da 
 Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7dHSH_HDoe8?si=3MS1eDxreI3A8g83" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## Agradecimentos
 
 <div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">

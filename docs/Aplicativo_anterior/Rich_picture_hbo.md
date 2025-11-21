@@ -55,7 +55,7 @@ A ferramenta Draw.io foi fundamental para a elaboração de elementos visuais-ch
 
 <font size="3"><p style="text-align: center">Figura 1: Richpicture versão 1.</p></font>
 
-![Richpicturev1](../img/RichPicture.png)
+![Richpicturev1](../img/richpicturehbo.png)
 
 <font size="3"><p style="text-align: center">Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Luísa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
@@ -65,7 +65,7 @@ A construção das Rich Pictures foi elaborada com base em cinco elementos princ
 
 <font size="3"><p style="text-align: center">Figura 1: Legenda versão 1.</p></font>
 
-![Legendav1](../img/RichPicture-leg.png)
+![Legendav1](../img/richpicturehbo-leg.png)
 
 <font size="3"><p style="text-align: center">Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Luísa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 

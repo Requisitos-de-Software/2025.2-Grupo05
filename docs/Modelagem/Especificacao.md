@@ -53,7 +53,7 @@ A seguir temos a tabela 1, onde indica todos os participantes da especificação
       </tr>
       <tr>
         <td><a href="https://github.com/Yanmatheus0812">Yan Matheus</a></td>
-        <td>Elaborou as especificações do <a href="">RQ10 e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Camila%20Silva-,RQ54,-Performance%20(P)">RQ54  </td>
+        <td>Elaborou as especificações do <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Geovanna%20Alves-,RQ10,-Suportabilidade%20(S)">RQ10 e <a href="https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Camila%20Silva-,RQ54,-Performance%20(P)">RQ54  </td>
         <td>11/10/2025</td>
       </tr>
     </tbody>
