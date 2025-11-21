@@ -112,7 +112,7 @@ nav:
           - $100 dólares: Elicitação/Priorização/100_dolares.md
           - MoSCoW: Elicitação/Priorização/Moscow.md
       - Listas de verificação:
-          - Inspeções:
+          - Elicitações:
               - Análise de documentação: Elicitação/LVs/elicitações/Lv_analise_docs.md
               - Entrevista: Elicitação/LVs/elicitações/Lv_entrevista.md
               - Questionário: Elicitação/LVs/elicitações/QuestionarioLV.md
