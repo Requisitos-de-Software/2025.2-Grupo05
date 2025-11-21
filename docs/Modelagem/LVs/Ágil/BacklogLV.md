@@ -1,10 +1,10 @@
-# Lista de verificação do backlog
+# Lista de verificação do Backlog
 
 ## Introdução
 
 O objetivo desta página é armazenar a lista de verificação do backlog
 
-## Lista de verificação - NFR Framework
+## Lista de verificação - Backlog
 
 A tabela 1 mostra a lista de verificação da técnica.
 

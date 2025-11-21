@@ -7,7 +7,7 @@ Esta página apresenta a análise consolidada dos resultados da inspeção da En
 ## Resultados Gerais
 
 <div align="center">
-  <img src="../img/resultados_gerais.png" width="600" alt="Gráfico de pizza mostrando distribuição geral dos resultados">
+  <img src="/img/resultados_gerais.png" width="600" alt="Gráfico de pizza mostrando distribuição geral dos resultados">
   <p><b>Figura 1:</b> Distribuição geral dos resultados da inspeção</p>
 </div>
 
@@ -33,7 +33,7 @@ Esses resultados evidenciam a qualidade geral do trabalho desenvolvido e o rigor
 ## Análise por Categoria
 
 <div align="center">
-  <img src="../img/resultados_por_categoria.png" width="800" alt="Gráfico de barras empilhadas por categoria">
+  <img src="/img/resultados_por_categoria.png" width="800" alt="Gráfico de barras empilhadas por categoria">
   <p><b>Figura 2:</b> Resultados da inspeção agrupados por categoria</p>
 </div>
 
@@ -104,7 +104,7 @@ Assim como o planejamento, a rastreabilidade (Tabela 23) alcançou **conformidad
 ## Análise Detalhada por Tabela
 
 <div align="center">
-  <img src="../img/resultados_por_tabela.png" width="1000" alt="Gráfico de barras agrupadas por tabela">
+  <img src="/img/resultados_por_tabela.png" width="1000" alt="Gráfico de barras agrupadas por tabela">
   <p><b>Figura 3:</b> Comparação de resultados individuais por tabela de inspeção</p>
 </div>
 
