@@ -60,6 +60,24 @@ A construção das Rich Pictures foi elaborada com base em cinco elementos princ
 
 <font size="3"><p style="text-align: center">Fonte: [Luísa de Souza](https://github.com/luisa12ll) e [Yan Matheus](https://github.com/Yanmatheus0812).</p></font>
 
+## Validação - Rich picture
+
+A seguir temos a tabela 2, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O usuário corresponde ao perfil de usuário 2.
+
+| Papel | Nome | Data | Hora | Local |
+|-------|------|------|------|-------|
+| Mediador | [Yan Matheus](https://github.com/Yanmatheus0812) | 18/11/2025 | 10:30 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
+| Usuário | Mariana | 18/11/2025 | 10:30 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APP16_m2kWs?si=EwPHpJMjGDECvO4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center; font-size: 14px;">
+<strong>Tabela 2:</strong> Validação Rich picture Scale<br>
+Autor: <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7dHSH_HDoe8?si=3MS1eDxreI3A8g83" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Agradecimentos
 
 <div style="text-align:left; font-size:0.9em; color:#6c757d; margin-top:1em;">

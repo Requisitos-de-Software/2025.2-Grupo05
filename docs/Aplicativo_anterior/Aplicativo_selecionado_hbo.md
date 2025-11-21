@@ -50,6 +50,10 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 
 </div>
 
+## Bibliografia
+
+<a id="FRM1" href="#anchor_1">1.</a> HBO Max. Disponível em: [HBO Max na Google Play](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em 08 de setembro de 2025.
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                | Autor                                                 | Revisor                                         |
@@ -57,6 +61,3 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 | 1.0    | 07/09/2025 | Seleção de aplicativo    | [Geovanna Alves](https://github.com/GeovannaUmbelino) | [Camila Silva](https://github.com/CamilaSilvaC) |
 | 1.1    | 09/09/2025 | Adicionando termo de uso | [Geovanna Alves](https://github.com/GeovannaUmbelino) | [Camila Silva](https://github.com/CamilaSilvaC) |
 
-## Bibliografia
-
-<a id="FRM1" href="#anchor_1">1.</a> HBO Max. Disponível em: [HBO Max na Google Play](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em 08 de setembro de 2025.

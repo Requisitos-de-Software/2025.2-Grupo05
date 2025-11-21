@@ -81,8 +81,8 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                           | Autor                                                                                                   | Revisor                                            |
-| ------ | ---------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | --- |
+| Versão | Data       | Descrição                           | Autor                                     | Revisor                                            |
+| ------ | ---------- | ----------------------------------- | ----------------------------------------- | -------------------------------------------------- | 
 | 1.0    | 07/09/2025 | Adicionando o Rich Picture          | [Geovanna Alves](https://github.com/GeovannaUmbelino)                                                   | [Pedro Henrique](https://github.com/pedrohpsantos) |     |
 | 1.1    | 16/09/2025 | Atualizando as legendas das imagens | [Camila Silva](https://github.com/CamilaSilvaC) e [Geovanna Alves](https://github.com/GeovannaUmbelino) | [Luísa de Souza](https://github.com/luisa12ll)     |
 | 1.2    | 03/10/2025 | Adição da tabela de participantes   | [Yan Matheus](https://github.com/Yanmatheus0812)                                                        | [Camila Silva](https://github.com/CamilaSilvaC)    |

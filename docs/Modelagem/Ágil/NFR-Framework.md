@@ -290,7 +290,8 @@ Na Tabela 10, estão listados os RNF presentes no NFR Famework de Usabilidade :
 | [RQ25](<https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Pedro%20Henrique-,RQ25,-Usabilidade%20(U)>)   | O aplicativo deve ter uma linguagem simples e adequada ao estudante (sem termos técnicos).                                                                                            | Usabilidade   |
 | [RQ40](<https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Luisa%20de%20Souza-,RQ40,-Usabilidade%20(U)>) | O aplicativo deve ser acessível (contraste em cores, suporte à Libras e auto-descrição).                                                                                            | Usabilidade   |
 
-Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+Fonte: [Camila Silva](htps://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luisa de Souza](https://github.com/Luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ## NFR 02 - Performance
 
@@ -317,7 +318,9 @@ Na Tabela 11, estão listados os RNF presentes no NFR Famework de Usabilidade :
 | [RQ26](<https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Lara%20Souza-,RQ26,-Performance%20(P)>)   | O aplicativo deve carregar suas informações em no máximo 3 segundos.                                    | Performance   |
 | [RQ54](<https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Camila%20Silva-,RQ54,-Performance%20(P)>) | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. | Performance   |
 
-Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+Fonte: [Camila Silva](htps://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luisa de Souza](https://github.com/Luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)
+
 
 ## NFR 03 - Segurança
 
@@ -343,7 +346,8 @@ Na Tabela 12, estão listados os RNF presentes no NFR Famework de Usabilidade :
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------- |
 | [RQ03](<https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#:~:text=Autor-,RQ3,-Confiabilidade%20(R)>) | O aplicativo deve ter uma tecnologia blockchain que é usada para a autenticação e disponibilização de documentos. | Segurança     |
 
-Fonte: [Yan Matheus](https://github.com/Yanmatheus0812)
+
+Fonte: [Camila Silva](htps://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luisa de Souza](https://github.com/Luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812)
 
 ## Gravação
 

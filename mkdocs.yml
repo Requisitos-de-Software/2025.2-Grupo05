@@ -145,6 +145,7 @@ nav:
   - Análise:
       - Prototipação: Análise/Prototipacao.md
       - Comprovação informal: Análise/Comprovacao.md
+      - Analise de Resultados: Análise/Analises.md
 
   - Pós-Rastreabilidade:
       - Forward-From: Pós-Rastreabilidade/Forward-From.md

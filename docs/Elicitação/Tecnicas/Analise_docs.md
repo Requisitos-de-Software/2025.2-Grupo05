@@ -82,6 +82,11 @@ Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>,
 <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>.
 </p>
 
+
+## Gravação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AjYSbjo5K38?si=gf3J6suWy9BUUFwr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Bibliografia
 
 <a id="FRM1" href="#anchor_1">1.</a> BRASIL. Ministério da Educação. **Jornada do Estudante**. Disponível em: <https://www.gov.br/mec/pt-br/jornadadoestudante>. Acesso em: 20 set. 2025.
@@ -91,10 +96,6 @@ Elaboração por <a href="https://github.com/mel14-hub">Lara Mota</a>,
 <a id="FRM3" href="#anchor_3">3.</a> GOOGLE. Jornada do Estudante. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.mec.jornada.estudante>. Acesso em: 20 set. 2025.
 
 <a id="FRM4" href="#anchor_4">4.</a> UNIVERSIDADE FEDERAL DE SANTA CATARINA. Laboratório Bridge. **Conheça o aplicativo Jornada do Estudante**. Disponível em: <https://portal.bridge.ufsc.br/2023/04/18/conheca-o-aplicativo-jornada-do-estudante/>. Acesso em: 20 set. 2025.
-
-## Gravação
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AjYSbjo5K38?si=gf3J6suWy9BUUFwr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Agradecimentos
 
