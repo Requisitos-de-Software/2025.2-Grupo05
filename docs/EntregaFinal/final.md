@@ -64,30 +64,30 @@ O resultado dos artefaros gerados, detalhando-os está presente na tabela 1.
 
 | Etapa | Artefato | Descrição | Validação presencial com usuário |
 |-------|----------|------------|----------------------------------|
-| **1 - Pré-rastreabilidade** | [Rich picture](URL_AQUI) | Foi criado o rich picture do projeto contendo três atores, seis processos e sete armazenamentos de dados | Sim |
-| **2 - Elicitação** | [Perfil de usuário](URL_AQUI) | Através do questionário e das entrevistas foram definidos dois perfis de usuário: estudante de ensino médio e estudante de faculdade | Sim |
-|  | [Análise de documentação](URL_AQUI) | Foram elicitados 19 requisitos através da análise de quatro documentações existentes | Não se aplica |
-|  | [Brainstorming](URL_AQUI) | Foram elicitados 29 requisitos através do brainstorming que contou com oito usuários e duas mediadoras | Sim |
-|  | [Entrevista](URL_AQUI) | Foram elicitados 32 requisitos através das três entrevistas gravadas | Não se aplica |
-|  | [Questionário](URL_AQUI) | Foram elicitados 32 requisitos através do questionário, que foi construído com treze questões e obteve 55 respostas | Não se aplica |
-|  | [Requisitos elicitados](URL_AQUI) | A tabela final de requisitos elicitados obteve 61 requisitos, sendo 7 não funcionais | Sim |
-|  | [Three level scale](URL_AQUI) | Foram priorizados os 61 requisitos classificando-os entre alta, média e baixa prioridade | Sim |
-|  | [In or out](URL_AQUI) | Foram priorizados os 61 requisitos classificando-os entre in ou out | Sim |
-|  | [$100](URL_AQUI) | Foram priorizados os 61 requisitos distribuindo valores entre os cinco usuários | Sim |
-|  | [MoSCoW](URL_AQUI) | Foram priorizados os 61 requisitos classificando-os entre must, should, could-have e wont | Sim |
-| **3 - Modelagem** | [Cenários](URL_AQUI) | Foram definidos 24 cenários contendo objetivo, contexto, atores, recursos, episódios, restrições e exceções | Sim |
-|  | [Casos de uso](URL_AQUI) | Foram definidos 14 casos de uso com ação, pré-condição, pós-condição, fluxo principal, alternativo e de exceção | Sim |
-|  | [Léxicos](URL_AQUI) | Foram definidos 32 léxicos agrupados entre verbo, objeto e estado, contendo noção, impacto e sinônimos | Sim |
-|  | [Especificação suplementar](URL_AQUI) | Foram definidas 54 especificações divididas entre funcionalidade, usabilidade, confiabilidade, desempenho, manutenibilidade e interfaces | Sim |
-| **4 - Modelagem ágil** | [Histórias de usuário](URL_AQUI) | Foram definidas 51 histórias de usuário com seus critérios de aceitação | Sim |
-|  | [Backlog](URL_AQUI) | O backlog foi construído a partir de histórias de usuário, features e épicos (8 épicos no total) | Sim |
-|  | [NFR Framework](URL_AQUI) | Os 7 requisitos não funcionais foram divididos entre usabilidade, performance e segurança, com seus soft-goals, interdependências e propagação de impacto | Sim |
-| **5 - Pós-rastreabilidade** | [Forward-from](URL_AQUI) | Foram categorizados todos os requisitos funcionais com seus elementos e elos de forward-from | Não se aplica |
-|  | [Backward-from](URL_AQUI) | Foram categorizados todos os requisitos funcionais com seus elementos e elos de backward-from | Não se aplica |
-|  | [Matriz de rastreabilidade](URL_AQUI) | Foram categorizados todos os requisitos funcionais, contendo sua pós-rastreabilidade nos artefatos | Não se aplica |
-| **6 - Análise** | [Prototipação](URL_AQUI) | Foi feita a prototipação de 30 requisitos não implementados conforme o backlog | Sim |
-|  | [Comprovação informal](URL_AQUI) | Foi solicitado ao time de desenvolvimento a comprovação do requerimento, mas não houve resposta | Não se aplica |
-|  | [Análise de resultados](URL_AQUI) | Foi feita a análise dos 262 itens distribuídos em 23 tabelas de verificação | Não se aplica |
+| **1 - Pré-rastreabilidade** | [Rich picture](https://requisitos-de-software.github.io/2025.2-Grupo05/Pr%C3%A9-Rastriabilidade/Rich-picture/) | Foi criado o rich picture do projeto contendo três atores, seis processos e sete armazenamentos de dados | Sim |
+| **2 - Elicitação** | [Perfil de usuário](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Perfil_usuario/) | Através do questionário e das entrevistas foram definidos dois perfis de usuário: estudante de ensino médio e estudante de faculdade | Sim |
+|  | [Análise de documentação](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Analise_docs/) | Foram elicitados 19 requisitos através da análise de quatro documentações existentes | Não se aplica |
+|  | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Brainstorming/) | Foram elicitados 29 requisitos através do brainstorming que contou com oito usuários e duas mediadoras | Sim |
+|  | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Entrevista/) | Foram elicitados 32 requisitos através das três entrevistas gravadas | Não se aplica |
+|  | [Questionário](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Tecnicas/Question%C3%A1rio/) | Foram elicitados 32 requisitos através do questionário, que foi construído com treze questões e obteve 55 respostas | Não se aplica |
+|  | [Requisitos elicitados](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/) | A tabela final de requisitos elicitados obteve 61 requisitos, sendo 7 não funcionais | Sim |
+|  | [Three level scale](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Three_level_scale/) | Foram priorizados os 61 requisitos classificando-os entre alta, média e baixa prioridade | Sim |
+|  | [In or out](requisitos-de-software.github.io/2025.2-Grupo05/Elicitação/Priorização/In_or_Out/) | Foram priorizados os 61 requisitos classificando-os entre in ou out | Sim |
+|  | [$100](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/100_dolares/) | Foram priorizados os 61 requisitos distribuindo valores entre os cinco usuários | Sim |
+|  | [MoSCoW](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/Moscow/) | Foram priorizados os 61 requisitos classificando-os entre must, should, could-have e wont | Sim |
+| **3 - Modelagem** | [Cenários](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/) | Foram definidos 24 cenários contendo objetivo, contexto, atores, recursos, episódios, restrições e exceções | Sim |
+|  | [Casos de uso](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Casos-de-uso/) | Foram definidos 14 casos de uso com ação, pré-condição, pós-condição, fluxo principal, alternativo e de exceção | Sim |
+|  | [Léxicos](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/) | Foram definidos 32 léxicos agrupados entre verbo, objeto e estado, contendo noção, impacto e sinônimos | Sim |
+|  | [Especificação suplementar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/) | Foram definidas 54 especificações divididas entre funcionalidade, usabilidade, confiabilidade, desempenho, manutenibilidade e interfaces | Sim |
+| **4 - Modelagem ágil** | [Histórias de usuário](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/HistoriaUsuario/) | Foram definidas 51 histórias de usuário com seus critérios de aceitação | Sim |
+|  | [Backlog](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/Backlog/) | O backlog foi construído a partir de histórias de usuário, features e épicos (8 épicos no total) | Sim |
+|  | [NFR Framework](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/%C3%81gil/NFR-Framework/) | Os 7 requisitos não funcionais foram divididos entre usabilidade, performance e segurança, com seus soft-goals, interdependências e propagação de impacto | Sim |
+| **5 - Pós-rastreabilidade** | [Forward-from](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/) | Foram categorizados todos os requisitos funcionais com seus elementos e elos de forward-from | Não se aplica |
+|  | [Backward-from](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/) | Foram categorizados todos os requisitos funcionais com seus elementos e elos de backward-from | Não se aplica |
+|  | [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/) | Foram categorizados todos os requisitos funcionais, contendo sua pós-rastreabilidade nos artefatos | Não se aplica |
+| **6 - Análise** | [Prototipação](https://requisitos-de-software.github.io/2025.2-Grupo05/An%C3%A1lise/Prototipacao/) | Foi feita a prototipação de 30 requisitos não implementados conforme o backlog | Sim |
+|  | [Comprovação informal](https://requisitos-de-software.github.io/2025.2-Grupo05/An%C3%A1lise/Comprovacao/) | Foi solicitado ao time de desenvolvimento a comprovação do requerimento, mas não houve resposta | Não se aplica |
+|  | [Análise de resultados]() | Foi feita a análise dos 262 itens distribuídos em 23 tabelas de verificação | Não se aplica |
 
 <p style="text-align: center; font-size: 14px;">
 Tabela 1 – Resultados dos artefatos gerados
