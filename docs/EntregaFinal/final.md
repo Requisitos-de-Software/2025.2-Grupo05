@@ -90,7 +90,7 @@ O resultado dos artefaros gerados, detalhando-os está presente na tabela 1.
 |  | [Análise de resultados]() | Foi feita a análise dos 262 itens distribuídos em 23 tabelas de verificação | Não se aplica |
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 1 – Resultados dos artefatos gerados
+Tabela 1 – Resultados dos artefatos gerados <br>
 Elaboração por <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 </p>
 
@@ -110,7 +110,7 @@ A relação das gravações das inspeções do nosso grupo e os respectivos memb
 | Inspeção 6 | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Luísa de Souza](https://github.com/luisa12ll) e [Pedro Henrique](https://github.com/pedrohpsantos)| <iframe width="560" height="315" src="https://www.youtube.com/embed/LjAFGTEfRK8?si=Mtg-K0KwU8vUmB5n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 6</b>: gravação inspeção 6.</p></div> |
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 2 – Relações de inspeções do grupo 05
+Tabela 2 – Relações de inspeções do grupo 05 <br>
 Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>
 </p>
 
@@ -128,7 +128,7 @@ A relação das gravações das inspeções do grupo +1 e os respectivos membros
 | Inspeção 6  | [Lara Souza](https://github.com/mel14-hub), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <iframe width="560" height="315" src="https://www.youtube.com/embed/A5xM4hjlhRo?si=P2msPpxXHsQ5a77l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div align="center"><p> <b>Vídeo 6</b>: gravação inspeção 6.</p></div> |
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 3 – Relações de inspeções dos outros grupos
+Tabela 3 – Relações de inspeções dos outros grupos <br>
 Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a>
 </p>
 
@@ -148,7 +148,7 @@ A relação das gravações das apresentações, nos vídeos de 1 a 7, e os resp
 | Entrega Final | [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Lara Souza](https://github.com/mel14-hub), [Luísa de Souza](https://github.com/luisa12ll), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | <div align="center"><p> <b>Vídeo 7</b>: gravação apresentação final.</p></div> |
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 4 – Relações de apresentações
+Tabela 4 – Relações de apresentações <br>
 Elaboração por <a href="https://github.com/luisa12ll">Luisa de Souza</a>
 </p>
 
@@ -166,7 +166,7 @@ A tabela de contribuição dos integrantes referente a etapa 1 - pré-rastreabil
 | **Total de documentos revisados** | 2 ([Lista de verificação](https://requisitos-de-software.github.io/2025.2-Grupo05/Pr%C3%A9-Rastriabilidade/Rich_pictureLV/) e [Rich picture](https://requisitos-de-software.github.io/2025.2-Grupo05/Pr%C3%A9-Rastriabilidade/Rich-picture/)) | 0 | 1 ([Rich picture](https://requisitos-de-software.github.io/2025.2-Grupo05/Pr%C3%A9-Rastriabilidade/Rich-picture/)) | 1 ([Lista de verificação](https://requisitos-de-software.github.io/2025.2-Grupo05/Pr%C3%A9-Rastriabilidade/Rich_pictureLV/)) | 1 ([Rich picture](https://requisitos-de-software.github.io/2025.2-Grupo05/Pr%C3%A9-Rastriabilidade/Rich-picture/)) | 0 |
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 5 – Tabela de contribuição da etapa 1 - pré-rastreabilidade
+Tabela 5 – Tabela de contribuição da etapa 1 - pré-rastreabilidade <br>
 Elaboração por <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 </p>
 
@@ -213,7 +213,7 @@ A tabela de contribuição dos integrantes referente a etapa 3 - modelagem está
 | **Total de documentos revisados** | 2 ([Cenários](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#participantes) e [Léxicos](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#participantes)) | 2 ([Léxicos](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#participantes) e [Caso de uso](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Casos-de-uso/#participantes)) | 1 ([Léxicos](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#participantes)) | 2 ([Cenários](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Cen%C3%A1rios/#participantes) e [Especificação suplementar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#participantes)) | 2 ([Caso de uso](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Casos-de-uso/#participantes)) | 3 ([Léxicos](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/L%C3%A9xicos/#participantes) e [Especificação suplementar](https://requisitos-de-software.github.io/2025.2-Grupo05/Modelagem/Especificacao/#participantes)) |
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 7 – Tabela de contribuição da etapa 3 - modelagem clássica
+Tabela 7 – Tabela de contribuição da etapa 3 - modelagem clássica <br>
 Elaboração por <a href="https://github.com/Yanmatheus0812">Yan Matheus</a>
 </p>
 
@@ -236,7 +236,7 @@ A tabela de contribuição dos integrantes referente a etapa 3 - modelagem Ágil
 
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 8 – Tabela de contribuição da etapa 4 - modelagem ágil
+Tabela 8 – Tabela de contribuição da etapa 4 - modelagem ágil <br>
 Elaboração por <a href="https://github.com/luisa12ll">Luísa de Souza</a>
 </p>
 
@@ -264,7 +264,7 @@ A tabela de contribuição dos integrantes referente a etapa 5 - análise de req
 | **Total de documentos revisados** | 8 | 6 | 0 | 4 | 0 | 8 |
 
 <p style="text-align: center; font-size: 14px;">
-Tabela 9 – Tabela de contribuição da etapa 5 - Análise de Requisitos
+Tabela 9 – Tabela de contribuição da etapa 5 - Análise de Requisitos <br>
 Elaboração por <a href="https://github.com/CamilaSilvaC">Camila Silva</a> e <a href="https://github.com/GeovannaUmbeliino">Geovanna Alves</a>
 </p>
 
@@ -279,7 +279,7 @@ A tabela de contribuição dos integrantes referente a etapa 6 - elos de rastrea
 | **Total de documentos criados** | 3 ([Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes)), ([Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)) e ([matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes))| 3 ([Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes)), ([Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)) e ([matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes))| 3 ([Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes)), ([Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)) e ([matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes))| 3 ([Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes)), ([Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)) e ([matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes)) | 3 ([Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes)), ([Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)) e ([matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes))| 3 ([Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes)), ([Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)) e ([matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes))|
 | **Total de documentos revisados** | 3 ([Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes)), ([Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)) e ([matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes))| 3 ([Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes)), ([Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)) e ([matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes)) | 3 ([Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes)), ([Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)) e ([matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes)) | 3 ([Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes)), ([Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)) e ([matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes))| 3 ([Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes)), ([Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)) e ([matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes)) | 3 ([Backward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Backward-From/#participantes)), ([Forward-From](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Forward-From/#participantes)) e ([matriz-rastreabilidade](https://requisitos-de-software.github.io/2025.2-Grupo05/P%C3%B3s-Rastreabilidade/Matriz_Rastreabilidade/#participantes))|
 <p style="text-align: center; font-size: 14px;">
-Tabela 10 – Tabela de contribuição da etapa 6 - Elos de Rastreabilidade
+Tabela 10 – Tabela de contribuição da etapa 6 - Elos de Rastreabilidade <br>
 Elaboração por <a href="https://github.com/mel14-hub">Lara Souza</a>
 </p>
 
