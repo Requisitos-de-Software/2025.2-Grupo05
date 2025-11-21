@@ -343,7 +343,7 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 </div>
 
 
-## Histórico de Vesões
+## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
