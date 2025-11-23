@@ -1,65 +1,49 @@
+/* --- CONFIGURAÇÃO DE CORES GLOBAIS --- */
+
 /* MODO CLARO (Default) */
 :root,
 [data-md-color-scheme="default"] {
-  /* Cor Principal: Azul Institucional */
   --md-primary-fg-color: #0a3d91;
-
-  /* Cor de Destaque: Verde Teal (Trazendo de volta os detalhes verdes) */
   --md-accent-fg-color: #009688;
-
   --md-primary-bg-color: #ffffff;
 }
 
 /* MODO ESCURO (Slate) */
 [data-md-color-scheme="slate"] {
-  /* Azul mais suave para leitura no escuro */
   --md-primary-fg-color: #5c8ae6;
-
-  /* Verde Neon para destaque vibrante no escuro */
   --md-accent-fg-color: #64ffda;
-
   --md-primary-bg-color: #1e1e2e;
 }
 
 /* --- ESTILIZAÇÃO DA BARRA DE ROLAGEM (SCROLLBAR) --- */
-
 ::-webkit-scrollbar {
   width: 10px;
   height: 10px;
 }
-
 ::-webkit-scrollbar-track {
-  background: transparent; /* Fundo discreto */
+  background: transparent;
 }
-
 ::-webkit-scrollbar-thumb {
-  /* AQUI ESTÁ O SEGREDO: Usar a cor de destaque (Verde) na barra */
   background-color: var(--md-accent-fg-color);
   border-radius: 6px;
-  border: 2px solid transparent; /* Cria um respiro visual */
+  border: 2px solid transparent;
   background-clip: content-box;
 }
-
 ::-webkit-scrollbar-thumb:hover {
-  /* Ao passar o mouse, fica ainda mais sólido */
   background-color: var(--md-accent-fg-color);
   border: 0;
 }
 
-/* --- MELHORIAS VISUAIS GERAIS --- */
-
-/* Imagens com cantos arredondados e efeito de vidro */
+/* --- MELHORIAS VISUAIS GERAIS (Imagens e Tabelas) --- */
 img {
   border-radius: 8px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-
 img:hover {
   transform: scale(1.02);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15), 0 6px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* Tabelas mais bonitas e organizadas */
 .md-typeset table:not([class]) {
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
@@ -69,7 +53,29 @@ img:hover {
   border-collapse: collapse;
 }
 
-/* Ajuste fino para a Home Page não bugar as cores */
 .md-main__inner {
   background-color: transparent;
+}
+
+/* --- ESTILIZAÇÃO DE IFRAMES (YouTube, Figma, Canva) --- */
+
+/* 1. Estilo Base para TODOS os iframes */
+iframe {
+  border-radius: 12px; /* Cantos arredondados modernos */
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.3); /* Sombra suave para dar destaque (pop-out) */
+  border: none; /* Remove a borda cinza padrão feia */
+  width: 100%; /* Garante que ocupe toda a largura da página */
+  display: block;
+  margin: 1.5em auto; /* Espaçamento em cima e em baixo */
+  background-color: var(
+    --md-default-bg-color
+  ); /* Evita fundo branco piscando ao carregar */
+}
+
+/* 2. Truque para Vídeos do YouTube ficarem perfeitos (16:9) */
+/* O seletor abaixo aplica a regra APENAS se o link tiver 'youtube' ou 'youtu.be' */
+iframe[src*="youtube.com"],
+iframe[src*="youtu.be"] {
+  aspect-ratio: 16 / 9; /* Força a proporção widescreen de cinema */
+  height: auto; /* Deixa a altura se ajustar sozinha */
 }
