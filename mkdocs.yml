@@ -6,23 +6,35 @@ theme:
   logo: img/logo-jornada.png
   favicon: img/logo-jornada.png
   features:
-    - navigation.tabs
-    - navigation.top
-    
+    - navigation.tabs # abas no topo (padrão)
+    - navigation.tabs.sticky # A aba fica fixa no topo ao rolar
+    - navigation.top # Botão de "voltar ao topo" (padrão)
+    - navigation.instant # navegação tipo SPA (Single Page App)
+    - navigation.tracking # Atualiza a URL conforme você rola a página nos títulos
+    - navigation.sections # Agrupa os itens da sidebar de forma mais limpa
+    - navigation.expand # Abre a navegação lateral por padrão 
+    - content.code.copy # Botão de copiar em blocos de código
+  font:
+    text: Roboto # Padrão, mas limpa
+    code: JetBrains Mono # Excelente para ler trechos de código/JSON/XML
+
   palette:
+    # Modo Claro
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: "blue"
-      accent: "green"
+      primary: indigo # O azul 'indigo' costuma ser mais elegante que o 'blue' padrão
+      accent: teal
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-night
         name: Alternar para modo escuro
+
+    # Modo Escuro
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: "grey"
-      accent: "blue"
+      scheme: slate # O esquema 'slate' é um cinza azulado muito confortável
+      primary: indigo
+      accent: teal
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-sunny
         name: Alternar para modo claro
 extra_css:
   - stylesheets/extra.css
