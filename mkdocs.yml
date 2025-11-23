@@ -11,7 +11,6 @@ theme:
 
   features:
     - navigation.tabs # abas no topo (padrão)
-    - header.autohide
     - navigation.top # Botão de "voltar ao topo" (padrão)
     - navigation.instant # navegação tipo SPA (Single Page App)
     - navigation.tracking # Atualiza a URL conforme você rola a página nos títulos
