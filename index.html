@@ -443,17 +443,16 @@
   :root,
   [data-md-color-scheme="default"] {
     --jornada-bg: #ffffff; /* Fundo Branco */
-    --jornada-text: #0a3d91; /* Texto Azul (Cor da marca) */
-    /* Truque: Inverte o logo branco para ficar escuro no fundo branco */
-    --logo-filter: invert(22%) sepia(45%) saturate(2395%) hue-rotate(208deg)
-      brightness(93%) contrast(93%);
+    --jornada-text: #000000; /* Texto Preto (para combinar com o logo) */
+    /* Filtro simples: Inverte 100% das cores. O que é branco vira preto. */
+    --logo-filter: invert(100%);
   }
 
   /* Modo ESCURO (Slate) */
   [data-md-color-scheme="slate"] {
     --jornada-bg: #021427; /* Seu Azul Escuro original */
     --jornada-text: #ffffff; /* Texto Branco */
-    --logo-filter: none; /* Logo original (branco) */
+    --logo-filter: none; /* Logo original (branco) sem filtro */
   }
 
   /* Variáveis de Animação (Comuns aos dois modos) */
@@ -492,22 +491,22 @@
     margin-top: 2rem;
     animation: var(--jornada-float-animation);
 
-    /* Aplica o filtro para corrigir a cor no modo claro */
+    /* Aplica o filtro dinâmico */
     filter: var(--logo-filter);
+    /* Adiciona transição também para o filtro do logo */
     transition: filter 0.4s ease;
   }
 
   .description {
     margin: 20px;
     font-size: 1.5rem;
-    /* Usa a cor do texto dinâmica */
     color: var(--jornada-text);
     max-width: 600px;
     padding: 0;
     animation: var(--jornada-fade-in-animation);
   }
 
-  /* Esconde elementos padrões do MkDocs que podem atrapalhar a home */
+  /* Esconde elementos padrões do MkDocs para limpar a home */
   .md-content__inner {
     margin: 0;
     padding: 0;
@@ -515,7 +514,7 @@
   .md-content {
     max-width: 100% !important;
     padding: 0 !important;
-    background-color: var(--jornada-bg); /* Garante fundo total */
+    background-color: var(--jornada-bg);
     transition: background-color 0.4s ease;
   }
 
