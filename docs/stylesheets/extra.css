@@ -1,9 +1,18 @@
-:root {
-  --md-primary-fg-color: #0a3d91;
-  --md-accent-fg-color: #3f00d3;
-  --md-primary-bg-color: #ffffff;
-  --md-default-bg-color: #1a1a1a;
+/* Cores para o Modo CLARO (Default) */
+:root,
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #0a3d91; /* Azul escuro */
+  --md-accent-fg-color: #3f00d3; /* Roxo */
+  --md-primary-bg-color: #ffffff; /* Fundo branco */
 }
+
+/* Cores para o Modo ESCURO (Slate) */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #497edf; /* Azul mais claro e vibrante para ler no escuro */
+  --md-accent-fg-color: #7c4dff; /* Roxo neon para destaque */
+  --md-primary-bg-color: #1e1e2e; /* Fundo escuro suave (tipo catppuccin) */
+}
+
 /* Barra de rolagem personalizada e moderna */
 ::-webkit-scrollbar {
   width: 10px;
