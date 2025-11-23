@@ -47,3 +47,15 @@ img:hover {
   border-radius: 8px;
   overflow: hidden;
 }
+
+/* Forçar o fundo da Home a obedecer o tema Claro/Escuro */
+.md-main__inner {
+    background-color: var(--md-default-bg-color);
+}
+
+/* Ajuste específico para o texto da Home no modo escuro */
+[data-md-color-scheme="slate"] .md-main__inner h1,
+[data-md-color-scheme="slate"] .md-main__inner h2,
+[data-md-color-scheme="slate"] .md-main__inner p {
+    color: var(--md-typeset-color); /* Garante que o texto fique claro no fundo escuro */
+}
