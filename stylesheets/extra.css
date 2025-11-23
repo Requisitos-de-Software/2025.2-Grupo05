@@ -4,3 +4,37 @@
   --md-primary-bg-color: #ffffff;
   --md-default-bg-color: #1a1a1a;
 }
+/* Barra de rolagem personalizada e moderna */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--md-default-bg-color);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--md-primary-fg-color);
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--md-accent-fg-color);
+}
+
+/* Efeito de "vidro" e sombra suave nas imagens */
+img {
+  border-radius: 8px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Pequeno zoom ao passar o mouse nas imagens (bom para diagramas) */
+img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+/* Melhoria nas tabelas (Requisitos costumam ter muitas tabelas) */
+.md-typeset table:not([class]) {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
