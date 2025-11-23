@@ -68,36 +68,46 @@ O resultado no questionário teve o total de 55 respostas todas de acordo com o 
 
 De acordo com a figura 1, a faixa etária dos participantes possui ampla diversidade, mas apresenta destaque em pessoas acima de 45 anos com 41%, as demais idades ficam bem divididas em entre 35 e 44 anos (21%), entre 25 e 34 anos (18%) e entre 18 a 24 anos (16%), sendo menores de 18 anos 1%.
 
-<font size="3"><p style="text-align: center">Figura 1: Faixa etária dos usuários.</p></font>
-![Faixa etaria](https://i.postimg.cc/vmyrmHd7/QE01.png)
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 1: Faixa etária dos usuários.</p></font>
+  <img src="https://i.postimg.cc/vmyrmHd7/QE01.png" width="600px">
+</div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-De acordo com a figura 2, uma grande parte do grau de escolaridade dos participantes é de superior completo (49%), seguido de ensino médio completo (27%), superior incompleto (21%) e ensino médio incompleto (1%), mostrando uma grande variedade de grais de escolaridade, refletindo um amplo publico atingido.
+De acordo com a figura 2, uma grande parte do grau de escolaridade dos participantes é de superior completo (49%), seguido de ensino médio completo (27%), superior incompleto (21%) e ensino médio incompleto (1%), mostrando uma grande variedade de graus de escolaridade, refletindo um amplo público atingido.
 
-<font size="3"><p style="text-align: center">Figura 2: Grau de escolaridade dos usuários.</p></font>
-![Faixa etaria](https://i.postimg.cc/9Mb5kMW5/QE02.png)
-
-Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
-
-De acordo com a figura 3, os usuário possuem média afinidade com dispositivos eletrônicos como computadores, samtphones, tablets, etc..., sendo maioria com 58%, seguido de muita experiência com 34% e pouca experiência com 7%.
-
-<font size="3"><p style="text-align: center">Figura 3: Grau de afinidade dos usuários.</p></font>
-![Faixa etaria](https://i.postimg.cc/854QY5T2/QE03.png)
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 2: Grau de escolaridade dos usuários.</p></font>
+  <img src="https://i.postimg.cc/9Mb5kMW5/QE02.png" width="600px">
+</div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
-De acordo com a figura 4, a maioria dos usuários não costuma utilizar algum aplicativo para organizar atividades acadêmicas ou esolcares (63%).
+De acordo com a figura 3, os usuários possuem média afinidade com dispositivos eletrônicos como computadores, smartphones, tablets, etc..., sendo maioria com 58%, seguido de muita experiência com 34% e pouca experiência com 7%.
 
-<font size="3"><p style="text-align: center">Figura 4: Usuários e aplicativos de organizaçãi.</p></font>
-![Faixa etaria](https://i.postimg.cc/7698R6qp/QE04.png)
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 3: Grau de afinidade dos usuários.</p></font>
+  <img src="https://i.postimg.cc/854QY5T2/QE03.png" width="600px">
+</div>
+
+Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
+
+De acordo com a figura 4, a maioria dos usuários não costuma utilizar algum aplicativo para organizar atividades acadêmicas ou escolares (63%).
+
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 4: Usuários e aplicativos de organização.</p></font>
+  <img src="https://i.postimg.cc/7698R6qp/QE04.png" width="600px">
+</div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 De acordo com a figura 5, os usuários sentem falta de uma forma centralizada de receber informações acadêmicas (81%).
 
-<font size="3"><p style="text-align: center">Figura 5: Usuários e informações centralizadas.</p></font>
-![Faixa etaria](https://i.postimg.cc/sXmdLX3N/QE05.png)
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 5: Usuários e informações centralizadas.</p></font>
+  <img src="https://i.postimg.cc/sXmdLX3N/QE05.png" width="600px">
+</div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
@@ -105,61 +115,82 @@ No total foram entrevistadas 3 pessoas, todas com livre consentimento do uso da 
 
 De acordo com a figura 6, os usuários entrevistados tem entre 18 e 19 anos.
 
-<font size="3"><p style="text-align: center">Figura 6: Idade dos entrevistados.</p></font>
-![Faixa etaria](https://i.postimg.cc/8C6MCjTr/1.jpg)
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 6: Idade dos entrevistados.</p></font>
+  <img src="https://i.postimg.cc/8C6MCjTr/1.jpg" width="600px">
+</div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 De acordo com a figura 7, os usuários entrevistados foram majoritariamente homens.
 
-<font size="3"><p style="text-align: center">Figura 7: gênero dos entrevistados.</p></font>
-![Genero](https://i.postimg.cc/ZqdpqCJv/2.jpg)
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 7: Gênero dos entrevistados.</p></font>
+  <img src="https://i.postimg.cc/ZqdpqCJv/2.jpg" width="600px">
+</div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 De acordo com a figura 8, os usuários entrevistados em sua maioria não recebem auxílio, exceto por um.
 
-<font size="3"><p style="text-align: center">Figura 8: entrevistados que recebem auxílio.</p></font>
-![Auxilio](https://i.postimg.cc/TPDgPpTp/3.jpg)
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 8: Entrevistados que recebem auxílio.</p></font>
+  <img src="https://i.postimg.cc/TPDgPpTp/3.jpg" width="600px">
+</div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 De acordo com a figura 9, os usuários entrevistados em sua maioria estão cursando o ensino superior, exceto por um, que cursa o ensino médio.
 
-<font size="3"><p style="text-align: center">Figura 9: nivel de escolaridade dos entrevistados.</p></font>
-![escolaridade](https://i.postimg.cc/BvKHvXJZ/4.jpg)
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 9: Nível de escolaridade dos entrevistados.</p></font>
+  <img src="https://i.postimg.cc/BvKHvXJZ/4.jpg" width="600px">
+</div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 De acordo com a figura 10, os usuários entrevistados em sua maioria estão cursando curso de engenharia de software.
 
-<font size="3"><p style="text-align: center">Figura 10: curso dos entrevistados.</p></font>
-![curso](https://i.postimg.cc/DzXLz873/5.jpg)
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 10: Curso dos entrevistados.</p></font>
+  <img src="https://i.postimg.cc/DzXLz873/5.jpg" width="600px">
+</div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 De acordo com a figura 11, os usuários entrevistados em sua maioria possuem muita experiência digital, autodeclarados (66%).
 
-<font size="3"><p style="text-align: center">Figura 11: Experiência digital dos entrevistados. </p></font>
-![experiencia digital](https://i.postimg.cc/PqwYqPdj/6.jpg)
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 11: Experiência digital dos entrevistados.</p></font>
+  <img src="https://i.postimg.cc/PqwYqPdj/6.jpg" width="600px">
+</div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 De acordo com a figura 12, os usuários entrevistados utilizam diversos aplicativos de organização da vida estudantil.
-<font size="3"><p style="text-align: center">Figura 12: Apps para organização da vida estudantil. </p></font>
-![apps organização](https://i.postimg.cc/PqwYqPdk/7.jpg)
+
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 12: Apps para organização da vida estudantil.</p></font>
+  <img src="https://i.postimg.cc/PqwYqPdk/7.jpg" width="600px">
+</div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 De acordo com a figura 13, os usuários entrevistados utilizam bastante aparelhos celular e a maioria notebook/desktop também como hardwares usados para estudos.
-<font size="3"><p style="text-align: center">Figura 13: hardwares que o estudante tem acesso. </p></font>
-![apps organização](https://i.postimg.cc/sg85ypCr/8.jpg)
+
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 13: Hardwares que o estudante tem acesso.</p></font>
+  <img src="https://i.postimg.cc/sg85ypCr/8.jpg" width="600px">
+</div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 
 De acordo com a figura 14, os usuários entrevistados apresentam dificuldades em organizações das atividades escolares/acadêmicas.
-<font size="3"><p style="text-align: center">Figura 14: objetivos e dificuldades da vida estudantil. </p></font>
-![objetivos e dificuldades](https://i.postimg.cc/2SJnm4RK/9.jpg)
+
+<div align="center">
+  <font size="3"><p style="text-align: center">Figura 14: Objetivos e dificuldades da vida estudantil.</p></font>
+  <img src="https://i.postimg.cc/2SJnm4RK/9.jpg" width="600px">
+</div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
 

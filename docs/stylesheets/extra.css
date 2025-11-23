@@ -1,6 +1,4 @@
 /* --- CONFIGURAÇÃO DE CORES GLOBAIS --- */
-
-/* MODO CLARO (Default) */
 :root,
 [data-md-color-scheme="default"] {
   --md-primary-fg-color: #0a3d91;
@@ -8,14 +6,13 @@
   --md-primary-bg-color: #ffffff;
 }
 
-/* MODO ESCURO (Slate) */
 [data-md-color-scheme="slate"] {
   --md-primary-fg-color: #5c8ae6;
   --md-accent-fg-color: #64ffda;
   --md-primary-bg-color: #1e1e2e;
 }
 
-/* --- ESTILIZAÇÃO DA BARRA DE ROLAGEM (SCROLLBAR) --- */
+/* --- ESTILIZAÇÃO DA BARRA DE ROLAGEM --- */
 ::-webkit-scrollbar {
   width: 10px;
   height: 10px;
@@ -30,20 +27,30 @@
   background-clip: content-box;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background-color: var(--md-accent-fg-color);
   border: 0;
 }
 
-/* --- MELHORIAS VISUAIS GERAIS (Imagens e Tabelas) --- */
-img {
+/* --- MELHORIAS VISUAIS GERAIS (IMAGENS E TABELAS) --- */
+
+/* 1. Regra para LIMITAR O TAMANHO de todas as imagens */
+.md-typeset img {
+  max-height: 450px; /* Nenhuma imagem passará dessa altura */
+  width: auto; /* A largura se ajusta automaticamente */
+  display: block; /* Prepara para centralizar */
+  margin: 1rem auto; /* Centraliza a imagem na tela e dá espaço */
+
+  /* Estética */
   border-radius: 8px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-img:hover {
+
+/* Efeito ao passar o mouse */
+.md-typeset img:hover {
   transform: scale(1.02);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15), 0 6px 6px rgba(0, 0, 0, 0.1);
 }
 
+/* Tabelas arredondadas */
 .md-typeset table:not([class]) {
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
@@ -53,60 +60,43 @@ img:hover {
   border-collapse: collapse;
 }
 
+/* Ajuste do fundo da home */
 .md-main__inner {
   background-color: transparent;
 }
 
-/* --- MENU HÍBRIDO (Logo rola, Abas fixas) --- */
+/* --- ESTILIZAÇÃO DE IFRAMES (YouTube/Figma) --- */
+iframe {
+  border-radius: 12px;
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.3);
+  border: none;
+  width: 100%;
+  display: block;
+  margin: 1.5em auto;
+  background-color: var(--md-default-bg-color);
+}
 
-/* 1. Permite que o cabeçalho principal (Logo/Titulo) role e suma */
+iframe[src*="youtube.com"],
+iframe[src*="youtu.be"] {
+  aspect-ratio: 16 / 9;
+  height: auto;
+}
+
+/* --- MENU HÍBRIDO (Logo rola, Abas fixas) --- */
 .md-header {
   position: relative !important;
 }
-
-/* 2. Força as abas a ficarem fixas no topo quando você rola */
 .md-tabs {
   position: sticky !important;
   top: 0;
-  z-index: 100; /* Garante que fique acima do texto */
-
-  /* Mantém a cor azul/roxa do seu tema */
+  z-index: 100;
   background-color: var(--md-primary-fg-color);
-
-  /* Adiciona uma sombra suave para separar do conteúdo */
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-
-  /* Remove a borda padrão se houver */
   margin-top: 0 !important;
 }
-
-/* Ajuste fino para não quebrar no Mobile (onde não tem abas) */
 @media screen and (max-width: 76.1875em) {
   .md-header {
-    position: sticky !important; /* No celular, é melhor manter o menu padrão fixo */
+    position: sticky !important;
     top: 0;
   }
-}
-
-/* --- ESTILIZAÇÃO DE IFRAMES (YouTube, Figma, Canva) --- */
-
-/* 1. Estilo Base para TODOS os iframes */
-iframe {
-  border-radius: 12px; /* Cantos arredondados modernos */
-  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.3); /* Sombra suave para dar destaque (pop-out) */
-  border: none; /* Remove a borda cinza padrão feia */
-  width: 100%; /* Garante que ocupe toda a largura da página */
-  display: block;
-  margin: 1.5em auto; /* Espaçamento em cima e em baixo */
-  background-color: var(
-    --md-default-bg-color
-  ); /* Evita fundo branco piscando ao carregar */
-}
-
-/* 2. Truque para Vídeos do YouTube ficarem perfeitos (16:9) */
-/* O seletor abaixo aplica a regra APENAS se o link tiver 'youtube' ou 'youtu.be' */
-iframe[src*="youtube.com"],
-iframe[src*="youtu.be"] {
-  aspect-ratio: 16 / 9; /* Força a proporção widescreen de cinema */
-  height: auto; /* Deixa a altura se ajustar sozinha */
 }
