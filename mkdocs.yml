@@ -49,7 +49,16 @@ plugins:
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
-      
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slideEffect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+
 extra_css:
   - stylesheets/extra.css
 
@@ -75,15 +84,6 @@ markdown_extensions:
   - toc:
       permalink: true # Cria ícone de link ao lado dos títulos
   - md_in_html
-  - pymdownx.glightbox: # Ativa o zoom estilo "Lightbox"
-      touchNavigation: true
-      loop: false
-      effect: zoom
-      slideEffect: slide
-      width: 100%
-      height: auto
-      zoomable: true
-      draggable: true
 
 nav:
   - Home: index.md
