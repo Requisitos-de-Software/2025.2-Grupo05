@@ -57,6 +57,37 @@ img:hover {
   background-color: transparent;
 }
 
+/* --- MENU HÍBRIDO (Logo rola, Abas fixas) --- */
+
+/* 1. Permite que o cabeçalho principal (Logo/Titulo) role e suma */
+.md-header {
+  position: relative !important;
+}
+
+/* 2. Força as abas a ficarem fixas no topo quando você rola */
+.md-tabs {
+  position: sticky !important;
+  top: 0;
+  z-index: 100; /* Garante que fique acima do texto */
+
+  /* Mantém a cor azul/roxa do seu tema */
+  background-color: var(--md-primary-fg-color);
+
+  /* Adiciona uma sombra suave para separar do conteúdo */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+
+  /* Remove a borda padrão se houver */
+  margin-top: 0 !important;
+}
+
+/* Ajuste fino para não quebrar no Mobile (onde não tem abas) */
+@media screen and (max-width: 76.1875em) {
+  .md-header {
+    position: sticky !important; /* No celular, é melhor manter o menu padrão fixo */
+    top: 0;
+  }
+}
+
 /* --- ESTILIZAÇÃO DE IFRAMES (YouTube, Figma, Canva) --- */
 
 /* 1. Estilo Base para TODOS os iframes */
