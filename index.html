@@ -437,46 +437,86 @@
 <style>
   @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
 
+  /* --- CONFIGURAÇÃO DE CORES INTELIGENTE --- */
+
+  /* Modo CLARO (Default) */
+  :root,
+  [data-md-color-scheme="default"] {
+    --jornada-bg: #ffffff; /* Fundo Branco */
+    --jornada-text: #0a3d91; /* Texto Azul (Cor da marca) */
+    /* Truque: Inverte o logo branco para ficar escuro no fundo branco */
+    --logo-filter: invert(22%) sepia(45%) saturate(2395%) hue-rotate(208deg)
+      brightness(93%) contrast(93%);
+  }
+
+  /* Modo ESCURO (Slate) */
+  [data-md-color-scheme="slate"] {
+    --jornada-bg: #021427; /* Seu Azul Escuro original */
+    --jornada-text: #ffffff; /* Texto Branco */
+    --logo-filter: none; /* Logo original (branco) */
+  }
+
+  /* Variáveis de Animação (Comuns aos dois modos) */
   :root {
-    --jornada-bg: #021427; /*Azul escuro*/
-    --jornada-text: #ffffff; /*Branco*/
     --jornada-float-animation: float 10s ease-in-out infinite;
     --jornada-fade-in-animation: fadeIn 2s ease-in;
   }
 
-  body {
-    background-color: var(--jornada-bg);
-  }
-
-  .background {
+  /* Estilo do Container Principal */
+  .jornada-home-container {
     margin: 0;
     padding: 0;
     font-family: "Roboto", sans-serif;
     font-weight: 700;
+
+    /* Usa as variáveis que mudam conforme o tema */
     background-color: var(--jornada-bg);
     color: var(--jornada-text);
+
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 100vh;
+
+    /* Garante que ocupe a tela toda menos o cabeçalho */
+    min-height: calc(100vh - 6rem);
     text-align: center;
+
+    /* Transição suave ao trocar de tema */
+    transition: background-color 0.4s ease, color 0.4s ease;
   }
 
   .logo {
     width: 300px;
     height: auto;
-    margin-top: 10vh;
+    margin-top: 2rem;
     animation: var(--jornada-float-animation);
+
+    /* Aplica o filtro para corrigir a cor no modo claro */
+    filter: var(--logo-filter);
+    transition: filter 0.4s ease;
   }
 
   .description {
     margin: 20px;
     font-size: 1.5rem;
+    /* Usa a cor do texto dinâmica */
     color: var(--jornada-text);
     max-width: 600px;
     padding: 0;
     animation: var(--jornada-fade-in-animation);
+  }
+
+  /* Esconde elementos padrões do MkDocs que podem atrapalhar a home */
+  .md-content__inner {
+    margin: 0;
+    padding: 0;
+  }
+  .md-content {
+    max-width: 100% !important;
+    padding: 0 !important;
+    background-color: var(--jornada-bg); /* Garante fundo total */
+    transition: background-color 0.4s ease;
   }
 
   @keyframes float {
@@ -501,15 +541,13 @@
   }
 </style>
 
-
-  <div class="background">
-    <img src="img/logo-jornada-branco.png" alt="Logo Jornada do Estudante" class="logo">
-    <p class="description">
-      Documentação do projeto de Requisitos de Software sobre o aplicativo
-      <strong>Jornada do Estudante</strong>
-    </p>
-  </div>
-
+<div class="jornada-home-container">
+  <img src="img/logo-jornada-branco.png" alt="Logo Jornada do Estudante" class="logo">
+  <p class="description">
+    Documentação do projeto de Requisitos de Software sobre o aplicativo
+    <strong>Jornada do Estudante</strong>
+  </p>
+</div>
 
 
       <main class="md-main" data-md-component="main">
