@@ -19,8 +19,6 @@ theme:
     - navigation.sections # Agrupa os itens da sidebar de forma mais limpa
     - navigation.expand # Abre a navegação lateral por padrão 
     - content.code.copy # Botão de copiar em blocos de código
-    - content.action.edit
-    - content.action.view
 
   font:
     text: Roboto # Padrão, mas limpa
