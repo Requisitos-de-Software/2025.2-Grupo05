@@ -1,7 +1,6 @@
 site_name: Jornada do Estudante
 repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo05
 theme:
-
   name: material
 
   custom_dir: overrides
@@ -12,12 +11,12 @@ theme:
 
   features:
     - navigation.tabs # abas no topo (padrão)
-    - navigation.tabs.sticky # A aba fica fixa no topo ao rolar
+    - header.autohide
     - navigation.top # Botão de "voltar ao topo" (padrão)
     - navigation.instant # navegação tipo SPA (Single Page App)
     - navigation.tracking # Atualiza a URL conforme você rola a página nos títulos
     - navigation.sections # Agrupa os itens da sidebar de forma mais limpa
-    - navigation.expand # Abre a navegação lateral por padrão 
+    - navigation.expand # Abre a navegação lateral por padrão
     - content.code.copy # Botão de copiar em blocos de código
 
   font:
@@ -74,7 +73,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed: # Permite abas dentro do conteúdo
-      alternate_style: true 
+      alternate_style: true
   - pymdownx.highlight: # Cores no código
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -218,7 +217,7 @@ nav:
       - Backward-From: Pós-Rastreabilidade/Backward-From.md
       - Matriz de Rastreabilidade: Pós-Rastreabilidade/Matriz_Rastreabilidade.md
       - Listas de verificação:
-        - Elos de Rastreabilidade: Pós-Rastreabilidade/Lvs/Elos-Rastreabilidade.md
+          - Elos de Rastreabilidade: Pós-Rastreabilidade/Lvs/Elos-Rastreabilidade.md
 
   - Entrega final:
       - Entrega final: EntregaFinal/final.md
