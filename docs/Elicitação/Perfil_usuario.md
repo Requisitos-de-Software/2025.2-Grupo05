@@ -70,7 +70,7 @@ De acordo com a figura 1, a faixa etária dos participantes possui ampla diversi
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 1: Faixa etária dos usuários.</p></font>
-  <img src="https://i.postimg.cc/vmyrmHd7/QE01.png" width="600px">
+  <img src="https://i.postimg.cc/vmyrmHd7/QE01.png" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -79,7 +79,7 @@ De acordo com a figura 2, uma grande parte do grau de escolaridade dos participa
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 2: Grau de escolaridade dos usuários.</p></font>
-  <img src="https://i.postimg.cc/9Mb5kMW5/QE02.png" width="600px">
+  <img src="https://i.postimg.cc/9Mb5kMW5/QE02.png" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -88,7 +88,7 @@ De acordo com a figura 3, os usuários possuem média afinidade com dispositivos
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 3: Grau de afinidade dos usuários.</p></font>
-  <img src="https://i.postimg.cc/854QY5T2/QE03.png" width="600px">
+  <img src="https://i.postimg.cc/854QY5T2/QE03.png" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -97,7 +97,7 @@ De acordo com a figura 4, a maioria dos usuários não costuma utilizar algum ap
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 4: Usuários e aplicativos de organização.</p></font>
-  <img src="https://i.postimg.cc/7698R6qp/QE04.png" width="600px">
+  <img src="https://i.postimg.cc/7698R6qp/QE04.png" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -106,7 +106,7 @@ De acordo com a figura 5, os usuários sentem falta de uma forma centralizada de
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 5: Usuários e informações centralizadas.</p></font>
-  <img src="https://i.postimg.cc/sXmdLX3N/QE05.png" width="600px">
+  <img src="https://i.postimg.cc/sXmdLX3N/QE05.png" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -117,7 +117,7 @@ De acordo com a figura 6, os usuários entrevistados tem entre 18 e 19 anos.
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 6: Idade dos entrevistados.</p></font>
-  <img src="https://i.postimg.cc/8C6MCjTr/1.jpg" width="600px">
+  <img src="https://i.postimg.cc/8C6MCjTr/1.jpg" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -126,7 +126,7 @@ De acordo com a figura 7, os usuários entrevistados foram majoritariamente home
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 7: Gênero dos entrevistados.</p></font>
-  <img src="https://i.postimg.cc/ZqdpqCJv/2.jpg" width="600px">
+  <img src="https://i.postimg.cc/ZqdpqCJv/2.jpg" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -135,7 +135,7 @@ De acordo com a figura 8, os usuários entrevistados em sua maioria não recebem
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 8: Entrevistados que recebem auxílio.</p></font>
-  <img src="https://i.postimg.cc/TPDgPpTp/3.jpg" width="600px">
+  <img src="https://i.postimg.cc/TPDgPpTp/3.jpg" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -144,7 +144,7 @@ De acordo com a figura 9, os usuários entrevistados em sua maioria estão cursa
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 9: Nível de escolaridade dos entrevistados.</p></font>
-  <img src="https://i.postimg.cc/BvKHvXJZ/4.jpg" width="600px">
+  <img src="https://i.postimg.cc/BvKHvXJZ/4.jpg" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -153,7 +153,7 @@ De acordo com a figura 10, os usuários entrevistados em sua maioria estão curs
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 10: Curso dos entrevistados.</p></font>
-  <img src="https://i.postimg.cc/DzXLz873/5.jpg" width="600px">
+  <img src="https://i.postimg.cc/DzXLz873/5.jpg" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -162,7 +162,7 @@ De acordo com a figura 11, os usuários entrevistados em sua maioria possuem mui
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 11: Experiência digital dos entrevistados.</p></font>
-  <img src="https://i.postimg.cc/PqwYqPdj/6.jpg" width="600px">
+  <img src="https://i.postimg.cc/PqwYqPdj/6.jpg" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -171,7 +171,7 @@ De acordo com a figura 12, os usuários entrevistados utilizam diversos aplicati
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 12: Apps para organização da vida estudantil.</p></font>
-  <img src="https://i.postimg.cc/PqwYqPdk/7.jpg" width="600px">
+  <img src="https://i.postimg.cc/PqwYqPdk/7.jpg" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -180,7 +180,7 @@ De acordo com a figura 13, os usuários entrevistados utilizam bastante aparelho
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 13: Hardwares que o estudante tem acesso.</p></font>
-  <img src="https://i.postimg.cc/sg85ypCr/8.jpg" width="600px">
+  <img src="https://i.postimg.cc/sg85ypCr/8.jpg" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -189,7 +189,7 @@ De acordo com a figura 14, os usuários entrevistados apresentam dificuldades em
 
 <div align="center">
   <font size="3"><p style="text-align: center">Figura 14: Objetivos e dificuldades da vida estudantil.</p></font>
-  <img src="https://i.postimg.cc/2SJnm4RK/9.jpg" width="600px">
+  <img src="https://i.postimg.cc/2SJnm4RK/9.jpg" width="550px">
 </div>
 
 Fonte: [Camila Silva](https://github.com/CamilaSilvaC), [Geovanna Alves](https://github.com/GeovannaUmbelino) e [Yan Matheus](https://github.com/Yanmatheus0812).
@@ -218,10 +218,10 @@ Após uma análise das respostas, foi traçado dois perfis de usuário, o primei
 
 A seguir temos a tabela 2, onde indica todos os participantes da validação da técnica, o horário e local da aplicação da técnica. O usuário corresponde ao perfil de usuário 1.
 
-| Papel | Nome | Data | Hora | Local |
-|-------|------|------|------|-------|
+| Papel    | Nome                                                  | Data       | Hora  | Local                 |
+| -------- | ----------------------------------------------------- | ---------- | ----- | --------------------- |
 | Mediador | [Geovanna Alves](https://github.com/GeovannaUmbelino) | 09/11/2025 | 10:30 | Cidade Ocidental - GO |
-| Usuário | Miguel | 09/11/2025 | 10:30 | Cidade Ocidental - GO |
+| Usuário  | Miguel                                                | 09/11/2025 | 10:30 | Cidade Ocidental - GO |
 
 <p style="text-align: center; font-size: 14px;">
 <strong>Tabela 2:</strong> Validação Perfis de Usuário<br>
@@ -246,8 +246,8 @@ Todo o conteúdo apresentado é de autoria do Grupo 05, que assume total respons
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                         | Autor                                                                                                                                                                                                                                                     | Revisor                                        |
-| ------ | ---------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 25/09/2025 | Documentação do perfil de usuário | [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza](https://github.com/mel14-hub), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll) |
-| 1.1 | 06/11/2025 | Criação da tabela de contribuição | [Yan Matheus](https://github.com/Yanmatheus0812) | [Lara Souza](https://github.com/mel14-hub) |
-| 1.3 | 11/11/2025 | Adicionado validação com usuário | [Yan Matheus](https://github.com/Yanmatheus0812) | [Pedro Henrique](https://github.com/pedrohpsantos) | 
+| Versão | Data       | Descrição                         | Autor                                                                                                                                                                                                                                                     | Revisor                                            |
+| ------ | ---------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 1.0    | 25/09/2025 | Documentação do perfil de usuário | [Camila Silva](https://github.com/CamilaSilvaC), [Lara Souza](https://github.com/mel14-hub), [Geovanna Alves](https://github.com/GeovannaUmbelino), [Pedro Henrique](https://github.com/pedrohpsantos) e [Yan Matheus](https://github.com/Yanmatheus0812) | [Luísa de Souza](https://github.com/luisa12ll)     |
+| 1.1    | 06/11/2025 | Criação da tabela de contribuição | [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                                                                                                                                          | [Lara Souza](https://github.com/mel14-hub)         |
+| 1.3    | 11/11/2025 | Adicionado validação com usuário  | [Yan Matheus](https://github.com/Yanmatheus0812)                                                                                                                                                                                                          | [Pedro Henrique](https://github.com/pedrohpsantos) |
