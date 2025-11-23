@@ -34,7 +34,7 @@
 
 /* 1. Regra para LIMITAR O TAMANHO de todas as imagens */
 .md-typeset img {
-  max-height: 450px; /* Nenhuma imagem passará dessa altura */
+  max-height: 400px; /* Nenhuma imagem passará dessa altura */
   width: auto; /* A largura se ajusta automaticamente */
   display: block; /* Prepara para centralizar */
   margin: 1rem auto; /* Centraliza a imagem na tela e dá espaço */
