@@ -1,10 +1,15 @@
 site_name: Jornada do Estudante
 repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo05
 theme:
+
   name: material
+
   custom_dir: overrides
+
   logo: img/logo-jornada.png
+
   favicon: img/logo-jornada.png
+
   features:
     - navigation.tabs # abas no topo (padrão)
     - navigation.tabs.sticky # A aba fica fixa no topo ao rolar
@@ -14,6 +19,9 @@ theme:
     - navigation.sections # Agrupa os itens da sidebar de forma mais limpa
     - navigation.expand # Abre a navegação lateral por padrão 
     - content.code.copy # Botão de copiar em blocos de código
+    - content.action.edit
+    - content.action.view
+
   font:
     text: Roboto # Padrão, mas limpa
     code: JetBrains Mono # Excelente para ler trechos de código/JSON/XML
@@ -36,8 +44,23 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Alternar para modo claro
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
+      
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Requisitos-de-Software/2025.2-Grupo05
+      name: Repositório do Grupo
+
+copyright: Copyright &copy; 2025 Jornada do Estudante - UnB
+
 markdown_extensions:
   - attr_list
   - admonition
@@ -51,6 +74,16 @@ markdown_extensions:
   - pymdownx.snippets
   - toc:
       permalink: true # Cria ícone de link ao lado dos títulos
+  - md_in_html
+  - pymdownx.glightbox: # Ativa o zoom estilo "Lightbox"
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slideEffect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
 
 nav:
   - Home: index.md
