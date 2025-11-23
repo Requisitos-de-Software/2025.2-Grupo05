@@ -43,6 +43,14 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed: # Permite abas dentro do conteúdo
+      alternate_style: true 
+  - pymdownx.highlight: # Cores no código
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - toc:
+      permalink: true # Cria ícone de link ao lado dos títulos
 
 nav:
   - Home: index.md
