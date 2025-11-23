@@ -1,61 +1,75 @@
-/* Cores para o Modo CLARO (Default) */
+/* MODO CLARO (Default) */
 :root,
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color: #0a3d91; /* Azul escuro */
-  --md-accent-fg-color: #3f00d3; /* Roxo */
-  --md-primary-bg-color: #ffffff; /* Fundo branco */
+  /* Cor Principal: Azul Institucional */
+  --md-primary-fg-color: #0a3d91;
+
+  /* Cor de Destaque: Verde Teal (Trazendo de volta os detalhes verdes) */
+  --md-accent-fg-color: #009688;
+
+  --md-primary-bg-color: #ffffff;
 }
 
-/* Cores para o Modo ESCURO (Slate) */
+/* MODO ESCURO (Slate) */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #497edf; /* Azul mais claro e vibrante para ler no escuro */
-  --md-accent-fg-color: #7c4dff; /* Roxo neon para destaque */
-  --md-primary-bg-color: #1e1e2e; /* Fundo escuro suave (tipo catppuccin) */
+  /* Azul mais suave para leitura no escuro */
+  --md-primary-fg-color: #5c8ae6;
+
+  /* Verde Neon para destaque vibrante no escuro */
+  --md-accent-fg-color: #64ffda;
+
+  --md-primary-bg-color: #1e1e2e;
 }
 
-/* Barra de rolagem personalizada e moderna */
+/* --- ESTILIZAÇÃO DA BARRA DE ROLAGEM (SCROLLBAR) --- */
+
 ::-webkit-scrollbar {
   width: 10px;
   height: 10px;
 }
+
 ::-webkit-scrollbar-track {
-  background: var(--md-default-bg-color);
-}
-::-webkit-scrollbar-thumb {
-  background: var(--md-primary-fg-color);
-  border-radius: 5px;
-}
-::-webkit-scrollbar-thumb:hover {
-  background: var(--md-accent-fg-color);
+  background: transparent; /* Fundo discreto */
 }
 
-/* Efeito de "vidro" e sombra suave nas imagens */
+::-webkit-scrollbar-thumb {
+  /* AQUI ESTÁ O SEGREDO: Usar a cor de destaque (Verde) na barra */
+  background-color: var(--md-accent-fg-color);
+  border-radius: 6px;
+  border: 2px solid transparent; /* Cria um respiro visual */
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  /* Ao passar o mouse, fica ainda mais sólido */
+  background-color: var(--md-accent-fg-color);
+  border: 0;
+}
+
+/* --- MELHORIAS VISUAIS GERAIS --- */
+
+/* Imagens com cantos arredondados e efeito de vidro */
 img {
   border-radius: 8px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Pequeno zoom ao passar o mouse nas imagens (bom para diagramas) */
 img:hover {
   transform: scale(1.02);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15), 0 6px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* Melhoria nas tabelas (Requisitos costumam ter muitas tabelas) */
+/* Tabelas mais bonitas e organizadas */
 .md-typeset table:not([class]) {
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   overflow: hidden;
+  display: inline-block;
+  max-width: 100%;
+  border-collapse: collapse;
 }
 
-/* Forçar o fundo da Home a obedecer o tema Claro/Escuro */
+/* Ajuste fino para a Home Page não bugar as cores */
 .md-main__inner {
-    background-color: var(--md-default-bg-color);
-}
-
-/* Ajuste específico para o texto da Home no modo escuro */
-[data-md-color-scheme="slate"] .md-main__inner h1,
-[data-md-color-scheme="slate"] .md-main__inner h2,
-[data-md-color-scheme="slate"] .md-main__inner p {
-    color: var(--md-typeset-color); /* Garante que o texto fique claro no fundo escuro */
+  background-color: transparent;
 }
